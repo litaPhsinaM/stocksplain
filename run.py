@@ -100,6 +100,9 @@ def backfill_claims():
     reviewed = DATA / "claims_reviewed.json"  # forecasts removed by hand review: never re-extract those episodes
     if reviewed.exists():
         have |= {c["item_id"] for c in json.loads(reviewed.read_text())}
+    checked_p = DATA / "claims_checked.json"  # episodes already read, including ones with no checkable forecast
+    checked = json.loads(checked_p.read_text()) if checked_p.exists() else []
+    have |= set(checked)
     for p in sorted(ITEMS.glob("*.json")):
         r = json.loads(p.read_text())
         t = TRANSCRIPTS / f"{r['id']}.txt"
@@ -107,6 +110,8 @@ def backfill_claims():
             continue
         print(f"  🎙 {r['source_name']}: {r['title']}")
         log_claims(sources.Item(**{k: r[k] for k in sources.Item.__dataclass_fields__}), t.read_text())
+        checked.append(r["id"])  # saved after each episode, so a timeout keeps the progress
+        checked_p.write_text(json.dumps(sorted(set(checked)), indent=0))
 
 
 def redo(ids: list[str], today: str):
