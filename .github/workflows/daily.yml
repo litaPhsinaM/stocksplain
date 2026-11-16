@@ -90,7 +90,10 @@ jobs:
         run: python run.py --limit "${{ inputs.limit || '2' }}" --max-minutes 22
       - name: Forecasts for the Scorecard
         if: steps.due.outputs.run == 'yes' && inputs.dry_run != true && !cancelled()
-        timeout-minutes: 5
+        # Optional extra: when Gemini is busy (503/504 retries) this can run long. Give it room, and never fail the
+        # whole run over it: the site is already built, and unfinished episodes are picked up again tomorrow.
+        timeout-minutes: 12
+        continue-on-error: true
         run: python run.py --claims
       - name: Save data
         if: steps.due.outputs.run == 'yes' && inputs.dry_run != true && !cancelled()
