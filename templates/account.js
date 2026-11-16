@@ -186,6 +186,57 @@
     history.replaceState(null, "", location.pathname);
   }
 
+  // ---------- daily email ----------
+  // Signing up = the normal email sign-in link, so the address is confirmed by its owner before anything is sent.
+  const DAILY_FLAG = "want_daily_email";
+  const flag = (v) => { try { if (v === undefined) return localStorage.getItem(DAILY_FLAG) === "1"; v ? localStorage.setItem(DAILY_FLAG, "1") : localStorage.removeItem(DAILY_FLAG); } catch (e) {} return false; };
+  async function setDaily(on) {
+    const { error } = await sb.rpc("set_daily_email", { p_on: on });
+    if (error) { MD.toast("Couldn't update the daily email. Please try again."); return false; }
+    const box = $("#acct-daily"); if (box) box.checked = on;
+    document.querySelectorAll("[data-daily-mail]").forEach((c) => c.classList.toggle("dm-done", on));
+    return true;
+  }
+  async function dailyOnAuth() {
+    if (!user) return;
+    const q = new URLSearchParams(location.search);
+    if (flag() || q.get("daily") === "1") {
+      flag(false);
+      if (q.get("daily")) { q.delete("daily"); history.replaceState(null, "", location.pathname + (q.toString() ? "?" + q : "") + location.hash); }
+      if (await setDaily(true)) { MD.toast("✓ You're subscribed: the daily lesson arrives each weekday morning"); MD.track("daily_email_on", {}); }
+      return;
+    }
+    const { data } = await sb.from("email_prefs").select("daily").maybeSingle();
+    const on = !!(data && data.daily);
+    const box = $("#acct-daily"); if (box) box.checked = on;
+    document.querySelectorAll("[data-daily-mail]").forEach((c) => c.classList.toggle("dm-done", on));
+  }
+  $("#acct-daily") && $("#acct-daily").addEventListener("change", async (e) => {
+    const on = e.target.checked;
+    if (await setDaily(on)) { MD.toast(on ? "✓ Daily email on" : "Daily email off"); MD.track(on ? "daily_email_on" : "daily_email_off", {}); }
+    else e.target.checked = !on;
+  });
+  document.querySelectorAll("[data-dm-form]").forEach((f) => {
+    const card = f.closest("[data-daily-mail]"), msg = card.querySelector("[data-dm-msg]");
+    const say = (t) => { msg.textContent = t; msg.hidden = !t; };
+    if (user && user.email) f.querySelector("[data-dm-email]").value = user.email;
+    f.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const email = f.querySelector("[data-dm-email]").value.trim();
+      const b = f.querySelector("button"); b.disabled = true;
+      if (user && user.email && user.email.toLowerCase() === email.toLowerCase()) {
+        if (await setDaily(true)) { say("✓ You're subscribed. See you tomorrow morning."); MD.track("daily_email_on", {}); }
+        b.disabled = false; return;
+      }
+      flag(true);
+      const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: here + "?daily=1" } });
+      b.disabled = false;
+      if (error) { flag(false); say(error.message); return; }
+      say(`📬 One step left: open the email we just sent to ${email} and tap the link to confirm (check spam if it's not there). That also signs you in, so your progress syncs.`);
+      MD.track("daily_email_request", {});
+    });
+  });
+
   sb.auth.onAuthStateChange((event, session) => {
     const was = user;
     user = session ? session.user : null;
@@ -200,7 +251,7 @@
         const dev = $("#acct-dev"); if (dev) dev.hidden = !data;
         document.querySelectorAll("[data-admin-only]").forEach((el) => (el.hidden = !data));
       });
-      sync(); listen();
+      sync(); listen(); dailyOnAuth();
       // Supabase also reports SIGNED_IN when it restores a saved session on page load; only count a real sign-in once.
       let seen = null; try { seen = localStorage.getItem("signed_in_as"); } catch (e) {}
       if (event === "SIGNED_IN" && seen !== user.id) {

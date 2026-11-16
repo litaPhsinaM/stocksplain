@@ -277,6 +277,8 @@ def main():
     ap.add_argument("--market-only", action="store_true", help="refresh today's market snapshot, then build")
     ap.add_argument("--hot-only", action="store_true", help="refresh today's hot topics and market snapshot, then build")
     ap.add_argument("--extras-only", action="store_true", help="regenerate today's quiz and audio briefing, then build")
+    ap.add_argument("--email", action="store_true", help="send today's morning email to subscribers (after publishing)")
+    ap.add_argument("--email-preview", metavar="FILE", help="write today's email as HTML to FILE, send nothing")
     ap.add_argument("--claims", action="store_true", help="log forecasts for saved episodes that don't have them yet, score due ones, build")
     ap.add_argument("--redo", nargs="*", metavar="ID",
                     help="re-summarize saved items from their transcripts (all of today's if no ids), redo the brief, build")
@@ -306,6 +308,17 @@ def main():
         write_market(today, cfg)
         write_econ(today)
         build.build(ROOT)
+        return
+    if args.email or args.email_preview:
+        from digest import email_daily, hours
+        day = dt.datetime.now(hours.NY).date().isoformat()
+        if args.email_preview:
+            m = email_daily.compose(day)
+            Path(args.email_preview).write_text(m["html"] if m else "nothing to send")
+            print(f"Subject: {m and m['subject']}")
+            return
+        import migrate
+        email_daily.send(day, migrate.db_url())
         return
     if args.claims:
         from digest import claims

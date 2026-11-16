@@ -349,6 +349,19 @@
 </section>
 {% endif %}
 
+<section class="card daily-mail" data-daily-mail aria-labelledby="dm-h">
+  <div class="dm-ic" aria-hidden="true">☀️</div>
+  <div class="dm-body">
+    <h2 id="dm-h">Get this in your inbox every weekday</h2>
+    <p class="muted small">The top stories, markets and a concept of the day, before the market opens. Free, one email a day, unsubscribe in one tap.</p>
+    <form class="dm-form" data-dm-form>
+      <input type="email" required placeholder="you@example.com" autocomplete="email" aria-label="Your email" data-dm-email>
+      <button class="btn" type="submit">Send it to me</button>
+    </form>
+    <p class="dm-msg small" data-dm-msg hidden></p>
+  </div>
+</section>
+
 {% set skipped = items|rejectattr("summary.worth_reading")|list %}
 {% if skipped %}
 <details class="skipped">

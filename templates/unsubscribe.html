@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
+{% block content %}
+<section class="page-hero unsub">
+  <div class="eyebrow">Daily email</div>
+  <h1 data-unsub-h>Unsubscribing…</h1>
+  <p class="lede" data-unsub-msg>One moment.</p>
+  <p><a class="btn ghost" href="{{ prefix }}index.html">Go to today's lesson →</a></p>
+</section>
+<script>
+(function () {
+  const t = new URLSearchParams(location.search).get("t") || "";
+  const h = document.querySelector("[data-unsub-h]"), m = document.querySelector("[data-unsub-msg]");
+  const done = (ok) => {
+    h.textContent = ok ? "You're unsubscribed" : "That link didn't work";
+    m.textContent = ok ? "You won't get the daily email any more. Changed your mind? Sign in and switch it back on in your account."
+                       : "The link may be incomplete. Sign in and switch off \u201cDaily email\u201d in your account instead.";
+  };
+  if (!/^[0-9a-f-]{36}$/i.test(t)) return done(false);
+  const b = document.body;
+  fetch(b.dataset.sbUrl + "/rest/v1/rpc/unsubscribe_daily_email", {
+    method: "POST", headers: { apikey: b.dataset.sbKey, "Content-Type": "application/json" }, body: JSON.stringify({ p_token: t }),
+  }).then((r) => r.json()).then((ok) => done(ok === true)).catch(() => done(false));
+})();
+</script>
+{% endblock %}

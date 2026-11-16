@@ -1757,3 +1757,19 @@ main h1, .course-hero h1, .src-hero h1, .dict-title h1, .about-hero h1, .learn-h
 @media (max-width: 1000px) { .lesson-layout { grid-template-columns: minmax(0, 1fr); } .lesson-side { position: static; } }
 
 .ec-today { margin-left: 4px; padding: 1px 7px; border-radius: 999px; font-size: .68rem; font-weight: 750; background: var(--accent-soft); color: var(--accent); white-space: nowrap; }
+
+/* ---------- daily email sign-up ---------- */
+.daily-mail { display: flex; gap: 14px; align-items: flex-start; margin-top: 18px; padding: 16px 18px; border-left: 3px solid var(--accent); }
+.daily-mail .dm-ic { font-size: 1.6rem; line-height: 1; }
+.daily-mail h2 { font-family: var(--font-display); font-size: 1.15rem; margin: 0 0 4px; }
+.daily-mail .dm-body { flex: 1; min-width: 0; }
+.dm-form { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+.dm-form input { flex: 1 1 200px; min-width: 0; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface-2); color: var(--text); font: inherit; }
+.dm-msg { margin: 8px 0 0; color: var(--text-2); }
+.daily-mail.dm-done .dm-form { display: none; }
+.daily-mail.dm-done h2::after { content: " ✓"; color: var(--accent); }
+.daily-mail.dm-done .muted::before { content: "You're subscribed. "; font-weight: 700; color: var(--text); }
+.acct-daily { display: flex; gap: 10px; align-items: flex-start; margin: 10px 0; padding: 10px 12px; border-radius: 12px; background: var(--surface-2); cursor: pointer; text-align: left; }
+.acct-daily input { margin-top: 3px; accent-color: var(--accent); }
+.acct-daily span { display: grid; } .acct-daily small { color: var(--text-3); font-size: .78rem; }
+.unsub { max-width: 640px; }

@@ -320,7 +320,7 @@ def build(root: Path):
         canonical = site_url + ("" if path == "index.html" else path)
         (out / path).parent.mkdir(parents=True, exist_ok=True)
         (out / path).write_text(env.get_template(name).render(prefix=prefix, canonical=canonical, site_url=site_url, **ctx))
-        if name not in ("admin.html", "empty.html"):
+        if name not in ("admin.html", "empty.html", "unsubscribe.html"):
             pages.append((canonical, lastmod or today_iso))
 
     for i, date in enumerate(dates):
@@ -359,6 +359,7 @@ def build(root: Path):
     render("about.html", "about.html", "", n_podcasts=len(srcs), n_feeds=len(feeds),
            arch=_arch_stats(root, data, items, hots), n_terms=len(glossary), n_lessons=sum(len(u["lessons"]) for u in json.loads(course_path.read_text())["units"]) if course_path.exists() else 0)
     render("play.html", "play.html", "")
+    render("unsubscribe.html", "unsubscribe.html", "")
     render("admin.html", "admin.html", "")
     render("scorecard.html", "scorecard.html", "", **_scorecard(data))
     course_path = data / "learn" / "course.json"
