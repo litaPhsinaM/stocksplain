@@ -1,0 +1,365 @@
+{
+ "date": "2026-11-16",
+ "topics": [
+  {
+   "title": "Jensen Huang faces growing pressure and comeback talks following Nvidia resignation",
+   "explanation": "Following the resignation of co-founder and CEO Jensen Huang over an affair with an alleged spy, Nvidia shares fell in premarket trading. U.S. Treasury Secretary Scott Bessent called for a dramatic leadership shakeup at the company, while lawmakers pushed to tighten AI chip export controls. Meanwhile, Huang has reportedly discussed a potential comeback as CEO as tech executives and major shareholders lobby for his return.",
+   "why_it_matters": "Leadership instability and heightened regulatory scrutiny at Nvidia can directly impact its stock performance and the broader chip sector.",
+   "tickers": [
+    "NVDA"
+   ],
+   "beat": "tech",
+   "headline_ids": [
+    "h86306f7c",
+    "hce97eac1",
+    "h1207b5c1",
+    "hb6ddda22"
+   ]
+  },
+  {
+   "title": "Anthropic's upcoming public listing tests investor confidence in artificial intelligence",
+   "explanation": "Technology stocks fell ahead of Anthropic's expected initial public offering pricing and market debut. The listing is being closely watched as a crucial test for the fragile artificial intelligence trade following recent market selloffs. Investors and venture capital firms view the public offering as a potential bright spot for tech sector momentum.",
+   "why_it_matters": "This IPO serves as a key benchmark for market sentiment toward AI companies and tech valuations.",
+   "tickers": [],
+   "beat": "markets",
+   "headline_ids": [
+    "hdf89f048",
+    "h3effc3d4",
+    "h2c0dbe64"
+   ]
+  },
+  {
+   "title": "President Trump heads to Asia summit with Xi Jinping and Vladimir Putin",
+   "explanation": "U.S. President Donald Trump is traveling to China for a high-stakes summit with Chinese President Xi Jinping and Russian President Vladimir Putin. The meetings follow recent U.S. midterm elections and are expected to address nuclear non-proliferation, trade policies, and regional conflicts. Observers note the trip comes at a time of heightened strategic competition and diplomatic scrutiny.",
+   "why_it_matters": "Diplomatic discussions between major world powers can influence international trade rules, tariffs, and global market stability.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "hfcc9be0b",
+    "hd01ce23f",
+    "he4120d23"
+   ]
+  },
+  {
+   "title": "Japan's economy contracts in the third quarter as energy costs rise",
+   "explanation": "Japan's economy shrank in the third quarter, marking its first contraction in a year. Expiration of household energy subsidies exposed the economy to higher fuel costs, while inclement weather also dragged down domestic consumer spending. The economic decline complicates future interest rate plans for the country's central bank.",
+   "why_it_matters": "Economic contraction in the world's fourth-largest economy signals weak consumer demand and potential shifts in global monetary policy.",
+   "tickers": [],
+   "beat": "economy",
+   "headline_ids": [
+    "h2d11eefe",
+    "ha623f587",
+    "hd3f8c0cc"
+   ]
+  },
+  {
+   "title": "Global oil prices fall as fears of supply glut outweigh Middle East tensions",
+   "explanation": "Crude oil prices declined as market reports pointed toward an impending global supply surplus. Iran claimed two oil tankers hit naval mines in the Strait of Hormuz, maintaining regional security concerns. However, analysts at Goldman Sachs warned that oil production could exceed demand by 2 million barrels daily next year.",
+   "why_it_matters": "Changes in global oil supply and pricing ripple through transport costs, corporate profit margins, and overall inflation.",
+   "tickers": [],
+   "beat": "energy",
+   "headline_ids": [
+    "h24372cc0",
+    "h54ce8ec4",
+    "h5bf7ea48",
+    "hd7df7fb6"
+   ]
+  },
+  {
+   "title": "China's economic activity weakens in October despite recent government stimulus",
+   "explanation": "China's economic growth slowed across key sectors in October as investment, consumer spending, and industrial output fell short of expectations. The slowdown indicates that Beijing's latest fiscal stimulus measures have not yet generated broad economic recovery. In response, Chinese policymakers have worked to accelerate budget spending to offset lagging momentum.",
+   "why_it_matters": "Sluggish growth in China affects global commodity demand and international supply chain activity.",
+   "tickers": [],
+   "beat": "world",
+   "headline_ids": [
+    "h1b559288",
+    "hef02484f"
+   ]
+  }
+ ],
+ "headlines": {
+  "hfcc9be0b": {
+   "id": "hfcc9be0b",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "What to Expect From Trump\u2019s Trip to Asia",
+   "blurb": "US President Donald Trump is arriving at an unprecedented summit meeting with China's Xi Jinping and Russia's Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad. Bloomberg's Minmin Low and Avril Hong report. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-expect-from-trump-s-trip-to-asia-video",
+   "published": "2026-11-16T10:37"
+  },
+  "h86306f7c": {
+   "id": "h86306f7c",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Nvidia stock falls again as investors price in fallout from Jensen Huang's resignation",
+   "blurb": "The company was 2.2% down in premarket trading on Monday.",
+   "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+   "published": "2026-11-16T10:33"
+  },
+  "h24372cc0": {
+   "id": "h24372cc0",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
+   "blurb": "Two oil tankers exploded and caught fire in the Strait of Hormuz after hitting naval mines while attempting to transit the chokepoint via a southern route not authorized by Iran, the Islamic Revolutionary Guard Corps (IRGC) said on Monday, as Iranian reports of such incidents\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Two-More-Oil-Tankers-Hit-Mines-in-Strait-of-Hormuz.html",
+   "published": "2026-11-16T10:00"
+  },
+  "hd01ce23f": {
+   "id": "hd01ce23f",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+   "blurb": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+   "published": "2026-11-16T10:00"
+  },
+  "h2d11eefe": {
+   "id": "h2d11eefe",
+   "source": "CNBC Economy",
+   "beat": "economy",
+   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+   "blurb": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+   "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+   "published": "2026-11-16T02:56"
+  },
+  "h54ce8ec4": {
+   "id": "h54ce8ec4",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Goldman Sachs Warns of Massive Oil Glut in 2027",
+   "blurb": "Crude oil supply could exceed demand by 2 million barrels daily next year, Goldman Sachs commodity analysts have predicted in a new report, even as it acknowledges the risk of continued supply disruptions. As a result, the bank expects Brent crude to average $88 per barrel in\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-of-Massive-Oil-Glut-in-2027.html",
+   "published": "2026-11-16T08:30"
+  },
+  "h5bf7ea48": {
+   "id": "h5bf7ea48",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Oil Prices Fall as Fears of a Global Supply Glut Return",
+   "blurb": "Oil prices began the week with a further loss amid reports that the global oil market is returning to oversupply, even as attacks on tankers in the Strait of Hormuz continue and Iraq is forced to export crude by truck via Syria. Brent crude was trading at $95.24 per barrel at\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Fears-of-a-Global-Supply-Glut-Return.html",
+   "published": "2026-11-16T05:25"
+  },
+  "hce97eac1": {
+   "id": "hce97eac1",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Bessent Says Nvidia Leadership Needs 'Dramatic Shakeup'",
+   "blurb": "US Treasury Secretary Scott Bessent urged Nvidia Corp. to make a \"dramatic\" leadership shakeup and come clean about its compliance with export controls on its prized AI chips. Bloomberg Intelligence's Matt Bloxham has the details. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-16/bessent-says-nvidia-leadership-needs-dramatic-shakeup-video",
+   "published": "2026-11-16T08:41"
+  },
+  "h1207b5c1": {
+   "id": "h1207b5c1",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "blurb": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules\u2026",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "published": "2026-11-15T19:15"
+  },
+  "hd7df7fb6": {
+   "id": "hd7df7fb6",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Oil Prices Reverse Initial Gains as Supply Concerns Weigh",
+   "blurb": "Oil prices fell Monday, reversing initial gains as traders weighed signs of global supply surplus against renewed threats to Middle Eastern oil shipments.",
+   "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
+   "published": "2026-11-16T09:59"
+  },
+  "ha623f587": {
+   "id": "ha623f587",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Japan\u2019s economy contracts for the first time in a year",
+   "blurb": "Weak consumer spending and record-breaking rains damp GDP growth and complicate interest rate plans",
+   "url": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
+   "published": "2026-11-16T04:59"
+  },
+  "h1b559288": {
+   "id": "h1b559288",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "China\u2019s economic activity slows more than expected in October",
+   "blurb": "Beijing has pushed to speed up budget spending to overcome weaker growth",
+   "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
+   "published": "2026-11-16T04:38"
+  },
+  "hdf89f048": {
+   "id": "hdf89f048",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Tech Stocks Plunge as Investors Await Anthropic IPO",
+   "blurb": "Technology stocks plunged ahead of this week\u2019s earnings from Nvidia and an expected listing by Anthropic, two events that are likely to influence the near-term course of an increasingly fragile AI trade. Bloomberg's Mark Cranfield reports. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-16/tech-stocks-plunge-as-investors-await-anthropic-ipo-video",
+   "published": "2026-11-16T07:10"
+  },
+  "he4120d23": {
+   "id": "he4120d23",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Trump Looks to Flex Power at Xi, Putin Summit After Midterm Loss",
+   "blurb": "Donald Trump is arriving at an unprecedented summit meeting with Xi Jinping and Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/weakened-at-home-trump-looks-to-flex-power-at-putin-xi-summit",
+   "published": "2026-11-16T01:00"
+  },
+  "hb6ddda22": {
+   "id": "hb6ddda22",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "blurb": "Tech supporters lobby chipmaker\u2019s board to reinstate former head after he resigned following affair with alleged Chinese spy",
+   "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+   "published": "2026-11-15T19:03"
+  },
+  "hef02484f": {
+   "id": "hef02484f",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "China\u2019s Economy Disappoints With New Stimulus Yet to Kick In",
+   "blurb": "China\u2019s growth weakened across the board in October as investment unexpectedly worsened while consumption and industrial output undershot estimates, in a sign Beijing\u2019s latest stimulus measures have yet to feed through to the economy.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
+   "published": "2026-11-16T02:00"
+  },
+  "h2c0dbe64": {
+   "id": "h2c0dbe64",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap",
+   "blurb": "A selloff in technology stocks carried into a new week as traders shunned risky bets ahead of Nvidia Corp.\u2019s high-stakes earnings and Anthropic PBC\u2019s expected market debut in the coming days.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+   "published": "2026-11-15T22:11"
+  },
+  "hd3f8c0cc": {
+   "id": "hd3f8c0cc",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "Japan\u2019s Economy Shrinks as Bad Weather Weighs on Consumption",
+   "blurb": "Japan\u2019s economy contracted for the first time in a year as a spate of inclement weather weighed on consumer spending, highlighting the fragility of domestic demand.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-15/japan-s-economy-contracts-as-bad-weather-weighs-on-consumption",
+   "published": "2026-11-15T23:53"
+  },
+  "h3effc3d4": {
+   "id": "h3effc3d4",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+   "blurb": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+   "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+   "published": "2026-11-15T12:00"
+  }
+ },
+ "latest": [
+  {
+   "id": "hf16b38de",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
+   "blurb": "Estonia says closing the crossings would help curb hostile activity and sanctions circumvention.",
+   "url": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
+   "published": "2026-11-16T10:44"
+  },
+  {
+   "id": "h855c96df",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Modi Arrives in Manila for Asean Summit",
+   "blurb": "Indian Prime Minister Narendra Modi arrives in Manila as the Association of Southeast Asian Nations, or Asean, kicks off a three-day leaders summit in the Philippines capital. India, alongside countries like Japan, Australia and the US, are partner countries that participate in\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-16/modi-arrives-in-manila-for-asean-summit-video",
+   "published": "2026-11-16T10:39"
+  },
+  {
+   "id": "h94a6b1d5",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027",
+   "blurb": "Global growth is going to continue, albeit at different forecasts, according to Morgan Stanley and Goldman Sachs.",
+   "url": "https://www.cnbc.com/2026/11/16/goldman-sachs-morgan-stanley-2027-outlook-markets.html",
+   "published": "2026-11-16T10:39"
+  },
+  {
+   "id": "h51bd649f",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Anthropic Holds the Key to the Future of the AI Trade",
+   "blurb": "IPO is expected to price Wednesday, start trading Thursday.",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-holds-the-key-to-the-future-of-the-ai-trade",
+   "published": "2026-11-16T10:37"
+  },
+  {
+   "id": "hfcc9be0b",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "What to Expect From Trump\u2019s Trip to Asia",
+   "blurb": "US President Donald Trump is arriving at an unprecedented summit meeting with China's Xi Jinping and Russia's Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad. Bloomberg's Minmin Low and Avril Hong report. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-expect-from-trump-s-trip-to-asia-video",
+   "published": "2026-11-16T10:37"
+  },
+  {
+   "id": "h86306f7c",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Nvidia stock falls again as investors price in fallout from Jensen Huang's resignation",
+   "blurb": "The company was 2.2% down in premarket trading on Monday.",
+   "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+   "published": "2026-11-16T10:33"
+  },
+  {
+   "id": "h774b9ad7",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Here\u2019s how much the stock market could crumble if AI is a bubble that bursts, according to former White House economist",
+   "blurb": "For Jason Furman, if artificial intelligence is a bubble that pops, the most likely scenario is a 25% drop in the broader market.",
+   "url": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
+   "published": "2026-11-16T10:32"
+  },
+  {
+   "id": "ha25cede2",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
+   "blurb": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+   "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+   "published": "2026-11-16T10:31"
+  },
+  {
+   "id": "h61186393",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "The Investors Set to Win Big in Anthropic\u2019s IPO",
+   "blurb": "Venture-capital firms, top tech companies and sovereign-wealth funds are poised for windfalls.",
+   "url": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
+   "published": "2026-11-16T10:30"
+  },
+  {
+   "id": "hc633b7bb",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Big Tech Needs to Spread Its Bets on Data Centers",
+   "blurb": "Artificial-intelligence players that bet too much on a handful of mega projects look vulnerable after the midterm elections.",
+   "url": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=rss_markets_main",
+   "published": "2026-11-16T10:30"
+  },
+  {
+   "id": "hed3db83c",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Activist Calls on Landlord Invitation Homes to Sell Houses \u2018One at a Time\u2019",
+   "blurb": "Land & Buildings says the company should sell homes and buy back shares after a ban on large investors buying single-family homes threatens to limit its growth.",
+   "url": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=rss_markets_main",
+   "published": "2026-11-16T10:30"
+  },
+  {
+   "id": "h2d13742d",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Ukraine strikes Crimean Bridge in record drone attack",
+   "blurb": "Russia\u2019s defence ministry said it intercepted or destroyed largest number of drones since beginning of war in past 24 hours",
+   "url": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
+   "published": "2026-11-16T10:29"
+  }
+ ],
+ "feeds": 27,
+ "scanned": 162
+}

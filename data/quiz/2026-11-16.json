@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-16",
+ "questions": [
+  {
+   "question": "What does 'key-person risk' refer to in a corporate setting?",
+   "options": [
+    "The danger that a company relies too heavily on a single individual for its success.",
+    "The risk that a company's customers will switch to a competitor's product.",
+    "The legal requirement for a CEO to disclose all personal relationships to the board.",
+    "The chance that a company's stock price will fall due to a general market downturn."
+   ],
+   "answer": 0,
+   "explanation": "This risk occurs when a company's strategy and operations are so tied to one leader that their sudden departure causes instability. In Nvidia's case, the resignation of its visionary founder led to a massive drop in market value because investors feared the loss of his unique leadership.",
+   "item_id": "wsj-your-money-c97850c849"
+  },
+  {
+   "question": "If the average home price is described as '7x the average income,' what does this number primarily indicate?",
+   "options": [
+    "That interest rates on mortgages have increased by 7% this year.",
+    "That the average house costs seven times more than what the average person earns in a year.",
+    "That a homeowner must live in a house for 7 years before they can sell it for a profit.",
+    "That the government provides a tax break equal to 7% of a home's total value."
+   ],
+   "answer": 1,
+   "explanation": "This ratio is a key metric for measuring housing affordability by comparing property costs directly to annual wages. Today's story notes that this high ratio has made homeownership much harder for younger generations compared to the 1980s.",
+   "item_id": "prof-g-markets-504a1726a4"
+  },
+  {
+   "question": "Why is it significant to economists when inflation 'broadens' across 50% of CPI components?",
+   "options": [
+    "It suggests that price increases are limited to just one volatile sector like energy.",
+    "It means the Federal Reserve is legally required to lower interest rates immediately.",
+    "It indicates that price pressures are spreading throughout the whole economy, making them harder to control.",
+    "It proves that consumer spending has stopped and a recession is guaranteed to happen."
+   ],
+   "answer": 2,
+   "explanation": "When price hikes move beyond a few specific items and affect half of all goods, it signals that inflation is becoming 'sticky' and systemic. This often forces central banks to keep interest rates higher for longer to cool down the entire economy.",
+   "item_id": "marketplace-c172537a1a"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "id": "planet-money-f3a4bca758",
+ "source_id": "planet-money",
+ "source_name": "Planet Money",
+ "kind": "podcast",
+ "title": "Are wildfires making the future uninsurable?",
+ "url": "https://www.npr.org/2026/11/13/nx-s1-6040434/california-wildfires-home-insurance",
+ "media_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
+ "published": "2026-11-13",
+ "duration": 2470,
+ "digest_date": "2026-11-16",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Wildfire risk cancellation threat",
+   "Insurance premium spike to $10,000",
+   "Wildfire losses break insurance model",
+   "California Fair Plan insurer of last resort"
+  ],
+  "headline": "Wildfires and regulation crash home insurance markets in California",
+  "tldr": "A Northern California homeowner faced a policy cancellation and an 800% premium hike due to rising wildfire risks. Insurance agent Don Foster explains that surging climate disasters and state-imposed rate caps have broken the traditional insurance business model, forcing many homeowners onto insurers of last resort.",
+  "key_points": [
+   {
+    "point": "Heidi Lang's annual home insurance premium was set to jump from around $1,000 to nearly $10,000 after her insurer briefly threatened cancellation over old landscaping mulch.",
+    "why_it_matters": "Massive premium spikes price everyday homeowners out of coverage and threaten property values in fire-prone regions."
+   },
+   {
+    "point": "Insurance agent Don Foster explained that for decades wildfire represented only about 2% of annual natural disaster losses for the global insurance industry.",
+    "why_it_matters": "When disaster frequency and scale shifted dramatically after 2016, historical risk models became completely inaccurate."
+   },
+   {
+    "point": "Fires in California in 2017 and 2018 caused over $20 billion in damages, wiping out decades of insurance profits in one fell swoop according to Don Foster.",
+    "why_it_matters": "Unprecedented payouts deplete insurer reserves faster than premiums can accumulate."
+   },
+   {
+    "point": "State insurance regulators required public hearings for average rate increases exceeding 7%, creating an artificial limit on annual price adjustments.",
+    "why_it_matters": "Regulatory price caps prevented insurers from raising rates quickly enough to match soaring wildfire liabilities."
+   },
+   {
+    "point": "The California Fair Plan serves as the state's insurer of last resort, created in the 1960s following the Watts Riots to prevent insurance redlining.",
+    "why_it_matters": "Homeowners rejected by private markets must turn to state-mandated pools that offer limited coverage\u2014such as excluding liability and theft\u2014requiring them to buy supplementary private policies."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "~2%",
+    "context": "The share of annual natural disaster losses represented by wildfire for the global insurance industry for decades."
+   },
+   {
+    "figure": "$20B",
+    "context": "The property damages caused by California fires in 2017 and 2018 combined."
+   },
+   {
+    "figure": "7%",
+    "context": "The average rate increase threshold across the state that triggered public hearing processes for insurers."
+   },
+   {
+    "figure": "800%",
+    "context": "The scale of the annual home insurance rate increase faced by Heidi Lang."
+   }
+  ],
+  "lesson": "When the frequency of catastrophic events outpaces regulated pricing caps, private insurers cannot collect enough premiums to cover potential payouts, causing them to abandon high-risk markets.",
+  "opinions_and_predictions": [
+   "Alexi Horwitz-Gazi (Host) thinks Heidi Lang's story is a warning from our collective future about the collapse of the insurance industry.",
+   "Don Foster (Insurance Agent) believes the insurance system is broken because premiums collected over decades cannot cover multi-million dollar payouts when disaster strikes.",
+   "An unnamed resident quoted in the audio feels this is the beginning of the end for the insurance industry as we know it."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Premium",
+    "definition": "The specified amount payment required periodically by an insurer to provide coverage under a given policy.",
+    "example": "Heidi's annual premium jumped from around $1,000 to nearly $10,000."
+   },
+   {
+    "term": "Insurability",
+    "definition": "The ability of an asset or risk to be covered by an insurance policy based on acceptable hazard levels.",
+    "example": "The podcast examines whether high-risk areas will become uninsurable due to climate change."
+   },
+   {
+    "term": "Redlining",
+    "definition": "The discriminatory practice by which financial institutions or insurers avoid providing services to specific geographic areas.",
+    "example": "The California Fair Plan was created to address insurance redlining following the Watts Riots."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "insurance",
+   "wildfires",
+   "housing market",
+   "regulation"
+  ],
+  "quality_note": "The reporting features direct accounts from a homeowner facing policy cancellation and a licensed insurance agent, backed by historical insurance loss statistics and regulatory context.",
+  "worth_reading": true
+ }
+}

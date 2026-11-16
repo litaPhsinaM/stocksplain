@@ -1,0 +1,91 @@
+{
+ "id": "freakonomics-a3008c73f7",
+ "source_id": "freakonomics",
+ "source_name": "Freakonomics Radio",
+ "kind": "podcast",
+ "title": "695. Can the U.S. Close Its Fertility Gap?",
+ "url": "https://freakonomics.com",
+ "media_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd529794-52fc-4b60-b1a8-04e71d7cf4ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd529794-52fc-4b60-b1a8-04e71d7cf4ac&feed=Y8lFbOT4",
+ "published": "2026-11-13",
+ "duration": 3387,
+ "digest_date": "2026-11-16",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Declining fertility rates",
+   "Fertility gap and its causes",
+   "Workplace impact on fertility",
+   "Housing scarcity and fertility",
+   "Economic analysis of fertility",
+   "Impact of work-from-home on fertility"
+  ],
+  "headline": "Analyzing the U.S. fertility gap and its economic drivers",
+  "tldr": "The U.S. fertility rate has fallen by more than half since 1970, leading to a fertility gap where people want more children than they are having. Economists and demographers are exploring how factors like workplace culture, housing scarcity, and remote work influence these trends.",
+  "key_points": [
+   {
+    "point": "The global fertility rate has fallen by more than half since 1970.",
+    "why_it_matters": "A sustained decline in fertility can lead to long-term economic challenges, such as a shrinking workforce and increased pressure on social safety nets."
+   },
+   {
+    "point": "Melissa Kearney (University of Notre Dame) notes that the fertility rate in the U.S. has been falling since 2007.",
+    "why_it_matters": "Understanding the timing and nature of this decline helps identify potential social and economic causes."
+   },
+   {
+    "point": "Lyman Stone (Institute for Family Studies) argues that housing scarcity and the cost of living are significant factors in the fertility gap.",
+    "why_it_matters": "When essential costs like housing become prohibitive, people may delay or forgo having children, impacting future population growth."
+   },
+   {
+    "point": "Work-from-home trends may positively impact fertility by offering more flexibility for parents.",
+    "why_it_matters": "Changes in work structure could potentially mitigate some of the barriers to family formation, though the long-term effects remain to be seen."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": ">50%",
+    "context": "The global fertility rate has fallen by more than this amount since 1970."
+   },
+   {
+    "figure": "0.7",
+    "context": "The latest official fertility rate in South Korean, representing children per woman."
+   },
+   {
+    "figure": "50%",
+    "context": "The percentage of 30-year-old women in the U.S. who have not initiated childbearing."
+   }
+  ],
+  "lesson": "Demographic shifts are rarely driven by a single cause; they result from a complex interaction between economic conditions, social norms, and individual life choices. When the cost of living or the opportunity cost of having children rises, fertility rates tend to decline, illustrating the trade-offs individuals make between economic stability and family size.",
+  "opinions_and_predictions": [
+   "Melissa Kearney believes that focusing on cohort fertility rates\u2014what women of childbearing age are doing at each period\u2014is more instructive than looking at general fertility rates.",
+   "Lyman Stone suggests that societies that successfully transform natural bonds of love into stable institutional bonds of marriage tend to have better outcomes for children.",
+   "Lyman Stone predicts that if family-friendly housing becomes more affordable and abundant, it could lead to an increase in marriages and births."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Fertility rate",
+    "definition": "The average number of children that would be born to a woman over her lifetime.",
+    "example": "The global fertility rate has fallen by more than half since 1970."
+   },
+   {
+    "term": "Cohort fertility",
+    "definition": "The average number of children born to a specific group of women who reached childbearing age during the same period.",
+    "example": "Melissa Kearney suggests analyzing cohort fertility to better understand current trends."
+   },
+   {
+    "term": "Pronatalism",
+    "definition": "A policy or attitude that encourages childbearing and population growth.",
+    "example": "Lyman Stone directs the Pronatalism Initiative at the Institute for Family Studies."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "fertility",
+   "demographics",
+   "economics",
+   "work-life balance"
+  ],
+  "quality_note": "The source features academic experts and researchers who provide data-backed analysis on demographic trends, though some of their conclusions regarding policy interventions remain speculative.",
+  "worth_reading": true
+ }
+}

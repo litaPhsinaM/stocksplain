@@ -1,0 +1,101 @@
+{
+ "id": "prof-g-markets-504a1726a4",
+ "source_id": "prof-g-markets",
+ "source_name": "Prof G Markets",
+ "kind": "podcast",
+ "title": "Democrats Won Big \u2014 Now Comes The Hard Part",
+ "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5582151139.mp3",
+ "media_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5582151139.mp3",
+ "published": "2026-11-14",
+ "duration": 863,
+ "digest_date": "2026-11-16",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Democratic midterm election victory",
+   "Prosecuting former President Trump",
+   "Economic policy and the power of the purse",
+   "Housing affordability crisis",
+   "Addressing wealth inequality",
+   "Political corruption and ethics reform"
+  ],
+  "headline": "Democrats' midterm sweep and the path for policy reform",
+  "tldr": "Following a significant electoral victory, Democrats face the challenge of addressing economic inequality, housing affordability, and political corruption. The speaker argues for bold legislative action and systemic reform rather than political caution.",
+  "key_points": [
+   {
+    "point": "Democrats secured majorities in the House and Senate, with 94% of counties shifting left.",
+    "why_it_matters": "This shift represents a significant change in political momentum that allows the party to pursue a new legislative agenda."
+   },
+   {
+    "point": "The speaker advocates for using the 'power of the purse' to block funding for specific policies rather than relying on direct confrontation.",
+    "why_it_matters": "Congress can exert control over executive actions by restricting appropriations, a strategy used historically to limit military involvement."
+   },
+   {
+    "point": "Housing affordability has reached a crisis point, with the average home costing seven times the average income.",
+    "why_it_matters": "Restrictive zoning and supply constraints have made homeownership inaccessible for younger generations, shifting the average buyer age from 31 in 1980 to 59 today."
+   },
+   {
+    "point": "The speaker proposes systemic tax reforms, including higher capital gains taxes and a 'data center dividend,' to combat wealth inequality.",
+    "why_it_matters": "Current wealth concentration, where the top 1% holds more than the entire middle class, is described as unsustainable for long-term economic stability."
+   },
+   {
+    "point": "Proposed ethics reforms include banning individual stock trading for members of Congress and the President.",
+    "why_it_matters": "Addressing perceived government corruption is essential to restoring public trust in political institutions."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "7x",
+    "context": "The ratio of the average home price to the average American's income."
+   },
+   {
+    "figure": "38%",
+    "context": "The increase in wealth for the average household over 75 over the past four years."
+   },
+   {
+    "figure": "-23%",
+    "context": "The decrease in wealth for the average household under 35 over the past four years."
+   }
+  ],
+  "lesson": "When a political or economic system faces extreme wealth concentration, the resulting social instability often necessitates systemic redistribution or structural reform to prevent radical societal shifts.",
+  "opinions_and_predictions": [
+   "Ed Elson believes the midterm results were a win for democracy and a rebuke of authoritarianism.",
+   "Ed Elson argues that failing to prosecute potential crimes for political reasons is a form of 'law fair' that signals weakness.",
+   "Ed Elson predicts that the next two years of political decisions will define the next decade of American life.",
+   "Ed Elson asserts that the current wealth inequality is untenable and compares the potential consequences to 18th-century France."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Law fair",
+    "definition": "The use of legal systems or institutions to damage or delegitimize an opponent.",
+    "example": "The speaker discusses whether prosecuting a former president would be viewed as law fair."
+   },
+   {
+    "term": "Power of the purse",
+    "definition": "The constitutional authority of a legislative body to control the government's budget and spending.",
+    "example": "Democrats could use this power to prohibit public funds from being used for specific wars."
+   },
+   {
+    "term": "Gini coefficient",
+    "definition": "A statistical measure of distribution intended to represent the income or wealth inequality within a nation.",
+    "example": "The speaker notes that the current wealth Gini coefficient is equal to that of 18th-century France."
+   },
+   {
+    "term": "K-shaped economy",
+    "definition": "An economic scenario where different sectors or groups recover at vastly different rates, leading to divergence between the wealthy and the poor.",
+    "example": "The speaker suggests tax proposals to address the issues created by a K-shaped economy."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "politics",
+   "economy",
+   "inequality",
+   "housing"
+  ],
+  "quality_note": "The content represents the personal political and economic analysis of the host, Ed Elson, and relies on his interpretation of policy and historical precedent.",
+  "worth_reading": true
+ }
+}

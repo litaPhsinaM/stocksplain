@@ -1,0 +1,73 @@
+{
+ "date": "2026-11-16",
+ "big_picture": "Nvidia is in turmoil following the resignation of CEO Jensen Huang amid a national security scandal and allegations of misconduct. Meanwhile, rising inflation and a global Microsoft outage are creating broader economic and operational uncertainty.",
+ "themes": [
+  {
+   "title": "Nvidia leadership crisis and national security scandal",
+   "explanation": "Nvidia CEO Jensen Huang resigned after reports of affairs, including one with an alleged Chinese intelligence asset, and allegations that the company smuggled chips into China. The company has appointed CFO Colette Kress as interim CEO, but analysts warn of extreme key-person risk and potential regulatory fallout, with the stock losing over $570 billion in market value.",
+   "item_ids": [
+    "squawk-pod-42e03e0234",
+    "odd-lots-1d0fdc711b",
+    "wsj-whats-news-a244ecb978",
+    "odd-lots-879239a1a3",
+    "wsj-whats-news-51c1bcf549",
+    "prof-g-markets-1dc8b4add5",
+    "wsj-your-money-c97850c849"
+   ]
+  },
+  {
+   "title": "Inflation pressures and Federal Reserve policy",
+   "explanation": "October CPI data showed a 0.4% monthly increase, leading to concerns that inflation is broadening. Policymakers are signaling that interest rates may need to remain higher for longer, with some discussing a potential 50 basis point hike at the December meeting.",
+   "item_ids": [
+    "marketplace-c172537a1a",
+    "odd-lots-1d0fdc711b",
+    "wsj-whats-news-51c1bcf549",
+    "wsj-your-money-c97850c849"
+   ]
+  },
+  {
+   "title": "California home insurance market collapse",
+   "explanation": "Rising wildfire risks and state-imposed rate caps have broken the insurance business model in California. Homeowners are facing massive premium spikes, such as an 800% increase in one case, and many are being forced into the state's 'Fair Plan' insurer of last resort.",
+   "item_ids": [
+    "planet-money-f3a4bca758"
+   ]
+  },
+  {
+   "title": "Microsoft global service outage",
+   "explanation": "A major technical outage disrupted Microsoft 365 services, including Teams and Outlook, across more than 70 countries. The event highlights the systemic risk posed by the global reliance on centralized cloud infrastructure.",
+   "item_ids": [
+    "squawk-pod-42e03e0234",
+    "wsj-whats-news-51c1bcf549",
+    "wsj-your-money-c97850c849"
+   ]
+  },
+  {
+   "title": "Political reform and economic inequality",
+   "explanation": "Following a midterm sweep, Democrats are facing calls for systemic reform to address wealth concentration and housing affordability. Proposals include banning congressional stock trading and implementing new tax structures to combat the fact that the top 1% holds more wealth than the entire middle class.",
+   "item_ids": [
+    "prof-g-markets-504a1726a4"
+   ]
+  },
+  {
+   "title": "Economic archetypes of content creators",
+   "explanation": "Social media creators are categorized as hucksters, entertainers, or gurus based on their monetization models. These structures dictate content strategy, often incentivizing polarizing or inflammatory material to satisfy algorithms and sponsors.",
+   "item_ids": [
+    "indicator-cb3ff5b290"
+   ]
+  },
+  {
+   "title": "U.S. fertility gap drivers",
+   "explanation": "The U.S. fertility rate has been declining since 2007, with experts pointing to housing scarcity and the high cost of living as primary barriers. While remote work may offer some flexibility, the gap between desired and actual family size remains a significant economic concern.",
+   "item_ids": [
+    "freakonomics-a3008c73f7"
+   ]
+  }
+ ],
+ "concept_of_the_day": {
+  "concept": "Key-person risk",
+  "explanation": "Key-person risk occurs when a company's success, strategy, and operations are so heavily dependent on a single individual that their sudden departure threatens the firm's stability. In the case of Nvidia, the resignation of Jensen Huang triggered this risk because he was central to the company's vision, client relationships, and strategic decision-making. When such a leader leaves, the market often reacts with volatility because the company's future path becomes uncertain. This concept serves as a reminder that even high-performing companies can be vulnerable if their value is concentrated in one person rather than institutionalized processes."
+ },
+ "watch_for": [
+  "December Fed meeting: potential 50 basis point rate hike"
+ ]
+}

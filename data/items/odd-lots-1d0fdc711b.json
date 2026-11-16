@@ -1,0 +1,86 @@
+{
+ "id": "odd-lots-1d0fdc711b",
+ "source_id": "odd-lots",
+ "source_name": "Odd Lots (Bloomberg)",
+ "kind": "podcast",
+ "title": "The Impossible Trilemma That Hangs Over the Nvidia Crisis",
+ "url": "https://omny.fm/shows/odd-lots/the-impossible-trilemma-that-hangs-over-the-nvidia-crisis",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4bf9cb81-2185-4513-8d9c-b5010173862f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+ "published": "2026-11-16",
+ "duration": 2778,
+ "digest_date": "2026-11-16",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Jensen Huang outed at Nvidia",
+   "Geopolitical implications of AI and Nvidia",
+   "Market reactions to CPI and Fed",
+   "The Impossible Trinity of sovereignty"
+  ],
+  "headline": "Nvidia CEO scandal and the Impossible Trinity of sovereignty",
+  "tldr": "Nvidia CEO Jensen Huang has been ousted following reports of an affair with an alleged Chinese spy, creating significant geopolitical and market uncertainty. This event highlights a broader 'Impossible Trinity' where nations struggle to balance defense spending, fiscal deficits, and domestic social cohesion amid escalating US-China rivalry.",
+  "key_points": [
+   {
+    "point": "Jensen Huang was ousted from Nvidia following reports of an affair with an executive linked to an alleged Chinese spy.",
+    "why_it_matters": "Nvidia is a central pillar of the global AI ecosystem, making its leadership stability critical for both financial markets and national security."
+   },
+   {
+    "point": "T. Yang (CIO, Variant Perception) describes an 'Impossible Trinity' where nations must balance defense spending, fiscal deficits, and domestic cohesion.",
+    "why_it_matters": "This framework explains why modern economies face constant tension: prioritizing one goal often forces a compromise in the others, leading to market distortions."
+   },
+   {
+    "point": "The US-China rivalry is driving a move away from globalization toward a focus on sovereign control over technology, energy, and food.",
+    "why_it_matters": "This shift forces companies to navigate complex geopolitical pressures, as governments demand total trust from firms managing strategic assets."
+   },
+   {
+    "point": "Recent economic data, including a hot CPI print, has led traders to increase expectations for more aggressive Federal Reserve rate hikes.",
+    "why_it_matters": "Rising interest rate expectations add further pressure to markets already grappling with geopolitical instability and corporate scandals."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "4.0%",
+    "context": "The percentage drop in Nvidia stock following the news of the CEO's ouster."
+   }
+  ],
+  "lesson": "When a company becomes a critical strategic asset for a nation, its leadership and operations are no longer just private business matters but become subject to the intense pressures of national security and geopolitical rivalry.",
+  "opinions_and_predictions": [
+   "T. Yang (CIO, Variant Perception) believes the current geopolitical environment is a more distorting force on asset markets than the Cold War era because of the total commercialization of the modern economy.",
+   "T. Yang (CIO, Variant Perception) suggests that the need for sovereign control is a primary theme that investors must confront as globalization recedes."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Impossible Trinity",
+    "definition": "A concept describing a situation where three desirable goals are mutually exclusive, meaning you can only achieve two at the expense of the third.",
+    "example": "T. Yang argues governments cannot simultaneously maintain high defense spending, low deficits, and social cohesion."
+   },
+   {
+    "term": "CPI",
+    "definition": "Consumer Price Index, a measure that examines the weighted average of prices of a basket of consumer goods and services to track inflation.",
+    "example": "A hot CPI print indicates that inflation is higher than expected, often prompting the Fed to raise rates."
+   },
+   {
+    "term": "Sovereignty",
+    "definition": "The authority of a state to govern itself or another state without interference from outside sources.",
+    "example": "The shift toward sovereignty means nations are prioritizing domestic control over global trade dependencies."
+   },
+   {
+    "term": "Dual use",
+    "definition": "Technology that has both civilian and military applications.",
+    "example": "AI chips are considered dual use because they drive commercial innovation but are also essential for advanced weaponry."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "geopolitics",
+   "ai stocks",
+   "macroeconomics"
+  ],
+  "quality_note": "The source features a professional analyst discussing market frameworks, though the core news event regarding the CEO is presented as a hypothetical scenario within the podcast's narrative.",
+  "worth_reading": true
+ }
+}

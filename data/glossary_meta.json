@@ -32,6 +32,12 @@
  "assets": {
   "topic": "companies"
  },
+ "backlog": {
+  "topic": "companies"
+ },
+ "backstop": {
+  "topic": "banking"
+ },
  "backtest": {
   "topic": "trading"
  },
@@ -59,8 +65,14 @@
  "bond": {
   "topic": "bonds"
  },
+ "bond market": {
+  "topic": "bonds"
+ },
  "breakout / false breakout": {
   "topic": "trading"
+ },
+ "bull case": {
+  "topic": "stocks"
  },
  "bull market": {
   "topic": "stocks"
@@ -79,6 +91,9 @@
  },
  "clearing event": {
   "topic": "trading"
+ },
+ "cohort fertility": {
+  "topic": "other"
  },
  "commission": {
   "topic": "trading"
@@ -142,6 +157,9 @@
  "debt-to-asset ratio": {
   "topic": "companies"
  },
+ "defensive briefing": {
+  "topic": "other"
+ },
  "diversification": {
   "topic": "stocks"
  },
@@ -156,6 +174,9 @@
  },
  "dow jones industrial average": {
   "topic": "stocks"
+ },
+ "dual use": {
+  "topic": "policy"
  },
  "earnings": {
   "topic": "companies"
@@ -205,14 +226,29 @@
  "fdic insurance": {
   "topic": "banking"
  },
+ "fertility rate": {
+  "topic": "other"
+ },
+ "flat structure": {
+  "topic": "companies"
+ },
+ "float": {
+  "topic": "stocks"
+ },
  "fomo": {
   "topic": "personal"
+ },
+ "forward guidance": {
+  "topic": "economy"
  },
  "fully diluted basis": {
   "topic": "companies"
  },
  "gaap": {
   "topic": "companies"
+ },
+ "gini coefficient": {
+  "topic": "economy"
  },
  "golden cross / death cross": {
   "topic": "trading"
@@ -229,14 +265,23 @@
  "hacker": {
   "topic": "tech"
  },
+ "hbm": {
+  "topic": "tech"
+ },
  "headline inflation": {
   "topic": "economy"
  },
  "headline risk": {
   "topic": "trading"
  },
+ "high arousal negative content": {
+  "topic": "other"
+ },
  "home bias": {
   "topic": "stocks"
+ },
+ "honeypot": {
+  "topic": "tech"
  },
  "hot wallet": {
   "topic": "crypto"
@@ -246,6 +291,12 @@
  },
  "idiosyncratic risk": {
   "topic": "stocks"
+ },
+ "idolatry of the innovator": {
+  "topic": "other"
+ },
+ "impossible trinity": {
+  "topic": "economy"
  },
  "index": {
   "topic": "stocks"
@@ -258,6 +309,9 @@
  },
  "institutional capital": {
   "topic": "stocks"
+ },
+ "insurability": {
+  "topic": "banking"
  },
  "interest rates": {
   "topic": "economy"
@@ -286,6 +340,9 @@
  },
  "lagging indicator": {
   "topic": "economy"
+ },
+ "law fair": {
+  "topic": "policy"
  },
  "liabilities": {
   "topic": "companies"
@@ -321,6 +378,9 @@
  "market order": {
   "topic": "trading"
  },
+ "market perform": {
+  "topic": "stocks"
+ },
  "market timing": {
   "topic": "trading"
  },
@@ -332,6 +392,9 @@
  },
  "meme stock": {
   "topic": "stocks"
+ },
+ "moat": {
+  "topic": "companies"
  },
  "momentum (factor)": {
   "topic": "trading"
@@ -388,6 +451,12 @@
  "options": {
   "topic": "trading"
  },
+ "outage": {
+  "topic": "tech"
+ },
+ "outperform": {
+  "topic": "stocks"
+ },
  "overbought / oversold": {
   "topic": "trading"
  },
@@ -416,6 +485,15 @@
  "ponzi scheme": {
   "topic": "personal"
  },
+ "power of the purse": {
+  "topic": "policy"
+ },
+ "ppi (producer price index)": {
+  "topic": "economy"
+ },
+ "premium": {
+  "topic": "personal"
+ },
  "price takers": {
   "topic": "trading"
  },
@@ -430,6 +508,9 @@
  },
  "private equity": {
   "topic": "stocks"
+ },
+ "pronatalism": {
+  "topic": "policy"
  },
  "prospectus": {
   "topic": "stocks"
@@ -461,10 +542,19 @@
  "recipiency rate": {
   "topic": "economy"
  },
+ "redlining": {
+  "topic": "banking"
+ },
  "return": {
   "topic": "stocks"
  },
  "revenue": {
+  "topic": "companies"
+ },
+ "revenue run rate": {
+  "topic": "companies"
+ },
+ "revenue sharing": {
   "topic": "companies"
  },
  "reverse solicitation": {
@@ -527,6 +617,12 @@
  "sovereign ai": {
   "topic": "tech"
  },
+ "sovereignty": {
+  "topic": "policy"
+ },
+ "sponsored content": {
+  "topic": "tech"
+ },
  "spread": {
   "topic": "trading"
  },
@@ -534,6 +630,9 @@
   "topic": "crypto"
  },
  "step-up basis": {
+  "topic": "policy"
+ },
+ "subpoena": {
   "topic": "policy"
  },
  "succession planning": {
@@ -571,6 +670,13 @@
  },
  "treasury bill": {
   "topic": "bonds"
+ },
+ "treasury yield": {
+  "topic": "bonds"
+ },
+ "treasury yields": {
+  "topic": "bonds",
+  "same_as": "treasury yield"
  },
  "trend following": {
   "topic": "trading"

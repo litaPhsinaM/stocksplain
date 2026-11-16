@@ -1,0 +1,112 @@
+{
+ "id": "prof-g-markets-1dc8b4add5",
+ "source_id": "prof-g-markets",
+ "source_name": "Prof G Markets",
+ "kind": "podcast",
+ "title": "Nvidia\u2019s $2 Trillion Scandal Is About To Get Much Bigger",
+ "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3448517193.mp3",
+ "media_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3448517193.mp3",
+ "published": "2026-11-16",
+ "duration": 4160,
+ "digest_date": "2026-11-16",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Jensen Huang resigns from Nvidia",
+   "National security implications of Nvidia scandal",
+   "Idolatry of innovators in tech",
+   "Nvidia's reliance on diverted China revenue",
+   "Howard Lutnick's role in Commerce Department",
+   "Anthropic IPO outlook and risks"
+  ],
+  "headline": "Nvidia CEO resigns amid national security scandal; Anthropic IPO approaches",
+  "tldr": "Nvidia CEO Jensen Huang has resigned following reports of affairs and allegations that the company smuggled chips into China, raising major national security concerns. Meanwhile, the market awaits the upcoming Anthropic IPO, which analysts expect to be engineered for a strong initial price pop despite significant long-term spending risks.",
+  "key_points": [
+   {
+    "point": "Jensen Huang resigned as Nvidia CEO following reports of affairs and potential violations of chip export laws to China.",
+    "why_it_matters": "The departure of a high-profile leader creates uncertainty for a company previously viewed as inseparable from its founder."
+   },
+   {
+    "point": "Nvidia allegedly smuggled chips to China via a company called MegaSpeed, potentially compromising U.S. national security.",
+    "why_it_matters": "This suggests a massive breach of defense protocols, as these chips power critical U.S. nuclear and surveillance systems."
+   },
+   {
+    "point": "Colp Research estimates 20% of Nvidia's revenue may be diverted to China, potentially nullifying revenue outside of allied partners.",
+    "why_it_matters": "If a large portion of international revenue is illegal or compromised, the company's long-term financial health is at risk."
+   },
+   {
+    "point": "Anthropic is preparing for an IPO with a small 6% float, which analysts expect will be engineered to create an immediate price pop.",
+    "why_it_matters": "Investors should recognize that IPO pricing is often a rigged game designed to generate positive headlines rather than reflect true market value."
+   },
+   {
+    "point": "Anthropic faces massive future costs, with an estimated $500 billion in compute spending due by 2030.",
+    "why_it_matters": "The company's heavy reliance on external fundraising to cover these costs makes it vulnerable to market downturns."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$2T",
+    "context": "The amount of market value Nvidia has shed since the scandal broke."
+   },
+   {
+    "figure": "20%",
+    "context": "The estimated portion of Nvidia's revenue that Colp Research believes is diverted to China."
+   },
+   {
+    "figure": "1,126%",
+    "context": "The year-over-year revenue growth rate reported by Anthropic."
+   },
+   {
+    "figure": "6%",
+    "context": "The small percentage of shares Anthropic plans to issue as a float in its IPO."
+   }
+  ],
+  "lesson": "When a company's leadership and culture are built entirely around a single 'visionary' figure, the organization faces extreme key-person risk and governance failure when that individual is compromised or removed.",
+  "opinions_and_predictions": [
+   "Scott Galloway predicts Nvidia stock will be up by the end of the year.",
+   "Scott Galloway predicts Howard Lutnick will be out of his government role within three months due to his involvement in the Nvidia scandal.",
+   "Ed Citron believes Anthropic will see a successful first day of trading because underwriters engineer IPOs to ensure a price pop.",
+   "Scott Galloway argues that the 'idolatry of the innovator' has perverted corporate standards, leading boards to tolerate reckless behavior from high-value CEOs."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Broadcom (AVGO)",
+   "AMD (AMD)",
+   "Apple (AAPL)",
+   "Microsoft (MSFT)",
+   "Alphabet (GOOGL)"
+  ],
+  "glossary": [
+   {
+    "term": "Idolatry of the innovator",
+    "definition": "The tendency to treat successful tech founders as infallible 'messiahs,' often excusing their unethical behavior because of the wealth they create.",
+    "example": "Silicon Valley rallied around Jensen Huang despite his negligence because he built a $5 trillion company."
+   },
+   {
+    "term": "Honeypot",
+    "definition": "A security trap where an attractive target (like a person or data) is used to lure an individual into compromising sensitive information.",
+    "example": "The concern that Jensen Huang was compromised by an alleged Chinese spy through a personal relationship."
+   },
+   {
+    "term": "Float",
+    "definition": "The number of shares of a company that are available for the public to trade.",
+    "example": "Anthropic is issuing a small 6% float to limit exposure to true market price discovery."
+   },
+   {
+    "term": "Revenue run rate",
+    "definition": "A method of projecting a company's annual revenue based on a short period of recent performance.",
+    "example": "Anthropic reported an $81 billion revenue run rate, which analysts warn should be taken with a grain of salt."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "tech stocks",
+   "national security",
+   "ipo",
+   "corporate governance"
+  ],
+  "quality_note": "The speakers are a professor and a market analyst; while they provide specific data points, their analysis of political corruption and future stock performance is speculative.",
+  "worth_reading": true
+ }
+}

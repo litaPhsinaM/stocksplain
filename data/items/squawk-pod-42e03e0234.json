@@ -1,0 +1,86 @@
+{
+ "id": "squawk-pod-42e03e0234",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "Treasury Secretary Bessent: \u2018F\u2019 the Iranian Leadership 11/13/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/27b16ebc-d0fc-413d-9700-e15183ff3c03/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=27b16ebc-d0fc-413d-9700-e15183ff3c03&feed=VHAcgaw_",
+ "published": "2026-11-13",
+ "duration": 2491,
+ "digest_date": "2026-11-16",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia CEO Jensen Huang's departure and drama",
+   "Treasury Secretary Scott Bessent on national security",
+   "Microsoft 365 outage"
+  ],
+  "headline": "Nvidia CEO Jensen Huang to testify; Treasury Secretary Scott Bessent discusses national security and Iran",
+  "tldr": "Nvidia CEO Jensen Huang will testify before Congress regarding a scandal involving a former employee. Treasury Secretary Scott Bessent addresses national security concerns regarding Iran and the administration's economic strategy. Microsoft faces a multi-day outage affecting several services.",
+  "key_points": [
+   {
+    "point": "Nvidia CEO Jensen Huang has agreed to testify before Congress regarding a scandal involving a former employee.",
+    "why_it_matters": "The scandal has raised concerns about the company's internal culture and the potential impact on its leadership."
+   },
+   {
+    "point": "Treasury Secretary Scott Bessent stated that the administration is working to close leaks in the system regarding national security and Iran.",
+    "why_it_matters": "This highlights ongoing efforts to address national security threats and the administration's approach to foreign policy."
+   },
+   {
+    "point": "Microsoft is experiencing a multi-day outage affecting services such as Teams and Microsoft 365.",
+    "why_it_matters": "Outages in major technology services can have significant impacts on businesses and individuals who rely on these platforms."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-14%",
+    "context": "The percentage Nvidia's stock fell in one day."
+   },
+   {
+    "figure": "$1.7T",
+    "context": "The amount of Nvidia's market cap wiped out since the stock's peak last month."
+   },
+   {
+    "figure": "2.1%",
+    "context": "The percentage Microsoft's stock fell due to the outage."
+   }
+  ],
+  "lesson": "When a company's leadership is embroiled in scandal, the stock price often reflects the uncertainty and potential for long-term damage to the company's reputation and operations.",
+  "opinions_and_predictions": [
+   "Treasury Secretary Scott Bessent: 'F' the Iranian leadership.",
+   "Treasury Secretary Scott Bessent: The administration is working to close leaks in the system regarding national security and Iran.",
+   "Treasury Secretary Scott Bessent: The U.S. would be in bad shape if it lost its edge in AI."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Microsoft (MSFT)"
+  ],
+  "glossary": [
+   {
+    "term": "Subpoena",
+    "definition": "A legal document ordering a person to attend a court or testify.",
+    "example": "Congress may subpoena Jensen Huang to testify."
+   },
+   {
+    "term": "Market Cap",
+    "definition": "The total value of a company's shares of stock.",
+    "example": "Nvidia's market cap has been wiped out by $1.7T."
+   },
+   {
+    "term": "Outage",
+    "definition": "A period when a service or system is not working.",
+    "example": "Microsoft is experiencing a multi-day outage."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "national security",
+   "tech outage"
+  ],
+  "quality_note": "The source provides information from a reputable financial news network, though some statements are speculative or politically charged.",
+  "worth_reading": true
+ }
+}

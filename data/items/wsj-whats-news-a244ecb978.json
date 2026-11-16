@@ -1,0 +1,100 @@
+{
+ "id": "wsj-whats-news-a244ecb978",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Where Does Nvidia Go From Here?",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e2201d42-1110-4f2d-ba31-ce352348b5d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e2201d42-1110-4f2d-ba31-ce352348b5d4&feed=BA5QWI2p",
+ "published": "2026-11-15",
+ "duration": 1427,
+ "digest_date": "2026-11-16",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Jensen Huang resigns from Nvidia",
+   "Allegations of affairs and espionage",
+   "Interim CEO Colette Kress appointed",
+   "Nvidia's flat organizational structure",
+   "Lobbying and US-China chip policy",
+   "Future of Nvidia's leadership"
+  ],
+  "headline": "Nvidia CEO Jensen Huang resigns; board probes alleged Chinese intelligence ties",
+  "tldr": "Nvidia CEO Jensen Huang has resigned following reports of affairs, including one with a woman alleged to be a Chinese intelligence asset. The company has appointed CFO Colette Kress as interim CEO while it searches for a permanent successor amid ongoing investigations and stock volatility.",
+  "key_points": [
+   {
+    "point": "Jensen Huang resigned as Nvidia CEO after reports of two affairs, including one with a woman alleged to be a Chinese intelligence asset.",
+    "why_it_matters": "The departure of a central, visionary leader creates significant uncertainty for a company that has been the primary engine of the global AI boom."
+   },
+   {
+    "point": "Nvidia's board is investigating whether Wong divulged sensitive company or national security information.",
+    "why_it_matters": "Potential security breaches could lead to stricter government regulations on chip exports and damage the company's relationship with the US administration."
+   },
+   {
+    "point": "CFO Colette Kress has been named interim CEO, stepping into a role previously held by a leader who managed a notoriously flat structure with 60 direct reports.",
+    "why_it_matters": "The transition tests whether the company can maintain its momentum and financial discipline without its iconic founder at the helm."
+   },
+   {
+    "point": "Nvidia's stock has fallen approximately 30% over the last month.",
+    "why_it_matters": "The sharp decline reflects market concern over the leadership vacuum and the potential for long-term strategic disruption."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "30%",
+    "context": "The approximate decline in Nvidia's stock price over the last month."
+   },
+   {
+    "figure": "60",
+    "context": "The number of employees that previously reported directly to Jensen Huang under his flat management structure."
+   },
+   {
+    "figure": "25%",
+    "context": "The percentage of sales the US government was supposed to receive from Nvidia's H200 chip exports to China under a previous agreement."
+   }
+  ],
+  "lesson": "When a company's strategy and market influence are heavily concentrated in a single visionary leader, the sudden departure of that person creates a leadership vacuum that threatens the company's operational stability and stock valuation (key-person risk).",
+  "opinions_and_predictions": [
+   "Amrith Ram Kumar (WSJ) believes it is too early to determine the ultimate winners and losers of this leadership change.",
+   "Bob McMillan (WSJ) suggests the departure of Jensen Huang represents a potential loss of voice for the 'accelerationists' in the AI industry.",
+   "Amrith Ram Kumar (WSJ) notes that some industry observers privately suggest Wong should have received a defensive briefing from US intelligence if he were being targeted for espionage."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Advanced Micro Devices (AMD)",
+   "Apple (AAPL)",
+   "Huawei"
+  ],
+  "glossary": [
+   {
+    "term": "Flat structure",
+    "definition": "An organizational hierarchy with few or no levels of middle management between staff and executives.",
+    "example": "Jensen Huang managed Nvidia with a flat structure where 60 people reported directly to him."
+   },
+   {
+    "term": "Moat",
+    "definition": "A sustainable competitive advantage that protects a company's market share from rivals.",
+    "example": "Nvidia's Cuda platform is considered its primary moat in the AI chip industry."
+   },
+   {
+    "term": "Defensive briefing",
+    "definition": "A warning provided by intelligence agencies to individuals who may be targeted by foreign espionage efforts.",
+    "example": "Amrith Ram Kumar noted that Wong did not receive a defensive briefing regarding his association with an alleged intelligence asset."
+   },
+   {
+    "term": "Backstop",
+    "definition": "A form of financial support or guarantee provided to ensure a project or entity can continue operating.",
+    "example": "Colette Kress defended Nvidia's direct investments and backstops for data center projects."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "geopolitics",
+   "corporate governance"
+  ],
+  "quality_note": "The source consists of reporting from Wall Street Journal journalists, combining verified corporate announcements with ongoing investigations and industry analysis.",
+  "worth_reading": true
+ }
+}
