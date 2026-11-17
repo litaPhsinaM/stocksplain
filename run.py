@@ -284,6 +284,7 @@ def main():
                     help="re-summarize saved items from their transcripts (all of today's if no ids), redo the brief, build")
     ap.add_argument("--source", help="only this source id")
     ap.add_argument("--limit", type=int, default=2, help="max new items per source")
+    ap.add_argument("--no-score", action="store_true", help="leave scoring forecasts to a later --claims run")
     ap.add_argument("--max-minutes", type=float, help="stop starting new episodes after this long (the rest wait for "
                                                       "the next run), so a time-limited cloud job still finishes the day")
     args = ap.parse_args()
@@ -384,11 +385,12 @@ def main():
         write_extras(today)
     except Exception as e:
         print(f"! quiz/audio failed: {e}")
-    try:
-        from digest import claims
-        claims.resolve()
-    except Exception as e:
-        print(f"! scoring forecasts failed: {e}")
+    if not args.no_score:  # the cloud job scores in its own optional step, so a slow Gemini can't fail the day
+        try:
+            from digest import claims
+            claims.resolve()
+        except Exception as e:
+            print(f"! scoring forecasts failed: {e}")
     build.build(ROOT)
 
 

@@ -87,7 +87,7 @@ jobs:
       - name: New episodes, brief, hot topics, prices, quiz, audio
         if: steps.due.outputs.run == 'yes' && inputs.dry_run != true
         timeout-minutes: 32   # no new episode is started after 22 min, so the brief, quiz and audio still get written
-        run: python run.py --limit "${{ inputs.limit || '2' }}" --max-minutes 22
+        run: python run.py --limit "${{ inputs.limit || '2' }}" --max-minutes 22 --no-score
       - name: Forecasts for the Scorecard
         if: steps.due.outputs.run == 'yes' && inputs.dry_run != true && !cancelled()
         # Optional extra: when Gemini is busy (503/504 retries) this can run long. Give it room, and never fail the
