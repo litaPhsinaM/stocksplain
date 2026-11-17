@@ -1,0 +1,53 @@
+{
+ "date": "2026-11-17",
+ "big_picture": "Nvidia faces a leadership crisis and a 25% stock decline following the resignation of Jensen Huang, while the US government implements new restrictions on AI chip access for Chinese firms. Transportation Secretary Sean Duffy is seeking $50 billion to modernize aviation infrastructure after a ground stop cancelled 9,000 flights.",
+ "themes": [
+  {
+   "title": "Nvidia leadership transition and market volatility",
+   "explanation": "Following the resignation of Jensen Huang due to personal scandals and smuggling allegations, Nvidia's market capitalization fell by over $2 trillion from its October peak. While 180,000 people signed a petition for his return, the board is focused on DOJ probes and maintaining a product roadmap under interim CEO Colette Kress.",
+   "item_ids": [
+    "wsj-whats-news-51bc54e35b",
+    "prof-g-markets-0d83a0a7fc",
+    "squawk-pod-29d814daed",
+    "wsj-whats-news-3ec5df2dcf",
+    "bloomberg-surveillance-ee5ccd7638"
+   ]
+  },
+  {
+   "title": "US-China trade tensions and chip export controls",
+   "explanation": "The Commerce Department issued new rules requiring licenses for chip exports to Malaysia, Thailand, and Indonesia to prevent Chinese firms from using remote data centers for AI development. These restrictions coincide with President Trump's trip to the APEC summit to meet with Xi Jinping and Vladimir Putin regarding the current trade truce.",
+   "item_ids": [
+    "marketplace-28a300b576",
+    "wsj-whats-news-51bc54e35b",
+    "bloomberg-surveillance-4761170088"
+   ]
+  },
+  {
+   "title": "Infrastructure modernization and transportation disruptions",
+   "explanation": "Transportation Secretary Sean Duffy requested $50 billion from Congress to upgrade air traffic control systems after aging infrastructure caused a nationwide ground stop. Meanwhile, Union Pacific's $72 billion merger with Norfolk Southern faces regulatory delays after CEO John Venna threatened rate hikes for opposing customers.",
+   "item_ids": [
+    "wsj-whats-news-51bc54e35b",
+    "squawk-pod-29d814daed",
+    "wsj-whats-news-3ec5df2dcf"
+   ]
+  },
+  {
+   "title": "Consumer spending and retail sector outlook",
+   "explanation": "The National Retail Federation expects holiday sales to grow 4.2%, a figure that reflects consumer caution as inflation remains near 4%. Personal consumption expenditures drove 68% of US GDP in the third quarter, and analysts expect 2% annualized GDP growth for the final quarter of the year.",
+   "item_ids": [
+    "marketplace-28a300b576",
+    "bloomberg-surveillance-4761170088"
+   ]
+  }
+ ],
+ "concept_of_the_day": {
+  "concept": "Key-person risk",
+  "explanation": "Key-person risk is the potential for a company's value or operations to suffer significantly if a crucial individual suddenly departs. This risk is highest when a firm's identity or strategy is tied to a single visionary leader, as seen with Nvidia's stock dropping over 25% after Jensen Huang's resignation. The board must now manage succession planning while facing pressure from 180,000 petitioners and DOJ probes. This risk also appeared at Union Pacific, where the CEO's personal conduct and threats to customers jeopardized a $72 billion merger. Managing this risk often involves institutionalizing processes so the firm is not overly dependent on one person's reputation or leadership style."
+ },
+ "watch_for": [
+  "APEC summit meeting between Trump and Xi Jinping",
+  "Nvidia earnings report under interim CEO Colette Kress",
+  "Anthropic IPO pricing and trading",
+  "Federal Reserve meeting with expected 25 basis point rate hike"
+ ]
+}

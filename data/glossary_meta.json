@@ -2,6 +2,9 @@
  "401(k)": {
   "topic": "personal"
  },
+ "60/40 portfolio": {
+  "topic": "stocks"
+ },
  "active fund": {
   "topic": "stocks"
  },
@@ -22,6 +25,9 @@
  },
  "ai trade": {
   "topic": "tech"
+ },
+ "apec": {
+  "topic": "policy"
  },
  "ask": {
   "topic": "trading"
@@ -46,6 +52,10 @@
  },
  "basis point": {
   "topic": "bonds"
+ },
+ "basis points": {
+  "topic": "bonds",
+  "same_as": "basis point"
  },
  "bear market": {
   "topic": "stocks"
@@ -77,6 +87,9 @@
  "bull market": {
   "topic": "stocks"
  },
+ "capex": {
+  "topic": "companies"
+ },
  "capital gain": {
   "topic": "personal"
  },
@@ -88,6 +101,9 @@
  },
  "citizens' assembly": {
   "topic": "other"
+ },
+ "class a shares": {
+  "topic": "stocks"
  },
  "clearing event": {
   "topic": "trading"
@@ -115,6 +131,12 @@
  },
  "containerization": {
   "topic": "other"
+ },
+ "contingency planning": {
+  "topic": "other"
+ },
+ "contraction": {
+  "topic": "economy"
  },
  "convertible debt": {
   "topic": "bonds"
@@ -229,6 +251,9 @@
  "fertility rate": {
   "topic": "other"
  },
+ "fiduciary responsibility": {
+  "topic": "personal"
+ },
  "flat structure": {
   "topic": "companies"
  },
@@ -240,6 +265,9 @@
  },
  "forward guidance": {
   "topic": "economy"
+ },
+ "forward price-to-earnings ratio": {
+  "topic": "companies"
  },
  "fully diluted basis": {
   "topic": "companies"
@@ -255,6 +283,15 @@
  },
  "gpu": {
   "topic": "tech"
+ },
+ "gridlock": {
+  "topic": "policy"
+ },
+ "gross domestic product (gdp)": {
+  "topic": "economy"
+ },
+ "ground stop": {
+  "topic": "other"
  },
  "growth equity": {
   "topic": "stocks"
@@ -277,6 +314,9 @@
  "high arousal negative content": {
   "topic": "other"
  },
+ "holiday creep": {
+  "topic": "other"
+ },
  "home bias": {
   "topic": "stocks"
  },
@@ -285,6 +325,10 @@
  },
  "hot wallet": {
   "topic": "crypto"
+ },
+ "hyper scalar": {
+  "topic": "tech",
+  "same_as": "hyperscalers"
  },
  "hyperscalers": {
   "topic": "tech"
@@ -305,6 +349,9 @@
   "topic": "stocks"
  },
  "inflation": {
+  "topic": "economy"
+ },
+ "infrastructure": {
   "topic": "economy"
  },
  "institutional capital": {
@@ -399,6 +446,9 @@
  "momentum (factor)": {
   "topic": "trading"
  },
+ "monetary policy": {
+  "topic": "economy"
+ },
  "mortgage interest deduction": {
   "topic": "policy"
  },
@@ -491,6 +541,9 @@
  "ppi (producer price index)": {
   "topic": "economy"
  },
+ "prediction market": {
+  "topic": "trading"
+ },
  "premium": {
   "topic": "personal"
  },
@@ -535,6 +588,9 @@
  },
  "real return": {
   "topic": "personal"
+ },
+ "real sales": {
+  "topic": "companies"
  },
  "rebalancing": {
   "topic": "personal"
@@ -589,6 +645,12 @@
  },
  "sectoral bargaining": {
   "topic": "policy"
+ },
+ "securitization": {
+  "topic": "banking"
+ },
+ "senior unsecured debt": {
+  "topic": "bonds"
  },
  "share (stock)": {
   "topic": "stocks"

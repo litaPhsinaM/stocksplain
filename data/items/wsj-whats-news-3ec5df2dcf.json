@@ -1,0 +1,113 @@
+{
+ "id": "wsj-whats-news-3ec5df2dcf",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Sean Duffy Wants $50 Billion to Prevent More Travel Chaos",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/aa5f372b-775f-458a-a8d9-26ffb214b042/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=aa5f372b-775f-458a-a8d9-26ffb214b042&feed=BA5QWI2p",
+ "published": "2026-11-16",
+ "duration": 753,
+ "digest_date": "2026-11-17",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Transportation Secretary Sean Duffy calls for aviation funding",
+   "US aviation ground stop aftermath",
+   "Nvidia CEO affair and Chinese spy probe",
+   "Anthropic IPO and AI market demand",
+   "Federal Reserve October meeting minutes",
+   "Japan's economic contraction",
+   "US fuel shipments to Cuba"
+  ],
+  "headline": "Transportation Secretary Duffy seeks $50B for aviation; Nvidia faces leadership crisis",
+  "tldr": "Transportation Secretary Sean Duffy is requesting $50 billion from Congress to modernize aging air traffic control systems following recent travel disruptions. Meanwhile, Nvidia is searching for a new CEO after Jensen Huang resigned amid an extramarital affair and allegations of ties to a Chinese spy.",
+  "key_points": [
+   {
+    "point": "Transportation Secretary Sean Duffy is requesting $50 billion from Congress to upgrade outdated air traffic control systems operated by L3Harris Technologies.",
+    "why_it_matters": "Modernizing critical infrastructure is essential to preventing widespread travel disruptions caused by aging technology."
+   },
+   {
+    "point": "Nvidia is searching for a new CEO following the resignation of Jensen Huang, who was linked to an extramarital affair and allegations of being a Chinese spy.",
+    "why_it_matters": "Leadership scandals at major technology firms can create significant uncertainty and impact stock performance."
+   },
+   {
+    "point": "Anthropic is preparing for an IPO, with the market focusing on the demand side of AI tokens rather than just the supply side.",
+    "why_it_matters": "Understanding the sustainability of AI business models is crucial as more companies enter the sector."
+   },
+   {
+    "point": "Japan's economy has entered a period of contraction due to rising energy costs, though corporate earnings and wage growth remain stable.",
+    "why_it_matters": "Economic contraction in major global economies can signal broader challenges for international trade and investment."
+   },
+   {
+    "point": "The US has shipped over 1.6 million barrels of oil to Cuba this year to prevent the island's energy sector from collapsing.",
+    "why_it_matters": "US fuel shipments to Cuba highlight the complex geopolitical and economic dynamics involved in maintaining regional stability."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$50B",
+    "context": "The amount of funding Transportation Secretary Sean Duffy is requesting from Congress for aviation system upgrades."
+   },
+   {
+    "figure": "9,000",
+    "context": "The number of flights cancelled during the recent US aviation ground stop."
+   },
+   {
+    "figure": "1.6 million",
+    "context": "The number of barrels of US oil shipped to Cuba this year."
+   },
+   {
+    "figure": "$230 million",
+    "context": "The total value of US oil shipments sent to Cuba this year."
+   }
+  ],
+  "lesson": "When a company's leadership is tied to significant personal or security scandals, the resulting uncertainty can disrupt operations and force a search for new management, demonstrating the impact of key-person risk.",
+  "opinions_and_predictions": [
+   "Transportation Secretary Sean Duffy believes Congress must provide $50 billion to prevent future aviation disruptions.",
+   "Treasury Secretary Scott Bessent suggests Nvidia needs an outsider as its next CEO to address internal cultural issues.",
+   "Matt Withycombe (Wellington Management) argues that Anthropic represents a pure-play AI stock with strong demand signals.",
+   "Economists predict that Japanese households will face increased inflation as companies pass on higher energy costs."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "L3Harris Technologies (LHX)",
+   "AT&T (T)",
+   "Verizon (VZ)",
+   "Shopify (SHOP)",
+   "Amazon (AMZN)"
+  ],
+  "glossary": [
+   {
+    "term": "IPO",
+    "definition": "Initial Public Offering; the process by which a private company offers shares to the public for the first time.",
+    "example": "Anthropic is preparing for its upcoming IPO."
+   },
+   {
+    "term": "Ground stop",
+    "definition": "An air traffic control measure that prevents aircraft from taking off or landing at specific airports.",
+    "example": "The recent US aviation ground stop caused over 9,000 flight cancellations."
+   },
+   {
+    "term": "Key-person risk",
+    "definition": "The risk that a company's performance will suffer if a critical leader leaves or is incapacitated.",
+    "example": "Nvidia faces significant key-person risk following the resignation of its CEO."
+   },
+   {
+    "term": "Contraction",
+    "definition": "A period of economic decline characterized by a reduction in output and growth.",
+    "example": "Japan's economy is currently in a state of contraction."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "aviation",
+   "ai stocks",
+   "geopolitics",
+   "macroeconomics"
+  ],
+  "quality_note": "The source features reports from journalists and analysts, providing a mix of factual updates and expert commentary on corporate and economic events.",
+  "worth_reading": true
+ }
+}

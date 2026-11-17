@@ -1,0 +1,104 @@
+{
+ "id": "prof-g-markets-0d83a0a7fc",
+ "source_id": "prof-g-markets",
+ "source_name": "Prof G Markets",
+ "kind": "podcast",
+ "title": "Could Jensen Huang Actually Return To Nvidia?",
+ "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6672684765.mp3",
+ "media_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6672684765.mp3",
+ "published": "2026-11-17",
+ "duration": 2401,
+ "digest_date": "2026-11-17",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Market decline and Nvidia sell-off",
+   "Jensen Huang's potential return to Nvidia",
+   "Legal and export control scandals",
+   "Nvidia's future without Huang",
+   "Risks from DOJ and export probes"
+  ],
+  "headline": "Jensen Huang's potential Nvidia return; DOJ probes intensify",
+  "tldr": "Nvidia faces leadership uncertainty and legal scrutiny following the resignation of Jensen Huang. While some tech figures lobby for his return, the board remains focused on navigating export control investigations and maintaining the company's long-term roadmap.",
+  "key_points": [
+   {
+    "point": "Jensen Huang resigned from Nvidia following reports of multiple affairs and potential involvement in illegal chip smuggling to China.",
+    "why_it_matters": "The departure of a visionary founder creates significant uncertainty regarding the company's future leadership and strategic direction."
+   },
+   {
+    "point": "Rohan Goswami (Semafor) reports the board is unlikely to reinstate Huang, citing strict corporate governance standards.",
+    "why_it_matters": "This suggests that the board is prioritizing institutional stability and legal compliance over the potential short-term benefits of a founder's return."
+   },
+   {
+    "point": "Nvidia is currently facing multiple Department of Justice (DOJ) probes regarding export controls and potential chip smuggling.",
+    "why_it_matters": "Legal and regulatory risks pose a direct threat to the company's operations and reputation, especially given its critical role in the global AI supply chain."
+   },
+   {
+    "point": "Interim CEO Colette Kress faces the challenge of maintaining investor confidence during the upcoming earnings report.",
+    "why_it_matters": "The market is closely watching how the company communicates its path forward without its primary visionary leader."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-2%",
+    "context": "The percentage decline in the Nasdaq index during the market session."
+   },
+   {
+    "figure": ">5.1%",
+    "context": "The yield on the 10-year Treasury note, which remained elevated despite a slight decline."
+   },
+   {
+    "figure": "180,000",
+    "context": "The number of signatures on an online petition calling for the reinstatement of Jensen Huang."
+   },
+   {
+    "figure": ">25%",
+    "context": "The decline in Nvidia's stock price since the scandal broke."
+   }
+  ],
+  "lesson": "When a company's success is heavily concentrated in a single visionary leader, the sudden loss of that person creates significant key-person risk, which boards must manage through succession planning and adherence to corporate governance protocols.",
+  "opinions_and_predictions": [
+   "Rohan Goswami (Semafor) believes there is no chance Huang returns, stating it is a non-starter for the board.",
+   "Deirdre Bosa (Deirdre Bosa Live) argues that Huang's return is plausible given the influence of the tech community and the precedent of Sam Altman's return to OpenAI.",
+   "Rohan Goswami (Semafor) predicts that the current situation will force the AI industry to adopt greater financial discipline and focus on long-term investment-grade ratings.",
+   "Deirdre Bosa (Deirdre Bosa Live) suggests that while the company's 1-2 year roadmap is secure, long-term innovation may suffer without Huang's specific brand of paranoia and leadership."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Alphabet (GOOGL)",
+   "Amazon (AMZN)",
+   "Super Micro Computer (SMCI)"
+  ],
+  "glossary": [
+   {
+    "term": "Fiduciary responsibility",
+    "definition": "The legal and ethical obligation of a board or manager to act in the best interest of the company's shareholders.",
+    "example": "The board must decide if keeping or firing a CEO better protects shareholder value."
+   },
+   {
+    "term": "Export controls",
+    "definition": "Government regulations that restrict the shipment of certain goods or technologies to specific countries for national security reasons.",
+    "example": "The US government blocking the sale of advanced AI chips to China."
+   },
+   {
+    "term": "Capex",
+    "definition": "Capital expenditure, which is the money a company spends to acquire or maintain physical assets like technology and infrastructure.",
+    "example": "Nvidia's customers spending billions on data centers to run AI models."
+   },
+   {
+    "term": "Short seller",
+    "definition": "An investor who bets that a company's stock price will fall, often by researching and exposing corporate wrongdoing.",
+    "example": "Hindenburg Research is cited as an example of a firm that helps sort out 'wheat from the chaff'."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "corporate governance",
+   "geopolitics"
+  ],
+  "quality_note": "The source features reporting from journalists at Semafor and other outlets, combining factual updates on legal probes with speculative analysis regarding leadership changes.",
+  "worth_reading": true
+ }
+}

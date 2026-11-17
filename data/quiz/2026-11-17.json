@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-17",
+ "questions": [
+  {
+   "question": "What does a 'forward price-to-earnings ratio' tell an investor?",
+   "options": [
+    "The total value of all company shares",
+    "The ratio of current price to expected future earnings",
+    "The amount of debt a company carries",
+    "The historical growth rate of dividends"
+   ],
+   "answer": 1,
+   "explanation": "The forward P/E ratio compares a company's current stock price to its projected future earnings per share. It helps investors value a company based on what it is expected to earn in the future rather than just its past performance.",
+   "item_id": "bloomberg-surveillance-4761170088"
+  },
+  {
+   "question": "If inflation is 4% and retail sales grow by 4.2%, what does this mean for consumers?",
+   "options": [
+    "Consumers have significantly more purchasing power",
+    "Retailers are losing money on every sale",
+    "Real spending power has only increased slightly",
+    "The economy is in a deep recession"
+   ],
+   "answer": 2,
+   "explanation": "Real sales are adjusted for inflation to show actual purchasing power. Because the 4.2% growth is barely higher than the 4% inflation rate, the actual increase in what consumers can buy is very small.",
+   "item_id": "marketplace-28a300b576"
+  },
+  {
+   "question": "Why does the resignation of a visionary founder like Jensen Huang create 'key-person risk'?",
+   "options": [
+    "Because it automatically triggers a government takeover",
+    "Because the company's success is heavily tied to that specific leader's strategy",
+    "Because it forces the company to pay higher taxes",
+    "Because it makes the company's products illegal to sell"
+   ],
+   "answer": 1,
+   "explanation": "Key-person risk occurs when a company's performance is so dependent on one individual that their departure creates significant uncertainty. This instability can disrupt operations and force the board to search for new management to restore investor confidence.",
+   "item_id": "prof-g-markets-0d83a0a7fc"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "bloomberg-surveillance-ee5ccd7638",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 16th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-16th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/1b53a0a6-ddf9-4648-8103-b50401229469/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-16",
+ "duration": 2003,
+ "digest_date": "2026-11-17",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia leadership change and AI financing",
+   "Treasury market and Fed policy outlook",
+   "US-China trade and cabinet rivalry",
+   "Bank of America on IPO pipeline",
+   "Corporate governance and CEO succession"
+  ],
+  "headline": "Nvidia leadership transition; Fed policy and IPO outlook",
+  "tldr": "Nvidia's leadership change and potential slowdown in AI financing are impacting market expectations. Meanwhile, Bank of America reports a full IPO pipeline despite near-term delays, while Fed policy remains a focus amid stubborn inflation.",
+  "key_points": [
+   {
+    "point": "Nvidia's leadership change may slow the company's role in financing AI data center construction.",
+    "why_it_matters": "Nvidia has acted as a key backstop for AI infrastructure; a shift in this strategy could impact the broader AI ecosystem's growth."
+   },
+   {
+    "point": "Bank of America CEO Brian Moynihan noted that while the IPO pipeline is full, some deals are sliding into next year due to market uncertainty.",
+    "why_it_matters": "Market volatility often forces companies to delay capital-raising plans until conditions stabilize."
+   },
+   {
+    "point": "Bob Michael of JP Morgan Asset Management expects the Fed to hike rates by 25 basis points at each meeting rather than 50 basis points.",
+    "why_it_matters": "Understanding the pace of rate hikes is critical for assessing borrowing costs and market valuations."
+   },
+   {
+    "point": "Internal rivalry between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick is creating friction within the administration.",
+    "why_it_matters": "Cabinet-level disagreements can influence trade policy, including potential new export controls on advanced technology."
+   },
+   {
+    "point": "Bank of America spent $300 million on AI initiatives this year to generate an estimated $700 million in value.",
+    "why_it_matters": "Quantifying the return on investment for AI helps determine the long-term viability of corporate AI spending."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$50 billion",
+    "context": "The estimated cost to build a large-scale data center."
+   },
+   {
+    "figure": "25 basis points",
+    "context": "The expected increment for future Federal Reserve rate hikes."
+   },
+   {
+    "figure": "$300 million",
+    "context": "The amount Bank of America spent on AI initiatives this year."
+   },
+   {
+    "figure": "$700 million",
+    "context": "The value Bank of America expects to generate from its AI initiatives."
+   }
+  ],
+  "lesson": "When a company's growth is heavily reliant on a single leader's strategy or financing model, a change in management introduces significant uncertainty for the entire ecosystem that depends on that company's support.",
+  "opinions_and_predictions": [
+   "Bob Michael (JP Morgan Asset Management) believes the Fed will likely stick to 25 basis point hikes rather than 50.",
+   "Bob Michael (JP Morgan Asset Management) thinks the Fed committee currently has more control than the Fed chair.",
+   "John Llewellyn (Llewellyn Consulting) expects Trump and Xi to extend the current trade truce.",
+   "John Llewellyn (Llewellyn Consulting) predicts that if new export controls take effect, the trade agreement will unravel."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Alphabet (GOOGL)",
+   "Bank of America (BAC)",
+   "Berkshire Hathaway (BRK.A)"
+  ],
+  "glossary": [
+   {
+    "term": "Securitization",
+    "definition": "The process of pooling various types of debt (like loans or leases) and selling them as bonds to investors.",
+    "example": "Nvidia helped create securitizations to finance data center equipment leases."
+   },
+   {
+    "term": "Basis points",
+    "definition": "A common unit of measure for interest rates; one basis point is equal to 0.01%.",
+    "example": "A 25 basis point hike increases the interest rate by 0.25%."
+   },
+   {
+    "term": "Hyper scalar",
+    "definition": "Large companies that provide cloud computing and data center services at a massive scale.",
+    "example": "Alphabet is considered a hyper scalar that builds large data centers."
+   },
+   {
+    "term": "Senior unsecured debt",
+    "definition": "Debt that is not backed by specific collateral and must be paid before other debts if a company goes bankrupt.",
+    "example": "Hyper scalers issued senior unsecured debt to fund their infrastructure."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "interest rates",
+   "trade policy",
+   "ipo market"
+  ],
+  "quality_note": "The source features interviews with a bank executive and an asset manager, providing a mix of corporate strategy and macroeconomic analysis, though some political commentary remains speculative.",
+  "worth_reading": true
+ }
+}

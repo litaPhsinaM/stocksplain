@@ -1,0 +1,110 @@
+{
+ "id": "bloomberg-surveillance-4761170088",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Tech and China Trade",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/tech-and-china-trade",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/a08a95b4-e930-4516-a0d6-b50400f49a15/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-16",
+ "duration": 2152,
+ "digest_date": "2026-11-17",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "President Trump's upcoming APEC summit travel",
+   "US-China trade and chip export tensions",
+   "Toyota and Subaru EV sales growth",
+   "Morgan Stanley outlook on AI and markets",
+   "BMO economic growth and inflation outlook"
+  ],
+  "headline": "Trump's APEC trip, AI market outlook, and EV sales trends",
+  "tldr": "President Trump is traveling to China for the APEC summit amid political and trade tensions. Meanwhile, analysts are evaluating the sustainability of the AI build-out and noting growth in EV sales for Toyota and Subaru.",
+  "key_points": [
+   {
+    "point": "President Trump is traveling to China for the APEC summit, where he will meet with Xi Jinping and Vladimir Putin.",
+    "why_it_matters": "The meeting is a focal point for global trade and geopolitical relations, particularly regarding the ongoing trade truce."
+   },
+   {
+    "point": "Toyota and Subaru sold nearly 62,000 EVs in the US in the first three quarters of the year.",
+    "why_it_matters": "This represents a significant growth trend for these brands in the EV market, even as other automakers have scaled back production."
+   },
+   {
+    "point": "Dan Skelly (Morgan Stanley) notes that AI data center build-out remains the primary story for capital markets.",
+    "why_it_matters": "Understanding the market's willingness to support AI infrastructure is key to assessing current equity positioning."
+   },
+   {
+    "point": "Jennifer Lee (BMO) expects US GDP growth to be around 2% annualized for the final quarter.",
+    "why_it_matters": "Economic growth forecasts are being recalibrated due to near-term uncertainty surrounding AI adoption and supply chain constraints."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "62,000",
+    "context": "The number of EVs sold by Toyota and Subaru in the US in the first three quarters of 2026."
+   },
+   {
+    "figure": "9%",
+    "context": "The share of the US EV market currently held by Toyota and Subaru."
+   },
+   {
+    "figure": "5.1%",
+    "context": "The yield on the 10-year Treasury note."
+   },
+   {
+    "figure": "2%",
+    "context": "The annualized US GDP growth expectation for the final quarter of the year."
+   }
+  ],
+  "lesson": "When policy shocks or sector-specific controversies trigger rapid algorithmic selling, the resulting price volatility creates opportunities for market stabilization as automated liquidation cycles conclude.",
+  "opinions_and_predictions": [
+   "Ross Matthews (Bloomberg) believes the APEC meeting will focus more on optics than substantive policy changes.",
+   "Dan Skelly (Morgan Stanley) suggests that recent fundamental issues in the semiconductor sector are now largely priced in.",
+   "Jennifer Lee (BMO) views the current AI slowdown as a temporary reset rather than a long-term change in the growth outlook."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Toyota (TM)",
+   "Subaru",
+   "Ford (F)",
+   "Rivian (RIVN)",
+   "Hershey (HSY)",
+   "Walmart (WMT)",
+   "Home Depot (HD)",
+   "Target (TGT)",
+   "Disney (DIS)"
+  ],
+  "glossary": [
+   {
+    "term": "APEC",
+    "definition": "Asia-Pacific Economic Cooperation, a forum for 21 member economies to promote free trade and economic cooperation.",
+    "example": "President Trump is traveling to China for the APEC conference."
+   },
+   {
+    "term": "60/40 portfolio",
+    "definition": "An investment strategy that allocates 60% of assets to stocks and 40% to bonds to balance risk and return.",
+    "example": "Dan Skelly noted that the 60/40 trade is becoming more effective as yields rise."
+   },
+   {
+    "term": "Forward price-to-earnings ratio",
+    "definition": "A valuation metric that compares a company's current share price to its expected future earnings per share.",
+    "example": "Nvidia's forward price-to-earnings ratio is currently around 11 times."
+   },
+   {
+    "term": "Gridlock",
+    "definition": "A political situation where it is difficult to pass new laws because different parties control different branches of government.",
+    "example": "The market initially reacted positively to the idea of political gridlock following the elections."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "geopolitics",
+   "ai stocks",
+   "economic growth",
+   "ev market"
+  ],
+  "quality_note": "The source features reports from journalists and analysts at major financial institutions, providing a mix of geopolitical observation and market analysis.",
+  "worth_reading": true
+ }
+}

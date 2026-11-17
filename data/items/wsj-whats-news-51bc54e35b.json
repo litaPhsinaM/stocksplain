@@ -1,0 +1,111 @@
+{
+ "id": "wsj-whats-news-51bc54e35b",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Nvidia Scandal Could Ramp Up Tensions at Trump-Xi Summit",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/14491550-c1c6-462a-8baa-484ccc45df4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=14491550-c1c6-462a-8baa-484ccc45df4b&feed=BA5QWI2p",
+ "published": "2026-11-16",
+ "duration": 723,
+ "digest_date": "2026-11-17",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Trump-Xi summit and Nvidia scandal",
+   "Commerce Department export control rules",
+   "Nvidia stock and leadership fallout",
+   "Market decline and Berkshire Hathaway updates",
+   "Fed Chairman Warsh on AI impact",
+   "Union Pacific merger and CEO comments",
+   "Robert Pattinson cast as James Bond"
+  ],
+  "headline": "Nvidia scandal strains US-China relations; Union Pacific merger faces regulatory scrutiny",
+  "tldr": "The Nvidia CEO scandal is complicating US-China diplomatic talks while triggering new export restrictions on chips. Meanwhile, Union Pacific's proposed merger is under pressure after its CEO made threatening comments toward customers.",
+  "key_points": [
+   {
+    "point": "The Nvidia scandal involving Jensen Huang and a suspected Chinese intelligence agent is increasing pressure on US-China relations ahead of a summit.",
+    "why_it_matters": "Geopolitical tensions can lead to stricter export controls, impacting the revenue and operations of major technology companies."
+   },
+   {
+    "point": "The Commerce Department issued new rules requiring licenses to export chips to countries like Malaysia, Thailand, and Indonesia to prevent remote access by Chinese firms.",
+    "why_it_matters": "Regulatory shifts in chip exports directly affect global supply chains and the ability of US companies to serve international markets."
+   },
+   {
+    "point": "Union Pacific CEO John Venna threatened to raise rates on customers who opposed a $72 billion merger, leading regulators to extend comment periods due to concerns over market power.",
+    "why_it_matters": "Corporate leadership behavior can jeopardize multi-billion dollar mergers by alienating stakeholders and inviting increased government oversight."
+   },
+   {
+    "point": "Fed Chairman Kevin Warsh stated the central bank is modeling how AI might displace workers or impact market returns, though it is not currently predicting economic outcomes.",
+    "why_it_matters": "Central bank contingency planning regarding new technologies signals that regulators are preparing for structural shifts in the labor market and economy."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$72 billion",
+    "context": "The total value of the proposed merger between Union Pacific and Norfolk Southern."
+   },
+   {
+    "figure": ">$2 trillion",
+    "context": "The amount of market capitalization Nvidia has lost from its October peak."
+   },
+   {
+    "figure": "-4%",
+    "context": "The closing decline of Nvidia stock following the fallout of the CEO's departure."
+   },
+   {
+    "figure": "-2.5%",
+    "context": "The closing percentage decline of the Nasdaq index."
+   }
+  ],
+  "lesson": "When a company's leadership engages in public misconduct or threatens stakeholders, it creates regulatory and reputational risks that can jeopardize long-term strategic goals like mergers or market access.",
+  "opinions_and_predictions": [
+   "Lingling Wei (WSJ) believes the Jensen Huang affair could lead to more sanctions against Chinese companies.",
+   "Lingling Wei (WSJ) predicts that if the US tightens export controls, China will retaliate, leading to strained relations.",
+   "President Trump stated that reinstating Jensen Huang as Nvidia CEO 'isn't a bad idea'.",
+   "Esther Fung (WSJ) reports that regulators are concerned the CEO's comments could chill stakeholders from providing feedback on the merger."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Union Pacific (UNP)",
+   "Norfolk Southern (NSC)",
+   "Berkshire Hathaway (BRK.A)",
+   "Lennar (LEN)",
+   "Capital One (COF)",
+   "Kroger (KR)",
+   "Bank of America (BAC)"
+  ],
+  "glossary": [
+   {
+    "term": "Market cap",
+    "definition": "The total dollar value of a company's outstanding shares of stock.",
+    "example": "Nvidia lost $2 trillion in market cap after its recent decline."
+   },
+   {
+    "term": "Export controls",
+    "definition": "Government regulations that restrict the shipment of certain goods or technologies to foreign countries.",
+    "example": "The Commerce Department issued new rules to crack down on chip shipments to China."
+   },
+   {
+    "term": "Monetary policy",
+    "definition": "Actions taken by a central bank to manage the money supply and interest rates to influence the economy.",
+    "example": "Fed Chairman Warsh noted that AI adoption has implications for the Fed's work on monetary policy."
+   },
+   {
+    "term": "Contingency planning",
+    "definition": "The process of preparing for potential future events or risks.",
+    "example": "The Fed is using staff modeling for contingency planning regarding AI's economic impact."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "geopolitics",
+   "semiconductors",
+   "mergers and acquisitions",
+   "central banking"
+  ],
+  "quality_note": "The report relies on WSJ journalists and official statements, though some claims regarding the impact of the CEO scandal are speculative.",
+  "worth_reading": true
+ }
+}
