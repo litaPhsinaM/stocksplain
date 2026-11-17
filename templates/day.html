@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% set active = 'today' if is_home else 'archive' %}
-{% block title %}Stocksplain · {{ pretty_date }}{% endblock %}
+{% block title %}{% if is_home %}Stocksplain: Learn Investing With Today’s Market News{% else %}{{ pretty_date }}: Market News Explained · Stocksplain{% endif %}{% endblock %}
 {% block description %}{% if brief and brief.big_picture %}{{ brief.big_picture|truncate(158, false, '…') }}{% else %}Stocksplain for {{ pretty_date }}: plain-English summaries of today's finance podcasts and market news, for people learning to invest.{% endif %}{% endblock %}
 {% block og_type %}article{% endblock %}
 {% block jsonld %}<script type="application/ld+json">{{ {
