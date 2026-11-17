@@ -383,8 +383,36 @@ def _gemini_generate(contents, schema):
         response_mime_type="application/json", response_schema=schema, temperature=0.3,
         media_resolution=types.MediaResolution.MEDIA_RESOLUTION_LOW,
     )
-    return _gemini_call(contents, cfg, lambda r: schema.model_validate_json(r.text or ""),
-                        models=task_models(_SCHEMA_TASK.get(schema.__name__)))
+    try:
+        return _gemini_call(contents, cfg, lambda r: schema.model_validate_json(r.text or ""),
+                            models=task_models(_SCHEMA_TASK.get(schema.__name__)))
+    except RuntimeError:
+        # Every Gemini model failed. Text-only jobs can still be done by Claude (if a key is set);
+        # audio and video can't, so those wait for the next run as before.
+        if not (os.environ.get("ANTHROPIC_API_KEY") and all(isinstance(c, str) for c in contents)):
+            raise
+        return _claude_generate("\n\n".join(contents), schema)
+
+
+CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
+
+
+def _claude_generate(prompt: str, schema):
+    """Backup writer for when Gemini is down: same prompt, same JSON shape, checked against the same schema."""
+    global last_model
+    import anthropic
+    print(f"    Gemini unavailable, asking Claude ({CLAUDE_MODEL})")
+    client = anthropic.Anthropic(timeout=300, max_retries=2)
+    resp = client.messages.parse(
+        model=CLAUDE_MODEL, max_tokens=16000,
+        output_config={"effort": "medium"},
+        messages=[{"role": "user", "content": prompt}],
+        output_format=schema,
+    )
+    if resp.stop_reason != "end_turn" or resp.parsed_output is None:
+        raise RuntimeError(f"Claude gave no usable answer ({resp.stop_reason})")
+    last_model = CLAUDE_MODEL
+    return resp.parsed_output
 
 
 TRANSCRIBE_PROMPT = """Transcribe this podcast episode word for word, in English, from start to finish.

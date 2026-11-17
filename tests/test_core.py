@@ -186,3 +186,18 @@ def test_name_fixes_sound_alike_surname():
     fx = checks.name_fixes(["Jensen Wong resigned", "Wailin Wong hosts", "Alice Wong"], ["Jensen Huang quits"])
     assert fx.get("Jensen Wong") == "Jensen Huang"
     assert "Wailin Wong" not in fx and "Alice Wong" not in fx
+
+
+def test_claude_steps_in_only_for_text_when_gemini_fails(monkeypatch):
+    from digest import summarize as S
+    def down(*a, **k):
+        raise RuntimeError("no Gemini model answered")
+    monkeypatch.setattr(S, "_gemini_call", down)
+    monkeypatch.setattr(S, "_claude_generate", lambda prompt, schema: ("claude", prompt))
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
+    assert S._gemini_generate(["a", "b"], S.Quiz) == ("claude", "a\n\nb")
+    with pytest.raises(RuntimeError):            # audio/video can't go to Claude
+        S._gemini_generate([object(), "prompt"], S.Quiz)
+    monkeypatch.delenv("ANTHROPIC_API_KEY")
+    with pytest.raises(RuntimeError):            # no key: fail as before
+        S._gemini_generate(["a"], S.Quiz)
