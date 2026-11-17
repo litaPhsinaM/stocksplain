@@ -394,7 +394,7 @@ def _gemini_generate(contents, schema):
         return _claude_generate("\n\n".join(contents), schema)
 
 
-CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
+CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-haiku-5-5")  # cheapest; backup only
 
 
 def _claude_generate(prompt: str, schema):
