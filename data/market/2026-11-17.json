@@ -1,12 +1,12 @@
 {
- "as_of": "2026-11-17T12:17-05:00",
+ "as_of": "2026-11-17T12:32-05:00",
  "indices": [
   {
    "symbol": "^GSPC",
-   "price": 7351.6401,
-   "change": -64.94970000000012,
+   "price": 7350.9902,
+   "change": -65.59959999999955,
    "date": "2026-11-17",
-   "change_pct": -0.8757353682955493,
+   "change_pct": -0.8844981557426745,
    "history": [
     [
      "2025-11-17",
@@ -1014,7 +1014,7 @@
     ],
     [
      "2026-11-17",
-     7351.6401
+     7350.9902
     ]
    ],
    "name": "S&P 500",
@@ -1022,10 +1022,10 @@
   },
   {
    "symbol": "^IXIC",
-   "price": 24289.7168,
-   "change": -220.04300000000148,
+   "price": 24307.4609,
+   "change": -202.2989000000016,
    "date": "2026-11-17",
-   "change_pct": -0.8977770561423459,
+   "change_pct": -0.8253809978178595,
    "history": [
     [
      "2025-11-17",
@@ -2033,7 +2033,7 @@
     ],
     [
      "2026-11-17",
-     24289.7168
+     24307.4609
     ]
    ],
    "name": "Nasdaq",
@@ -2041,10 +2041,10 @@
   },
   {
    "symbol": "^DJI",
-   "price": 50954.0781,
-   "change": -654.0938000000024,
+   "price": 50943.6602,
+   "change": -664.5117000000027,
    "date": "2026-11-17",
-   "change_pct": -1.2674229214462929,
+   "change_pct": -1.2876094531843019,
    "history": [
     [
      "2025-11-17",
@@ -3052,7 +3052,7 @@
     ],
     [
      "2026-11-17",
-     50954.0781
+     50943.6602
     ]
    ],
    "name": "Dow Jones",
@@ -4079,10 +4079,10 @@
   },
   {
    "symbol": "BTC-USD",
-   "price": 63845.2188,
-   "change": -1010.625,
+   "price": 63717.5195,
+   "change": -1138.3243000000002,
    "date": "2026-11-17",
-   "change_pct": -1.5582635901192243,
+   "change_pct": -1.7551607277060843,
    "history": [
     [
      "2025-11-17",
@@ -5546,7 +5546,7 @@
     ],
     [
      "2026-11-17",
-     63845.2188
+     63717.5195
     ]
    ],
    "name": "Bitcoin",
@@ -5556,10 +5556,10 @@
  "companies": [
   {
    "symbol": "WMT",
-   "price": 127.585,
-   "change": -0.8250000000000028,
+   "price": 127.6016,
+   "change": -0.8083999999999918,
    "date": "2026-11-17",
-   "change_pct": -0.6424733276224615,
+   "change_pct": -0.6295459855151453,
    "history": [
     [
      "2025-11-17",
@@ -5655,7 +5655,7 @@
     ],
     [
      "2025-12-19",
-     113.6364
+     113.6363
     ],
     [
      "2025-12-22",
@@ -5667,7 +5667,7 @@
     ],
     [
      "2025-12-24",
-     110.9037
+     110.9038
     ],
     [
      "2025-12-26",
@@ -5827,7 +5827,7 @@
     ],
     [
      "2026-02-24",
-     125.948
+     125.9479
     ],
     [
      "2026-02-25",
@@ -6567,7 +6567,7 @@
     ],
     [
      "2026-11-17",
-     127.585
+     127.6016
     ]
    ],
    "name": "Walmart Inc.",
@@ -6579,8 +6579,8 @@
     "open": 127.6,
     "high": 129.0221,
     "low": 127.19,
-    "market_cap": 1015132520448,
-    "pe": 46.217392,
+    "market_cap": 1012358709248,
+    "pe": 46.232464,
     "dividend_yield": 0.77,
     "high_52w": 135.16,
     "low_52w": 99.68
@@ -6613,10 +6613,10 @@
   },
   {
    "symbol": "TGT",
-   "price": 158.065,
-   "change": -2.2549999999999955,
+   "price": 158.17,
+   "change": -2.1500000000000057,
    "date": "2026-11-17",
-   "change_pct": -1.406561876247503,
+   "change_pct": -1.3410678642714613,
    "history": [
     [
      "2025-11-17",
@@ -7624,7 +7624,7 @@
     ],
     [
      "2026-11-17",
-     158.065
+     158.17
     ]
    ],
    "name": "Target Corporation",
@@ -7636,14 +7636,20 @@
     "open": 158.0,
     "high": 161.24,
     "low": 156.75,
-    "market_cap": 71808417792,
-    "pe": 16.41381,
+    "market_cap": 71868907520,
+    "pe": 16.42783,
     "dividend_yield": 2.89,
     "high_52w": 170.75,
     "low_52w": 83.44
    },
    "next_earnings": "2026-11-18",
    "news": [
+    {
+     "title": "Target\u2019s Black Friday sale includes in-store gift card giveaway",
+     "source": "Retail Dive",
+     "url": "https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/",
+     "date": "2026-11-17"
+    },
     {
      "title": "Walmart and Target make a key customer service blunder",
      "source": "TheStreet",
@@ -7655,12 +7661,6 @@
      "source": "Zacks",
      "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q3-earnings-meet-154400748.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "Target Pays the Higher Yield. Lowe\u2019s Has Wall Street on Its Side. Which Wins for Retirees?",
-     "source": "24/7 Wall St.",
-     "url": "https://247wallst.com/investing/2026/11/17/target-pays-the-higher-yield-lowes-has-wall-street-on-its-side-which-wins-for-retirees/",
-     "date": "2026-11-17"
     }
    ],
    "mentioned_in": [
@@ -7670,10 +7670,10 @@
   },
   {
    "symbol": "TJX",
-   "price": 131.34,
-   "change": 0.25,
+   "price": 131.32,
+   "change": 0.22999999999998977,
    "date": "2026-11-17",
-   "change_pct": 0.19070867343047304,
+   "change_pct": 0.17545197955601832,
    "history": [
     [
      "2025-11-17",
@@ -7773,7 +7773,7 @@
     ],
     [
      "2025-12-22",
-     154.5936
+     154.5935
     ],
     [
      "2025-12-23",
@@ -7793,7 +7793,7 @@
     ],
     [
      "2025-12-30",
-     153.3792
+     153.3791
     ],
     [
      "2025-12-31",
@@ -7817,7 +7817,7 @@
     ],
     [
      "2026-01-08",
-     156.2423
+     156.2424
     ],
     [
      "2026-01-09",
@@ -7825,7 +7825,7 @@
     ],
     [
      "2026-01-12",
-     155.1069
+     155.107
     ],
     [
      "2026-01-13",
@@ -7869,7 +7869,7 @@
     ],
     [
      "2026-01-28",
-     145.9151
+     145.915
     ],
     [
      "2026-01-29",
@@ -7881,7 +7881,7 @@
     ],
     [
      "2026-02-02",
-     148.2648
+     148.2649
     ],
     [
      "2026-02-03",
@@ -7913,7 +7913,7 @@
     ],
     [
      "2026-02-12",
-     152.6543
+     152.6544
     ],
     [
      "2026-02-13",
@@ -7921,7 +7921,7 @@
     ],
     [
      "2026-02-17",
-     155.4167
+     155.4168
     ],
     [
      "2026-02-18",
@@ -7957,15 +7957,15 @@
     ],
     [
      "2026-03-02",
-     158.3574
+     158.3573
     ],
     [
      "2026-03-03",
-     158.1296
+     158.1297
     ],
     [
      "2026-03-04",
-     160.1297
+     160.1296
     ],
     [
      "2026-03-05",
@@ -8061,7 +8061,7 @@
     ],
     [
      "2026-04-08",
-     160.0406
+     160.0405
     ],
     [
      "2026-04-09",
@@ -8109,7 +8109,7 @@
     ],
     [
      "2026-04-24",
-     155.4761
+     155.4762
     ],
     [
      "2026-04-27",
@@ -8301,7 +8301,7 @@
     ],
     [
      "2026-07-06",
-     150.3034
+     150.3035
     ],
     [
      "2026-07-07",
@@ -8373,7 +8373,7 @@
     ],
     [
      "2026-07-30",
-     158.2005
+     158.2006
     ],
     [
      "2026-07-31",
@@ -8681,7 +8681,7 @@
     ],
     [
      "2026-11-17",
-     131.34
+     131.32
     ]
    ],
    "name": "TJX Companies, Inc. (The)",
@@ -8693,14 +8693,20 @@
     "open": 130.545,
     "high": 133.07,
     "low": 130.295,
-    "market_cap": 144481599488,
-    "pe": 24.324076,
+    "market_cap": 145086365696,
+    "pe": 24.321297,
     "dividend_yield": 1.46,
     "high_52w": 170.0,
     "low_52w": 122.78
    },
    "next_earnings": "2026-11-18",
    "news": [
+    {
+     "title": "Will TJX (TJX) Beat Estimates Again in Its Next Earnings Report?",
+     "source": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/tjx-tjx-beat-estimates-again-161002688.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "Which retail stocks are best positioned ahead of earnings this week?",
      "source": "Investing.com",
@@ -8712,12 +8718,6 @@
      "source": "GuruFocus.com",
      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-xly-110514145.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "TJ Maxx, Marshalls Kept Tariff Refunds for Executive Bonuses",
-     "source": "Sourcing Journal",
-     "url": "https://wwd.com/sourcing-journal/industry-news/tj-maxx-marshalls-tjx-tariff-refunds-executive-bonuses-1239419823/",
-     "date": "2026-11-16"
     }
    ],
    "mentioned_in": [
@@ -8726,10 +8726,10 @@
   },
   {
    "symbol": "HD",
-   "price": 339.66,
-   "change": -7.849999999999966,
+   "price": 338.245,
+   "change": -9.264999999999986,
    "date": "2026-11-17",
-   "change_pct": -2.2589278006388214,
+   "change_pct": -2.6661103277603515,
    "history": [
     [
      "2025-11-17",
@@ -8777,7 +8777,7 @@
     ],
     [
      "2025-12-03",
-     348.0536
+     348.0535
     ],
     [
      "2025-12-04",
@@ -8841,7 +8841,7 @@
     ],
     [
      "2025-12-26",
-     342.3475
+     342.3474
     ],
     [
      "2025-12-29",
@@ -8861,7 +8861,7 @@
     ],
     [
      "2026-01-05",
-     336.7784
+     336.7783
     ],
     [
      "2026-01-06",
@@ -8893,7 +8893,7 @@
     ],
     [
      "2026-01-15",
-     371.1031
+     371.1032
     ],
     [
      "2026-01-16",
@@ -8917,7 +8917,7 @@
     ],
     [
      "2026-01-26",
-     378.3165
+     378.3166
     ],
     [
      "2026-01-27",
@@ -8925,7 +8925,7 @@
     ],
     [
      "2026-01-28",
-     367.3251
+     367.3252
     ],
     [
      "2026-01-29",
@@ -8957,7 +8957,7 @@
     ],
     [
      "2026-02-09",
-     372.9041
+     372.904
     ],
     [
      "2026-02-10",
@@ -8985,7 +8985,7 @@
     ],
     [
      "2026-02-19",
-     370.5354
+     370.5355
     ],
     [
      "2026-02-20",
@@ -9737,7 +9737,7 @@
     ],
     [
      "2026-11-17",
-     339.66
+     338.245
     ]
    ],
    "name": "Home Depot, Inc. (The)",
@@ -9749,14 +9749,20 @@
     "open": 335.07,
     "high": 346.9,
     "low": 334.44,
-    "market_cap": 338890194944,
-    "pe": 23.770119,
+    "market_cap": 337782767616,
+    "pe": 23.692442,
     "dividend_yield": 2.68,
     "high_52w": 397.63,
     "low_52w": 277.15
    },
    "next_earnings": "2026-11-17",
    "news": [
+    {
+     "title": "Home Depot taps Richard McPhail as new CEO, reports Q3 earnings beat",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/article/home-depot-taps-richard-mcphail-as-new-ceo-reports-q3-earnings-beat-111428412.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck",
      "source": "Yahoo Finance",
@@ -9768,12 +9774,6 @@
      "source": "Yahoo Finance Video",
      "url": "https://finance.yahoo.com/video/home-depot-cfo-richard-mcphail-to-become-retailers-next-ceo-144632964.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "Who is new Home Depot CEO Richard McPhail?",
-     "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/article/who-is-new-home-depot-ceo-richard-mcphail-123623601.html",
-     "date": "2026-11-17"
     }
    ],
    "mentioned_in": [
@@ -9783,14 +9783,14 @@
   },
   {
    "symbol": "JPM",
-   "price": 331.4,
-   "change": -6.810000000000002,
+   "price": 330.775,
+   "change": -7.435000000000002,
    "date": "2026-11-17",
-   "change_pct": -2.013541882262504,
+   "change_pct": -2.198338310517134,
    "history": [
     [
      "2025-11-17",
-     294.6942
+     294.6943
     ],
     [
      "2025-11-18",
@@ -9814,7 +9814,7 @@
     ],
     [
      "2025-11-25",
-     297.2746
+     297.2745
     ],
     [
      "2025-11-26",
@@ -9830,19 +9830,19 @@
     ],
     [
      "2025-12-02",
-     302.0623
+     302.0624
     ],
     [
      "2025-12-03",
-     306.2321
+     306.232
     ],
     [
      "2025-12-04",
-     310.127
+     310.1271
     ],
     [
      "2025-12-05",
-     309.087
+     309.0871
     ],
     [
      "2025-12-08",
@@ -9850,7 +9850,7 @@
     ],
     [
      "2025-12-09",
-     294.8317
+     294.8316
     ],
     [
      "2025-12-10",
@@ -9866,7 +9866,7 @@
     ],
     [
      "2025-12-15",
-     313.9729
+     313.973
     ],
     [
      "2025-12-16",
@@ -9882,7 +9882,7 @@
     ],
     [
      "2025-12-19",
-     311.216
+     311.2161
     ],
     [
      "2025-12-22",
@@ -9926,7 +9926,7 @@
     ],
     [
      "2026-01-07",
-     322.2583
+     322.2584
     ],
     [
      "2026-01-08",
@@ -9938,7 +9938,7 @@
     ],
     [
      "2026-01-12",
-     319.7946
+     319.7945
     ],
     [
      "2026-01-13",
@@ -9994,7 +9994,7 @@
     ],
     [
      "2026-02-02",
-     303.6811
+     303.6812
     ],
     [
      "2026-02-03",
@@ -10022,7 +10022,7 @@
     ],
     [
      "2026-02-11",
-     306.3223
+     306.3224
     ],
     [
      "2026-02-12",
@@ -10034,7 +10034,7 @@
     ],
     [
      "2026-02-17",
-     302.6858
+     302.6857
     ],
     [
      "2026-02-18",
@@ -10050,7 +10050,7 @@
     ],
     [
      "2026-02-23",
-     293.3626
+     293.3627
     ],
     [
      "2026-02-24",
@@ -10058,7 +10058,7 @@
     ],
     [
      "2026-02-25",
-     298.9112
+     298.9111
     ],
     [
      "2026-02-26",
@@ -10794,7 +10794,7 @@
     ],
     [
      "2026-11-17",
-     331.4
+     330.775
     ]
    ],
    "name": "JP Morgan Chase & Co.",
@@ -10806,8 +10806,8 @@
     "open": 333.57,
     "high": 336.89,
     "low": 328.9,
-    "market_cap": 880135372800,
-    "pe": 13.902055,
+    "market_cap": 878409220096,
+    "pe": 13.87479,
     "dividend_yield": 1.95,
     "high_52w": 366.5,
     "low_52w": 279.1
@@ -10821,15 +10821,15 @@
      "date": "2026-11-17"
     },
     {
-     "title": "JPMorgan Chase Names Bregje de Best to Succeed Jeremy Barnum as CFO",
-     "source": "The Wall Street Journal",
-     "url": "https://www.wsj.com/finance/banking/jpmorgan-chase-names-bregje-de-best-to-succeed-jeremy-barnum-as-cfo-ea77f240?siteid=yhoof2&yptr=yahoo",
+     "title": "Banking disruption resolved after thousands report access issues",
+     "source": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/jpmorgan-chase-banking-service-disruption-app-website-bofa-wells-capital-one-zelle/874922/",
      "date": "2026-11-17"
     },
     {
-     "title": "Market Chatter: JPMorgan-Led Banks Cut Borrowing Costs on $2.85 Billion Debt Deal for CCC Intelligent Solutions Acquisition",
-     "source": "MT Newswires",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-led-banks-162731193.html",
+     "title": "JPMorgan Chase Names Bregje de Best to Succeed Jeremy Barnum as CFO",
+     "source": "The Wall Street Journal",
+     "url": "https://www.wsj.com/finance/banking/jpmorgan-chase-names-bregje-de-best-to-succeed-jeremy-barnum-as-cfo-ea77f240?siteid=yhoof2&yptr=yahoo",
      "date": "2026-11-17"
     }
    ],
@@ -10839,10 +10839,10 @@
   },
   {
    "symbol": "BAC",
-   "price": 49.42,
-   "change": -0.6599999999999966,
+   "price": 49.28,
+   "change": -0.7999999999999972,
    "date": "2026-11-17",
-   "change_pct": -1.317891373801905,
+   "change_pct": -1.5974440894568676,
    "history": [
     [
      "2025-11-17",
@@ -11850,7 +11850,7 @@
     ],
     [
      "2026-11-17",
-     49.42
+     49.28
     ]
    ],
    "name": "Bank of America Corporation",
@@ -11862,8 +11862,8 @@
     "open": 49.8,
     "high": 50.1574,
     "low": 49.075,
-    "market_cap": 341042823168,
-    "pe": 11.795942,
+    "market_cap": 340076822528,
+    "pe": 11.762529,
     "dividend_yield": 2.56,
     "high_52w": 65.23,
     "low_52w": 46.12
@@ -11897,10 +11897,10 @@
   },
   {
    "symbol": "WFC",
-   "price": 83.19,
-   "change": -1.6500000000000057,
+   "price": 82.89,
+   "change": -1.9500000000000028,
    "date": "2026-11-17",
-   "change_pct": -1.9448373408769482,
+   "change_pct": -2.2984441301272973,
    "history": [
     [
      "2025-11-17",
@@ -12168,7 +12168,7 @@
     ],
     [
      "2026-02-24",
-     83.1163
+     83.1162
     ],
     [
      "2026-02-25",
@@ -12332,7 +12332,7 @@
     ],
     [
      "2026-04-23",
-     79.1261
+     79.126
     ],
     [
      "2026-04-24",
@@ -12348,7 +12348,7 @@
     ],
     [
      "2026-04-29",
-     80.1089
+     80.1088
     ],
     [
      "2026-04-30",
@@ -12468,7 +12468,7 @@
     ],
     [
      "2026-06-11",
-     81.4466
+     81.4465
     ],
     [
      "2026-06-12",
@@ -12908,7 +12908,7 @@
     ],
     [
      "2026-11-17",
-     83.19
+     82.89
     ]
    ],
    "name": "Wells Fargo & Company",
@@ -12920,8 +12920,8 @@
     "open": 84.31,
     "high": 84.73,
     "low": 82.44,
-    "market_cap": 249723944960,
-    "pe": 11.733427,
+    "market_cap": 248883429376,
+    "pe": 11.693935,
     "dividend_yield": 2.36,
     "high_52w": 97.76,
     "low_52w": 72.78
@@ -12935,15 +12935,15 @@
      "date": "2026-11-17"
     },
     {
-     "title": "Wells Fargo doubles down on bitcoin ETF, and Chase goes down, but bitcoin stays",
-     "source": "Yahoo Finance Video",
-     "url": "https://finance.yahoo.com/video/wells-fargo-doubles-down-bitcoin-170000996.html",
-     "date": "2026-11-17"
-    },
-    {
      "title": "JPMorgan Faces Banking Outage: Will Operational Risks Rise?",
      "source": "Zacks",
      "url": "https://finance.yahoo.com/technology/articles/jpmorgan-faces-banking-outage-operational-140200277.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "Is The Bond Market Wrong About Fed Hikes?",
+     "source": "Trefis",
+     "url": "https://www.trefis.com/stock/spx/articles/625416/2-year-bets-on-hikes-fed-funds-higher-6-months-later-5-of-16/2026-11-16",
      "date": "2026-11-17"
     }
    ],
@@ -12953,10 +12953,10 @@
   },
   {
    "symbol": "AAL",
-   "price": 13.115,
-   "change": -0.125,
+   "price": 13.085,
+   "change": -0.15499999999999936,
    "date": "2026-11-17",
-   "change_pct": -0.9441087613293098,
+   "change_pct": -1.1706948640483383,
    "history": [
     [
      "2025-11-17",
@@ -13964,7 +13964,7 @@
     ],
     [
      "2026-11-17",
-     13.115
+     13.085
     ]
    ],
    "name": "American Airlines Group, Inc.",
@@ -13976,7 +13976,7 @@
     "open": 13.11,
     "high": 13.33,
     "low": 12.86,
-    "market_cap": 8690240512,
+    "market_cap": 8676988928,
     "pe": null,
     "dividend_yield": 0.0,
     "high_52w": 18.79,
@@ -14009,10 +14009,10 @@
   },
   {
    "symbol": "DAL",
-   "price": 85.335,
-   "change": -1.2650000000000006,
+   "price": 85.12,
+   "change": -1.4799999999999898,
    "date": "2026-11-17",
-   "change_pct": -1.460739030023095,
+   "change_pct": -1.7090069284064535,
    "history": [
     [
      "2025-11-17",
@@ -14160,7 +14160,7 @@
     ],
     [
      "2026-01-09",
-     71.5449
+     71.5448
     ],
     [
      "2026-01-12",
@@ -14180,7 +14180,7 @@
     ],
     [
      "2026-01-16",
-     69.6847
+     69.6848
     ],
     [
      "2026-01-20",
@@ -14444,7 +14444,7 @@
     ],
     [
      "2026-04-23",
-     67.8303
+     67.8304
     ],
     [
      "2026-04-24",
@@ -14520,7 +14520,7 @@
     ],
     [
      "2026-05-20",
-     73.73
+     73.7301
     ],
     [
      "2026-05-21",
@@ -15020,7 +15020,7 @@
     ],
     [
      "2026-11-17",
-     85.335
+     85.12
     ]
    ],
    "name": "Delta Air Lines, Inc.",
@@ -15032,8 +15032,8 @@
     "open": 86.39,
     "high": 86.6,
     "low": 84.275,
-    "market_cap": 56142954496,
-    "pe": 17.032932,
+    "market_cap": 56001503232,
+    "pe": 16.990019,
     "dividend_yield": 0.99,
     "high_52w": 95.68,
     "low_52w": 55.27
@@ -15065,10 +15065,10 @@
   },
   {
    "symbol": "NVDA",
-   "price": 154.5818,
-   "change": -1.5581999999999994,
+   "price": 154.55,
+   "change": -1.589999999999975,
    "date": "2026-11-17",
-   "change_pct": -0.997950557192262,
+   "change_pct": -1.018316895094129,
    "history": [
     [
      "2025-11-17",
@@ -16076,7 +16076,7 @@
     ],
     [
      "2026-11-17",
-     154.5818
+     154.55
     ]
    ],
    "name": "NVIDIA Corporation",
@@ -16087,9 +16087,9 @@
    "stats": {
     "open": 156.91,
     "high": 157.46,
-    "low": 150.36,
-    "market_cap": 3734333292544,
-    "pe": 19.5512,
+    "low": 150.3301,
+    "market_cap": 3731571081216,
+    "pe": 19.53674,
     "dividend_yield": 0.64,
     "high_52w": 243.37,
     "low_52w": 148.8
@@ -16127,10 +16127,10 @@
   },
   {
    "symbol": "MU",
-   "price": 694.89,
-   "change": -24.129999999999995,
+   "price": 697.3698,
+   "change": -21.650199999999927,
    "date": "2026-11-17",
-   "change_pct": -3.355956718867348,
+   "change_pct": -3.0110706239047547,
    "history": [
     [
      "2025-11-17",
@@ -16146,7 +16146,7 @@
     ],
     [
      "2025-11-20",
-     201.1415
+     201.1416
     ],
     [
      "2025-11-21",
@@ -16154,7 +16154,7 @@
     ],
     [
      "2025-11-24",
-     223.676
+     223.6759
     ],
     [
      "2025-11-25",
@@ -16294,7 +16294,7 @@
     ],
     [
      "2026-01-15",
-     336.3839
+     336.384
     ],
     [
      "2026-01-16",
@@ -16342,7 +16342,7 @@
     ],
     [
      "2026-02-03",
-     419.1335
+     419.1334
     ],
     [
      "2026-02-04",
@@ -16394,7 +16394,7 @@
     ],
     [
      "2026-02-23",
-     420.6624
+     420.6623
     ],
     [
      "2026-02-24",
@@ -16430,7 +16430,7 @@
     ],
     [
      "2026-03-06",
-     370.0294
+     370.0293
     ],
     [
      "2026-03-09",
@@ -16450,7 +16450,7 @@
     ],
     [
      "2026-03-13",
-     425.8186
+     425.8185
     ],
     [
      "2026-03-16",
@@ -16458,7 +16458,7 @@
     ],
     [
      "2026-03-17",
-     461.3525
+     461.3526
     ],
     [
      "2026-03-18",
@@ -17138,7 +17138,7 @@
     ],
     [
      "2026-11-17",
-     694.89
+     697.3698
     ]
    ],
    "name": "Micron Technology, Inc.",
@@ -17149,9 +17149,9 @@
    "stats": {
     "open": 726.2225,
     "high": 726.98,
-    "low": 666.88,
-    "market_cap": 786701221888,
-    "pe": 9.3545,
+    "low": 667.0,
+    "market_cap": 788867842048,
+    "pe": 9.380263,
     "dividend_yield": 0.08,
     "high_52w": 1255.0,
     "low_52w": 192.59
@@ -17183,10 +17183,10 @@
   },
   {
    "symbol": "AMD",
-   "price": 492.8272,
-   "change": -11.452799999999968,
+   "price": 494.91,
+   "change": -9.369999999999948,
    "date": "2026-11-17",
-   "change_pct": -2.2711192194812324,
+   "change_pct": -1.8580947092884825,
    "history": [
     [
      "2025-11-17",
@@ -18194,7 +18194,7 @@
     ],
     [
      "2026-11-17",
-     492.8272
+     494.91
     ]
    ],
    "name": "Advanced Micro Devices, Inc.",
@@ -18206,8 +18206,8 @@
     "open": 511.6,
     "high": 511.85,
     "low": 480.5001,
-    "market_cap": 816559685632,
-    "pe": 105.420944,
+    "market_cap": 818769231872,
+    "pe": 105.7062,
     "dividend_yield": 0.0,
     "high_52w": 658.52,
     "low_52w": 188.22
@@ -18239,10 +18239,10 @@
   },
   {
    "symbol": "HOOD",
-   "price": 68.24,
-   "change": -3.8200000000000074,
+   "price": 68.38,
+   "change": -3.680000000000007,
    "date": "2026-11-17",
-   "change_pct": -5.301137940605061,
+   "change_pct": -5.10685539827922,
    "history": [
     [
      "2025-11-17",
@@ -19250,7 +19250,7 @@
     ],
     [
      "2026-11-17",
-     68.24
+     68.38
     ]
    ],
    "name": "Robinhood Markets, Inc.",
@@ -19262,8 +19262,8 @@
     "open": 71.715,
     "high": 71.88,
     "low": 67.2536,
-    "market_cap": 61529214976,
-    "pe": 31.487787,
+    "market_cap": 61562085376,
+    "pe": 31.504606,
     "dividend_yield": 0.0,
     "high_52w": 139.75,
     "low_52w": 63.515
@@ -19295,10 +19295,10 @@
   },
   {
    "symbol": "UNP",
-   "price": 299.155,
-   "change": -4.555000000000007,
+   "price": 299.13,
+   "change": -4.579999999999984,
    "date": "2026-11-17",
-   "change_pct": -1.4997859800467528,
+   "change_pct": -1.508017516710014,
    "history": [
     [
      "2025-11-17",
@@ -20306,7 +20306,7 @@
     ],
     [
      "2026-11-17",
-     299.155
+     299.13
     ]
    ],
    "name": "Union Pacific Corporation",
@@ -20318,8 +20318,8 @@
     "open": 301.18,
     "high": 303.3,
     "low": 296.07,
-    "market_cap": 177775968256,
-    "pe": 23.335415,
+    "market_cap": 177758142464,
+    "pe": 23.333075,
     "dividend_yield": 1.87,
     "high_52w": 315.99,
     "low_52w": 219.89
@@ -20351,10 +20351,10 @@
   },
   {
    "symbol": "NSC",
-   "price": 323.935,
-   "change": -5.3349999999999795,
+   "price": 323.36,
+   "change": -5.909999999999968,
    "date": "2026-11-17",
-   "change_pct": -1.620250857958505,
+   "change_pct": -1.7948795821058572,
    "history": [
     [
      "2025-11-17",
@@ -20366,7 +20366,7 @@
     ],
     [
      "2025-11-19",
-     277.0802
+     277.0803
     ],
     [
      "2025-11-20",
@@ -20398,7 +20398,7 @@
     ],
     [
      "2025-12-02",
-     286.8941
+     286.8942
     ],
     [
      "2025-12-03",
@@ -20510,7 +20510,7 @@
     ],
     [
      "2026-01-13",
-     283.4032
+     283.4033
     ],
     [
      "2026-01-14",
@@ -20526,11 +20526,11 @@
     ],
     [
      "2026-01-20",
-     275.7233
+     275.7232
     ],
     [
      "2026-01-21",
-     284.2882
+     284.2883
     ],
     [
      "2026-01-22",
@@ -20550,7 +20550,7 @@
     ],
     [
      "2026-01-28",
-     279.7353
+     279.7354
     ],
     [
      "2026-01-29",
@@ -20562,7 +20562,7 @@
     ],
     [
      "2026-02-02",
-     286.5991
+     286.5992
     ],
     [
      "2026-02-03",
@@ -20598,7 +20598,7 @@
     ],
     [
      "2026-02-13",
-     311.0664
+     311.0665
     ],
     [
      "2026-02-17",
@@ -20674,7 +20674,7 @@
     ],
     [
      "2026-03-13",
-     285.811
+     285.8109
     ],
     [
      "2026-03-16",
@@ -20686,7 +20686,7 @@
     ],
     [
      "2026-03-18",
-     280.8625
+     280.8626
     ],
     [
      "2026-03-19",
@@ -20738,7 +20738,7 @@
     ],
     [
      "2026-04-07",
-     284.9517
+     284.9516
     ],
     [
      "2026-04-08",
@@ -20750,7 +20750,7 @@
     ],
     [
      "2026-04-10",
-     292.6459
+     292.6458
     ],
     [
      "2026-04-13",
@@ -20770,7 +20770,7 @@
     ],
     [
      "2026-04-17",
-     298.6609
+     298.661
     ],
     [
      "2026-04-20",
@@ -20802,7 +20802,7 @@
     ],
     [
      "2026-04-29",
-     308.2811
+     308.2812
     ],
     [
      "2026-04-30",
@@ -20810,7 +20810,7 @@
     ],
     [
      "2026-05-01",
-     312.0147
+     312.0146
     ],
     [
      "2026-05-04",
@@ -20862,7 +20862,7 @@
     ],
     [
      "2026-05-20",
-     309.3371
+     309.3372
     ],
     [
      "2026-05-21",
@@ -20878,7 +20878,7 @@
     ],
     [
      "2026-05-27",
-     323.0661
+     323.066
     ],
     [
      "2026-05-28",
@@ -20886,7 +20886,7 @@
     ],
     [
      "2026-05-29",
-     302.5123
+     302.5124
     ],
     [
      "2026-06-01",
@@ -20894,7 +20894,7 @@
     ],
     [
      "2026-06-02",
-     305.0816
+     305.0815
     ],
     [
      "2026-06-03",
@@ -20930,7 +20930,7 @@
     ],
     [
      "2026-06-15",
-     307.7897
+     307.7896
     ],
     [
      "2026-06-16",
@@ -21026,7 +21026,7 @@
     ],
     [
      "2026-07-21",
-     328.641
+     328.6409
     ],
     [
      "2026-07-22",
@@ -21362,7 +21362,7 @@
     ],
     [
      "2026-11-17",
-     323.935
+     323.36
     ]
    ],
    "name": "Norfolk Southern Corporation",
@@ -21374,8 +21374,8 @@
     "open": 327.84,
     "high": 328.21,
     "low": 321.11,
-    "market_cap": 72716279808,
-    "pe": 27.13621,
+    "market_cap": 72632049664,
+    "pe": 27.54344,
     "dividend_yield": 1.64,
     "high_52w": 358.6,
     "low_52w": 277.8
@@ -21407,10 +21407,10 @@
   },
   {
    "symbol": "LEN",
-   "price": 84.22,
-   "change": 0.4299999999999926,
+   "price": 83.98,
+   "change": 0.18999999999999773,
    "date": "2026-11-17",
-   "change_pct": 0.5131877312328337,
+   "change_pct": 0.22675736961450532,
    "history": [
     [
      "2025-11-17",
@@ -21502,7 +21502,7 @@
     ],
     [
      "2025-12-18",
-     105.9552
+     105.9551
     ],
     [
      "2025-12-19",
@@ -21710,7 +21710,7 @@
     ],
     [
      "2026-03-06",
-     99.3937
+     99.3938
     ],
     [
      "2026-03-09",
@@ -21746,7 +21746,7 @@
     ],
     [
      "2026-03-19",
-     92.0745
+     92.0746
     ],
     [
      "2026-03-20",
@@ -21810,7 +21810,7 @@
     ],
     [
      "2026-04-13",
-     88.2135
+     88.2136
     ],
     [
      "2026-04-14",
@@ -21898,7 +21898,7 @@
     ],
     [
      "2026-05-13",
-     83.9207
+     83.9208
     ],
     [
      "2026-05-14",
@@ -21910,7 +21910,7 @@
     ],
     [
      "2026-05-18",
-     82.785
+     82.7849
     ],
     [
      "2026-05-19",
@@ -22418,7 +22418,7 @@
     ],
     [
      "2026-11-17",
-     84.22
+     83.98
     ]
    ],
    "name": "Lennar Corporation",
@@ -22430,8 +22430,8 @@
     "open": 84.02,
     "high": 85.2932,
     "low": 83.13,
-    "market_cap": 20043096064,
-    "pe": 15.956439,
+    "market_cap": 19978862592,
+    "pe": 15.905303,
     "dividend_yield": 2.39,
     "high_52w": 133.76,
     "low_52w": 71.78
@@ -22463,10 +22463,10 @@
   },
   {
    "symbol": "COF",
-   "price": 188.37,
-   "change": -4.849999999999994,
+   "price": 188.09,
+   "change": -5.1299999999999955,
    "date": "2026-11-17",
-   "change_pct": -2.5100921229686324,
+   "change_pct": -2.655004657902904,
    "history": [
     [
      "2025-11-17",
@@ -22474,7 +22474,7 @@
     ],
     [
      "2025-11-18",
-     196.9166
+     196.9167
     ],
     [
      "2025-11-19",
@@ -22490,7 +22490,7 @@
     ],
     [
      "2025-11-24",
-     205.5792
+     205.5793
     ],
     [
      "2025-11-25",
@@ -22510,7 +22510,7 @@
     ],
     [
      "2025-12-02",
-     220.5025
+     220.5026
     ],
     [
      "2025-12-03",
@@ -22522,7 +22522,7 @@
     ],
     [
      "2025-12-05",
-     227.0782
+     227.0783
     ],
     [
      "2025-12-08",
@@ -22554,7 +22554,7 @@
     ],
     [
      "2025-12-17",
-     235.7605
+     235.7606
     ],
     [
      "2025-12-18",
@@ -22586,7 +22586,7 @@
     ],
     [
      "2025-12-30",
-     240.1608
+     240.1607
     ],
     [
      "2025-12-31",
@@ -22606,7 +22606,7 @@
     ],
     [
      "2026-01-07",
-     249.2958
+     249.2959
     ],
     [
      "2026-01-08",
@@ -22630,11 +22630,11 @@
     ],
     [
      "2026-01-15",
-     233.27
+     233.2701
     ],
     [
      "2026-01-16",
-     235.4061
+     235.4062
     ],
     [
      "2026-01-20",
@@ -22714,7 +22714,7 @@
     ],
     [
      "2026-02-17",
-     203.5121
+     203.512
     ],
     [
      "2026-02-18",
@@ -22742,11 +22742,11 @@
     ],
     [
      "2026-02-26",
-     206.0002
+     206.0003
     ],
     [
      "2026-02-27",
-     193.3222
+     193.3223
     ],
     [
      "2026-03-02",
@@ -22770,7 +22770,7 @@
     ],
     [
      "2026-03-09",
-     183.5296
+     183.5297
     ],
     [
      "2026-03-10",
@@ -22886,7 +22886,7 @@
     ],
     [
      "2026-04-20",
-     203.2729
+     203.273
     ],
     [
      "2026-04-21",
@@ -22918,7 +22918,7 @@
     ],
     [
      "2026-04-30",
-     189.0337
+     189.0336
     ],
     [
      "2026-05-01",
@@ -23002,7 +23002,7 @@
     ],
     [
      "2026-06-01",
-     183.1564
+     183.1563
     ],
     [
      "2026-06-02",
@@ -23070,7 +23070,7 @@
     ],
     [
      "2026-06-25",
-     203.3416
+     203.3417
     ],
     [
      "2026-06-26",
@@ -23098,11 +23098,11 @@
     ],
     [
      "2026-07-07",
-     201.347
+     201.3469
     ],
     [
      "2026-07-08",
-     190.4902
+     190.4901
     ],
     [
      "2026-07-09",
@@ -23130,7 +23130,7 @@
     ],
     [
      "2026-07-17",
-     206.4478
+     206.4479
     ],
     [
      "2026-07-20",
@@ -23158,7 +23158,7 @@
     ],
     [
      "2026-07-28",
-     210.7945
+     210.7946
     ],
     [
      "2026-07-29",
@@ -23474,7 +23474,7 @@
     ],
     [
      "2026-11-17",
-     188.37
+     188.09
     ]
    ],
    "name": "Capital One Financial Corporati",
@@ -23486,14 +23486,20 @@
     "open": 192.58,
     "high": 193.13,
     "low": 187.07,
-    "market_cap": 113292754944,
-    "pe": 11.5404415,
+    "market_cap": 113142374400,
+    "pe": 11.525123,
     "dividend_yield": 1.66,
     "high_52w": 259.64,
     "low_52w": 174.24
    },
    "next_earnings": "2027-01-19",
    "news": [
+    {
+     "title": "Banking disruption resolved after thousands report access issues",
+     "source": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/jpmorgan-chase-banking-service-disruption-app-website-bofa-wells-capital-one-zelle/874922/",
+     "date": "2026-11-17"
+    },
     {
      "title": "Berkshire Reveals a $689 Million Popular Tech Stock Bet",
      "source": "GuruFocus.com",
@@ -23505,12 +23511,6 @@
      "source": "Zacks",
      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-sells-27-5m-bank-135900148.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "Update: Update: JPMorgan, Bank of America, Wells Fargo Site Users Report Connectivity Issues, Downdetector Says",
-     "source": "MT Newswires",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-bank-america-wells-fargo-130809246.html",
-     "date": "2026-11-17"
     }
    ],
    "mentioned_in": [
@@ -23519,10 +23519,10 @@
   },
   {
    "symbol": "KR",
-   "price": 71.02,
-   "change": 0.3499999999999943,
+   "price": 70.9634,
+   "change": 0.2933999999999912,
    "date": "2026-11-17",
-   "change_pct": 0.49525965756331836,
+   "change_pct": 0.41516909579735195,
    "history": [
     [
      "2025-11-17",
@@ -23582,7 +23582,7 @@
     ],
     [
      "2025-12-08",
-     61.9626
+     61.9625
     ],
     [
      "2025-12-09",
@@ -23750,7 +23750,7 @@
     ],
     [
      "2026-02-09",
-     68.5323
+     68.5322
     ],
     [
      "2026-02-10",
@@ -24014,7 +24014,7 @@
     ],
     [
      "2026-05-14",
-     65.6238
+     65.6237
     ],
     [
      "2026-05-15",
@@ -24046,7 +24046,7 @@
     ],
     [
      "2026-05-27",
-     63.8953
+     63.8952
     ],
     [
      "2026-05-28",
@@ -24174,7 +24174,7 @@
     ],
     [
      "2026-07-14",
-     58.0183
+     58.0184
     ],
     [
      "2026-07-15",
@@ -24530,7 +24530,7 @@
     ],
     [
      "2026-11-17",
-     71.02
+     70.9634
     ]
    ],
    "name": "Kroger Company (The)",
@@ -24542,14 +24542,20 @@
     "open": 70.35,
     "high": 71.1799,
     "low": 70.05,
-    "market_cap": 41943605248,
-    "pe": 39.455555,
+    "market_cap": 41919987712,
+    "pe": 39.433334,
     "dividend_yield": 2.21,
     "high_52w": 76.58,
     "low_52w": 54.15
    },
    "next_earnings": "2026-12-03",
    "news": [
+    {
+     "title": "Warren Buffett\u2019s Berkshire Has Sold 30% of Its Kroger Shares Since March. The Stock Is Up 21% Since September",
+     "source": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/17/warren-buffetts-berkshire-has-sold-30-of-its-kroger-shares-since-march-the-stock-is-up-21-since-september/",
+     "date": "2026-11-17"
+    },
     {
      "title": "Berkshire Reveals a $689 Million Popular Tech Stock Bet",
      "source": "GuruFocus.com",
@@ -24561,12 +24567,6 @@
      "source": "Trefis",
      "url": "https://www.trefis.com/stock/casy/articles/625769/what-does-caseys-stocks-winning-streak-really-prove/2026-11-17",
      "date": "2026-11-17"
-    },
-    {
-     "title": "Cisco upgraded, PepsiCo downgraded: Wall Street's top analyst calls",
-     "source": "The Fly",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-upgraded-doximity-downgraded-wall-134558910.html",
-     "date": "2026-11-17"
     }
    ],
    "mentioned_in": [
@@ -24575,10 +24575,10 @@
   },
   {
    "symbol": "GOOGL",
-   "price": 281.83,
-   "change": -1.8900000000000432,
+   "price": 282.3,
+   "change": -1.420000000000016,
    "date": "2026-11-17",
-   "change_pct": -0.6661497250810777,
+   "change_pct": -0.5004934442408016,
    "history": [
     [
      "2025-11-17",
@@ -24598,7 +24598,7 @@
     ],
     [
      "2025-11-21",
-     298.8828
+     298.8827
     ],
     [
      "2025-11-24",
@@ -24774,7 +24774,7 @@
     ],
     [
      "2026-01-28",
-     335.3577
+     335.3576
     ],
     [
      "2026-01-29",
@@ -24798,7 +24798,7 @@
     ],
     [
      "2026-02-05",
-     330.6069
+     330.6068
     ],
     [
      "2026-02-06",
@@ -24854,7 +24854,7 @@
     ],
     [
      "2026-02-26",
-     306.7832
+     306.7833
     ],
     [
      "2026-02-27",
@@ -24954,7 +24954,7 @@
     ],
     [
      "2026-04-02",
-     295.4036
+     295.4035
     ],
     [
      "2026-04-06",
@@ -25018,15 +25018,15 @@
     ],
     [
      "2026-04-27",
-     349.9059
+     349.906
     ],
     [
      "2026-04-28",
-     349.3466
+     349.3467
     ],
     [
      "2026-04-29",
-     349.5065
+     349.5064
     ],
     [
      "2026-04-30",
@@ -25102,7 +25102,7 @@
     ],
     [
      "2026-05-27",
-     388.3482
+     388.3483
     ],
     [
      "2026-05-28",
@@ -25586,7 +25586,7 @@
     ],
     [
      "2026-11-17",
-     281.83
+     282.3
     ]
    ],
    "name": "Alphabet Inc.",
@@ -25598,8 +25598,8 @@
     "open": 283.4,
     "high": 284.09,
     "low": 278.46,
-    "market_cap": 3466907877376,
-    "pe": 14.725849,
+    "market_cap": 3470802550784,
+    "pe": 14.742393,
     "dividend_yield": 0.31,
     "high_52w": 408.61,
     "low_52w": 272.11
@@ -25607,21 +25607,21 @@
    "next_earnings": "2026-10-28",
    "news": [
     {
+     "title": "Update: Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
+     "source": "MT Newswires",
+     "url": "https://finance.yahoo.com/technology/articles/market-chatter-amazon-google-meta-172106872.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "Isomorphic Labs raises $5 billion as AI drug developer targets clinical trials",
+     "source": "Proactive",
+     "url": "https://www.proactiveinvestors.com/companies/news/1101946/isomorphic-labs-raises-5-billion-as-ai-drug-developer-targets-clinical-trials-1101946.html",
+     "date": "2026-11-17"
+    },
+    {
      "title": "Stanley Druckenmiller Dumped AMD and Alphabet. His Next 3 AI Bets May Surprise Investors",
      "source": "24/7 Wall St.",
      "url": "https://247wallst.com/investing/2026/11/17/stanley-druckenmiller-dumped-amd-and-alphabet-his-next-3-ai-bets-may-surprise-investors/",
-     "date": "2026-11-17"
-    },
-    {
-     "title": "Colette Kress is exactly who Nvidia needs \u2014 not Jensen Huang: Kevin O'Leary explains",
-     "source": "Yahoo Finance Video",
-     "url": "https://finance.yahoo.com/video/colette-kress-exactly-nvidia-needs-170000607.html",
-     "date": "2026-11-17"
-    },
-    {
-     "title": "Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic",
-     "source": "Reuters",
-     "url": "https://finance.yahoo.com/technology/ai/articles/factbox-amazon-google-deep-pocketed-131914730.html",
      "date": "2026-11-17"
     }
    ],
@@ -25632,10 +25632,10 @@
   },
   {
    "symbol": "AMZN",
-   "price": 256.13,
-   "change": -1.6200000000000045,
+   "price": 256.8,
+   "change": -0.9499999999999886,
    "date": "2026-11-17",
-   "change_pct": -0.6285160038797311,
+   "change_pct": -0.36857419980600437,
    "history": [
     [
      "2025-11-17",
@@ -26643,7 +26643,7 @@
     ],
     [
      "2026-11-17",
-     256.13
+     256.8
     ]
    ],
    "name": "Amazon.com, Inc.",
@@ -26655,8 +26655,8 @@
     "open": 257.35,
     "high": 259.9,
     "low": 254.0,
-    "market_cap": 2769947459584,
-    "pe": 20.70857,
+    "market_cap": 2777006473216,
+    "pe": 20.761343,
     "dividend_yield": 0.0,
     "high_52w": 287.2,
     "low_52w": 196.0
@@ -26676,9 +26676,9 @@
      "date": "2026-11-17"
     },
     {
-     "title": "Colette Kress is exactly who Nvidia needs \u2014 not Jensen Huang: Kevin O'Leary explains",
-     "source": "Yahoo Finance Video",
-     "url": "https://finance.yahoo.com/video/colette-kress-exactly-nvidia-needs-170000607.html",
+     "title": "Update: Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
+     "source": "MT Newswires",
+     "url": "https://finance.yahoo.com/technology/articles/market-chatter-amazon-google-meta-172106872.html",
      "date": "2026-11-17"
     }
    ],
@@ -26689,10 +26689,10 @@
   },
   {
    "symbol": "SMCI",
-   "price": 24.2,
-   "change": -0.8300000000000018,
+   "price": 24.16,
+   "change": -0.870000000000001,
    "date": "2026-11-17",
-   "change_pct": -3.3160207750699278,
+   "change_pct": -3.4758290051937757,
    "history": [
     [
      "2025-11-17",
@@ -27700,7 +27700,7 @@
     ],
     [
      "2026-11-17",
-     24.2
+     24.16
     ]
    ],
    "name": "Super Micro Computer, Inc.",
@@ -27712,8 +27712,8 @@
     "open": 25.295,
     "high": 25.35,
     "low": 23.29,
-    "market_cap": 15966486528,
-    "pe": 5.109705,
+    "market_cap": 15923638272,
+    "pe": 5.095992,
     "dividend_yield": 0.0,
     "high_52w": 51.4,
     "low_52w": 19.48
@@ -27745,10 +27745,10 @@
   },
   {
    "symbol": "T",
-   "price": 22.655,
-   "change": 0.2950000000000017,
+   "price": 22.595,
+   "change": 0.23499999999999943,
    "date": "2026-11-17",
-   "change_pct": 1.3193202146690508,
+   "change_pct": 1.0509838998211007,
    "history": [
     [
      "2025-11-17",
@@ -27784,7 +27784,7 @@
     ],
     [
      "2025-11-28",
-     24.8351
+     24.835
     ],
     [
      "2025-12-01",
@@ -27868,7 +27868,7 @@
     ],
     [
      "2025-12-30",
-     23.6802
+     23.6801
     ],
     [
      "2025-12-31",
@@ -28756,7 +28756,7 @@
     ],
     [
      "2026-11-17",
-     22.655
+     22.595
     ]
    ],
    "name": "AT&T Inc.",
@@ -28768,8 +28768,8 @@
     "open": 22.23,
     "high": 22.69,
     "low": 22.22,
-    "market_cap": 152581799936,
-    "pe": 12.112353,
+    "market_cap": 152210620416,
+    "pe": 12.082888,
     "dividend_yield": 4.96,
     "high_52w": 29.44,
     "low_52w": 19.89
@@ -28802,10 +28802,10 @@
   },
   {
    "symbol": "VZ",
-   "price": 46.605,
-   "change": 0.26499999999999346,
+   "price": 46.435,
+   "change": 0.09499999999999886,
    "date": "2026-11-17",
-   "change_pct": 0.5718601640051668,
+   "change_pct": 0.2050064738886359,
    "history": [
     [
      "2025-11-17",
@@ -29813,7 +29813,7 @@
     ],
     [
      "2026-11-17",
-     46.605
+     46.435
     ]
    ],
    "name": "Verizon Communications Inc.",
@@ -29825,8 +29825,8 @@
     "open": 46.05,
     "high": 46.735,
     "low": 46.01,
-    "market_cap": 193159004160,
-    "pe": 11.88903,
+    "market_cap": 192454426624,
+    "pe": 11.845663,
     "dividend_yield": 6.11,
     "high_52w": 51.68,
     "low_52w": 38.68
@@ -29859,10 +29859,10 @@
   },
   {
    "symbol": "LHX",
-   "price": 262.66,
-   "change": 0.910000000000025,
+   "price": 262.05,
+   "change": 0.30000000000001137,
    "date": "2026-11-17",
-   "change_pct": 0.3476599808978076,
+   "change_pct": 0.11461318051575464,
    "history": [
     [
      "2025-11-17",
@@ -29930,7 +29930,7 @@
     ],
     [
      "2025-12-10",
-     282.4443
+     282.4444
     ],
     [
      "2025-12-11",
@@ -29950,7 +29950,7 @@
     ],
     [
      "2025-12-17",
-     275.3127
+     275.3126
     ],
     [
      "2025-12-18",
@@ -29974,7 +29974,7 @@
     ],
     [
      "2025-12-26",
-     293.142
+     293.1419
     ],
     [
      "2025-12-29",
@@ -29982,7 +29982,7 @@
     ],
     [
      "2025-12-30",
-     291.8578
+     291.8579
     ],
     [
      "2025-12-31",
@@ -29990,7 +29990,7 @@
     ],
     [
      "2026-01-02",
-     300.7578
+     300.7577
     ],
     [
      "2026-01-05",
@@ -30014,7 +30014,7 @@
     ],
     [
      "2026-01-12",
-     336.5152
+     336.5151
     ],
     [
      "2026-01-13",
@@ -30078,7 +30078,7 @@
     ],
     [
      "2026-02-04",
-     334.9249
+     334.9248
     ],
     [
      "2026-02-05",
@@ -30226,7 +30226,7 @@
     ],
     [
      "2026-03-30",
-     336.9439
+     336.944
     ],
     [
      "2026-03-31",
@@ -30394,7 +30394,7 @@
     ],
     [
      "2026-05-29",
-     312.4114
+     312.4113
     ],
     [
      "2026-06-01",
@@ -30870,7 +30870,7 @@
     ],
     [
      "2026-11-17",
-     262.66
+     262.05
     ]
    ],
    "name": "L3Harris Technologies, Inc.",
@@ -30882,8 +30882,8 @@
     "open": 261.19,
     "high": 265.8,
     "low": 261.15,
-    "market_cap": 48907485184,
-    "pe": 24.45624,
+    "market_cap": 48793899008,
+    "pe": 24.39944,
     "dividend_yield": 1.91,
     "high_52w": 379.23,
     "low_52w": 232.34
@@ -30916,10 +30916,10 @@
   },
   {
    "symbol": "UBER",
-   "price": 68.38,
-   "change": -1.6099999999999994,
+   "price": 68.64,
+   "change": -1.3499999999999943,
    "date": "2026-11-17",
-   "change_pct": -2.300328618374048,
+   "change_pct": -1.928846978139731,
    "history": [
     [
      "2025-11-17",
@@ -31927,7 +31927,7 @@
     ],
     [
      "2026-11-17",
-     68.38
+     68.64
     ]
    ],
    "name": "Uber Technologies, Inc.",
@@ -31939,8 +31939,8 @@
     "open": 69.6,
     "high": 70.09,
     "low": 67.06,
-    "market_cap": 139665833984,
-    "pe": 40.235294,
+    "market_cap": 140155879424,
+    "pe": 40.37647,
     "dividend_yield": 0.0,
     "high_52w": 92.923,
     "low_52w": 64.04
@@ -31972,10 +31972,10 @@
   },
   {
    "symbol": "SHOP",
-   "price": 143.19,
-   "change": -4.6200000000000045,
+   "price": 143.47,
+   "change": -4.340000000000003,
    "date": "2026-11-17",
-   "change_pct": -3.1256342601989062,
+   "change_pct": -2.9362018807929102,
    "history": [
     [
      "2025-11-17",
@@ -32983,7 +32983,7 @@
     ],
     [
      "2026-11-17",
-     143.19
+     143.47
     ]
    ],
    "name": "Shopify Inc.",
@@ -32995,8 +32995,8 @@
     "open": 147.06,
     "high": 149.8,
     "low": 141.11,
-    "market_cap": 184358600704,
-    "pe": 87.914116,
+    "market_cap": 184731680768,
+    "pe": 88.092026,
     "dividend_yield": 0.0,
     "high_52w": 180.88,
     "low_52w": 94.0
@@ -33028,10 +33028,10 @@
   },
   {
    "symbol": "TM",
-   "price": 214.415,
-   "change": 0.5649999999999977,
+   "price": 214.04,
+   "change": 0.18999999999999773,
    "date": "2026-11-17",
-   "change_pct": 0.2642038812251668,
+   "change_pct": 0.0888473228898734,
    "history": [
     [
      "2025-11-17",
@@ -34039,7 +34039,7 @@
     ],
     [
      "2026-11-17",
-     214.415
+     214.04
     ]
    ],
    "name": "Toyota Motor Corporation",
@@ -34051,8 +34051,8 @@
     "open": 212.52,
     "high": 214.53,
     "low": 212.3601,
-    "market_cap": 251638480896,
-    "pe": 9.7772455,
+    "market_cap": 251198373888,
+    "pe": 9.760145,
     "dividend_yield": 2.93,
     "high_52w": 248.9,
     "low_52w": 166.1
@@ -34084,10 +34084,10 @@
   },
   {
    "symbol": "F",
-   "price": 11.481,
-   "change": -0.08900000000000041,
+   "price": 11.445,
+   "change": -0.125,
    "date": "2026-11-17",
-   "change_pct": -0.7692307692307776,
+   "change_pct": -1.0803802938634366,
    "history": [
     [
      "2025-11-17",
@@ -35095,7 +35095,7 @@
     ],
     [
      "2026-11-17",
-     11.481
+     11.445
     ]
    ],
    "name": "Ford Motor Company",
@@ -35107,7 +35107,7 @@
     "open": 11.525,
     "high": 11.6,
     "low": 11.34,
-    "market_cap": 45863702528,
+    "market_cap": 45722341376,
     "pe": null,
     "dividend_yield": 5.19,
     "high_52w": 17.78,
@@ -35140,10 +35140,10 @@
   },
   {
    "symbol": "RIVN",
-   "price": 12.13,
-   "change": 0.030000000000001137,
+   "price": 12.11,
+   "change": 0.009999999999999787,
    "date": "2026-11-17",
-   "change_pct": 0.24793388429753538,
+   "change_pct": 0.08264462809917106,
    "history": [
     [
      "2025-11-17",
@@ -36151,7 +36151,7 @@
     ],
     [
      "2026-11-17",
-     12.13
+     12.11
     ]
    ],
    "name": "Rivian Automotive, Inc.",
@@ -36163,7 +36163,7 @@
     "open": 12.09,
     "high": 12.24,
     "low": 11.785,
-    "market_cap": 17697753088,
+    "market_cap": 17683156992,
     "pe": null,
     "dividend_yield": 0.0,
     "high_52w": 22.69,
@@ -36196,10 +36196,10 @@
   },
   {
    "symbol": "HSY",
-   "price": 175.205,
-   "change": 0.33500000000000796,
+   "price": 174.99,
+   "change": 0.12000000000000455,
    "date": "2026-11-17",
-   "change_pct": 0.19157088122605526,
+   "change_pct": 0.06862240521530172,
    "history": [
     [
      "2025-11-17",
@@ -36267,7 +36267,7 @@
     ],
     [
      "2025-12-10",
-     174.6682
+     174.6681
     ],
     [
      "2025-12-11",
@@ -36275,7 +36275,7 @@
     ],
     [
      "2025-12-12",
-     176.3852
+     176.3851
     ],
     [
      "2025-12-15",
@@ -36287,7 +36287,7 @@
     ],
     [
      "2025-12-17",
-     183.2823
+     183.2822
     ],
     [
      "2025-12-18",
@@ -36323,7 +36323,7 @@
     ],
     [
      "2025-12-31",
-     176.5306
+     176.5307
     ],
     [
      "2026-01-02",
@@ -36367,7 +36367,7 @@
     ],
     [
      "2026-01-16",
-     191.8381
+     191.8382
     ],
     [
      "2026-01-20",
@@ -36379,7 +36379,7 @@
     ],
     [
      "2026-01-22",
-     184.9411
+     184.941
     ],
     [
      "2026-01-23",
@@ -36411,7 +36411,7 @@
     ],
     [
      "2026-02-03",
-     195.4371
+     195.437
     ],
     [
      "2026-02-04",
@@ -36591,7 +36591,7 @@
     ],
     [
      "2026-04-09",
-     205.8694
+     205.8695
     ],
     [
      "2026-04-10",
@@ -36599,7 +36599,7 @@
     ],
     [
      "2026-04-13",
-     192.9513
+     192.9514
     ],
     [
      "2026-04-14",
@@ -36615,7 +36615,7 @@
     ],
     [
      "2026-04-17",
-     188.0887
+     188.0888
     ],
     [
      "2026-04-20",
@@ -36647,7 +36647,7 @@
     ],
     [
      "2026-04-29",
-     184.7006
+     184.7005
     ],
     [
      "2026-04-30",
@@ -37207,7 +37207,7 @@
     ],
     [
      "2026-11-17",
-     175.205
+     174.99
     ]
    ],
    "name": "The Hershey Company",
@@ -37219,8 +37219,8 @@
     "open": 173.25,
     "high": 176.52,
     "low": 172.5307,
-    "market_cap": 35212767232,
-    "pe": 19.81957,
+    "market_cap": 35169558528,
+    "pe": 19.79525,
     "dividend_yield": 3.32,
     "high_52w": 239.48,
     "low_52w": 156.16
@@ -37252,10 +37252,10 @@
   },
   {
    "symbol": "DB",
-   "price": 34.315,
-   "change": -1.5250000000000057,
+   "price": 34.28,
+   "change": -1.5600000000000023,
    "date": "2026-11-17",
-   "change_pct": -4.2550223214285925,
+   "change_pct": -4.352678571428581,
    "history": [
     [
      "2025-11-17",
@@ -38263,7 +38263,7 @@
     ],
     [
      "2026-11-17",
-     34.315
+     34.28
     ]
    ],
    "name": "Deutsche Bank AG",
@@ -38275,8 +38275,8 @@
     "open": 34.51,
     "high": 34.6351,
     "low": 33.85,
-    "market_cap": 63651254272,
-    "pe": 8.870802,
+    "market_cap": 63586353152,
+    "pe": 8.861757,
     "dividend_yield": 3.25,
     "high_52w": 41.62,
     "low_52w": 28.12
@@ -38306,10 +38306,10 @@
   },
   {
    "symbol": "AAPL",
-   "price": 351.66,
-   "change": -1.1199999999999477,
+   "price": 351.675,
+   "change": -1.1049999999999613,
    "date": "2026-11-17",
-   "change_pct": -0.31747831509720825,
+   "change_pct": -0.3132263733771623,
    "history": [
     [
      "2025-11-17",
@@ -38337,7 +38337,7 @@
     ],
     [
      "2025-11-25",
-     276.0084
+     276.0085
     ],
     [
      "2025-11-26",
@@ -38381,7 +38381,7 @@
     ],
     [
      "2025-12-11",
-     277.0647
+     277.0648
     ],
     [
      "2025-12-12",
@@ -38413,7 +38413,7 @@
     ],
     [
      "2025-12-23",
-     271.4144
+     271.4145
     ],
     [
      "2025-12-24",
@@ -38437,11 +38437,11 @@
     ],
     [
      "2026-01-02",
-     270.0692
+     270.0691
     ],
     [
      "2026-01-05",
-     266.3322
+     266.3321
     ],
     [
      "2026-01-06",
@@ -38449,7 +38449,7 @@
     ],
     [
      "2026-01-07",
-     259.4262
+     259.4261
     ],
     [
      "2026-01-08",
@@ -38473,7 +38473,7 @@
     ],
     [
      "2026-01-15",
-     257.3136
+     257.3135
     ],
     [
      "2026-01-16",
@@ -38513,7 +38513,7 @@
     ],
     [
      "2026-01-30",
-     258.5792
+     258.5791
     ],
     [
      "2026-02-02",
@@ -38521,7 +38521,7 @@
     ],
     [
      "2026-02-03",
-     268.5444
+     268.5445
     ],
     [
      "2026-02-04",
@@ -38561,7 +38561,7 @@
     ],
     [
      "2026-02-18",
-     263.6788
+     263.6787
     ],
     [
      "2026-02-19",
@@ -38569,7 +38569,7 @@
     ],
     [
      "2026-02-20",
-     263.9081
+     263.9082
     ],
     [
      "2026-02-23",
@@ -38673,7 +38673,7 @@
     ],
     [
      "2026-03-30",
-     246.0037
+     246.0038
     ],
     [
      "2026-03-31",
@@ -38701,7 +38701,7 @@
     ],
     [
      "2026-04-09",
-     259.8286
+     259.8285
     ],
     [
      "2026-04-10",
@@ -38717,11 +38717,11 @@
     ],
     [
      "2026-04-15",
-     265.7534
+     265.7535
     ],
     [
      "2026-04-16",
-     262.7312
+     262.7311
     ],
     [
      "2026-04-17",
@@ -38729,7 +38729,7 @@
     ],
     [
      "2026-04-20",
-     272.3567
+     272.3566
     ],
     [
      "2026-04-21",
@@ -38749,7 +38749,7 @@
     ],
     [
      "2026-04-27",
-     266.9305
+     266.9304
     ],
     [
      "2026-04-28",
@@ -38757,7 +38757,7 @@
     ],
     [
      "2026-04-29",
-     269.4839
+     269.484
     ],
     [
      "2026-04-30",
@@ -38789,7 +38789,7 @@
     ],
     [
      "2026-05-11",
-     292.2058
+     292.2057
     ],
     [
      "2026-05-12",
@@ -38889,7 +38889,7 @@
     ],
     [
      "2026-06-16",
-     298.7552
+     298.7551
     ],
     [
      "2026-06-17",
@@ -38897,7 +38897,7 @@
     ],
     [
      "2026-06-18",
-     297.5271
+     297.5272
     ],
     [
      "2026-06-22",
@@ -38957,7 +38957,7 @@
     ],
     [
      "2026-07-13",
-     316.7958
+     316.7959
     ],
     [
      "2026-07-14",
@@ -39001,7 +39001,7 @@
     ],
     [
      "2026-07-28",
-     339.5289
+     339.529
     ],
     [
      "2026-07-29",
@@ -39317,7 +39317,7 @@
     ],
     [
      "2026-11-17",
-     351.66
+     351.675
     ]
    ],
    "name": "Apple Inc.",
@@ -39329,8 +39329,8 @@
     "open": 352.92,
     "high": 355.36,
     "low": 350.21,
-    "market_cap": 5110532407296,
-    "pe": 39.161472,
+    "market_cap": 5110241951744,
+    "pe": 39.159245,
     "dividend_yield": 0.31,
     "high_52w": 360.83,
     "low_52w": 243.42
@@ -39360,10 +39360,10 @@
   },
   {
    "symbol": "MSFT",
-   "price": 501.7357,
-   "change": -16.2543,
+   "price": 502.82,
+   "change": -15.170000000000016,
    "date": "2026-11-17",
-   "change_pct": -3.1379563312033065,
+   "change_pct": -2.928627965790853,
    "history": [
     [
      "2025-11-17",
@@ -39443,7 +39443,7 @@
     ],
     [
      "2025-12-15",
-     471.8267
+     471.8266
     ],
     [
      "2025-12-16",
@@ -39487,7 +39487,7 @@
     ],
     [
      "2025-12-31",
-     480.5712
+     480.5711
     ],
     [
      "2026-01-02",
@@ -39495,7 +39495,7 @@
     ],
     [
      "2026-01-05",
-     469.8691
+     469.869
     ],
     [
      "2026-01-06",
@@ -39519,7 +39519,7 @@
     ],
     [
      "2026-01-13",
-     467.7028
+     467.7029
     ],
     [
      "2026-01-14",
@@ -39543,7 +39543,7 @@
     ],
     [
      "2026-01-22",
-     448.296
+     448.2959
     ],
     [
      "2026-01-23",
@@ -39563,7 +39563,7 @@
     ],
     [
      "2026-01-29",
-     430.7672
+     430.7671
     ],
     [
      "2026-01-30",
@@ -39583,11 +39583,11 @@
     ],
     [
      "2026-02-05",
-     391.1883
+     391.1882
     ],
     [
      "2026-02-06",
-     398.6112
+     398.6111
     ],
     [
      "2026-02-09",
@@ -39595,7 +39595,7 @@
     ],
     [
      "2026-02-10",
-     410.6646
+     410.6647
     ],
     [
      "2026-02-11",
@@ -39603,7 +39603,7 @@
     ],
     [
      "2026-02-12",
-     399.3068
+     399.3067
     ],
     [
      "2026-02-13",
@@ -39615,7 +39615,7 @@
     ],
     [
      "2026-02-18",
-     397.0808
+     397.0809
     ],
     [
      "2026-02-19",
@@ -40371,7 +40371,7 @@
     ],
     [
      "2026-11-17",
-     501.7357
+     502.82
     ]
    ],
    "name": "Microsoft Corporation",
@@ -40383,8 +40383,8 @@
     "open": 514.01,
     "high": 515.64,
     "low": 496.51,
-    "market_cap": 3725276217344,
-    "pe": 26.18163,
+    "market_cap": 3734261989376,
+    "pe": 26.244781,
     "dividend_yield": 0.76,
     "high_52w": 559.15,
     "low_52w": 349.2
@@ -40404,9 +40404,9 @@
      "date": "2026-11-17"
     },
     {
-     "title": "Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate. Can That Pace Continue Under Heavy AI Spending?",
-     "source": "Motley Fool",
-     "url": "https://www.fool.com/investing/2026/11/17/microsoft-stock-has-grown-roughly-14-fold-since-satya-nadella-became-ceo-in-2014-a-23-annual-growth-rate-that-ended-14-years-of-negative-growth-can-that-pace-continue-under-heavy-ai-spending/",
+     "title": "Update: Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
+     "source": "MT Newswires",
+     "url": "https://finance.yahoo.com/technology/articles/market-chatter-amazon-google-meta-172106872.html",
      "date": "2026-11-17"
     }
    ],
@@ -40414,10 +40414,10 @@
   },
   {
    "symbol": "TSLA",
-   "price": 382.27,
-   "change": 2.5299999999999727,
+   "price": 381.02,
+   "change": 1.2799999999999727,
    "date": "2026-11-17",
-   "change_pct": 0.6662453257491929,
+   "change_pct": 0.3370727339758739,
    "history": [
     [
      "2025-11-17",
@@ -41425,7 +41425,7 @@
     ],
     [
      "2026-11-17",
-     382.27
+     381.02
     ]
    ],
    "name": "Tesla, Inc.",
@@ -41437,8 +41437,8 @@
     "open": 382.279,
     "high": 382.8399,
     "low": 374.1458,
-    "market_cap": 1510348816384,
-    "pe": 419.8901,
+    "market_cap": 1506119385088,
+    "pe": 418.71426,
     "dividend_yield": 0.0,
     "high_52w": 498.83,
     "low_52w": 297.38
@@ -41472,41 +41472,41 @@
    {
     "symbol": "SLS",
     "name": "SELLAS Life Sciences Group, Inc",
-    "price": 20.63,
-    "change_pct": 176.17137,
-    "change": 13.16,
+    "price": 20.25,
+    "change_pct": 171.08437,
+    "change": 12.780001,
     "date": "2026-11-17"
    },
    {
     "symbol": "ACM",
     "name": "AECOM",
-    "price": 81.35,
-    "change_pct": 12.206895,
-    "change": 8.849998,
+    "price": 81.75,
+    "change_pct": 12.75862,
+    "change": 9.25,
+    "date": "2026-11-17"
+   },
+   {
+    "symbol": "BILL",
+    "name": "BILL Holdings, Inc.",
+    "price": 62.25,
+    "change_pct": 8.016656,
+    "change": 4.619999,
+    "date": "2026-11-17"
+   },
+   {
+    "symbol": "SNAP",
+    "name": "Snap Inc.",
+    "price": 5.49,
+    "change_pct": 7.8585386,
+    "change": 0.39999962,
     "date": "2026-11-17"
    },
    {
     "symbol": "ESLT",
     "name": "Elbit Systems Ltd.",
-    "price": 734.49,
-    "change_pct": 7.895819,
-    "change": 53.75,
-    "date": "2026-11-17"
-   },
-   {
-    "symbol": "UNFI",
-    "name": "United Natural Foods, Inc.",
-    "price": 52.06,
-    "change_pct": 7.5842156,
-    "change": 3.670002,
-    "date": "2026-11-17"
-   },
-   {
-    "symbol": "AS",
-    "name": "Amer Sports, Inc.",
-    "price": 31.2,
-    "change_pct": 7.216496,
-    "change": 2.1000004,
+    "price": 732.88,
+    "change_pct": 7.659314,
+    "change": 52.140015,
     "date": "2026-11-17"
    }
   ],
@@ -41514,41 +41514,41 @@
    {
     "symbol": "IDYA",
     "name": "IDEAYA Biosciences, Inc.",
-    "price": 27.125,
-    "change_pct": -10.65547,
-    "change": -3.2350006,
+    "price": 26.9,
+    "change_pct": -11.396577,
+    "change": -3.460001,
     "date": "2026-11-17"
    },
    {
     "symbol": "CRM",
     "name": "Salesforce, Inc.",
-    "price": 194.405,
-    "change_pct": -9.507519,
-    "change": -20.425003,
+    "price": 194.135,
+    "change_pct": -9.633202,
+    "change": -20.695007,
     "date": "2026-11-17"
    },
    {
     "symbol": "SMMT",
     "name": "Summit Therapeutics Inc.",
-    "price": 10.915,
-    "change_pct": -7.6567707,
-    "change": -0.90499973,
+    "price": 10.835,
+    "change_pct": -8.333331,
+    "change": -0.98499966,
     "date": "2026-11-17"
    },
    {
-    "symbol": "CGON",
-    "name": "CG Oncology, Inc.",
-    "price": 78.79,
-    "change_pct": -7.059514,
-    "change": -5.989998,
+    "symbol": "SSL",
+    "name": "Sasol Ltd.",
+    "price": 12.925,
+    "change_pct": -7.150556,
+    "change": -0.9949999,
     "date": "2026-11-17"
    },
    {
     "symbol": "JD",
     "name": "JD.com, Inc.",
-    "price": 25.55,
-    "change_pct": -7.225859,
-    "change": -1.9900017,
+    "price": 25.555,
+    "change_pct": -7.2077,
+    "change": -1.9850006,
     "date": "2026-11-17"
    }
   ],
@@ -41556,73 +41556,73 @@
    {
     "symbol": "NVDA",
     "name": "NVIDIA Corporation",
-    "price": 154.68,
-    "change_pct": -0.9350626,
-    "change": -1.4600067,
+    "price": 154.49,
+    "change_pct": -1.0566385,
+    "change": -1.6499939,
     "date": "2026-11-17"
    },
    {
     "symbol": "SLS",
     "name": "SELLAS Life Sciences Group, Inc",
-    "price": 20.63,
-    "change_pct": 176.17137,
-    "change": 13.16,
+    "price": 20.265,
+    "change_pct": 171.28516,
+    "change": 12.795,
     "date": "2026-11-17"
    },
    {
     "symbol": "GRAB",
     "name": "Grab Holdings Limited",
-    "price": 3.17,
-    "change_pct": -1.2461047,
-    "change": -0.03999996,
+    "price": 3.18,
+    "change_pct": -0.93457854,
+    "change": -0.029999971,
     "date": "2026-11-17"
    },
    {
     "symbol": "NOK",
     "name": "Nokia Corporation Sponsored",
-    "price": 7.5455,
-    "change_pct": -1.8795803,
-    "change": -0.14450026,
+    "price": 7.54,
+    "change_pct": -1.9505864,
+    "change": -0.1500001,
     "date": "2026-11-17"
    },
    {
     "symbol": "INTC",
     "name": "Intel Corporation",
-    "price": 54.12,
-    "change_pct": -2.384478,
-    "change": -1.3220024,
+    "price": 54.135,
+    "change_pct": -2.357424,
+    "change": -1.307003,
     "date": "2026-11-17"
    }
   ]
  },
  "mood": {
-  "score": 20,
+  "score": 22,
   "label": "Fear",
   "parts": [
    {
     "name": "Today's S&P 500 move",
     "value": "-0.88%",
-    "score": 28.106615792611265
+    "score": 27.887546106433135
    },
    {
     "name": "S&P 500 past month",
     "value": "-4.0%",
-    "score": 9.814320104528719
+    "score": 9.729470558284504
    },
    {
     "name": "VIX (expected volatility)",
-    "value": "26.2",
-    "score": 22.176470588235293
+    "value": "25.1",
+    "score": 28.64705882352942
    }
   ]
  },
  "funds": [
   {
    "symbol": "SPY",
-   "price": 733.185,
-   "change": -6.7650000000001,
+   "price": 733.395,
+   "change": -6.555000000000064,
    "date": "2026-11-17",
-   "change_pct": -0.9142509629029072,
+   "change_pct": -0.8858706669369609,
    "history": [
     [
      "2025-11-17",
@@ -41630,7 +41630,7 @@
     ],
     [
      "2025-11-18",
-     653.0346
+     653.0345
     ],
     [
      "2025-11-19",
@@ -41650,7 +41650,7 @@
     ],
     [
      "2025-11-25",
-     667.8152
+     667.8151
     ],
     [
      "2025-11-26",
@@ -41662,7 +41662,7 @@
     ],
     [
      "2025-12-01",
-     673.0092
+     673.0091
     ],
     [
      "2025-12-02",
@@ -41674,7 +41674,7 @@
     ],
     [
      "2025-12-04",
-     677.0851
+     677.0852
     ],
     [
      "2025-12-05",
@@ -41694,7 +41694,7 @@
     ],
     [
      "2025-12-11",
-     681.8141
+     681.8142
     ],
     [
      "2025-12-12",
@@ -41714,7 +41714,7 @@
     ],
     [
      "2025-12-18",
-     669.2497
+     669.2496
     ],
     [
      "2025-12-19",
@@ -41742,7 +41742,7 @@
     ],
     [
      "2025-12-30",
-     681.6856
+     681.6855
     ],
     [
      "2025-12-31",
@@ -41754,7 +41754,7 @@
     ],
     [
      "2026-01-05",
-     682.39
+     682.3901
     ],
     [
      "2026-01-06",
@@ -41810,7 +41810,7 @@
     ],
     [
      "2026-01-26",
-     687.3612
+     687.3613
     ],
     [
      "2026-01-27",
@@ -41826,11 +41826,11 @@
     ],
     [
      "2026-01-30",
-     686.6071
+     686.6072
     ],
     [
      "2026-02-02",
-     690.0205
+     690.0204
     ],
     [
      "2026-02-03",
@@ -41878,7 +41878,7 @@
     ],
     [
      "2026-02-19",
-     679.1751
+     679.1752
     ],
     [
      "2026-02-20",
@@ -41906,7 +41906,7 @@
     ],
     [
      "2026-03-02",
-     681.0605
+     681.0604
     ],
     [
      "2026-03-03",
@@ -41914,11 +41914,11 @@
     ],
     [
      "2026-03-04",
-     679.8201
+     679.8202
     ],
     [
      "2026-03-05",
-     676.0298
+     676.0297
     ],
     [
      "2026-03-06",
@@ -41926,7 +41926,7 @@
     ],
     [
      "2026-03-09",
-     673.0134
+     673.0133
     ],
     [
      "2026-03-10",
@@ -41958,7 +41958,7 @@
     ],
     [
      "2026-03-19",
-     654.6865
+     654.6864
     ],
     [
      "2026-03-20",
@@ -42630,17 +42630,17 @@
     ],
     [
      "2026-11-17",
-     733.185
+     733.395
     ]
    ],
    "name": "S&P 500 index fund (SPY)"
   },
   {
    "symbol": "QQQ",
-   "price": 655.45,
-   "change": -6.2999999999999545,
+   "price": 656.25,
+   "change": -5.5,
    "date": "2026-11-17",
-   "change_pct": -0.9520211560256842,
+   "change_pct": -0.8311295806573527,
    "history": [
     [
      "2025-11-17",
@@ -42656,7 +42656,7 @@
     ],
     [
      "2025-11-20",
-     582.931
+     582.9311
     ],
     [
      "2025-11-21",
@@ -42684,7 +42684,7 @@
     ],
     [
      "2025-12-02",
-     619.0911
+     619.0912
     ],
     [
      "2025-12-03",
@@ -42704,11 +42704,11 @@
     ],
     [
      "2025-12-09",
-     622.1269
+     622.127
     ],
     [
      "2025-12-10",
-     624.675
+     624.6749
     ],
     [
      "2025-12-11",
@@ -42736,7 +42736,7 @@
     ],
     [
      "2025-12-19",
-     614.1644
+     614.1643
     ],
     [
      "2025-12-22",
@@ -42752,15 +42752,15 @@
     ],
     [
      "2025-12-26",
-     621.7724
+     621.7725
     ],
     [
      "2025-12-29",
-     618.7627
+     618.7626
     ],
     [
      "2025-12-30",
-     617.3275
+     617.3276
     ],
     [
      "2025-12-31",
@@ -42768,11 +42768,11 @@
     ],
     [
      "2026-01-02",
-     611.039
+     611.0389
     ],
     [
      "2026-01-05",
-     615.8925
+     615.8924
     ],
     [
      "2026-01-06",
@@ -42788,7 +42788,7 @@
     ],
     [
      "2026-01-09",
-     624.523
+     624.5231
     ],
     [
      "2026-01-12",
@@ -42816,7 +42816,7 @@
     ],
     [
      "2026-01-21",
-     614.1882
+     614.1883
     ],
     [
      "2026-01-22",
@@ -42844,7 +42844,7 @@
     ],
     [
      "2026-01-30",
-     619.7593
+     619.7592
     ],
     [
      "2026-02-02",
@@ -42860,7 +42860,7 @@
     ],
     [
      "2026-02-05",
-     595.0037
+     595.0036
     ],
     [
      "2026-02-06",
@@ -42936,7 +42936,7 @@
     ],
     [
      "2026-03-05",
-     606.8432
+     606.8433
     ],
     [
      "2026-03-06",
@@ -42972,7 +42972,7 @@
     ],
     [
      "2026-03-18",
-     592.8809
+     592.8808
     ],
     [
      "2026-03-19",
@@ -43648,17 +43648,17 @@
     ],
     [
      "2026-11-17",
-     655.45
+     656.25
     ]
    ],
    "name": "Nasdaq-100 index fund (QQQ)"
   },
   {
    "symbol": "VTI",
-   "price": 360.9,
-   "change": -3.400000000000034,
+   "price": 360.775,
+   "change": -3.525000000000034,
    "date": "2026-11-17",
-   "change_pct": -0.9332967334614417,
+   "change_pct": -0.9676091133681175,
    "history": [
     [
      "2025-11-17",
@@ -43678,7 +43678,7 @@
     ],
     [
      "2025-11-21",
-     320.1445
+     320.1446
     ],
     [
      "2025-11-24",
@@ -44666,7 +44666,7 @@
     ],
     [
      "2026-11-17",
-     360.9
+     360.775
     ]
    ],
    "name": "Total US market fund (VTI)"
@@ -44676,519 +44676,519 @@
   {
    "symbol": "VOO",
    "name": "S&P 500 fund (Vanguard)",
-   "price": 673.885,
-   "change_pct": -0.9371416811219224,
+   "price": 673.67,
+   "change_pct": -0.9687472437009403,
    "date": "2026-11-17"
   },
   {
    "symbol": "IWM",
    "name": "Small US companies fund",
-   "price": 271.16,
-   "change_pct": -0.6521579834395719,
+   "price": 270.65,
+   "change_pct": -0.8390122371217168,
    "date": "2026-11-17"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones 30 fund",
-   "price": 509.26,
-   "change_pct": -1.2449581135587917,
+   "price": 508.89,
+   "change_pct": -1.3167080359913097,
    "date": "2026-11-17"
   },
   {
    "symbol": "SCHD",
    "name": "US dividend stocks fund",
-   "price": 35.585,
-   "change_pct": -0.7668711656441674,
+   "price": 35.535,
+   "change_pct": -0.9063022866703907,
    "date": "2026-11-17"
   },
   {
    "symbol": "VXUS",
    "name": "International stocks fund",
-   "price": 80.265,
-   "change_pct": -0.8951722434868414,
+   "price": 80.205,
+   "change_pct": -0.9692554636374862,
    "date": "2026-11-17"
   },
   {
    "symbol": "BND",
    "name": "US bond fund",
-   "price": 70.73,
-   "change_pct": 0.15576323987538387,
+   "price": 70.755,
+   "change_pct": 0.19116397621068426,
    "date": "2026-11-17"
   },
   {
    "symbol": "TLT",
    "name": "Long-term US Treasury bond fund",
-   "price": 79.68,
-   "change_pct": 0.3779289493575311,
+   "price": 79.715,
+   "change_pct": 0.4220206601159182,
    "date": "2026-11-17"
   },
   {
    "symbol": "GLD",
    "name": "Gold fund",
-   "price": 354.53,
-   "change_pct": 0.45334768934348624,
+   "price": 354.25,
+   "change_pct": 0.37401184370837726,
    "date": "2026-11-17"
   },
   {
    "symbol": "XLK",
    "name": "Tech sector fund",
-   "price": 162.2,
-   "change_pct": -1.553775188152462,
+   "price": 162.51,
+   "change_pct": -1.3656227239621233,
    "date": "2026-11-17"
   },
   {
    "symbol": "XLF",
    "name": "Financials sector fund",
-   "price": 57.405,
-   "change_pct": -1.3320728772774126,
+   "price": 57.345,
+   "change_pct": -1.4352011000343778,
    "date": "2026-11-17"
   },
   {
    "symbol": "XLE",
    "name": "Energy sector fund",
-   "price": 63.67,
-   "change_pct": -0.03140210394095844,
+   "price": 63.565,
+   "change_pct": -0.1962631496310263,
    "date": "2026-11-17"
   },
   {
    "symbol": "XLV",
    "name": "Healthcare sector fund",
-   "price": 186.29,
-   "change_pct": -0.8462848626783037,
+   "price": 186.0801,
+   "change_pct": -0.9580051096444553,
    "date": "2026-11-17"
   },
   {
    "symbol": "AAPL",
    "name": "Apple",
-   "price": 351.66,
-   "change_pct": -0.31747831509720825,
+   "price": 351.675,
+   "change_pct": -0.3132263733771623,
    "date": "2026-11-17"
   },
   {
    "symbol": "MSFT",
    "name": "Microsoft",
-   "price": 501.7357,
-   "change_pct": -3.1379563312033065,
+   "price": 502.82,
+   "change_pct": -2.928627965790853,
    "date": "2026-11-17"
   },
   {
    "symbol": "NVDA",
    "name": "Nvidia",
-   "price": 154.5818,
-   "change_pct": -0.997950557192262,
+   "price": 154.55,
+   "change_pct": -1.018316895094129,
    "date": "2026-11-17"
   },
   {
    "symbol": "GOOGL",
    "name": "Alphabet (Google)",
-   "price": 281.83,
-   "change_pct": -0.6661497250810777,
+   "price": 282.3,
+   "change_pct": -0.5004934442408016,
    "date": "2026-11-17"
   },
   {
    "symbol": "AMZN",
    "name": "Amazon",
-   "price": 256.13,
-   "change_pct": -0.6285160038797311,
+   "price": 256.8,
+   "change_pct": -0.36857419980600437,
    "date": "2026-11-17"
   },
   {
    "symbol": "META",
    "name": "Meta Platforms",
-   "price": 619.185,
-   "change_pct": -1.153397934260314,
+   "price": 621.53,
+   "change_pct": -0.7790424801647489,
    "date": "2026-11-17"
   },
   {
    "symbol": "TSLA",
    "name": "Tesla",
-   "price": 382.27,
-   "change_pct": 0.6662453257491929,
+   "price": 381.02,
+   "change_pct": 0.3370727339758739,
    "date": "2026-11-17"
   },
   {
    "symbol": "BRK-B",
    "name": "Berkshire Hathaway",
-   "price": 590.77,
-   "change_pct": -0.3508476005735117,
+   "price": 590.8,
+   "change_pct": -0.34578729864216395,
    "date": "2026-11-17"
   },
   {
    "symbol": "AVGO",
    "name": "Broadcom",
-   "price": 338.4,
-   "change_pct": 1.4997000599880073,
+   "price": 340.31,
+   "change_pct": 2.072585482903433,
    "date": "2026-11-17"
   },
   {
    "symbol": "JPM",
    "name": "JPMorgan Chase",
-   "price": 331.4,
-   "change_pct": -2.013541882262504,
+   "price": 330.775,
+   "change_pct": -2.198338310517134,
    "date": "2026-11-17"
   },
   {
    "symbol": "V",
    "name": "Visa",
-   "price": 420.295,
-   "change_pct": -1.4456220982038137,
+   "price": 420.1888,
+   "change_pct": -1.4705247854429393,
    "date": "2026-11-17"
   },
   {
    "symbol": "MA",
    "name": "Mastercard",
-   "price": 649.565,
-   "change_pct": -1.8353961705278699,
+   "price": 649.325,
+   "change_pct": -1.8716658354868465,
    "date": "2026-11-17"
   },
   {
    "symbol": "UNH",
    "name": "UnitedHealth",
-   "price": 397.99,
-   "change_pct": -3.4051745060919347,
+   "price": 397.55,
+   "change_pct": -3.511965438570941,
    "date": "2026-11-17"
   },
   {
    "symbol": "LLY",
    "name": "Eli Lilly",
-   "price": 1417.0009,
-   "change_pct": -1.0246146109089471,
+   "price": 1416.45,
+   "change_pct": -1.063094148791277,
    "date": "2026-11-17"
   },
   {
    "symbol": "JNJ",
    "name": "Johnson & Johnson",
-   "price": 280.68,
-   "change_pct": -0.661829764643429,
+   "price": 280.44,
+   "change_pct": -0.7467704831003452,
    "date": "2026-11-17"
   },
   {
    "symbol": "PFE",
    "name": "Pfizer",
-   "price": 28.565,
-   "change_pct": -1.0221760221760134,
+   "price": 28.53,
+   "change_pct": -1.1434511434511352,
    "date": "2026-11-17"
   },
   {
    "symbol": "MRK",
    "name": "Merck",
-   "price": 144.11,
-   "change_pct": -0.24228160044302838,
+   "price": 143.835,
+   "change_pct": -0.43264571507684035,
    "date": "2026-11-17"
   },
   {
    "symbol": "ABBV",
    "name": "AbbVie",
-   "price": 293.44,
-   "change_pct": -0.37684603632660574,
+   "price": 293.065,
+   "change_pct": -0.5041588864369451,
    "date": "2026-11-17"
   },
   {
    "symbol": "XOM",
    "name": "Exxon Mobil",
-   "price": 167.52,
-   "change_pct": 0.3895247797686796,
+   "price": 167.405,
+   "change_pct": 0.3206088571942267,
    "date": "2026-11-17"
   },
   {
    "symbol": "CVX",
    "name": "Chevron",
-   "price": 216.64,
-   "change_pct": -0.2302661877129908,
+   "price": 216.38,
+   "change_pct": -0.35000460532375044,
    "date": "2026-11-17"
   },
   {
    "symbol": "PG",
    "name": "Procter & Gamble",
-   "price": 173.16,
-   "change_pct": 0.08091550109812218,
+   "price": 173.03,
+   "change_pct": 0.005779678649853182,
    "date": "2026-11-17"
   },
   {
    "symbol": "KO",
    "name": "Coca-Cola",
-   "price": 99.365,
-   "change_pct": -0.1156011258544476,
+   "price": 99.325,
+   "change_pct": -0.15581021310816512,
    "date": "2026-11-17"
   },
   {
    "symbol": "PEP",
    "name": "PepsiCo",
-   "price": 143.38,
-   "change_pct": -2.0829065082291986,
+   "price": 143.24,
+   "change_pct": -2.17851533155774,
    "date": "2026-11-17"
   },
   {
    "symbol": "MCD",
    "name": "McDonald's",
-   "price": 277.115,
-   "change_pct": 0.8901591000109121,
+   "price": 277.0083,
+   "change_pct": 0.8513124840717978,
    "date": "2026-11-17"
   },
   {
    "symbol": "SBUX",
    "name": "Starbucks",
-   "price": 108.205,
-   "change_pct": -0.47369389256806116,
+   "price": 108.136,
+   "change_pct": -0.5371596762325237,
    "date": "2026-11-17"
   },
   {
    "symbol": "NKE",
    "name": "Nike",
-   "price": 37.375,
-   "change_pct": -2.31312075274438,
+   "price": 37.54,
+   "change_pct": -1.8818609513852613,
    "date": "2026-11-17"
   },
   {
    "symbol": "DIS",
    "name": "Disney",
-   "price": 120.275,
-   "change_pct": 1.3268744734625137,
+   "price": 120.07,
+   "change_pct": 1.1541701769165913,
    "date": "2026-11-17"
   },
   {
    "symbol": "NFLX",
    "name": "Netflix",
-   "price": 59.87,
-   "change_pct": -1.4485596707819015,
+   "price": 59.855,
+   "change_pct": -1.473251028806588,
    "date": "2026-11-17"
   },
   {
    "symbol": "COST",
    "name": "Costco",
-   "price": 1114.545,
-   "change_pct": 0.07227898791459797,
+   "price": 1114.13,
+   "change_pct": 0.03501714942446554,
    "date": "2026-11-17"
   },
   {
    "symbol": "WMT",
    "name": "Walmart",
-   "price": 127.585,
-   "change_pct": -0.6424733276224615,
+   "price": 127.6016,
+   "change_pct": -0.6295459855151453,
    "date": "2026-11-17"
   },
   {
    "symbol": "TGT",
    "name": "Target",
-   "price": 158.065,
-   "change_pct": -1.406561876247503,
+   "price": 158.17,
+   "change_pct": -1.3410678642714613,
    "date": "2026-11-17"
   },
   {
    "symbol": "HD",
    "name": "Home Depot",
-   "price": 339.66,
-   "change_pct": -2.2589278006388214,
+   "price": 338.245,
+   "change_pct": -2.6661103277603515,
    "date": "2026-11-17"
   },
   {
    "symbol": "LOW",
    "name": "Lowe's",
-   "price": 222.98,
-   "change_pct": -0.8669363802071839,
+   "price": 222.665,
+   "change_pct": -1.0069799493175768,
    "date": "2026-11-17"
   },
   {
    "symbol": "AMD",
    "name": "AMD",
-   "price": 492.8272,
-   "change_pct": -2.2711192194812324,
+   "price": 494.91,
+   "change_pct": -1.8580947092884825,
    "date": "2026-11-17"
   },
   {
    "symbol": "INTC",
    "name": "Intel",
-   "price": 54.08,
-   "change_pct": -2.5058590228952626,
+   "price": 54.21,
+   "change_pct": -2.2714981070849127,
    "date": "2026-11-17"
   },
   {
    "symbol": "QCOM",
    "name": "Qualcomm",
-   "price": 167.54,
-   "change_pct": -0.5815333491573815,
+   "price": 168.4,
+   "change_pct": -0.0712081652029406,
    "date": "2026-11-17"
   },
   {
    "symbol": "TXN",
    "name": "Texas Instruments",
-   "price": 295.53,
-   "change_pct": 0.44865912103599914,
+   "price": 295.855,
+   "change_pct": 0.5591244349274493,
    "date": "2026-11-17"
   },
   {
    "symbol": "ORCL",
    "name": "Oracle",
-   "price": 114.245,
-   "change_pct": -4.068351666806613,
+   "price": 114.2899,
+   "change_pct": -4.030649088924343,
    "date": "2026-11-17"
   },
   {
    "symbol": "CRM",
    "name": "Salesforce",
-   "price": 194.34,
-   "change_pct": -9.537774053903092,
+   "price": 194.135,
+   "change_pct": -9.63319834287577,
    "date": "2026-11-17"
   },
   {
    "symbol": "ADBE",
    "name": "Adobe",
-   "price": 236.68,
-   "change_pct": -3.7886178861788578,
+   "price": 236.735,
+   "change_pct": -3.76626016260162,
    "date": "2026-11-17"
   },
   {
    "symbol": "IBM",
    "name": "IBM",
-   "price": 234.0,
-   "change_pct": -3.509133643973439,
+   "price": 233.465,
+   "change_pct": -3.72974310337717,
    "date": "2026-11-17"
   },
   {
    "symbol": "CSCO",
    "name": "Cisco",
-   "price": 94.62,
-   "change_pct": 0.10579771476937339,
+   "price": 94.7,
+   "change_pct": 0.1904358865848499,
    "date": "2026-11-17"
   },
   {
    "symbol": "UBER",
    "name": "Uber",
-   "price": 68.38,
-   "change_pct": -2.300328618374048,
+   "price": 68.64,
+   "change_pct": -1.928846978139731,
    "date": "2026-11-17"
   },
   {
    "symbol": "ABNB",
    "name": "Airbnb",
-   "price": 184.07,
-   "change_pct": -1.1386218379075164,
+   "price": 184.09,
+   "change_pct": -1.127880122455549,
    "date": "2026-11-17"
   },
   {
    "symbol": "SHOP",
    "name": "Shopify",
-   "price": 143.19,
-   "change_pct": -3.1256342601989062,
+   "price": 143.47,
+   "change_pct": -2.9362018807929102,
    "date": "2026-11-17"
   },
   {
    "symbol": "PYPL",
    "name": "PayPal",
-   "price": 59.07,
-   "change_pct": 0.4079551249362545,
+   "price": 58.96,
+   "change_pct": 0.22097569267380823,
    "date": "2026-11-17"
   },
   {
    "symbol": "COIN",
    "name": "Coinbase",
-   "price": 116.6,
-   "change_pct": -2.703604806408555,
+   "price": 116.59,
+   "change_pct": -2.7119492656875854,
    "date": "2026-11-17"
   },
   {
    "symbol": "PLTR",
    "name": "Palantir",
-   "price": 155.79,
-   "change_pct": -2.8680092275079505,
+   "price": 155.9,
+   "change_pct": -2.799426398154492,
    "date": "2026-11-17"
   },
   {
    "symbol": "SNOW",
    "name": "Snowflake",
-   "price": 267.83,
-   "change_pct": -4.530548228416642,
+   "price": 269.91,
+   "change_pct": -3.789120980965277,
    "date": "2026-11-17"
   },
   {
    "symbol": "SPOT",
    "name": "Spotify",
-   "price": 600.4475,
-   "change_pct": -1.8443594396220564,
+   "price": 602.13,
+   "change_pct": -1.569319797950075,
    "date": "2026-11-17"
   },
   {
    "symbol": "BAC",
    "name": "Bank of America",
-   "price": 49.42,
-   "change_pct": -1.317891373801905,
+   "price": 49.28,
+   "change_pct": -1.5974440894568676,
    "date": "2026-11-17"
   },
   {
    "symbol": "WFC",
    "name": "Wells Fargo",
-   "price": 83.19,
-   "change_pct": -1.9448373408769482,
+   "price": 82.89,
+   "change_pct": -2.2984441301272973,
    "date": "2026-11-17"
   },
   {
    "symbol": "GS",
    "name": "Goldman Sachs",
-   "price": 878.1667,
-   "change_pct": -1.5000224330932954,
+   "price": 878.0,
+   "change_pct": -1.5187204163582102,
    "date": "2026-11-17"
   },
   {
    "symbol": "MS",
    "name": "Morgan Stanley",
-   "price": 183.235,
-   "change_pct": -1.2582852831815372,
+   "price": 183.005,
+   "change_pct": -1.3822277307754427,
    "date": "2026-11-17"
   },
   {
    "symbol": "AXP",
    "name": "American Express",
-   "price": 315.75,
-   "change_pct": -1.0343206393982118,
+   "price": 315.32,
+   "change_pct": -1.169095753016769,
    "date": "2026-11-17"
   },
   {
    "symbol": "BA",
    "name": "Boeing",
-   "price": 165.025,
-   "change_pct": -0.11802445224549096,
+   "price": 164.715,
+   "change_pct": -0.30565306863575836,
    "date": "2026-11-17"
   },
   {
    "symbol": "CAT",
    "name": "Caterpillar",
-   "price": 567.8,
-   "change_pct": -0.47152447895669747,
+   "price": 567.6,
+   "change_pct": -0.5065820610352434,
    "date": "2026-11-17"
   },
   {
    "symbol": "GE",
    "name": "GE Aerospace",
-   "price": 326.975,
-   "change_pct": 0.5520019681407362,
+   "price": 326.92,
+   "change_pct": 0.535088258810501,
    "date": "2026-11-17"
   },
   {
    "symbol": "F",
    "name": "Ford",
-   "price": 11.481,
-   "change_pct": -0.7692307692307776,
+   "price": 11.445,
+   "change_pct": -1.0803802938634366,
    "date": "2026-11-17"
   },
   {
    "symbol": "GM",
    "name": "General Motors",
-   "price": 85.2,
-   "change_pct": 1.8286124058802367,
+   "price": 84.69,
+   "change_pct": 1.2190749372534837,
    "date": "2026-11-17"
   },
   {
    "symbol": "T",
    "name": "AT&T",
-   "price": 22.655,
-   "change_pct": 1.3193202146690508,
+   "price": 22.595,
+   "change_pct": 1.0509838998211007,
    "date": "2026-11-17"
   },
   {
    "symbol": "VZ",
    "name": "Verizon",
-   "price": 46.605,
-   "change_pct": 0.5718601640051668,
+   "price": 46.435,
+   "change_pct": 0.2050064738886359,
    "date": "2026-11-17"
   }
  ]
