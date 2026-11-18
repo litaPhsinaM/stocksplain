@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-18",
+ "questions": [
+  {
+   "question": "What does the term \"technical debt\" refer to in a business context?",
+   "options": [
+    "The interest paid on loans used to buy computer hardware",
+    "The future cost of fixing quick, low-quality software fixes made today",
+    "The total amount of money a tech company owes to its suppliers",
+    "A tax penalty for failing to upgrade digital infrastructure"
+   ],
+   "answer": 1,
+   "explanation": "Technical debt is the implied cost of future rework caused by choosing an easy solution now instead of a robust one. Today's story notes that recent tech outages at firms like Microsoft were partly caused by this compounding complexity.",
+   "item_id": "prof-g-markets-9f20696bcd"
+  },
+  {
+   "question": "If a company like Anthropic launches an IPO with a \"5% float,\" what does that number represent?",
+   "options": [
+    "The percentage of the company's total profit paid out as dividends",
+    "The portion of the company's total shares available for the public to trade",
+    "The interest rate the company pays on its outstanding corporate debt",
+    "The guaranteed minimum return for investors during the first year"
+   ],
+   "answer": 1,
+   "explanation": "The float is the number of shares available for public trading; a small 5% float means very few shares are actually on the market. Today's story mentions this small float could artificially prop up Anthropic's share price initially.",
+   "item_id": "prof-g-markets-9f20696bcd"
+  },
+  {
+   "question": "Why does the ability for tribes to \"lease\" their water rights to cities matter for the economy?",
+   "options": [
+    "It allows the government to take back water without paying for it",
+    "It forces cities to stop growing to save water for agriculture",
+    "It lets water move from low-value uses to higher-value economic uses",
+    "It ensures that water prices remain the same regardless of supply"
+   ],
+   "answer": 2,
+   "explanation": "Leasing creates a market mechanism that moves resources like water to where they generate the most economic value, such as from low-value crops to growing cities. Today's story explains that current allocations are often stuck in inefficient historical usage patterns.",
+   "item_id": "indicator-e7d33e9870"
+  }
+ ]
+}

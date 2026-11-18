@@ -1,0 +1,107 @@
+{
+ "id": "prof-g-markets-9f20696bcd",
+ "source_id": "prof-g-markets",
+ "source_name": "Prof G Markets",
+ "kind": "podcast",
+ "title": "Nvidia Is Better Off Without Jensen Huang",
+ "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9836585379.mp3",
+ "media_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9836585379.mp3",
+ "published": "2026-11-18",
+ "duration": 2446,
+ "digest_date": "2026-11-18",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia earnings and Jensen Huang scandal",
+   "Gil Luria on Nvidia's future",
+   "Tech infrastructure outages and fragility",
+   "Anthropic IPO outlook"
+  ],
+  "headline": "Nvidia reports growth despite leadership scandal; Anthropic readies for massive IPO",
+  "tldr": "Nvidia posted strong earnings and raised growth guidance despite a leadership crisis involving former CEO Jensen Huang. Meanwhile, a series of tech infrastructure outages has raised concerns about the fragility of digital systems, and Anthropic prepares for a major IPO with significant institutional backing.",
+  "key_points": [
+   {
+    "point": "Nvidia reported $115 billion in revenue, up 103% from a year ago, and raised its growth guidance for next year to 75%.",
+    "why_it_matters": "Strong financial performance suggests that demand for AI compute remains robust despite the company's internal leadership turmoil and legal investigations."
+   },
+   {
+    "point": "The board confirmed Jensen Huang will not return as CEO following investigations into his conduct and potential trade violations.",
+    "why_it_matters": "Removing the founder reduces key-person risk and allows the company to transition toward more standard corporate governance, such as using written contracts instead of handshake deals."
+   },
+   {
+    "point": "Recent tech outages at firms like Microsoft and the FAA are attributed to compounding technical debt and the inherent complexity of modern digital infrastructure.",
+    "why_it_matters": "These incidents highlight the fragility of critical systems as they evolve, though experts note they are currently not linked to malicious cyber attacks."
+   },
+   {
+    "point": "Anthropic is set to raise $90 billion at a $1.4 trillion valuation, with $26 billion in price support from tech giants.",
+    "why_it_matters": "The IPO is a major test of market sentiment toward AI, though the small 5% float and heavy institutional support may artificially prop up the share price initially."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "103%",
+    "context": "Nvidia's revenue growth compared to a year ago."
+   },
+   {
+    "figure": "75%",
+    "context": "Nvidia's increased growth guidance for next year."
+   },
+   {
+    "figure": "$1.4T",
+    "context": "The valuation at which Anthropic is expected to price its IPO."
+   },
+   {
+    "figure": "$26B",
+    "context": "The amount of external price support committed by tech giants for the Anthropic IPO."
+   }
+  ],
+  "lesson": "When a company relies on a 'cult of personality' leader who uses informal handshake deals and circular financing to prop up demand, the business faces significant governance and sustainability risks; moving to professional, institutionalized management often provides long-term stability.",
+  "opinions_and_predictions": [
+   "Gil Luria believes Nvidia should hire an external CEO to institutionalize operations and move away from the 'bank of Nvidia' model of funding customers.",
+   "Gil Luria predicts that while there could be downside to forward estimates for the AI sector, the current low valuations suggest much of this risk is already priced in.",
+   "Ed Elson predicts the Anthropic IPO will perform well in the short term due to heavy institutional support and a small float, despite current market skepticism toward AI."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Microsoft (MSFT)",
+   "Amazon (AMZN)",
+   "Alphabet (GOOG)",
+   "Apple (AAPL)",
+   "Salesforce (CRM)",
+   "Hubspot (HUBS)",
+   "Workday (WDAY)"
+  ],
+  "glossary": [
+   {
+    "term": "Technical debt",
+    "definition": "The implied cost of future rework caused by choosing an easy, limited solution now instead of a better, more robust approach.",
+    "example": "Companies failing to upgrade old software systems to save money, leading to cascading failures later."
+   },
+   {
+    "term": "Float",
+    "definition": "The number of shares of a company that are available for the public to trade.",
+    "example": "Anthropic is issuing a small 5% float, meaning very few shares will be available for public trading initially."
+   },
+   {
+    "term": "CAPEX",
+    "definition": "Capital expenditure; money a company spends to buy, maintain, or improve its physical assets like buildings or equipment.",
+    "example": "Big tech companies increasing CAPEX to build more data centers for AI compute."
+   },
+   {
+    "term": "Hyperscalers",
+    "definition": "Large cloud computing providers that offer enterprise-level services at massive scale.",
+    "example": "Microsoft, Amazon, and Google are the primary hyperscalers buying Nvidia chips."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "corporate governance",
+   "cybersecurity",
+   "ipo"
+  ],
+  "quality_note": "The source features an analyst (Gil Luria) providing professional research and a host (Ed Elson) providing market commentary; claims regarding the IPO and company strategy are speculative.",
+  "worth_reading": true
+ }
+}

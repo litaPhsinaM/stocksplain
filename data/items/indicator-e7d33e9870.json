@@ -1,0 +1,83 @@
+{
+ "id": "indicator-e7d33e9870",
+ "source_id": "indicator",
+ "source_name": "The Indicator from Planet Money",
+ "kind": "podcast",
+ "title": "How a tribal water deal could put a price tag on the Colorado River",
+ "url": "https://www.npr.org/2026/11/17/nx-s1-6042565/how-a-tribal-water-deal-could-put-a-price-tag-on-the-colorado-river",
+ "media_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/76856110-ee70-4f82-9a55-696959f2e7df/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=76856110-ee70-4f82-9a55-696959f2e7df&feed=IFy3imsg&t=podcast&e=nx-s1-6042565&p=510325&d=557&size=8921843",
+ "published": "2026-11-17",
+ "duration": 557,
+ "digest_date": "2026-11-18",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Water access on tribal lands",
+   "Northeastern Arizona Indian Water Rights Settlement Act",
+   "Colorado River water rights rivalry",
+   "Economic value of water and efficiency"
+  ],
+  "headline": "Tribal water deal faces opposition; could reshape Colorado River usage",
+  "tldr": "A proposed $5 billion federal settlement aims to provide water infrastructure to three tribes by allowing them to lease unused water rights. However, the deal faces opposition from four states concerned about legal precedents regarding water movement across state lines.",
+  "key_points": [
+   {
+    "point": "The Northeastern Arizona Indian Water Rights Settlement Act would provide $5 billion to the Navajo, Hopi, and San Juan Southern Paiute tribes to build water infrastructure.",
+    "why_it_matters": "Many homes on these reservations currently lack indoor plumbing, forcing residents to haul water manually."
+   },
+   {
+    "point": "The deal allows the Navajo Nation to lease water to users below the river's dividing line, such as fast-growing Phoenix-area cities.",
+    "why_it_matters": "This creates a market mechanism to move water from low-value agricultural use to higher-value municipal use."
+   },
+   {
+    "point": "Colorado, New Mexico, Utah, and Wyoming are stalling the deal over concerns that leasing water across state lines sets a precedent that could threaten their own water security.",
+    "why_it_matters": "This political deadlock prevents the tribes from accessing water they are legally entitled to."
+   },
+   {
+    "point": "Resource economist Leslie Sanchez notes that current water rights are based on historical usage rather than economic efficiency.",
+    "why_it_matters": "This system often directs water toward low-value crops like alfalfa rather than to cities where it could generate more economic value."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$5 billion",
+    "context": "The amount the federal government would provide to tribes to build water infrastructure in exchange for using less water."
+   },
+   {
+    "figure": "3/4",
+    "context": "The portion of Colorado River water currently used by agriculture."
+   }
+  ],
+  "lesson": "When resources are allocated by historical priority rather than market price, they often flow to less efficient uses; allowing rights holders to trade or lease their access enables the resource to move toward its highest economic value.",
+  "opinions_and_predictions": [
+   "Leslie Sanchez (UC Davis) believes the tribal settlement is a necessary step toward making the Colorado River system more efficient.",
+   "Tribal leaders feel they are at the 5-yard line of completing the settlement, with the four opposing states standing in their way."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Water rights",
+    "definition": "Legal authority to use a specific amount of water from a source like a river.",
+    "example": "Tribes in the Colorado River basin have legal access to about a quarter of the river's water."
+   },
+   {
+    "term": "Infrastructure",
+    "definition": "The physical systems, such as pipes and treatment plants, needed for a society or organization to function.",
+    "example": "The settlement would fund a pipeline to bring running water to homes on tribal lands."
+   },
+   {
+    "term": "Resource economist",
+    "definition": "An economist who studies how society manages natural resources like water, land, and energy.",
+    "example": "Leslie Sanchez analyzed how the current water allocation system leads to inefficiency."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "water rights",
+   "infrastructure",
+   "economics"
+  ],
+  "quality_note": "The report features on-the-ground interviews with tribal members and analysis from a resource economist, though state negotiators declined to provide interviews.",
+  "worth_reading": true
+ }
+}

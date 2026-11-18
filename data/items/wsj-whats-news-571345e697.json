@@ -1,0 +1,115 @@
+{
+ "id": "wsj-whats-news-571345e697",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "FAA Pauses Some Upgrades During Ground Stop Investigation",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/dc151c58-df9d-423a-aae2-5eeb42d4d2f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=dc151c58-df9d-423a-aae2-5eeb42d4d2f9&feed=BA5QWI2p",
+ "published": "2026-11-17",
+ "duration": 775,
+ "digest_date": "2026-11-18",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia earnings and SEC investigation",
+   "Jensen Huang open to CEO return",
+   "Anthropic IPO valuation increase",
+   "General Motors CEO succession planning",
+   "Disney cost savings and content spending",
+   "Kalshee pauses election betting contracts",
+   "Senate Democratic leadership contest",
+   "FAA pauses system upgrades after ground stop",
+   "US loses measles elimination status",
+   "GLP-1 weight loss drug research in children"
+  ],
+  "headline": "FAA pauses upgrades after ground stop; Nvidia faces SEC probe",
+  "tldr": "The FAA has halted some system upgrades following a nationwide ground stop caused by a router failure. Meanwhile, Nvidia is under SEC investigation while reporting record earnings, and the U.S. has lost its measles elimination status.",
+  "key_points": [
+   {
+    "point": "The FAA paused new router installations after a rare nationwide ground stop caused nearly 20,000 flight cancellations.",
+    "why_it_matters": "Upgrading critical 24/7 infrastructure is complex, and failures in these aging systems are becoming more frequent."
+   },
+   {
+    "point": "Nvidia reported $116 billion in revenue and $65 billion in net income, but is now under SEC investigation regarding its disclosures.",
+    "why_it_matters": "Regulatory scrutiny adds uncertainty to the company's future despite strong financial performance."
+   },
+   {
+    "point": "Anthropic's IPO valuation is expected to reach trillions, up from an earlier estimate.",
+    "why_it_matters": "High demand for the AI company suggests investor enthusiasm remains strong despite broader market volatility."
+   },
+   {
+    "point": "The U.S. has lost its measles elimination status due to falling vaccination rates, according to the Pan American Health Organization.",
+    "why_it_matters": "This public health shift requires the country to submit a new plan to eliminate the disease."
+   },
+   {
+    "point": "Disney plans to reach $3 billion in annual cost savings by fiscal 2029, with a 9% increase in content spending for fiscal 2027.",
+    "why_it_matters": "The company is shifting capital toward streaming and direct-to-consumer growth to drive future revenue."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$116B",
+    "context": "Nvidia's reported revenue for the quarter."
+   },
+   {
+    "figure": "$65B",
+    "context": "Nvidia's reported net income for the quarter."
+   },
+   {
+    "figure": "$3B",
+    "context": "Disney's annual cost savings target by fiscal 2029."
+   },
+   {
+    "figure": "-1.6%",
+    "context": "The Dow Jones Industrial Average's closing loss on the day."
+   }
+  ],
+  "lesson": "When critical infrastructure relies on legacy systems, the process of upgrading while maintaining 24/7 uptime creates significant operational risk; failures in these complex networks often lead to cascading outages.",
+  "opinions_and_predictions": [
+   "Jensen Huang claims he has seen an outpouring of support for his return as Nvidia CEO.",
+   "Activists argue that the Democratic Party needs new leadership because Chuck Schumer is not an effective communicator for the current media landscape.",
+   "Drew Fitzgerald (WSJ) notes that network failures are becoming more frequent as systems grow more complicated.",
+   "Alex Janin (WSJ) suggests that if weight loss drugs are approved for children, it represents a significant market opportunity, particularly for Novo Nordisk."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "General Motors (GM)",
+   "Disney (DIS)",
+   "Novo Nordisk (NVO)",
+   "Eli Lilly (LLY)"
+  ],
+  "glossary": [
+   {
+    "term": "Ground stop",
+    "definition": "An air traffic control measure that prevents aircraft from taking off to a specific destination or region.",
+    "example": "The FAA issued a nationwide ground stop that caused thousands of flight delays."
+   },
+   {
+    "term": "GLP-1",
+    "definition": "A class of drugs that mimic a hormone to regulate appetite and blood sugar, often used for weight loss.",
+    "example": "Novo Nordisk and Eli Lilly are researching the effects of GLP-1 drugs on children."
+   },
+   {
+    "term": "Redundancy",
+    "definition": "The inclusion of extra components or systems that are not strictly necessary to functioning, in case of failure in other parts.",
+    "example": "The NSA designed its infrastructure with layers of redundancy to keep operations running during maintenance."
+   },
+   {
+    "term": "DTC",
+    "definition": "Direct-to-consumer, a business model where companies sell products directly to customers without third-party retailers.",
+    "example": "Disney is reinvesting savings to drive growth in its broader DTC efforts."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "infrastructure",
+   "tech earnings",
+   "public health",
+   "corporate strategy"
+  ],
+  "quality_note": "The report relies on a mix of exclusive institutional reporting, company earnings data, and expert analysis from journalists.",
+  "worth_reading": true
+ }
+}

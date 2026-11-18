@@ -1,0 +1,100 @@
+{
+ "id": "squawk-pod-5cc6c6d331",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "DHS Secretary Mullin: We Are Not Under Attack 11/17/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/695891ab-d1a0-46be-a0e3-548eac401044/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=695891ab-d1a0-46be-a0e3-548eac401044&feed=VHAcgaw_",
+ "published": "2026-11-17",
+ "duration": 2110,
+ "digest_date": "2026-11-18",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "DHS Secretary on cyber security",
+   "FAA router failure analysis",
+   "Market decline and S&P 7400",
+   "Nvidia leadership and export probe",
+   "Anthropic IPO impact"
+  ],
+  "headline": "S&P 7400 as Nvidia faces export probe; Anthropic IPO looms",
+  "tldr": "Markets are pulling back amid concerns over AI valuations and potential export control violations at Nvidia. Meanwhile, officials confirm recent infrastructure outages were not the result of a cyber attack.",
+  "key_points": [
+   {
+    "point": "DHS Secretary Mark Wayne Mullen stated there is no cyber threat behind recent airline and banking outages.",
+    "why_it_matters": "It clarifies that widespread system failures were technical rather than malicious, reducing fears of a coordinated attack."
+   },
+   {
+    "point": "James Stavridis noted that the FAA ground stop was caused by a single router failure in Arkansas.",
+    "why_it_matters": "It highlights the fragility of critical infrastructure and the risks posed by single points of failure in complex systems."
+   },
+   {
+    "point": "Nvidia's board formed a committee to ensure compliance with export controls following a joint Commerce and Justice Department investigation into MegaSpeed.",
+    "why_it_matters": "Regulatory scrutiny on chip sales to specific entities can significantly impact a company's operations and stock performance."
+   },
+   {
+    "point": "The S&P is trading at 7,400, down from its all-time high.",
+    "why_it_matters": "Market volatility is increasing as investors reassess the sustainability of AI-driven growth."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-1.4%",
+    "context": "The Dow Jones Industrial Average's decline during the previous trading session."
+   },
+   {
+    "figure": "-1.9%",
+    "context": "The S&P 500's decline during the previous trading session."
+   },
+   {
+    "figure": "-2.5%",
+    "context": "The Nasdaq's decline during the previous trading session."
+   },
+   {
+    "figure": "7400",
+    "context": "The current level of the S&P 500 index."
+   },
+   {
+    "figure": "5.5%",
+    "context": "The percentage the S&P 500 is currently down from its all-time high."
+   }
+  ],
+  "lesson": "When a company's operations rely on complex global supply chains and strict government regulations, legal or compliance failures can trigger sudden volatility regardless of the company's core technological strength.",
+  "opinions_and_predictions": [
+   "James Stavridis (Former NATO Supreme Allied Commander) believes there is a building trend of infrastructure vulnerability.",
+   "Joe Kernen (CNBC) suggests that with the market at 7,400, previous predictions about index levels are no longer reliable.",
+   "Becky Quick (CNBC) notes that despite petitions for a former leader's return to Nvidia, the board is unlikely to allow it."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Microsoft (MSFT)"
+  ],
+  "glossary": [
+   {
+    "term": "Export controls",
+    "definition": "Government regulations that restrict the shipment of certain goods, technology, or software to foreign countries for national security or foreign policy reasons.",
+    "example": "Nvidia is under investigation for potential violations of these rules regarding chip sales."
+   },
+   {
+    "term": "Single point of failure",
+    "definition": "A part of a system that, if it fails, will stop the entire system from working.",
+    "example": "A single router in Arkansas caused the FAA ground stop."
+   },
+   {
+    "term": "IPO",
+    "definition": "Initial Public Offering; the process by which a private company offers shares to the public for the first time.",
+    "example": "The upcoming Anthropic IPO is so significant it is displacing the show's studio location."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "market volatility",
+   "ai stocks",
+   "cybersecurity"
+  ],
+  "quality_note": "The source features news anchors and a former military commander providing analysis, though some segments rely on unnamed sources regarding corporate board decisions.",
+  "worth_reading": true
+ }
+}

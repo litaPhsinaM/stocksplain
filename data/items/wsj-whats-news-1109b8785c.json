@@ -1,0 +1,97 @@
+{
+ "id": "wsj-whats-news-1109b8785c",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Can Trump Keep Both China and America\u2019s Asian Allies Happy?",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/804e7cbb-be92-4157-b909-5e22b99fa93f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=804e7cbb-be92-4157-b909-5e22b99fa93f&feed=BA5QWI2p",
+ "published": "2026-11-17",
+ "duration": 773,
+ "digest_date": "2026-11-18",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Trump's Asia trip and chip restrictions",
+   "Calshi's expansion into stock trading",
+   "Nvidia stock drop",
+   "ECB warns of AI-driven financial risks",
+   "Tesla's Cybercab production plans",
+   "California sues OpenAI",
+   "Chase online banking outage",
+   "FDA approves Roche breast cancer drug"
+  ],
+  "headline": "Trump's Asia trip, Calshi's stock market entry, and Tesla's Cybercab plans",
+  "tldr": "President Trump is in the Philippines for a regional summit amid tensions over new US chip export restrictions. Meanwhile, prediction market platform Calshi is entering the stock trading business, and Tesla announced plans to produce its Cybercab in Berlin by 2029.",
+  "key_points": [
+   {
+    "point": "The U.S. has implemented new export controls on chips to Indonesia, Malaysia, Singapore, and Thailand following an incident involving an Nvidia employee.",
+    "why_it_matters": "These restrictions disrupt highly interconnected AI supply chains and slow down data center construction in the region."
+   },
+   {
+    "point": "Calshi, a prediction market platform, is launching stock and ETF trading within the next two months.",
+    "why_it_matters": "This expansion into traditional stock trading faces legal challenges from multiple states over whether its event contracts constitute illegal state-regulated gambling."
+   },
+   {
+    "point": "The European Central Bank warned that the AI boom poses risks to the financial sector due to high demand for credit and potential asset losses.",
+    "why_it_matters": "Regulators are concerned that excessive investment in AI infrastructure could lead to a lack of funding for other parts of the economy."
+   },
+   {
+    "point": "Tesla plans to spend $3 billion to add a production facility for its Cybercab to its Berlin factory, with production starting in 2029.",
+    "why_it_matters": "This move signals Tesla's commitment to scaling its self-driving taxi technology internationally."
+   },
+   {
+    "point": "California is suing OpenAI, alleging the company misled the public and endangered safety by developing AI models without proper safeguards.",
+    "why_it_matters": "This lawsuit highlights growing regulatory scrutiny over the development and safety of advanced AI technologies."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$3 billion",
+    "context": "The amount Tesla plans to spend to add a production facility for its Cybercab to its Berlin factory."
+   },
+   {
+    "figure": "$65 billion",
+    "context": "The valuation Calshi is seeking in its latest funding round."
+   }
+  ],
+  "lesson": "When a company's value is tied to one leader or a single product, the stock reacts to that person's risks or product delays (key-person risk); boards reduce it with succession plans.",
+  "opinions_and_predictions": [
+   "Gabrielle Steinhauser (WSJ) believes the Nvidia scandal has added complexity to President Trump's trip and is forcing Washington to clarify its stance.",
+   "Paul Hannon (WSJ) notes that the European Central Bank is concerned that investors have gotten ahead of themselves, expecting returns that may not materialize.",
+   "California Attorney General Rob Bonta claims OpenAI tested its models in a flawed way without proper oversight."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Tesla (TSLA)",
+   "OpenAI"
+  ],
+  "glossary": [
+   {
+    "term": "Export controls",
+    "definition": "Government restrictions on the sale or transfer of goods, services, or technology to foreign countries for national security reasons.",
+    "example": "The U.S. implemented new export controls on chips to several Asian countries."
+   },
+   {
+    "term": "ETF (Exchange-Traded Fund)",
+    "definition": "A type of investment fund that holds assets such as stocks, commodities, or bonds and trades on a stock exchange.",
+    "example": "Calshi plans to launch trading in stocks and ETFs."
+   },
+   {
+    "term": "Cybercab",
+    "definition": "Tesla's planned self-driving taxi vehicle that operates without a steering wheel or pedals.",
+    "example": "Tesla plans to produce the Cybercab in Berlin starting in 2029."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "geopolitics",
+   "ai stocks",
+   "regulation",
+   "tech industry"
+  ],
+  "quality_note": "The source features reports from WSJ journalists and official statements from regulators and companies, providing a mix of factual updates and expert analysis.",
+  "worth_reading": true
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "id": "planet-money-0674dc60dc",
+ "source_id": "planet-money",
+ "source_name": "Planet Money",
+ "kind": "podcast",
+ "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+ "url": "https://www.npr.org/2026/11/18/nx-s1-6044772/data-center-debt-deals-investment",
+ "media_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
+ "published": "2026-11-18",
+ "duration": 1108,
+ "digest_date": "2026-11-18",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Tech giants borrowing for AI data centers",
+   "Investor demand for AI-related bonds",
+   "Risks of long-term data center leases",
+   "Oracle's debt and circular AI deals",
+   "Oracle's credit risk and potential fallout"
+  ],
+  "headline": "Tech giants' massive data center debt; Oracle's financial risks",
+  "tldr": "Major tech companies are issuing record amounts of debt to fund AI data center construction, raising concerns about long-term demand and project viability. Oracle, in particular, faces scrutiny for its high debt load and interconnected business deals that link it closely to other AI players.",
+  "key_points": [
+   {
+    "point": "Hyperscalers sold over $130 billion in bonds so far in 2026, following $90 billion last year.",
+    "why_it_matters": "The sheer volume of debt being issued to fund AI infrastructure is unprecedented and competes with US Treasuries for investor capital."
+   },
+   {
+    "point": "Oracle's total debt has nearly doubled in two years to $169 billion.",
+    "why_it_matters": "This rapid accumulation of debt has shifted Oracle from a cash-generating software business to a capital-intensive company with a credit rating just one notch above junk status."
+   },
+   {
+    "point": "Oracle, OpenAI, and Nvidia are involved in circular deals where they invest in or pay each other to support AI infrastructure.",
+    "why_it_matters": "These interconnections create concentration risk, where a failure in one company could potentially ripple through the entire AI ecosystem."
+   },
+   {
+    "point": "Data center projects often rely on 15 to 30-year lease structures that may outlast the current AI demand cycle.",
+    "why_it_matters": "If AI productivity gains do not materialize or technology changes, companies may be left with expensive, underutilized infrastructure and long-term payment obligations."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$130 billion",
+    "context": "The amount of bonds sold by the five hyperscalers so far in 2026."
+   },
+   {
+    "figure": "$169 billion",
+    "context": "The total debt load currently held by Oracle."
+   },
+   {
+    "figure": "$25 billion",
+    "context": "The amount of bonds Alphabet sold in a single deal in August."
+   }
+  ],
+  "lesson": "When companies fund long-term infrastructure projects with debt, the project's viability depends on future demand remaining high enough to cover interest and principal payments; if demand is uncertain or the industry is highly interconnected, the risk of default increases.",
+  "opinions_and_predictions": [
+   "Matt Sheridan (Ohio State University) worries that if the AI sector is a bubble, the interconnected nature of these companies could lead to a Lehman Brothers-type event.",
+   "Larry Ellison (Oracle) believes training AI models is the largest, fastest-growing business in human history.",
+   "Lindsay Tyler (Morgan Stanley) views Oracle's potential fall to junk status as a medium-term risk that would make funding and refinancing significantly more challenging."
+  ],
+  "tickers": [
+   "Microsoft",
+   "Nvidia",
+   "Amazon",
+   "Alphabet",
+   "Meta",
+   "Oracle",
+   "Warner Brothers Discovery"
+  ],
+  "glossary": [
+   {
+    "term": "Hyperscalers",
+    "definition": "Large companies that operate massive data centers to provide cloud computing and AI services.",
+    "example": "Alphabet, Amazon, and Microsoft are considered the main hyperscalers."
+   },
+   {
+    "term": "Investment grade",
+    "definition": "A rating given to bonds that are considered relatively safe and likely to be repaid by the issuer.",
+    "example": "US Treasuries and bonds from large, stable tech companies are typically investment grade."
+   },
+   {
+    "term": "Credit default swap (CDS)",
+    "definition": "A financial contract that acts like insurance against a company defaulting on its debt.",
+    "example": "Investors are using CDS to speculate on the rising risk of Oracle's debt."
+   },
+   {
+    "term": "Force majeure",
+    "definition": "A clause in a contract that allows a party to delay or cancel obligations due to unexpected, uncontrollable events.",
+    "example": "Oracle issued a notice suggesting it might delay loan repayments due to potential project delays."
+   },
+   {
+    "term": "Junk status",
+    "definition": "A credit rating indicating a higher risk of default, often making it harder for a company to borrow money.",
+    "example": "S&P downgraded Oracle's credit to just one notch above junk status."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "corporate debt",
+   "ai infrastructure",
+   "bond market"
+  ],
+  "quality_note": "The report features insights from academic and financial analysts, though some comparisons to historical financial crises are speculative.",
+  "worth_reading": true
+ }
+}

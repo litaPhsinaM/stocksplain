@@ -1,0 +1,400 @@
+{
+ "date": "2026-11-18",
+ "topics": [
+  {
+   "title": "Nvidia reports strong quarterly earnings beat as board rules out reinstating former CEO",
+   "explanation": "Nvidia posted third-quarter earnings that beat expectations and offered a strong outlook under interim CEO Colette Kress. Following the resignation of former CEO Jensen Huang, board chairman Harvey Jones stated during the earnings call that the board unanimously accepted Huang's resignation and has no intention of reinstating him.",
+   "why_it_matters": "Nvidia's financial health and leadership stability are critical indicator metrics for investors tracking the broader artificial intelligence boom.",
+   "tickers": [
+    "NVDA"
+   ],
+   "beat": "markets",
+   "headline_ids": [
+    "hdaa9959c",
+    "h6508af62",
+    "hbf22fc83",
+    "h1eb6c4f0",
+    "h5442c44e"
+   ]
+  },
+  {
+   "title": "Anthropic prepares for historic IPO with Amazon and Google holding major stakes",
+   "explanation": "Artificial intelligence startup Anthropic is advancing toward pricing its initial public offering amid strong market demand. Following the offering, tech giants Amazon and Google are set to collectively hold nearly 30% of the company's shares.",
+   "why_it_matters": "An initial public offering, or IPO, allows private companies to list on public stock exchanges, establishing a benchmark valuation for the entire AI market.",
+   "tickers": [
+    "AMZN",
+    "GOOGL"
+   ],
+   "beat": "tech",
+   "headline_ids": [
+    "hde5e73a4",
+    "h297f77b8",
+    "h6908e719"
+   ]
+  },
+  {
+   "title": "President Trump arrives in Shenzhen for trilateral summit with Xi Jinping and Vladimir Putin",
+   "explanation": "U.S. President Donald Trump arrived in Shenzhen, China, where he was greeted on the tarmac by Chinese President Xi Jinping. The two leaders are kicking off high-stakes talks alongside Russian President Vladimir Putin to discuss diplomatic and trade relations.",
+   "why_it_matters": "High-level summits between leaders of major global superpowers can shift trade policies, tariff expectations, and global market risk sentiment.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "h45c19e2f",
+    "h69c7bfe6",
+    "h7657ed90",
+    "hde562b50"
+   ]
+  },
+  {
+   "title": "UK inflation surges to 3.6% year-high driven by rising energy bills and diesel prices",
+   "explanation": "U.K. annual inflation reached a one-year high of 3.6% following a surge in record diesel prices and motor fuel costs. Forecasts indicate British households could also face a 26% jump in energy bills starting in January.",
+   "why_it_matters": "Inflation tracks how quickly consumer prices rise over time, directly influencing central bank interest rate decisions and overall consumer purchasing power.",
+   "tickers": [],
+   "beat": "economy",
+   "headline_ids": [
+    "h79407dbc",
+    "h844887fb",
+    "ha0c2f7ed",
+    "hfb265262"
+   ]
+  },
+  {
+   "title": "Crude oil prices decline despite escalating U.S.-Iran conflict and Strait of Hormuz tanker attacks",
+   "explanation": "Crude oil prices extended their decline after an industry report from the American Petroleum Institute indicated a 5.3 million barrel build in U.S. crude inventories. The price drop occurred even as security risks escalated following tanker attacks in the Strait of Hormuz and rising military tensions between the U.S. and Iran.",
+   "why_it_matters": "Oil prices drive global fuel and supply chain costs, making crude inventory levels and geopolitical shipping risks major market movers.",
+   "tickers": [],
+   "beat": "energy",
+   "headline_ids": [
+    "h2f5c5c29",
+    "h7909b6a8",
+    "h2e8efd3a",
+    "h8391f6e1"
+   ]
+  },
+  {
+   "title": "Waymo halts driverless freeway rides nationwide following California regulatory order",
+   "explanation": "Waymo suspended its autonomous driverless taxi operations on all U.S. freeways after the California Department of Motor Vehicles ordered a ban on state highway rides. Regulators concluded that the highway operations presented an imminent hazard to public safety after recent traffic incidents.",
+   "why_it_matters": "Regulatory crackdowns on autonomous vehicles highlight safety hurdles and operational challenges for companies commercializing driverless technology.",
+   "tickers": [
+    "GOOGL"
+   ],
+   "beat": "tech",
+   "headline_ids": [
+    "h942df5e1",
+    "h122115e1"
+   ]
+  }
+ ],
+ "headlines": {
+  "h45c19e2f": {
+   "id": "h45c19e2f",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+   "blurb": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+   "published": "2026-11-18T10:32"
+  },
+  "h79407dbc": {
+   "id": "h79407dbc",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Energy bills forecast to go up by \u00a3443 a year from January as UK inflation rises again",
+   "blurb": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T10:10"
+  },
+  "h69c7bfe6": {
+   "id": "h69c7bfe6",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Xi greets Trump with hug ahead of historic summit with Putin",
+   "blurb": "US and Chinese leaders to meet Russian President Vladimir Putin to cap week of high-profile diplomacy",
+   "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
+   "published": "2026-11-18T10:05"
+  },
+  "h2f5c5c29": {
+   "id": "h2f5c5c29",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise",
+   "blurb": "ADNOC Logistics & Services, a unit of Abu Dhabi\u2019s national oil company ADNOC, confirmed on Wednesday that one of its vessels was attacked while transiting the Strait of Hormuz on the evening of November 17, as attacks on tankers in the area have intensified in recent weeks.\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Ship-Attacked-in-Hormuz-as-Maritime-Security-Risks-Rise.html",
+   "published": "2026-11-18T10:00"
+  },
+  "hdaa9959c": {
+   "id": "hdaa9959c",
+   "source": "The Guardian Business",
+   "beat": "world",
+   "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+   "blurb": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia \u201cdoes not intend to reinstate Jensen as CEO\u201d, the chairman of the company\u2019s board said Tuesday. Harvey Jones made the remark during Nvidia\u2019s first quarterly\u2026",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+   "published": "2026-11-17T23:32"
+  },
+  "h6508af62": {
+   "id": "h6508af62",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "blurb": "Nvidia shares rose in extended trading after the company\u2019s first earnings report since co-founder Jensen Huang resigned last week.",
+   "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "published": "2026-11-18T10:49"
+  },
+  "h844887fb": {
+   "id": "h844887fb",
+   "source": "CNBC Economy",
+   "beat": "economy",
+   "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+   "blurb": "It put the U.K.'s annual inflation rate at a 1-year high.",
+   "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+   "published": "2026-11-18T07:57"
+  },
+  "h7657ed90": {
+   "id": "h7657ed90",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Xi, Trump Begin Summit With Warm Embrace",
+   "blurb": "Chinese President Xi Jinping greeted Donald Trump with a warm embrace upon the US president's arrival at the airport in the southern city of Shenzhen Wednesday, kicking off the duo\u2019s third set of meetings this year. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-begin-summit-with-warm-embrace-video",
+   "published": "2026-11-18T10:03"
+  },
+  "hde562b50": {
+   "id": "hde562b50",
+   "source": "CNBC Politics",
+   "beat": "policy",
+   "title": "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+   "blurb": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China\u2019s market and manufacturing sector.",
+   "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+   "published": "2026-11-18T08:00"
+  },
+  "h7909b6a8": {
+   "id": "h7909b6a8",
+   "source": "CNBC Energy",
+   "beat": "energy",
+   "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+   "blurb": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+   "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+   "published": "2026-11-17T11:22"
+  },
+  "h2e8efd3a": {
+   "id": "h2e8efd3a",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
+   "blurb": "Crude oil prices extended their decline today, following the Tuesday release of the American Petroleum Institute oil stock report, which showed a build across crude and fuels. At the time of writing, Brent crude was trading at $92.49 per barrel, with West Texas Intermediate at\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Escalating-US-Iran-Conflict.html",
+   "published": "2026-11-18T05:55"
+  },
+  "hde5e73a4": {
+   "id": "hde5e73a4",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Churn",
+   "blurb": "Anthropic PBC is on the cusp of pricing potentially the biggest IPO of all time, defying days of volatility in technology stocks that threaten to weigh on the startup\u2019s long-awaited debut.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn",
+   "published": "2026-11-18T10:00"
+  },
+  "hbf22fc83": {
+   "id": "hbf22fc83",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+   "blurb": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or\u2026",
+   "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+   "published": "2026-11-17T22:05"
+  },
+  "hfb265262": {
+   "id": "hfb265262",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "UK Energy Bills Could Rise 26%, The Biggest Hike Since 2022",
+   "blurb": "UK households are facing another jump in energy bills in January as the Iran war drives up wholesale gas and electricity prices, threatening to undermine Prime Minister Andy Burnham\u2019s efforts to ease a cost-of-living squeeze.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-18/uk-energy-bills-seen-rising-26-biggest-hike-since-2022",
+   "published": "2026-11-18T08:00"
+  },
+  "h942df5e1": {
+   "id": "h942df5e1",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Waymo pulls driverless taxis from all US freeways",
+   "blurb": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T03:07"
+  },
+  "h6908e719": {
+   "id": "h6908e719",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "blurb": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "published": "2026-11-17T22:29"
+  },
+  "h1eb6c4f0": {
+   "id": "h1eb6c4f0",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+   "blurb": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T01:18"
+  },
+  "ha0c2f7ed": {
+   "id": "ha0c2f7ed",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "UK Inflation Hits Highest in a Year on Fuel and Energy Costs",
+   "blurb": "UK inflation accelerated to its highest level in a year after a surge in energy bills and motor fuel costs.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-18/uk-inflation-hits-highest-in-year-on-soaring-fuel-energy-costs",
+   "published": "2026-11-18T07:05"
+  },
+  "h297f77b8": {
+   "id": "h297f77b8",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Anthropic Plans to Raise IPO Price After Strong Demand",
+   "blurb": "The company has pitched investors through market tumult and the shock resignation of Nvidia\u2019s Jensen Huang.",
+   "url": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main",
+   "published": "2026-11-17T17:02"
+  },
+  "h8391f6e1": {
+   "id": "h8391f6e1",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "API Shows Substantial Crude Oil, Gasoline Inventory Builds",
+   "blurb": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose by 5.3 million barrels in the week ending November 13. In the week prior, US crude oil inventories rose by 9 million barrels. Commercial crude oil inventories excluding the SPR\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Substantial-Crude-Oil-Gasoline-Inventory-Builds.html",
+   "published": "2026-11-17T21:58"
+  },
+  "h122115e1": {
+   "id": "h122115e1",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "Waymo suspends freeway rides nationwide after California DMV order",
+   "blurb": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+   "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+   "published": "2026-11-17T19:49"
+  },
+  "h5442c44e": {
+   "id": "h5442c44e",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+   "blurb": "In her first earnings report as interim CEO, Nvidia's Colette Kress calmed investors' nerves, at least for the moment.",
+   "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+   "published": "2026-11-18T03:15"
+  }
+ },
+ "latest": [
+  {
+   "id": "h87c3487f",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+   "blurb": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
+   "url": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+   "published": "2026-11-18T10:49"
+  },
+  {
+   "id": "h6508af62",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "blurb": "Nvidia shares rose in extended trading after the company\u2019s first earnings report since co-founder Jensen Huang resigned last week.",
+   "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "published": "2026-11-18T10:49"
+  },
+  {
+   "id": "hf838ce9f",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "China\u2019s military seeks Nvidia\u2019s advanced chips for AI capabilities, commission says",
+   "blurb": "A congressional commission issued its findings as Nvidia has been rocked by its CEO's resignation after reports he had an affair with a suspected Chinese spy.",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+   "published": "2026-11-18T10:45"
+  },
+  {
+   "id": "hddea67d8",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Apollo\u2019s Europe Head Sees Massive Finance Demand for AI, Defense",
+   "blurb": "Europe\u2019s urgent need to catch up on defense, power and artificial intelligence spending means the need for investment has grown significantly even since Mario Draghi outlined an action plan for the continent, yet its capital markets have failed to keep pace.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-18/apollo-s-europe-head-sees-massive-finance-demand-for-ai-defense",
+   "published": "2026-11-18T10:41"
+  },
+  {
+   "id": "h6e7b64d6",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "U.S. soldier taken into military custody over suspected spying for Russia",
+   "blurb": "The senior serviceman was arrested in the U.K. last week on suspicion of espionage and national security offenses.",
+   "url": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
+   "published": "2026-11-18T10:41"
+  },
+  {
+   "id": "h414530ab",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Trump lands in China for historic meeting with Xi, Putin",
+   "blurb": "President Donald Trump has landed in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
+   "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+   "published": "2026-11-18T10:37"
+  },
+  {
+   "id": "h45c19e2f",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+   "blurb": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+   "published": "2026-11-18T10:32"
+  },
+  {
+   "id": "h4e9cd433",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Nvidia\u2019s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+   "blurb": "The company inherits problems from Jensen Huang, and advantages.",
+   "url": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+   "published": "2026-11-18T10:30"
+  },
+  {
+   "id": "h2fe1d5ae",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Stubb Urges 'Day and Night' Effort to End War in Ukraine",
+   "blurb": "Finnish President Alexander Stubb said he is cautiously optimistic that efforts to end Russia\u2019s war in Ukraine are moving in the right direction, even if it's unlikely that hostilities will end this year. He speaks to Bloomberg's Oliver Crook at the Slush startup event in\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-18/stubb-urges-day-and-night-effort-to-end-war-in-ukraine-video",
+   "published": "2026-11-18T10:29"
+  },
+  {
+   "id": "h4d1af77c",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "blurb": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
+   "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "published": "2026-11-18T10:15"
+  },
+  {
+   "id": "hde436c16",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Apollo Is Focused on Investment Grade, De Giorgi Says",
+   "blurb": "Diego De Giorgi, partner and head of EMEA at Apollo Global Management, says the firm is focused on the global industrial renaissance and is particularly focused on investment-grade and the short end of curve. Speaking to Anna Edwards at Bloomberg's Global Credit Forum in London,\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-is-focused-on-investment-grade-de-giorgi-says-video",
+   "published": "2026-11-18T10:13"
+  },
+  {
+   "id": "h79407dbc",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Energy bills forecast to go up by \u00a3443 a year from January as UK inflation rises again",
+   "blurb": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T10:10"
+  }
+ ],
+ "feeds": 27,
+ "scanned": 258
+}

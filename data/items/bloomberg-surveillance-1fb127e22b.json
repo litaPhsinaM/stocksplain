@@ -1,0 +1,97 @@
+{
+ "id": "bloomberg-surveillance-1fb127e22b",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 17th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-17th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/0405a2dd-1597-454b-92ff-b5050110f0b7/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-17",
+ "duration": 1534,
+ "digest_date": "2026-11-18",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia earnings and US chip restrictions",
+   "Credit market and AI investment risks",
+   "Economic growth and AI capital cycles",
+   "Fed policy and economic outlook"
+  ],
+  "headline": "Jim Cramer on AI's credit risks; Esther George on Fed policy",
+  "tldr": "Jim Cramer of Apollo Global Management discusses the credit risks associated with AI infrastructure investment, emphasizing the need for seasoned analysis. Meanwhile, former Kansas City Fed President Esther George outlines the Fed's focus on structural economic components and the challenges of managing inflation.",
+  "key_points": [
+   {
+    "point": "Jim Cramer (Apollo Global Management) notes that AI investment is currently undergoing a major stress test, with the industry facing questions about revenue models, financing needs, and the impact of higher interest rates.",
+    "why_it_matters": "Understanding the financing behind the AI boom is crucial for assessing the durability of the current market rally."
+   },
+   {
+    "point": "Zelter highlights that credit is a large aggregate system, and Apollo is focusing on investment-grade solutions rather than taking long-duration risks in the current environment.",
+    "why_it_matters": "This approach reflects a shift toward safer, more structured investments as market participants grapple with economic uncertainty."
+   },
+   {
+    "point": "Esther George (former Kansas City Fed President) explains that the Fed is analyzing structural components of the economy, such as productivity, to understand inflation and growth trends.",
+    "why_it_matters": "The Fed's interpretation of these structural factors directly influences future interest rate decisions."
+   },
+   {
+    "point": "George notes that while there are structural components to the economy, strong demand is currently acting as a tailwind for inflation, which the Fed must address.",
+    "why_it_matters": "This suggests that the Fed may need to maintain a restrictive policy stance to cool demand and bring inflation back to target."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$300B",
+    "context": "The approximate size of Apollo's aggregate credit portfolio over the last 12 months."
+   },
+   {
+    "figure": "80-85%",
+    "context": "The portion of Apollo's portfolio that is credit, with the vast majority being investment-grade."
+   },
+   {
+    "figure": "11x",
+    "context": "The current forward multiple for Nvidia, which Zelter notes is down from 33-35x."
+   }
+  ],
+  "lesson": "When a new technology sector requires massive capital expenditure (CapEx), the long-term viability of the companies involved depends on their ability to generate free cash flow that exceeds their basic business model costs, rather than relying on continuous external financing.",
+  "opinions_and_predictions": [
+   "Jim Cramer believes that not all credit is equal and that the current market environment requires a focus on shorter-duration, investment-grade solutions.",
+   "Jim Cramer predicts that the AI capital expenditure cycle will have winners and losers, similar to past cycles like canals, railways, and electricity.",
+   "Esther George thinks that the Fed's current focus on cyclical and structural components of the economy is essential for managing inflation.",
+   "Esther George suggests that while structural improvements in productivity are positive, the Fed must remain focused on the inflationary pressure caused by strong demand."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "CapEx (Capital Expenditure)",
+    "definition": "Funds used by a company to acquire, upgrade, and maintain physical assets such as property, buildings, or equipment.",
+    "example": "The AI industry is currently undergoing a massive CapEx cycle to build data centers."
+   },
+   {
+    "term": "Investment-grade",
+    "definition": "A rating that indicates a municipal or corporate bond has a relatively low risk of default.",
+    "example": "Apollo is prioritizing investment-grade credit solutions in the current market."
+   },
+   {
+    "term": "Forward multiple",
+    "definition": "A valuation metric that compares a company's current stock price to its expected future earnings.",
+    "example": "Zelter noted that Nvidia's forward multiple has compressed significantly."
+   },
+   {
+    "term": "Hyper-scaler",
+    "definition": "Large cloud computing companies that provide massive-scale cloud services, such as Amazon, Google, and Microsoft.",
+    "example": "Zelter discussed the risks associated with hyper-scaler debt."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "interest rates",
+   "credit markets",
+   "fed policy"
+  ],
+  "quality_note": "The source features high-level financial professionals providing expert analysis on credit markets and monetary policy; the claims are based on their professional experience and market observations.",
+  "worth_reading": true
+ }
+}

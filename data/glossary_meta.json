@@ -90,6 +90,9 @@
  "capex": {
   "topic": "companies"
  },
+ "capex (capital expenditure)": {
+  "topic": "companies"
+ },
  "capital gain": {
   "topic": "personal"
  },
@@ -164,11 +167,17 @@
   "topic": "economy",
   "same_as": "consumer price index (cpi)"
  },
+ "credit default swap (cds)": {
+  "topic": "bonds"
+ },
  "cuda": {
   "topic": "tech"
  },
  "cutout": {
   "topic": "other"
+ },
+ "cybercab": {
+  "topic": "tech"
  },
  "daily digest": {
   "topic": "other"
@@ -196,6 +205,9 @@
  },
  "dow jones industrial average": {
   "topic": "stocks"
+ },
+ "dtc": {
+  "topic": "companies"
  },
  "dual use": {
   "topic": "policy"
@@ -225,6 +237,9 @@
   "topic": "policy"
  },
  "etf": {
+  "topic": "stocks"
+ },
+ "etf (exchange-traded fund)": {
   "topic": "stocks"
  },
  "event-driven": {
@@ -263,8 +278,14 @@
  "fomo": {
   "topic": "personal"
  },
+ "force majeure": {
+  "topic": "policy"
+ },
  "forward guidance": {
   "topic": "economy"
+ },
+ "forward multiple": {
+  "topic": "stocks"
  },
  "forward price-to-earnings ratio": {
   "topic": "companies"
@@ -278,6 +299,9 @@
  "gini coefficient": {
   "topic": "economy"
  },
+ "glp-1": {
+  "topic": "tech"
+ },
  "golden cross / death cross": {
   "topic": "trading"
  },
@@ -289,6 +313,9 @@
  },
  "gross domestic product (gdp)": {
   "topic": "economy"
+ },
+ "gross margin": {
+  "topic": "companies"
  },
  "ground stop": {
   "topic": "other"
@@ -326,9 +353,15 @@
  "hot wallet": {
   "topic": "crypto"
  },
+ "hydropower": {
+  "topic": "energy"
+ },
  "hyper scalar": {
   "topic": "tech",
   "same_as": "hyperscalers"
+ },
+ "hyper-scaler": {
+  "topic": "tech"
  },
  "hyperscalers": {
   "topic": "tech"
@@ -339,6 +372,9 @@
  "idolatry of the innovator": {
   "topic": "other"
  },
+ "import prices": {
+  "topic": "economy"
+ },
  "impossible trinity": {
   "topic": "economy"
  },
@@ -347,6 +383,9 @@
  },
  "index fund": {
   "topic": "stocks"
+ },
+ "indie": {
+  "topic": "other"
  },
  "inflation": {
   "topic": "economy"
@@ -369,8 +408,18 @@
  "investing": {
   "topic": "stocks"
  },
+ "investment grade": {
+  "topic": "bonds"
+ },
+ "investment-grade": {
+  "topic": "bonds",
+  "same_as": "investment grade"
+ },
  "ipo": {
   "topic": "stocks"
+ },
+ "junk status": {
+  "topic": "bonds"
  },
  "k-shaped economy": {
   "topic": "economy"
@@ -431,6 +480,9 @@
  "market timing": {
   "topic": "trading"
  },
+ "mass timber": {
+  "topic": "energy"
+ },
  "maturity": {
   "topic": "bonds"
  },
@@ -439,6 +491,9 @@
  },
  "meme stock": {
   "topic": "stocks"
+ },
+ "microtransactions": {
+  "topic": "tech"
  },
  "moat": {
   "topic": "companies"
@@ -482,6 +537,9 @@
  },
  "negative gamma": {
   "topic": "trading"
+ },
+ "neo-clouds": {
+  "topic": "tech"
  },
  "neoclouds": {
   "topic": "tech"
@@ -601,6 +659,12 @@
  "redlining": {
   "topic": "banking"
  },
+ "redundancy": {
+  "topic": "tech"
+ },
+ "resource economist": {
+  "topic": "economy"
+ },
  "return": {
   "topic": "stocks"
  },
@@ -655,6 +719,9 @@
  "share (stock)": {
   "topic": "stocks"
  },
+ "share buyback": {
+  "topic": "stocks"
+ },
  "shareholder": {
   "topic": "stocks"
  },
@@ -666,6 +733,9 @@
  },
  "short seller": {
   "topic": "trading"
+ },
+ "single point of failure": {
+  "topic": "tech"
  },
  "sipc": {
   "topic": "banking"
@@ -715,11 +785,20 @@
  "target-date fund": {
   "topic": "personal"
  },
+ "tariff": {
+  "topic": "policy"
+ },
  "tax alpha": {
   "topic": "personal"
  },
  "tax loss harvesting": {
   "topic": "personal"
+ },
+ "technical debt": {
+  "topic": "tech"
+ },
+ "teu": {
+  "topic": "energy"
  },
  "time horizon": {
   "topic": "personal"
@@ -752,6 +831,9 @@
  "valuations": {
   "topic": "stocks"
  },
+ "virtual economy": {
+  "topic": "tech"
+ },
  "vix": {
   "topic": "trading"
  },
@@ -766,6 +848,9 @@
  },
  "wage theft": {
   "topic": "policy"
+ },
+ "water rights": {
+  "topic": "energy"
  },
  "yield": {
   "topic": "bonds"
