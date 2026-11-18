@@ -201,3 +201,17 @@ def test_claude_steps_in_only_for_text_when_gemini_fails(monkeypatch):
     monkeypatch.delenv("ANTHROPIC_API_KEY")
     with pytest.raises(RuntimeError):            # no key: fail as before
         S._gemini_generate(["a"], S.Quiz)
+
+
+def test_email_subject_is_short_and_true_to_the_data():
+    from digest.email_daily import subject_line, _short
+    t = [{"title": "Nvidia reports strong quarterly earnings beat as board rules out reinstating former CEO"}, {"title": "x"}]
+    s = subject_line(t, [{"symbol": "^GSPC", "change_pct": -0.23}], "2026-11-18")
+    assert s == "Nvidia reports strong quarterly earnings beat + 1 more · S&P −0.2%"
+    assert _short("A" * 70).endswith("…") or len(_short("A" * 70)) <= 49
+
+
+def test_email_first_sentence_skips_abbreviations():
+    from digest.email_daily import _first_sentence
+    assert _first_sentence("U.S. stocks fell on Tuesday as Mr. Powell spoke. Bonds rose.") == \
+        "U.S. stocks fell on Tuesday as Mr. Powell spoke."

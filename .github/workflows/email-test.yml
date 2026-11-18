@@ -1,8 +1,9 @@
-# Manual check that the daily email can send: logs in to Gmail with the SMTP_USER / SMTP_PASS secrets and sends one
-# short message to the Stocksplain address itself. Touches no subscriber and no database.
+# Manual check of the daily email: builds the latest day's real email and sends it only to the Stocksplain address
+# itself (SMTP_USER). Touches no subscriber and no database.
 name: Email test
 on: workflow_dispatch
-permissions: {}
+permissions:
+  contents: read
 jobs:
   send:
     runs-on: ubuntu-latest
@@ -11,17 +12,24 @@ jobs:
       SMTP_USER: ${{ secrets.SMTP_USER }}
       SMTP_PASS: ${{ secrets.SMTP_PASS }}
     steps:
-      - name: Send a test email to the Stocksplain address
+      - uses: actions/checkout@v4
+      - name: Send the latest daily email to the Stocksplain address
         shell: python
         run: |
           import os, smtplib, ssl
           from email.message import EmailMessage
+          from pathlib import Path
+          from digest.email_daily import compose
           user, pw = os.environ["SMTP_USER"].strip(), os.environ["SMTP_PASS"].replace(" ", "").strip()
           assert user and pw, "SMTP_USER / SMTP_PASS secrets are missing"
+          day = sorted(p.stem for p in Path("data/briefs").glob("*.json"))[-1]
+          msg = compose(day)
+          unsub = "https://stocksplain.app/unsubscribe.html"
           m = EmailMessage()
-          m["From"], m["To"], m["Subject"] = f"Stocksplain <{user}>", user, "Stocksplain test email"
-          m.set_content("If you can read this, the daily email can send.")
+          m["From"], m["To"], m["Subject"] = f"Stocksplain <{user}>", user, "[Test] " + msg["subject"]
+          m.set_content(msg["text"].replace("{UNSUB}", unsub))
+          m.add_alternative(msg["html"].replace("{UNSUB}", unsub), subtype="html")
           with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context(), timeout=30) as s:
               s.login(user, pw)
               s.send_message(m)
-          print("Login OK, test email sent")
+          print(f"Sent the {day} email to the Stocksplain address")
