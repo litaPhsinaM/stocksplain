@@ -16,7 +16,8 @@ jobs:
       - name: Send the latest daily email to the Stocksplain address
         shell: python
         run: |
-          import os, smtplib, ssl
+          import os, smtplib, ssl, sys
+          sys.path.insert(0, os.getcwd())
           from email.message import EmailMessage
           from pathlib import Path
           from digest.email_daily import compose
