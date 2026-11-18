@@ -1,0 +1,27 @@
+# Manual check that the daily email can send: logs in to Gmail with the SMTP_USER / SMTP_PASS secrets and sends one
+# short message to the Stocksplain address itself. Touches no subscriber and no database.
+name: Email test
+on: workflow_dispatch
+permissions: {}
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+    steps:
+      - name: Send a test email to the Stocksplain address
+        shell: python
+        run: |
+          import os, smtplib, ssl
+          from email.message import EmailMessage
+          user, pw = os.environ["SMTP_USER"].strip(), os.environ["SMTP_PASS"].replace(" ", "").strip()
+          assert user and pw, "SMTP_USER / SMTP_PASS secrets are missing"
+          m = EmailMessage()
+          m["From"], m["To"], m["Subject"] = f"Stocksplain <{user}>", user, "Stocksplain test email"
+          m.set_content("If you can read this, the daily email can send.")
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context(), timeout=30) as s:
+              s.login(user, pw)
+              s.send_message(m)
+          print("Login OK, test email sent")
