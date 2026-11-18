@@ -107,7 +107,8 @@ def send(day: str, db_url: str, dry_run: bool = False) -> int:
     if not msg:
         print("  (nothing to email today)")
         return 0
-    user, pw = os.environ.get("SMTP_USER"), os.environ.get("SMTP_PASS")
+    user = (os.environ.get("SMTP_USER") or "").strip()
+    pw = (os.environ.get("SMTP_PASS") or "").replace(" ", "").strip()  # Google shows app passwords with spaces
     if not dry_run and not (user and pw):
         print("  (no SMTP_USER/SMTP_PASS, skipping the daily email)")
         return 0
