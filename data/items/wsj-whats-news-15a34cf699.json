@@ -1,0 +1,110 @@
+{
+ "id": "wsj-whats-news-15a34cf699",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "It\u2019s Time for (Another) Record IPO",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1c28bf85-d9aa-4447-8252-1b79ee0204d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1c28bf85-d9aa-4447-8252-1b79ee0204d3&feed=BA5QWI2p",
+ "published": "2026-11-19",
+ "duration": 926,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "US-China-Russia trilateral meeting in Shenzhen",
+   "Anthropic record-breaking IPO",
+   "Hakeem Jeffries' path to House Speaker",
+   "Potential port and MLB labor strikes",
+   "Grand Theft Auto 6 release"
+  ],
+  "headline": "Anthropic launches record $80B IPO; US, China, and Russia hold trilateral summit",
+  "tldr": "Anthropic debuted on the Nasdaq in a record-setting IPO, signaling a major test for the AI sector's market influence. Meanwhile, global leaders met in Shenzhen for unprecedented trilateral talks, and labor tensions emerged across US ports and Major League Baseball.",
+  "key_points": [
+   {
+    "point": "Anthropic raised over $80 billion in its IPO, with an additional $26 billion in follow-on investments from major tech firms.",
+    "why_it_matters": "This capital infusion significantly impacts the broader AI economy, funding data centers and infrastructure that ripple across various sectors like energy and mining."
+   },
+   {
+    "point": "President Trump met with Xi Jinping and Vladimir Putin in Shenzhen to discuss geopolitical issues, including nuclear arms and regional conflicts.",
+    "why_it_matters": "The meeting marks an unprecedented gathering of the three powers, with China positioning itself as a central 'pivot power' in global diplomacy."
+   },
+   {
+    "point": "Hakeem Jeffries secured the Democratic nomination for House Speaker, prioritizing cost-of-living legislation and the reversal of benefit cuts.",
+    "why_it_matters": "His leadership path follows significant Democratic midterm gains, setting the stage for upcoming legislative battles in Washington."
+   },
+   {
+    "point": "Labor disputes threaten operations at major US ports and Major League Baseball, with potential strikes looming over contract expirations and salary cap disagreements.",
+    "why_it_matters": "Work stoppages in these areas could disrupt holiday supply chains and impact the upcoming professional sports season."
+   },
+   {
+    "point": "Grand Theft Auto 6 launched after a 13-year wait, with projected launch-week sales exceeding $3.3 billion.",
+    "why_it_matters": "The game represents a massive, human-intensive development scale that may become increasingly rare as AI-assisted development tools lower the barrier for smaller teams."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$80B",
+    "context": "The amount raised by Anthropic in its record-breaking IPO."
+   },
+   {
+    "figure": "$26B",
+    "context": "The additional follow-on investment Anthropic received from big tech companies."
+   },
+   {
+    "figure": "$3.3B",
+    "context": "The projected global sales for Grand Theft Auto 6 during its launch week."
+   }
+  ],
+  "lesson": "When a company or industry becomes a core component of major index funds, its financial performance impacts the broader market regardless of individual sentiment toward the sector's underlying technology.",
+  "opinions_and_predictions": [
+   "Jonathan Cheng (WSJ) believes China is positioning itself as a 'pivot power' to present a more benevolent image than the US to regional allies.",
+   "Alex Frangos (WSJ) suggests the success of the Anthropic IPO is a critical test for whether the AI market rally can regain momentum.",
+   "Rob Manfred (MLB Commissioner) argues a salary cap and floor are necessary to maintain competition, citing revenue disparities between big and small market teams.",
+   "Chris Plant (Journalist) predicts that massive, human-designed 'sandbox' games like GTA 6 may be the last of their kind as AI-assisted development tools make smaller-team production more viable."
+  ],
+  "tickers": [
+   "Anthropic",
+   "SpaceX",
+   "OpenAI",
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "IPO",
+    "definition": "Initial Public Offering; the process by which a private company first sells shares to the public on a stock exchange.",
+    "example": "Anthropic raised over $80 billion during its IPO."
+   },
+   {
+    "term": "Index funds",
+    "definition": "Investment funds that track a specific market index, like the S&P 500, holding all or a representative sample of the securities in that index.",
+    "example": "Many people are exposed to AI companies through their holdings in index funds."
+   },
+   {
+    "term": "Lame duck",
+    "definition": "An elected official who is nearing the end of their term and has less influence because their successor has already been determined or the end of their power is imminent.",
+    "example": "President Trump is considered a lame duck because he will not be in power in two more years."
+   },
+   {
+    "term": "Sandbox game",
+    "definition": "A video game that provides players with a high degree of freedom to explore and interact with the game world at their own pace.",
+    "example": "Grand Theft Auto 6 is a sandbox game where players can choose their own activities."
+   },
+   {
+    "term": "Collective bargaining agreement",
+    "definition": "A contract between an employer and a union that sets the terms and conditions of employment, such as wages and hours.",
+    "example": "MLB and its players are negotiating a new collective bargaining agreement."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "geopolitics",
+   "labor markets",
+   "gaming"
+  ],
+  "quality_note": "The source features reporting from WSJ journalists and interviews with industry experts, providing a mix of factual updates and informed analysis.",
+  "worth_reading": true
+ }
+}

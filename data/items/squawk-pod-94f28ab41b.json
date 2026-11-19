@@ -1,0 +1,105 @@
+{
+ "id": "squawk-pod-94f28ab41b",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "Anthropic\u2019s IPO with Brad Gerstner: Celebrate Today 11/19/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/10ac1e00-0732-43b7-84aa-24d3aee339fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=10ac1e00-0732-43b7-84aa-24d3aee339fd&feed=VHAcgaw_",
+ "published": "2026-11-19",
+ "duration": 1737,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Anthropic IPO pricing and market debut",
+   "Anthropic's cash reserves and capital efficiency",
+   "Anthropic's compute deals with SpaceX",
+   "Anthropic's employee share lock-up",
+   "The role of retail in the IPO"
+  ],
+  "headline": "Anthropic raises $81.3 billion in record-breaking IPO",
+  "tldr": "Anthropic completed a record-breaking IPO, raising $81.3 billion and valuing the company at $1.5 trillion. The company has maintained high capital efficiency, with only $9 billion burned in its history, and has secured significant compute capacity through partnerships.",
+  "key_points": [
+   {
+    "point": "Anthropic raised $81.3 billion in its IPO, pricing shares at $83, which was above the expected $70-$78 range.",
+    "why_it_matters": "This valuation reflects high market demand for AI infrastructure and Anthropic's position as a leader in the sector."
+   },
+   {
+    "point": "The company has only burned $9 billion in its entire history while building its AI capabilities.",
+    "why_it_matters": "This demonstrates exceptional capital efficiency compared to other high-growth tech companies."
+   },
+   {
+    "point": "Anthropic has secured compute capacity through deals with companies like SpaceX, with expectations for significant future compute needs.",
+    "why_it_matters": "Access to massive computing power is essential for training and scaling advanced AI models."
+   },
+   {
+    "point": "10% of employee-owned shares will be available for sale on the day of the IPO.",
+    "why_it_matters": "This provides liquidity for early employees and investors while managing the supply of shares hitting the market."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$81.3B",
+    "context": "Total capital raised by Anthropic in its IPO."
+   },
+   {
+    "figure": "$1.5T",
+    "context": "The fully diluted market capitalization of Anthropic following the IPO."
+   },
+   {
+    "figure": "$9B",
+    "context": "Total capital burned by Anthropic since the company's inception."
+   },
+   {
+    "figure": "$230B",
+    "context": "The total cash reserves held by Anthropic."
+   }
+  ],
+  "lesson": "When a company demonstrates high capital efficiency\u2014generating significant revenue and value relative to the capital invested\u2014it can achieve higher valuations and attract greater institutional support during public offerings.",
+  "opinions_and_predictions": [
+   "Brad Gerstner (Altimeter Capital) believes Anthropic's IPO is a historic moment for the company and the country, highlighting its role as a leading AI lab.",
+   "Brad Gerstner (Altimeter Capital) predicts that Anthropic will continue to require significant compute resources and that their current partnerships, including with SpaceX, are vital for their growth.",
+   "Adina Friedman (Nasdaq CEO) notes that retail participation in IPOs is becoming more significant, with some companies allocating up to 20% of shares to retail investors."
+  ],
+  "tickers": [
+   "Anthropic (ANT)",
+   "SpaceX",
+   "Google",
+   "Microsoft",
+   "Nvidia",
+   "AMD"
+  ],
+  "glossary": [
+   {
+    "term": "IPO (Initial Public Offering)",
+    "definition": "The process of offering shares of a private corporation to the public in a new stock issuance.",
+    "example": "Anthropic's IPO allowed the company to raise capital from public markets."
+   },
+   {
+    "term": "Fully diluted market capitalization",
+    "definition": "The total value of a company's shares, assuming all possible shares that could be issued are currently outstanding.",
+    "example": "Anthropic's fully diluted market cap reached $1.5 trillion after the IPO."
+   },
+   {
+    "term": "Compute capacity",
+    "definition": "The processing power available to perform complex calculations, essential for training AI models.",
+    "example": "Anthropic secured compute capacity through deals with SpaceX."
+   },
+   {
+    "term": "Share lock-up",
+    "definition": "A contractual restriction that prevents insiders from selling their shares for a specific period after an IPO.",
+    "example": "10% of employee shares were unlocked for sale on the day of Anthropic's IPO."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "ipo",
+   "tech markets"
+  ],
+  "quality_note": "The source features interviews with company founders, investors, and exchange executives, providing a mix of factual IPO data and expert analysis.",
+  "worth_reading": true
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-19",
+ "questions": [
+  {
+   "question": "In the context of an Initial Public Offering (IPO), what does a company's \"float\" refer to?",
+   "options": [
+    "The total dollar value of cash the company holds in reserve after going public.",
+    "The number of shares available for the general public to trade on the open market.",
+    "The temporary increase in stock price during the first day of trading.",
+    "The minimum price set by underwriters to prevent a stock from falling."
+   ],
+   "answer": 1,
+   "explanation": "A company's float is the portion of its outstanding shares that is freely tradeable by public investors. In Anthropic's engineered IPO, keeping the float small created artificial scarcity that temporarily pushed up the stock price.",
+   "item_id": "prof-g-markets-f389ca0bf3"
+  },
+  {
+   "question": "Economists note that U.S. labor costs in manufacturing are approximately 5 times higher than in China. What does this ratio imply for economic policy?",
+   "options": [
+    "U.S. manufacturing cannot realistically compete on price for low-cost, labor-intensive goods.",
+    "Raising tariffs will easily bring back mass-assembly jobs to domestic factories.",
+    "American workers produce five times fewer goods per hour than overseas workers.",
+    "Shipping costs offset wage differences, making domestic goods cheaper overall."
+   ],
+   "answer": 0,
+   "explanation": "When a nation's labor costs are 5x higher, tariffs alone cannot overcome the massive wage gap for labor-intensive assembly work. Today's story highlights that high-cost economies must focus on specialized, high-tech manufacturing rather than price-sensitive goods.",
+   "item_id": "indicator-91153ee212"
+  },
+  {
+   "question": "Why does a sharp drop in an individual stock like Nvidia highlight the primary benefit of index fund investing?",
+   "options": [
+    "Index funds guarantee that investors will never experience portfolio drawdowns.",
+    "Index funds eliminate all tax obligations when individual component stocks decline.",
+    "Diversification across hundreds of companies shelters a portfolio from single-company shocks.",
+    "Broad index funds automatically short-sell component stocks that drop sharply."
+   ],
+   "answer": 2,
+   "explanation": "Diversification spreads investment across hundreds of companies, protecting your overall portfolio from single-stock volatility. Today's story noted that while Nvidia dropped 35% following leadership drama, the broader S&P 500 remained resilient.",
+   "item_id": "animal-spirits-7f49d06739"
+  }
+ ]
+}

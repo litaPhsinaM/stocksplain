@@ -1,4 +1,7 @@
 {
+ "13f": {
+  "topic": "policy"
+ },
  "401(k)": {
   "topic": "personal"
  },
@@ -31,6 +34,9 @@
  },
  "apec": {
   "topic": "policy"
+ },
+ "arr": {
+  "topic": "companies"
  },
  "ask": {
   "topic": "trading"
@@ -97,6 +103,9 @@
  "cab and chassis": {
   "topic": "other"
  },
+ "cap table": {
+  "topic": "companies"
+ },
  "capex": {
   "topic": "companies"
  },
@@ -108,6 +117,9 @@
  },
  "career and technical education": {
   "topic": "other"
+ },
+ "cash flow positive": {
+  "topic": "companies"
  },
  "china hawks": {
   "topic": "policy"
@@ -127,6 +139,9 @@
  "cohort fertility": {
   "topic": "other"
  },
+ "collective bargaining agreement": {
+  "topic": "policy"
+ },
  "commission": {
   "topic": "trading"
  },
@@ -141,6 +156,9 @@
  },
  "compound growth": {
   "topic": "personal"
+ },
+ "compute capacity": {
+  "topic": "tech"
  },
  "concentration risk": {
   "topic": "stocks"
@@ -198,6 +216,9 @@
  "cybercab": {
   "topic": "tech"
  },
+ "cyclical": {
+  "topic": "stocks"
+ },
  "daily digest": {
   "topic": "other"
  },
@@ -224,6 +245,9 @@
  },
  "dow jones industrial average": {
   "topic": "stocks"
+ },
+ "drawdown": {
+  "topic": "trading"
  },
  "dtc": {
   "topic": "companies"
@@ -303,6 +327,9 @@
  "force majeure": {
   "topic": "policy"
  },
+ "forward earnings": {
+  "topic": "companies"
+ },
  "forward guidance": {
   "topic": "economy"
  },
@@ -327,6 +354,9 @@
  },
  "fully diluted basis": {
   "topic": "companies"
+ },
+ "fully diluted market capitalization": {
+  "topic": "stocks"
  },
  "gaap": {
   "topic": "companies"
@@ -404,6 +434,9 @@
  "hyper-scaler": {
   "topic": "tech"
  },
+ "hyperscaler": {
+  "topic": "tech"
+ },
  "hyperscalers": {
   "topic": "tech"
  },
@@ -424,6 +457,10 @@
  },
  "index fund": {
   "topic": "stocks"
+ },
+ "index funds": {
+  "topic": "stocks",
+  "same_as": "index fund"
  },
  "indie": {
   "topic": "other"
@@ -480,6 +517,9 @@
  },
  "lagging indicator": {
   "topic": "economy"
+ },
+ "lame duck": {
+  "topic": "policy"
  },
  "law fair": {
   "topic": "policy"
@@ -630,6 +670,9 @@
  "overfitting": {
   "topic": "trading"
  },
+ "oversubscribed": {
+  "topic": "stocks"
+ },
  "p/e ratio": {
   "topic": "stocks"
  },
@@ -646,6 +689,9 @@
  "pestel": {
   "topic": "companies"
  },
+ "physical ai": {
+  "topic": "tech"
+ },
  "ponzi scheme": {
   "topic": "personal"
  },
@@ -660,6 +706,9 @@
  },
  "premium": {
   "topic": "personal"
+ },
+ "price discovery": {
+  "topic": "trading"
  },
  "price takers": {
   "topic": "trading"
@@ -690,6 +739,9 @@
  },
  "pump-and-dump": {
   "topic": "trading"
+ },
+ "pure play": {
+  "topic": "stocks"
  },
  "quit rate": {
   "topic": "economy"
@@ -745,6 +797,9 @@
  "risk tolerance": {
   "topic": "personal"
  },
+ "risk-off": {
+  "topic": "trading"
+ },
  "roth ira": {
   "topic": "personal"
  },
@@ -760,6 +815,13 @@
  "s-1 filing": {
   "topic": "stocks"
  },
+ "s1": {
+  "topic": "policy",
+  "same_as": "s-1 filing"
+ },
+ "sandbox game": {
+  "topic": "tech"
+ },
  "saving": {
   "topic": "personal"
  },
@@ -769,6 +831,9 @@
  "securitization": {
   "topic": "banking"
  },
+ "semiconductors": {
+  "topic": "tech"
+ },
  "senior unsecured debt": {
   "topic": "bonds"
  },
@@ -776,6 +841,9 @@
   "topic": "stocks"
  },
  "share buyback": {
+  "topic": "stocks"
+ },
+ "share lock-up": {
   "topic": "stocks"
  },
  "shareholder": {
@@ -826,6 +894,9 @@
  "succession planning": {
   "topic": "companies"
  },
+ "supply chain": {
+  "topic": "companies"
+ },
  "support": {
   "topic": "trading"
  },
@@ -843,6 +914,10 @@
  },
  "tariff": {
   "topic": "policy"
+ },
+ "tariffs": {
+  "topic": "policy",
+  "same_as": "tariff"
  },
  "tax alpha": {
   "topic": "personal"

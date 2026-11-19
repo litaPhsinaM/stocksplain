@@ -1,0 +1,84 @@
+{
+ "id": "indicator-91153ee212",
+ "source_id": "indicator",
+ "source_name": "The Indicator from Planet Money",
+ "kind": "podcast",
+ "title": "Why the 'good old days' of American manufacturing are long gone",
+ "url": "https://www.npr.org/2026/11/19/nx-s1-6045922/why-the-good-old-days-of-american-manufacturing-are-long-gone",
+ "media_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/009ca4ad-89b5-4cc6-ba28-884277eaf1ad/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=009ca4ad-89b5-4cc6-ba28-884277eaf1ad&feed=IFy3imsg&t=podcast&e=nx-s1-6045922&p=510325&d=534&size=8547749",
+ "published": "2026-11-19",
+ "duration": 534,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Tariffs and US manufacturing jobs",
+   "Global supply chain complexity",
+   "Why manufacturing jobs left the US",
+   "The future of US manufacturing"
+  ],
+  "headline": "Why US manufacturing jobs aren't returning; the path to a new industrial strategy",
+  "tldr": "Despite political promises that tariffs would bring manufacturing jobs back to the US, high labor costs and global supply chain efficiencies make this unlikely. Instead of chasing low-cost assembly, the US can pursue a manufacturing renaissance by focusing on high-tech sectors and building trade alliances.",
+  "key_points": [
+   {
+    "point": "US labor costs are significantly higher than in manufacturing hubs like China, often estimated at five times higher.",
+    "why_it_matters": "High labor costs make it economically unfeasible to bring back mass-assembly jobs for products like furniture or consumer electronics."
+   },
+   {
+    "point": "Tariffs on China led companies to shift production to other low-cost countries like Vietnam rather than moving factories to the US.",
+    "why_it_matters": "This demonstrates that companies prioritize low labor costs over domestic production when faced with trade barriers."
+   },
+   {
+    "point": "Willy Shih suggests the US should focus on maintaining leadership in high-value industries like jet engines, semiconductors, and biotech.",
+    "why_it_matters": "Focusing on specialized, high-tech manufacturing allows the US to compete based on innovation rather than competing on labor costs."
+   },
+   {
+    "point": "The US could benefit from forming trade alliances with a wider network of countries to secure critical resources and labor.",
+    "why_it_matters": "Building a collaborative trade block provides a more resilient and efficient supply chain than attempting to be self-sufficient."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "5x",
+    "context": "The estimated ratio of US labor costs compared to those in China."
+   }
+  ],
+  "lesson": "When a country has high labor costs, it cannot compete on price for labor-intensive goods; it must instead focus on high-value, capital-intensive industries where innovation and specialized technology provide a competitive advantage.",
+  "opinions_and_predictions": [
+   "Willy Shih (Harvard professor) believes the manufacturing jobs of the mid-1900s are not coming back to the US.",
+   "Willy Shih (Harvard professor) predicts that a manufacturing renaissance is possible if the US focuses on strategic, high-tech sectors and broader trade alliances."
+  ],
+  "tickers": [
+   "Toyota",
+   "Hyundai",
+   "Apple",
+   "Walmart"
+  ],
+  "glossary": [
+   {
+    "term": "Tariffs",
+    "definition": "Taxes imposed by a government on imported goods.",
+    "example": "The US government placed tariffs on goods from China to discourage imports."
+   },
+   {
+    "term": "Supply chain",
+    "definition": "The entire network of entities, people, and processes involved in moving a product from raw material to the final consumer.",
+    "example": "Furniture components might be sourced in New Hampshire, sawn in Vietnam, and assembled in China before reaching the US."
+   },
+   {
+    "term": "Semiconductors",
+    "definition": "Materials that conduct electricity under certain conditions, essential for modern electronics like computers and phones.",
+    "example": "The US aims to maintain global leadership in the production of advanced semiconductors."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "manufacturing",
+   "supply chains",
+   "trade policy"
+  ],
+  "quality_note": "The content features an expert academic perspective on industrial economics, though the discussion on policy outcomes is framed as an analytical assessment rather than a neutral report.",
+  "worth_reading": true
+ }
+}

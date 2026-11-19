@@ -1,0 +1,124 @@
+{
+ "id": "animal-spirits-7f49d06739",
+ "source_id": "animal-spirits",
+ "source_name": "Animal Spirits",
+ "kind": "podcast",
+ "title": "The Biggest Losers of the Year (EP. 491)",
+ "url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP7412432020.mp3",
+ "media_url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP7412432020.mp3",
+ "published": "2026-11-18",
+ "duration": 4459,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Tech and bank system failures",
+   "Jensen Huang and Nvidia's decline",
+   "Losers of the year list",
+   "S&P 500 index fund performance",
+   "Nvidia's corporate governance and moat",
+   "Market rotation and AI bubble concerns",
+   "Economic sentiment and inflation",
+   "Travel and common decency",
+   "Entertainment and Hollywood trends"
+  ],
+  "headline": "Nvidia's decline and the state of the AI trade",
+  "tldr": "Nvidia is facing a significant drawdown following reports of executive scandal and potential export control violations. Despite this, the S&P 500 has remained resilient, highlighting the benefits of passive indexing during periods of market volatility.",
+  "key_points": [
+   {
+    "point": "Nvidia is down 35% from its highs, with reports alleging the former CEO's mistress arranged to send restricted chips to China.",
+    "why_it_matters": "The company's rapid growth was tied heavily to one individual, and this scandal raises questions about its future leadership and operational stability."
+   },
+   {
+    "point": "The S&P 500 index is up 9% year-to-date, with a maximum drawdown of only 9% in March.",
+    "why_it_matters": "This demonstrates the resilience of a diversified index fund compared to the volatility of individual high-growth stocks."
+   },
+   {
+    "point": "Retail investors aggressively bought the dip in Nvidia, with $111 million in net buying during the first 30 minutes following the resignation news.",
+    "why_it_matters": "It shows that the habit of buying the dip remains strong among retail participants despite significant negative news."
+   },
+   {
+    "point": "The weighted share of CPI components rising faster than 2% has reached 76%, the highest level since August 2022.",
+    "why_it_matters": "Persistent inflation suggests the Federal Reserve may continue to hike rates, with an 85% probability of a 25 basis point increase in December."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-35%",
+    "context": "Nvidia's drawdown from its recent highs as of the recording."
+   },
+   {
+    "figure": "70%",
+    "context": "Nvidia's gross margin, which remains a key metric of its business strength."
+   },
+   {
+    "figure": "76%",
+    "context": "The weighted share of CPI components rising faster than 2% annualized."
+   },
+   {
+    "figure": "85%",
+    "context": "The market-implied probability of a 25 basis point rate hike in December."
+   }
+  ],
+  "lesson": "When a company's organizational structure is built entirely around one individual (key-person risk), the departure or scandal of that person can cause the company's exoskeleton to collapse faster than expected.",
+  "opinions_and_predictions": [
+   "Michael believes Nvidia is 'toast' and that the market is underreacting to the scandal.",
+   "Ben believes that a recession is the only solution to bring inflation down to lower levels.",
+   "Ben suggests that the AI trade taking a breather could be a positive long-term outcome for the market."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "JP Morgan Chase (JPM)",
+   "United States (UAL)",
+   "Microsoft (MSFT)",
+   "Netflix (NFLX)",
+   "AMD (AMD)",
+   "Broadcom (AVGO)",
+   "Meta (META)",
+   "Google (GOOGL)",
+   "Oracle (ORCL)",
+   "Nike (NKE)",
+   "Exxon (XOM)",
+   "GM (GM)",
+   "IBM (IBM)",
+   "GE (GE)"
+  ],
+  "glossary": [
+   {
+    "term": "Drawdown",
+    "definition": "The peak-to-trough decline of an investment or fund during a specific period.",
+    "example": "The S&P 500 had a maximum drawdown of 9% in March."
+   },
+   {
+    "term": "Forward earnings",
+    "definition": "An estimate of a company's future earnings, used to calculate the forward price-to-earnings ratio.",
+    "example": "Nvidia is trading at 11 times forward earnings."
+   },
+   {
+    "term": "Basis point",
+    "definition": "A unit of measure equal to one-hundredth of a percentage point (0.01%).",
+    "example": "There is an 85% chance of a 25 basis point rate hike."
+   },
+   {
+    "term": "Moat",
+    "definition": "A competitive advantage that protects a company's market share and profits from rivals.",
+    "example": "Ben Thompson noted Nvidia's moat was its unique organizational structure."
+   },
+   {
+    "term": "13F",
+    "definition": "A quarterly report that institutional investment managers must file to disclose their equity holdings.",
+    "example": "The Leopold situational awareness 13F was released recently."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "market volatility",
+   "inflation",
+   "corporate governance"
+  ],
+  "quality_note": "The hosts are financial professionals who rely on market data and news reports, though they frequently offer speculative opinions on company futures.",
+  "worth_reading": true
+ }
+}

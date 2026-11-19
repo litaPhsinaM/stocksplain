@@ -2,82 +2,124 @@
  "date": "2026-11-19",
  "topics": [
   {
-   "title": "Anthropic raises $81 billion in record-breaking IPO",
-   "explanation": "AI company Anthropic has officially debuted on the Nasdaq, raising over $81 billion in what is being described as the largest initial public offering in history. The company, known for its Claude chatbot, priced its shares at $83, resulting in a valuation of approximately $1.5 trillion.",
-   "why_it_matters": "As the first major AI lab to go public, this massive valuation serves as a critical test of investor appetite for artificial intelligence stocks and whether the sector can sustain its recent momentum.",
+   "title": "Anthropic makes historic Nasdaq debut in record-breaking IPO",
+   "explanation": "Artificial intelligence lab Anthropic completed a record-breaking initial public offering, raising over $81 billion as its shares began trading on the Nasdaq. Early trading saw the stock soar before pulling back later in the session. The milestone debut triggered market volatility, with the Dow Jones Industrial Average dropping as investors took profits.",
+   "why_it_matters": "An initial public offering (IPO) is when a private company first sells stock to the public, and massive tech debuts can influence broader stock market sentiment.",
    "tickers": [],
    "beat": "markets",
    "headline_ids": [
+    "h8ecd020a",
     "hc6d87bb3",
-    "hfe44b117",
-    "h56673e8f",
-    "h64d4bb67",
-    "h82bae788"
+    "h92cdbaff",
+    "h38e02854",
+    "he7f95ee9"
    ]
   },
   {
-   "title": "Trump, Xi, and Putin hold trilateral summit in Shenzhen",
-   "explanation": "Leaders from the U.S., China, and Russia gathered in Shenzhen for an unprecedented trilateral meeting on the sidelines of the APEC summit. The discussions focused on global stability, nuclear weapons reduction, and trade, with President Xi Jinping calling for regular exchanges between the three nuclear powers.",
-   "why_it_matters": "This rare high-level diplomatic meeting between the world's major powers is a significant geopolitical event that could influence global trade policies, security agreements, and international market sentiment.",
-   "tickers": [],
-   "beat": "policy",
-   "headline_ids": [
-    "h4e7dae82",
-    "h79540770",
-    "h6c829a6d",
-    "hf6df8fa3",
-    "h414530ab"
-   ]
-  },
-  {
-   "title": "Nvidia faces leadership transition and scrutiny over chip sales",
-   "explanation": "Nvidia is navigating its first earnings period following the departure of long-time CEO Jensen Huang, with interim CEO Colette Kress taking the helm. Simultaneously, the company is under intense congressional scrutiny regarding how its AI chips were supplied to China, leading to bipartisan efforts to tighten export controls.",
-   "why_it_matters": "As a central player in the AI hardware ecosystem, Nvidia's leadership change and regulatory challenges create uncertainty for investors who rely on the firm's dominance in the artificial intelligence market.",
+   "title": "AMD stock drops following short-seller report on alleged China ties",
+   "explanation": "Shares of semiconductor maker AMD fell up to 11% after short-seller firm Hunterbrook released a report alleging China links. The report alleged that AMD firmware was identified at a blacklisted Chinese company, while AMD stated it complies with U.S. laws.",
+   "why_it_matters": "Short-seller reports publish negative research on a company to profit from price declines, often causing sudden stock price drops when regulatory risks are alleged.",
    "tickers": [
-    "NVDA"
+    "AMD"
+   ],
+   "beat": "markets",
+   "headline_ids": [
+    "h4fcd6ac8",
+    "h4524fd3f"
+   ]
+  },
+  {
+   "title": "Google updates Gemini AI agent to operate Mac desktop computers",
+   "explanation": "Google released an update enabling its Gemini AI assistant to control Mac computers on behalf of users. The tool can perform multi-step tasks across desktop applications, local files, and online forms.",
+   "why_it_matters": "AI capabilities that directly interact with computer operating systems increase competitive pressure among major tech companies developing productivity software.",
+   "tickers": [
+    "GOOGL"
    ],
    "beat": "tech",
    "headline_ids": [
-    "h0d2f6ca4",
-    "hd17f196e",
-    "h54df0626",
-    "h52a552a7",
-    "h4544035d"
+    "h1054662f",
+    "ha628e3d5",
+    "h906e1450"
    ]
   },
   {
-   "title": "Global energy markets strained by Middle East conflict",
-   "explanation": "The ongoing war in the Middle East has significantly disrupted global energy supplies, with the IEA estimating a loss of 2.8 billion barrels of oil and 60 billion cubic meters of natural gas. Tensions in the Strait of Hormuz have further impacted confidence in energy corridors, keeping prices volatile.",
-   "why_it_matters": "Energy price fluctuations directly impact global inflation and the operating costs of major industries, making this a key concern for the broader economy.",
+   "title": "Trump, Xi, and Putin hold trilateral summit in China",
+   "explanation": "U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin gathered in Shenzhen, China for a trilateral meeting. The leaders discussed key global topics including oil production increases, nuclear non-proliferation, and United Nations reform.",
+   "why_it_matters": "Geopolitical agreements among major nuclear and economic powers can significantly impact international trade policy, security, and global energy markets.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "h79540770",
+    "h5816f792",
+    "h8417ba45",
+    "h7073f2bc"
+   ]
+  },
+  {
+   "title": "Nvidia legal scrutiny and AI chip export concerns prompt legislative push",
+   "explanation": "U.S. lawmakers are pushing for stricter AI chip export controls following scrutiny over how advanced American technology reached Chinese entities. Nvidia and its executive leadership face heightened legal exposure and questions regarding compliance and oversight.",
+   "why_it_matters": "Government export restrictions can restrict major revenue channels for technology firms and disrupt international hardware supply chains.",
+   "tickers": [
+    "NVDA"
+   ],
+   "beat": "policy",
+   "headline_ids": [
+    "he12d48cb",
+    "h0d2f6ca4",
+    "hd17f196e",
+    "h54df0626"
+   ]
+  },
+  {
+   "title": "Rapid AI expansion pushes up global data center electricity demand",
+   "explanation": "The International Energy Agency reported that data center power consumption worldwide could double by 2030 due to artificial intelligence workloads. Recent data indicates record electricity usage by U.S. data centers, placing added demand on electrical infrastructure.",
+   "why_it_matters": "Surging energy demand requires substantial capital investment in power generation, directly impacting electric utilities and grid stability.",
    "tickers": [],
    "beat": "energy",
    "headline_ids": [
-    "h138aedbf",
-    "h41939b84",
-    "h2bc2b543"
+    "hd5ba42fb",
+    "h27f20e64"
    ]
   },
   {
-   "title": "UK inflation reaches one-year high driven by fuel costs",
-   "explanation": "The United Kingdom's annual inflation rate has climbed to 3.6%, the highest level in a year, primarily due to rising petrol and diesel prices. This increase highlights the ongoing pressure on consumer prices and the cost of living in the region.",
-   "why_it_matters": "Higher inflation often forces central banks to maintain or increase interest rates, which can slow economic growth and impact consumer spending power.",
+   "title": "European Central Bank officials signal firm stance on inflation",
+   "explanation": "European Central Bank policymakers warned that inflation must not be allowed to become entrenched in the economy. Bundesbank President Joachim Nagel noted that an interest rate hike in December would send a clear signal of the central bank's policy resolve.",
+   "why_it_matters": "Central bank interest rates determine borrowing costs across the economy, influencing business investment, consumer spending, and asset prices.",
    "tickers": [],
    "beat": "economy",
    "headline_ids": [
-    "h844887fb",
-    "hac7bfee9"
+    "h607b2e3f",
+    "h82689104"
    ]
   }
  ],
  "headlines": {
-  "h4e7dae82": {
-   "id": "h4e7dae82",
+  "h8ecd020a": {
+   "id": "h8ecd020a",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
+   "blurb": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+   "published": "2026-11-19T20:06"
+  },
+  "he12d48cb": {
+   "id": "he12d48cb",
    "source": "CNBC Politics",
    "beat": "policy",
-   "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-   "blurb": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
-   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
-   "published": "2026-11-19T10:54"
+   "title": "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
+   "blurb": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+   "published": "2026-11-19T18:44"
+  },
+  "h607b2e3f": {
+   "id": "h607b2e3f",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "ECB\u2019s Panetta Says Inflation Mustn\u2019t Be Allowed to Take Root",
+   "blurb": "The European Central Bank must prevent inflation from becoming entrenched but without causing undue harm to the economy, Governing Council member Fabio Panetta said.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-panetta-says-inflation-mustn-t-be-allowed-to-take-root",
+   "published": "2026-11-19T18:32"
   },
   "hc6d87bb3": {
    "id": "hc6d87bb3",
@@ -86,16 +128,79 @@
    "title": "Anthropic raises $81bn in record-breaking stock market debut",
    "blurb": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
    "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-19T10:48"
+   "published": "2026-11-19T15:58"
   },
-  "hfe44b117": {
-   "id": "hfe44b117",
-   "source": "NPR Business",
+  "h92cdbaff": {
+   "id": "h92cdbaff",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+   "blurb": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "published": "2026-11-19T13:57"
+  },
+  "he7f95ee9": {
+   "id": "he7f95ee9",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Dow dives 1,000 points as Anthropic IPO milestone causes investors to take profits: Live updates",
+   "blurb": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
+   "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "published": "2026-11-19T20:04"
+  },
+  "h38e02854": {
+   "id": "h38e02854",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Anthropic Shares Pare Gains After Rocketing in Debut",
+   "blurb": "Bloomberg's Bailey Lipschultz said that initial trading action of Anthropic was not as 'robust' as people would have hoped for or anticipated as Anthropic shares soared at the beginning of trading, only to pull back sharply. Lipschultz was joined by Bloomberg's Ryan Gould, who\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-pare-gains-after-rocketing-in-debut-video",
+   "published": "2026-11-19T19:38"
+  },
+  "h1054662f": {
+   "id": "h1054662f",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "blurb": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "published": "2026-11-19T18:09"
+  },
+  "h4fcd6ac8": {
+   "id": "h4fcd6ac8",
+   "source": "Financial Times",
    "beat": "world",
-   "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
-   "blurb": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
-   "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-   "published": "2026-11-19T10:00"
+   "title": "AMD shares fall after short seller report on China links",
+   "blurb": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
+   "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+   "published": "2026-11-19T18:40"
+  },
+  "h79540770": {
+   "id": "h79540770",
+   "source": "CNBC Politics",
+   "beat": "policy",
+   "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+   "blurb": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
+   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+   "published": "2026-11-19T17:01"
+  },
+  "hd5ba42fb": {
+   "id": "hd5ba42fb",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Data center electricity use could double by 2030, IEA says",
+   "blurb": "Global electricity use by data centers could double by 2030 as the AI boom adds pressure to power grids across the world, according to the IEA.",
+   "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+   "published": "2026-11-19T11:34"
+  },
+  "h5816f792": {
+   "id": "h5816f792",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Trump, Xi, Putin Set New Priorities After Historic Meeting in China",
+   "blurb": "The US, Chinese and Russian presidents met on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, but what did they accomplish? President Donald Trump, Xi Jinping and Vladimir Putin issued a joint statement afterwards laying out some new objectives.\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-putin-set-new-priorities-after-meeting-video",
+   "published": "2026-11-19T16:25"
   },
   "h0d2f6ca4": {
    "id": "h0d2f6ca4",
@@ -106,77 +211,50 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
    "published": "2026-11-18T16:48"
   },
-  "h138aedbf": {
-   "id": "h138aedbf",
-   "source": "CNBC Energy",
-   "beat": "energy",
-   "title": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
-   "blurb": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
-   "url": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
-   "published": "2026-11-18T12:00"
+  "ha628e3d5": {
+   "id": "ha628e3d5",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Gemini on Mac can now use your computer",
+   "blurb": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms,\u2026",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "published": "2026-11-19T18:21"
   },
-  "h79540770": {
-   "id": "h79540770",
-   "source": "CNBC",
-   "beat": "markets",
-   "title": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting",
-   "blurb": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
-   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-   "published": "2026-11-19T10:38"
+  "h906e1450": {
+   "id": "h906e1450",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Google\u2019s Gemini Can Now Control Mac Devices on Users\u2019 Behalf",
+   "blurb": "Google\u2019s Gemini can now take control of Mac computers to complete tasks for users, matching a feature already offered by other popular AI assistants and raising the pressure on Apple Inc. to make Siri more capable.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
+   "published": "2026-11-19T18:55"
   },
-  "h41939b84": {
-   "id": "h41939b84",
+  "h27f20e64": {
+   "id": "h27f20e64",
    "source": "OilPrice.com",
    "beat": "energy",
-   "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
-   "blurb": "The war in the Middle East has caused global oil supply losses of a total of 2.8 billion barrels plus 60 billion cubic meters of natural gas, the International Energy Agency estimated in its latest World Energy Outlook, released today. This disruption is going to affect oil\u2026",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html",
-   "published": "2026-11-19T09:00"
+   "title": "AI Jitters Haven't Slowed the Bet on U.S. Power Demand",
+   "blurb": "We finally have hard data to show us exactly how much energy data centers are using in the United States, and the results are staggering. Driven by the artificial intelligence boom, energy-hungry data centers are popping up in record numbers around the country and driving up\u2026",
+   "url": "https://oilprice.com/Energy/Energy-General/AI-Jitters-Havent-Slowed-the-Bet-on-US-Power-Demand.html",
+   "published": "2026-11-19T16:00"
   },
-  "h56673e8f": {
-   "id": "h56673e8f",
-   "source": "NPR Business",
-   "beat": "world",
-   "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-   "blurb": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
-   "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-   "published": "2026-11-18T23:54"
-  },
-  "h6c829a6d": {
-   "id": "h6c829a6d",
+  "h8417ba45": {
+   "id": "h8417ba45",
    "source": "Financial Times",
    "beat": "world",
-   "title": "Trump, Putin and Xi stage historic trilateral meeting",
-   "blurb": "Summit with three leaders in southern Chinese city of Shenzhen during week of high-stakes diplomacy",
-   "url": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
-   "published": "2026-11-19T07:43"
+   "title": "Xi, Trump and Putin hail \u2018groundbreaking\u2019 meeting",
+   "blurb": "The world\u2019s three largest nuclear powers agree to talks on preventing proliferation",
+   "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
+   "published": "2026-11-19T13:00"
   },
-  "h844887fb": {
-   "id": "h844887fb",
-   "source": "CNBC Economy",
-   "beat": "economy",
-   "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
-   "blurb": "It put the U.K.'s annual inflation rate at a 1-year high.",
-   "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
-   "published": "2026-11-18T07:57"
-  },
-  "hd17f196e": {
-   "id": "hd17f196e",
+  "h7073f2bc": {
+   "id": "h7073f2bc",
    "source": "NPR Politics",
    "beat": "policy",
-   "title": "Why the Nvidia scandal is a national security issue",
-   "blurb": "The Nvidia scandal has spilled over into the Trump administration, which is now under intense scrutiny for how it allowed America's top AI chips to end up in China's hands.",
-   "url": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
-   "published": "2026-11-18T22:12"
-  },
-  "h64d4bb67": {
-   "id": "h64d4bb67",
-   "source": "Financial Times",
-   "beat": "world",
-   "title": "Anthropic raises $81bn in record IPO",
-   "blurb": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
-   "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-   "published": "2026-11-19T07:04"
+   "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+   "blurb": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+   "published": "2026-11-19T09:44"
   },
   "h54df0626": {
    "id": "h54df0626",
@@ -187,117 +265,7 @@
    "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
    "published": "2026-11-18T17:35"
   },
-  "h82bae788": {
-   "id": "h82bae788",
-   "source": "WSJ Markets",
-   "beat": "markets",
-   "title": "What to Know About Anthropic\u2019s Record-Breaking IPO",
-   "blurb": "Shares in the maker of the Claude chatbot are set to begin trading midday Thursday.",
-   "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
-   "published": "2026-11-19T10:30"
-  },
-  "hf6df8fa3": {
-   "id": "hf6df8fa3",
-   "source": "Bloomberg Politics",
-   "beat": "policy",
-   "title": "Xi Hosts 'Groundbreaking' Trilateral With Trump, Putin",
-   "blurb": "Chinese President Xi Jinping hosted what he called a \u201cgroundbreaking\u201d trilateral meeting with US President Donald Trump and Russian President Vladimir Putin. Trump said \u201cwe are really making history,\u201d with a special responsibility to maintain open dialogue. Putin highlighted\u2026",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-19/xi-hosts-groundbreaking-trilateral-with-trump-putin-video",
-   "published": "2026-11-19T09:52"
-  },
-  "h414530ab": {
-   "id": "h414530ab",
-   "source": "CNBC Politics",
-   "beat": "policy",
-   "title": "Trump arrives in China for historic meeting with Xi, Putin",
-   "blurb": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
-   "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-   "published": "2026-11-18T12:24"
-  },
-  "h2bc2b543": {
-   "id": "h2bc2b543",
-   "source": "OilPrice.com",
-   "beat": "energy",
-   "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
-   "blurb": "The war in Iran is causing an enduring upset in global oil and gas markets with long-ranging consequences for the economy, the energy sector, and the climate. For many countries, this has resulted in skyrocketing energy prices and a rapid shift toward renewable energies in order\u2026",
-   "url": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
-   "published": "2026-11-18T22:00"
-  },
-  "h52a552a7": {
-   "id": "h52a552a7",
-   "source": "CNBC Tech",
-   "beat": "tech",
-   "title": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return",
-   "blurb": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
-   "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-   "published": "2026-11-18T18:11"
-  },
-  "h4544035d": {
-   "id": "h4544035d",
-   "source": "TechCrunch",
-   "beat": "tech",
-   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-   "blurb": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-   "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-   "published": "2026-11-18T21:57"
-  },
-  "hac7bfee9": {
-   "id": "hac7bfee9",
-   "source": "BBC Business",
-   "beat": "world",
-   "title": "How high is UK inflation and how will you be affected?",
-   "blurb": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-   "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-18T19:37"
-  }
- },
- "latest": [
-  {
-   "id": "h4e7dae82",
-   "source": "CNBC Politics",
-   "beat": "policy",
-   "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-   "blurb": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
-   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
-   "published": "2026-11-19T10:54"
-  },
-  {
-   "id": "h9074ab95",
-   "source": "WSJ Markets",
-   "beat": "markets",
-   "title": "Four Ways Techruptions May Shape the Economy",
-   "blurb": "Plus, the real debate at the Fed, more on Medicare for All, and could Congress cut tariffs?",
-   "url": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_markets_main",
-   "published": "2026-11-19T10:50"
-  },
-  {
-   "id": "hc6d87bb3",
-   "source": "BBC Business",
-   "beat": "world",
-   "title": "Anthropic raises $81bn in record-breaking stock market debut",
-   "blurb": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-19T10:48"
-  },
-  {
-   "id": "h9d050e70",
-   "source": "Bloomberg Technology",
-   "beat": "tech",
-   "title": "Jack Ma-Backed Ant\u2019s Profit Rose 27% After Fair Value Gains",
-   "blurb": "Ant Group Co.\u2019s profit grew 27% thanks to fair value gains, partially offset by its investments in artificial intelligence technology.",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/jack-ma-backed-ant-s-profit-rose-27-after-fair-value-gains",
-   "published": "2026-11-19T10:42"
-  },
-  {
-   "id": "hfb9b219e",
-   "source": "CNBC",
-   "beat": "markets",
-   "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-   "blurb": "It follows months of tensions after President Donald Trump repeatedly said the U.S. should take control of Greenland for national security reasons.",
-   "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
-   "published": "2026-11-19T10:41"
-  },
-  {
+  "h82689104": {
    "id": "h82689104",
    "source": "Bloomberg Economics",
    "beat": "economy",
@@ -306,61 +274,135 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-nagel-says-december-rate-hike-would-send-clear-signal",
    "published": "2026-11-19T10:41"
   },
-  {
-   "id": "h79540770",
+  "hd17f196e": {
+   "id": "hd17f196e",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Why the Nvidia scandal is a national security issue",
+   "blurb": "The Nvidia scandal has spilled over into the Trump administration, which is now under intense scrutiny for how it allowed America's top AI chips to end up in China's hands.",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+   "published": "2026-11-18T22:12"
+  },
+  "h4524fd3f": {
+   "id": "h4524fd3f",
    "source": "CNBC",
    "beat": "markets",
-   "title": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting",
-   "blurb": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
-   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-   "published": "2026-11-19T10:38"
+   "title": "AMD dives on short-seller report of alleged China exposure",
+   "blurb": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "published": "2026-11-19T18:24"
+  }
+ },
+ "latest": [
+  {
+   "id": "h8ecd020a",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
+   "blurb": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+   "published": "2026-11-19T20:06"
   },
   {
-   "id": "h7705bf47",
+   "id": "h6900f601",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Google is putting AI chats right on the homepage",
+   "blurb": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking\u2026",
+   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "published": "2026-11-19T20:05"
+  },
+  {
+   "id": "he7f95ee9",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Dow dives 1,000 points as Anthropic IPO milestone causes investors to take profits: Live updates",
+   "blurb": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
+   "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "published": "2026-11-19T20:04"
+  },
+  {
+   "id": "h8c0f7ce0",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Bloomberg Green New York 2026 Highlights",
+   "blurb": "Bloomberg Green convened industry leaders, policymakers, and climate innovators during Climate Week NYC to explore what's next in the transition to a more resilient and future-ready world. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
+   "published": "2026-11-19T20:01"
+  },
+  {
+   "id": "hf0115c35",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Sofia Franklyn\u2019s \u2018Call Her Daddy\u2019 Tell-All Is Riveting Podcasters and Their Fans",
+   "blurb": "Podcasts are helping turn Sofia Franklyn\u2019s memoir, Daddy Issues , into a monster hit",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/sofia-franklyn-s-call-her-daddy-tell-all-is-riveting-podcasters-and-their-fans",
+   "published": "2026-11-19T20:01"
+  },
+  {
+   "id": "h9a08e90b",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Fed's Barr Says Inflation Calls for Further Policy Adjustment",
+   "blurb": "Federal Reserve Governor Michael Barr says inflation is too high and monetary policy needs to be adjusted further to balance risks at FinRegLab's AI Symposium. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
+   "published": "2026-11-19T19:59"
+  },
+  {
+   "id": "h51c5886a",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+   "blurb": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+   "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+   "published": "2026-11-19T19:58"
+  },
+  {
+   "id": "h09c3becc",
    "source": "Bloomberg Politics",
    "beat": "policy",
-   "title": "Amundi CIO Says Not Seeing Panic Selling in French Debt",
-   "blurb": "Amundi Chief Investment Officer Vincent Mortier says the firm isn\u2019t seeing any \"panic selling\" of French debt, despite a recent jump in yields of the country\u2019s bonds. He speaks on Bloomberg Television. (Source: Bloomberg)",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-19/amundi-cio-says-not-seeing-panic-selling-in-french-debt-video",
-   "published": "2026-11-19T10:37"
+   "title": "Europe Won't Go Back to Buying Russian Energy, Says Secretary Wright",
+   "blurb": "US Energy Secretary Chris Wright speaks with Bloomberg's Joe Mathieu and Kailey Leinz from Warsaw. Wright says Russia and China are \"absolutely very significant competitors of ours.\" He says in many areas, they are outright adversaries. Wright says Europe won't go back to buying\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-19/europe-won-t-go-back-to-buying-russian-energy-wright-video",
+   "published": "2026-11-19T19:54"
   },
   {
-   "id": "h50173f4f",
-   "source": "WSJ Markets",
+   "id": "h2fefa24a",
+   "source": "Ars Technica",
+   "beat": "tech",
+   "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+   "blurb": "\"Project Suncatcher is a long-term moonshot.\"",
+   "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+   "published": "2026-11-19T19:52"
+  },
+  {
+   "id": "h8ea62b1f",
+   "source": "The Guardian Business",
+   "beat": "world",
+   "title": "Anthropic valued at $2tn as shares begin trading after record-breaking IPO \u2013 business live",
+   "blurb": "Rolling coverage of Anthropic\u2019s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? \u2013 Stateside with Kai and Carter Anthropic needs to grow\u2026",
+   "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+   "published": "2026-11-19T19:51"
+  },
+  {
+   "id": "hd733fbdb",
+   "source": "Bloomberg Markets",
    "beat": "markets",
-   "title": "Nvidia Is the Central Bank to AI\u2019s Circular Economy. See Where the Money Goes.",
-   "blurb": "The company has struck at least 293 deals since 2023 and amassed a more than $100 billion investment portfolio.",
-   "url": "https://www.wsj.com/finance/stocks/nvidia-is-the-central-bank-to-ais-circular-economy-see-where-the-money-goes-da480b61?mod=rss_markets_main",
-   "published": "2026-11-19T10:30"
+   "title": "Traders and Investors Want to Exercise Their Convictions: Bilal Little",
+   "blurb": "Bilal Little, global ETF strategist at Direxion, joins Scarlet Fu on a special edition of \u201cBloomberg Markets.\u201d Providers have filed for more than 20 exchange-traded products to amplify daily moves on Anthropic, both on the upside and the downside, as firms including Direxion,\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-19/traders-and-investors-act-on-convictions-bilal-little-video",
+   "published": "2026-11-19T19:47"
   },
   {
-   "id": "h041d3822",
-   "source": "WSJ Markets",
-   "beat": "markets",
-   "title": "Is Anthropic Worth $1.1 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
-   "blurb": "The company\u2019s complex structure and funding make for confusing valuation math.",
-   "url": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
-   "published": "2026-11-19T10:30"
-  },
-  {
-   "id": "h82bae788",
-   "source": "WSJ Markets",
-   "beat": "markets",
-   "title": "What to Know About Anthropic\u2019s Record-Breaking IPO",
-   "blurb": "Shares in the maker of the Claude chatbot are set to begin trading midday Thursday.",
-   "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
-   "published": "2026-11-19T10:30"
-  },
-  {
-   "id": "h42f84a4e",
-   "source": "OilPrice.com",
-   "beat": "energy",
-   "title": "India\u2019s Oil Imports Hit Record High as Saudi Shipments Surge",
-   "blurb": "India imported a record-high level of crude oil volumes in October, trade data showed on Thursday, as volumes from Saudi Arabia jumped to an eight-month high amid a recovery in Gulf shipments. India imported a record 5.58 million barrels per day (bpd) of crude oil last month, up\u2026",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Imports-Hit-Record-High-as-Saudi-Shipments-Surge.html",
-   "published": "2026-11-19T10:30"
+   "id": "hb8547a4c",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+   "blurb": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+   "published": "2026-11-19T19:46"
   }
  ],
  "feeds": 27,
- "scanned": 255
+ "scanned": 263
 }

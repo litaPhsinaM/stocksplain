@@ -1,0 +1,108 @@
+{
+ "id": "bloomberg-surveillance-15e7344865",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 19th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-19th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/e728cc0b-b6ba-47c4-a86a-b507011ff689/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-19",
+ "duration": 1246,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "AI IPOs and market sentiment",
+   "Economic growth vs market pricing",
+   "Federal Reserve policy and forward guidance",
+   "Trilateral summit of US",
+   "Chip export controls and loopholes",
+   "Hyperscaler debt issuance and demand"
+  ],
+  "headline": "AI IPOs weigh on market sentiment; Fed policy debate intensifies",
+  "tldr": "The market is experiencing a post-IPO hangover as large AI-related offerings compress valuations. Meanwhile, a divergence between strong economic data and defensive sector performance has sparked a debate over potential Federal Reserve policy errors.",
+  "key_points": [
+   {
+    "point": "Large IPOs like Anthropic's are compressing market valuations, creating a 'post-IPO hangover' effect.",
+    "why_it_matters": "Investors often see temporary valuation compression when massive waves of new public offerings hit the market, regardless of underlying earnings."
+   },
+   {
+    "point": "Economic indicators show US growth is accelerating, yet sectors like staples and utilities are leading, suggesting the market is pricing in a slowdown.",
+    "why_it_matters": "This divergence between economic reality and market positioning creates uncertainty about whether the economy is heading toward a growth scare or a contraction."
+   },
+   {
+    "point": "Federal Reserve officials are debating the necessity of forward guidance versus aggressive action, with some advocating for 50 basis point hikes to maintain credibility.",
+    "why_it_matters": "Changes in central bank communication strategies directly impact bond market volatility and equity valuations."
+   },
+   {
+    "point": "The US has implemented interim rules to close loopholes allowing Chinese companies to access advanced chip capabilities via remote servers in Southeast Asia.",
+    "why_it_matters": "These technology controls are a key component of great power competition and directly affect the operational capabilities of major international tech firms."
+   },
+   {
+    "point": "Hyperscaler debt issuance reached $300 billion in 2026, with demand remaining strong despite recent market indigestion.",
+    "why_it_matters": "The shift toward 'chip financing' in 2027 will be a critical test for how the bond market prices risk for AI-related infrastructure."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "90 basis point",
+    "context": "The current spread on the investment grade index, which has widened slightly due to hyperscaler issuance."
+   },
+   {
+    "figure": "$300 billion",
+    "context": "The total amount of hyperscaler debt issued in 2026 across nine different currencies."
+   }
+  ],
+  "lesson": "When a central bank moves away from clear forward guidance, market participants often demand higher immediate action (such as larger rate hikes) to compensate for the loss of predictability, which increases volatility.",
+  "opinions_and_predictions": [
+   "Noah Weisberger (BCA Research) believes the market is currently experiencing a mini growth scare rather than a major clearing event.",
+   "Noah Weisberger (BCA Research) interprets the shift in Fed communication from quarterly meetings to potential double hikes as a significant and volatile change.",
+   "Elizabeth Economy (former Commerce Department advisor) notes that the trilateral summit between the US, China, and Russia has not yet produced tangible outcomes beyond symbolic optics.",
+   "Kelsey Berro (JPMorgan Asset Management) predicts that 2027 will be defined by the shift toward chip financing as the primary focus for corporate debt markets."
+  ],
+  "tickers": [
+   "Anthropic",
+   "SpaceX",
+   "Alibaba",
+   "Nvidia",
+   "Oracle"
+  ],
+  "glossary": [
+   {
+    "term": "Hyperscaler",
+    "definition": "A large-scale cloud computing company that provides massive data storage and processing power.",
+    "example": "Hyperscalers like Amazon or Google are issuing record amounts of debt to fund AI infrastructure."
+   },
+   {
+    "term": "Forward guidance",
+    "definition": "Communication from a central bank about its future monetary policy intentions.",
+    "example": "The Fed chair's decision to stop providing forward guidance has created uncertainty among market participants."
+   },
+   {
+    "term": "Basis point",
+    "definition": "A unit of measure equal to one-hundredth of a percentage point (0.01%).",
+    "example": "A 50 basis point hike is equal to a 0.5% increase in interest rates."
+   },
+   {
+    "term": "Spread",
+    "definition": "The difference in yield between two bonds, typically used to measure the risk premium of a corporate bond over a risk-free government bond.",
+    "example": "The investment grade index spread widened to 90 basis points due to market indigestion."
+   },
+   {
+    "term": "Cyclical",
+    "definition": "Companies or sectors whose performance is highly sensitive to the overall state of the economy.",
+    "example": "Underperformance in cyclical sectors suggests the market is worried about a potential economic slowdown."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "interest rates",
+   "ai stocks",
+   "geopolitics",
+   "corporate debt"
+  ],
+  "quality_note": "The source features professional analysts and former government advisors providing data-backed market analysis alongside speculative geopolitical commentary.",
+  "worth_reading": true
+ }
+}
