@@ -1,0 +1,115 @@
+{
+ "id": "squawk-pod-042474736a",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "Nvidia\u2019s Q3, President Trump in China, & Tech Outages 11/18/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/1e63ace7-c8bf-43cc-ac71-22aec876e6e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=1e63ace7-c8bf-43cc-ac71-22aec876e6e6&feed=VHAcgaw_",
+ "published": "2026-11-18",
+ "duration": 2026,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia Q3 earnings and guidance",
+   "Lowe's Q3 earnings and AI strategy",
+   "Tech outages and infrastructure vulnerabilities",
+   "Anthropic upcoming IPO",
+   "President Trump's trilateral meeting in China"
+  ],
+  "headline": "Nvidia beats Q3 expectations; Lowe's reports strong sales and AI gains",
+  "tldr": "Nvidia reported strong third-quarter results and guidance despite leadership changes. Meanwhile, Lowe's beat earnings expectations and highlighted the success of its AI tools, while experts discussed the causes of recent tech outages and the upcoming Anthropic IPO.",
+  "key_points": [
+   {
+    "point": "Nvidia reported $116 billion in revenue, more than doubling from the previous year, with strong guidance for the fourth quarter.",
+    "why_it_matters": "As a dominant player in the AI chip market, Nvidia's performance is a key indicator of the health of the broader artificial intelligence sector."
+   },
+   {
+    "point": "Lowe's reported earnings of $3.10 per share and raised its full-year sales guidance to $92.5 billion.",
+    "why_it_matters": "Lowe's results provide insight into consumer spending habits, particularly in the home improvement sector, which is currently facing economic headwinds."
+   },
+   {
+    "point": "Lowe's CEO Marvin Ellison noted that their AI agent, Milo, has tripled conversion rates online and improved customer satisfaction scores by 200 basis points.",
+    "why_it_matters": "This demonstrates how non-tech companies are successfully integrating AI to drive tangible business improvements and operational efficiency."
+   },
+   {
+    "point": "Tech outages are increasingly linked to the rapid pace of patching legacy systems to address vulnerabilities discovered by AI tools.",
+    "why_it_matters": "The accelerated frequency of software updates to maintain security is creating a trade-off between system stability and digital infrastructure safety."
+   },
+   {
+    "point": "Anthropic is preparing for a historic IPO, with a focus on enterprise safety as a core competitive advantage.",
+    "why_it_matters": "The IPO represents a significant test of investor appetite for AI model makers and the long-term value of frontier AI models."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$116B",
+    "context": "Nvidia's reported revenue for the third quarter, which more than doubled from the previous year."
+   },
+   {
+    "figure": "$3.10",
+    "context": "Lowe's earnings per share for the third quarter, which beat the $2.88 estimate."
+   },
+   {
+    "figure": "1.8%",
+    "context": "Lowe's comparable store sales growth, significantly higher than the 0.1% expected by the street."
+   },
+   {
+    "figure": "$92.5B",
+    "context": "Lowe's raised full-year sales guidance range."
+   }
+  ],
+  "lesson": "When companies implement new technologies like AI, the value is realized through specific, measurable improvements in customer conversion and operational satisfaction rather than just the adoption of the tool itself.",
+  "opinions_and_predictions": [
+   "Nicholas Burns (former US Ambassador to China) believes the trilateral meeting between Trump, Xi, and Putin is problematic due to the exclusion of Ukraine.",
+   "Peter Singlehurst (Anthropic) predicts that the vast majority of revenue and profit in AI will accrue to companies at the leading edge of frontier models.",
+   "Amon Javers (CNBC) expects more tech outages in the coming months and years as companies rush to patch legacy systems.",
+   "Nicholas Burns (former US Ambassador to China) thinks the US is currently acting more like Putin's lawyer than Zelensky's lawyer regarding the war in Ukraine."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Lowe's (LOW)",
+   "Home Depot (HD)",
+   "Meta (META)",
+   "Tesla (TSLA)"
+  ],
+  "glossary": [
+   {
+    "term": "Guidance",
+    "definition": "A company's own estimate of its future financial performance, such as revenue or earnings.",
+    "example": "Nvidia provided strong guidance for the fourth quarter."
+   },
+   {
+    "term": "Basis point",
+    "definition": "A unit of measure equal to one-hundredth of a percentage point (0.01%).",
+    "example": "Lowe's saw a 200 basis point improvement in customer satisfaction."
+   },
+   {
+    "term": "Frontier models",
+    "definition": "The most advanced and capable artificial intelligence models currently in development.",
+    "example": "Anthropic is focused on developing frontier models."
+   },
+   {
+    "term": "Comparable store sales",
+    "definition": "A measure of revenue growth for stores that have been open for at least one year.",
+    "example": "Lowe's comparable store sales grew by 1.8%."
+   },
+   {
+    "term": "Legacy systems",
+    "definition": "Old or outdated computer systems, software, or hardware that are still in use.",
+    "example": "Companies are rushing to patch vulnerabilities in their legacy systems."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "earnings",
+   "geopolitics",
+   "tech infrastructure"
+  ],
+  "quality_note": "The source features interviews with corporate executives and a former diplomat, providing a mix of company-specific data and geopolitical analysis, though some geopolitical commentary is speculative.",
+  "worth_reading": true
+ }
+}

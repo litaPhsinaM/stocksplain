@@ -11,6 +11,9 @@
  "adjusted earnings": {
   "topic": "companies"
  },
+ "agentic ai": {
+  "topic": "tech"
+ },
  "ai": {
   "topic": "tech"
  },
@@ -57,6 +60,10 @@
   "topic": "bonds",
   "same_as": "basis point"
  },
+ "basis points (bps)": {
+  "topic": "bonds",
+  "same_as": "basis point"
+ },
  "bear market": {
   "topic": "stocks"
  },
@@ -87,6 +94,9 @@
  "bull market": {
   "topic": "stocks"
  },
+ "cab and chassis": {
+  "topic": "other"
+ },
  "capex": {
   "topic": "companies"
  },
@@ -98,6 +108,9 @@
  },
  "career and technical education": {
   "topic": "other"
+ },
+ "china hawks": {
+  "topic": "policy"
  },
  "circular financing": {
   "topic": "companies"
@@ -119,6 +132,9 @@
  },
  "common ownership": {
   "topic": "stocks"
+ },
+ "comparable store sales": {
+  "topic": "companies"
  },
  "composting": {
   "topic": "other"
@@ -168,6 +184,9 @@
   "same_as": "consumer price index (cpi)"
  },
  "credit default swap (cds)": {
+  "topic": "bonds"
+ },
+ "credit spread": {
   "topic": "bonds"
  },
  "cuda": {
@@ -269,6 +288,9 @@
  "fiduciary responsibility": {
   "topic": "personal"
  },
+ "final-mile delivery": {
+  "topic": "energy"
+ },
  "flat structure": {
   "topic": "companies"
  },
@@ -289,6 +311,19 @@
  },
  "forward price-to-earnings ratio": {
   "topic": "companies"
+ },
+ "free cash flow": {
+  "topic": "companies"
+ },
+ "freight recession": {
+  "topic": "economy"
+ },
+ "frontier model": {
+  "topic": "tech"
+ },
+ "frontier models": {
+  "topic": "tech",
+  "same_as": "frontier model"
  },
  "fully diluted basis": {
   "topic": "companies"
@@ -329,6 +364,9 @@
  "hacker": {
   "topic": "tech"
  },
+ "hawkish": {
+  "topic": "economy"
+ },
  "hbm": {
   "topic": "tech"
  },
@@ -348,6 +386,9 @@
   "topic": "stocks"
  },
  "honeypot": {
+  "topic": "tech"
+ },
+ "hopper": {
   "topic": "tech"
  },
  "hot wallet": {
@@ -418,6 +459,9 @@
  "ipo": {
   "topic": "stocks"
  },
+ "ipo (initial public offering)": {
+  "topic": "stocks"
+ },
  "junk status": {
   "topic": "bonds"
  },
@@ -440,6 +484,9 @@
  "law fair": {
   "topic": "policy"
  },
+ "legacy systems": {
+  "topic": "tech"
+ },
  "liabilities": {
   "topic": "companies"
  },
@@ -447,6 +494,9 @@
   "topic": "other"
  },
  "limit order": {
+  "topic": "trading"
+ },
+ "liquidity": {
   "topic": "trading"
  },
  "lump sum investing": {
@@ -486,6 +536,9 @@
  "maturity": {
   "topic": "bonds"
  },
+ "measles elimination status": {
+  "topic": "other"
+ },
  "media rights": {
   "topic": "companies"
  },
@@ -494,6 +547,9 @@
  },
  "microtransactions": {
   "topic": "tech"
+ },
+ "midstream": {
+  "topic": "energy"
  },
  "moat": {
   "topic": "companies"

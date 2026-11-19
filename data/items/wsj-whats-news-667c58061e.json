@@ -1,0 +1,111 @@
+{
+ "id": "wsj-whats-news-667c58061e",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "China Hawks Get Their Way in Washington After Nvidia Scandal",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/5d47534c-7ce3-4c9f-850a-8ae18e13bb82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=5d47534c-7ce3-4c9f-850a-8ae18e13bb82&feed=BA5QWI2p",
+ "published": "2026-11-18",
+ "duration": 706,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Anthropic IPO pricing details",
+   "Nvidia scandal boosts China Hawks",
+   "Defense Secretary Hegseth visits Venezuela",
+   "US service outages caused by maintenance",
+   "Fed minutes signal rate hike",
+   "US loses measles elimination status",
+   "Van Gogh painting auction controversy"
+  ],
+  "headline": "Anthropic prices IPO at $83; Nvidia scandal fuels US-China tech restrictions",
+  "tldr": "Anthropic priced its IPO above expectations as demand for AI remains high. Meanwhile, a scandal involving Nvidia's CEO has empowered lawmakers pushing for stricter export controls on Chinese technology, despite the administration's public trade goals.",
+  "key_points": [
+   {
+    "point": "Anthropic priced its IPO at $83 per share, exceeding its estimated range due to high investor demand.",
+    "why_it_matters": "This pricing serves as a significant market test for the current appetite for artificial intelligence companies."
+   },
+   {
+    "point": "The Nvidia CEO scandal has emboldened 'China Hawks' in Congress to push for tighter restrictions on chip exports to China.",
+    "why_it_matters": "Increased regulation could disrupt global supply chains and limit the growth of major Chinese tech firms like Tencent and Alibaba."
+   },
+   {
+    "point": "Recent US service outages, including flight groundings and Microsoft 365 issues, were confirmed by DNI Jay Clayton as technical maintenance errors rather than cyberattacks.",
+    "why_it_matters": "Distinguishing between system failures and state-sponsored attacks is critical for national security and market stability."
+   },
+   {
+    "point": "Federal Reserve minutes indicate that officials view a rate hike as highly likely at the December 9th meeting.",
+    "why_it_matters": "Higher interest rates are used by the Fed to combat inflation, which directly impacts borrowing costs and market valuations."
+   },
+   {
+    "point": "The US lost its measles elimination status due to rising cases and declining vaccination rates.",
+    "why_it_matters": "Public health crises can have long-term economic impacts and require significant federal intervention to reverse."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$83",
+    "context": "The price per share set for the Anthropic IPO."
+   },
+   {
+    "figure": "11%",
+    "context": "The hospitalization rate for individuals who contract measles."
+   },
+   {
+    "figure": "0.4%",
+    "context": "The percentage gain for the Nasdaq index at the close of trading."
+   },
+   {
+    "figure": "-1%",
+    "context": "The percentage drop for the Dow Jones Industrial Average."
+   }
+  ],
+  "lesson": "When a company's leadership faces public scandal, it can shift the political environment, creating momentum for regulatory changes that affect entire industries.",
+  "opinions_and_predictions": [
+   "Amrith Ramkumar (WSJ) believes China will likely find workarounds to US export restrictions regardless of specific measures taken.",
+   "Amrith Ramkumar (WSJ) predicts that with Democrats taking control of Congress, there will be an increase in investigations and legislation regarding AI and chip policies.",
+   "Sumathi Reddy (WSJ) notes that the anti-vaccine movement and easier exemption laws are widely considered major factors in the loss of measles elimination status."
+  ],
+  "tickers": [
+   "Anthropic",
+   "Nvidia",
+   "Tencent",
+   "Alibaba",
+   "Microsoft (MSFT)"
+  ],
+  "glossary": [
+   {
+    "term": "China Hawks",
+    "definition": "Politicians or officials who advocate for a tough, confrontational stance toward China regarding trade, security, and technology.",
+    "example": "Lawmakers like Tom Cotton are described as China Hawks pushing for stricter chip export rules."
+   },
+   {
+    "term": "IPO (Initial Public Offering)",
+    "definition": "The process by which a private company offers shares to the public for the first time to raise capital.",
+    "example": "Anthropic priced its IPO at $83 a share."
+   },
+   {
+    "term": "Measles elimination status",
+    "definition": "A designation by health organizations indicating that a country has interrupted the continuous transmission of the measles virus for at least 12 months.",
+    "example": "The US lost this status after cases climbed and vaccination rates fell."
+   },
+   {
+    "term": "Export controls",
+    "definition": "Government-imposed restrictions on the sale or transfer of goods, services, or technology to foreign countries.",
+    "example": "Congress is considering measures to restrict the export of chips and chip-making equipment to China."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "geopolitics",
+   "interest rates",
+   "public health"
+  ],
+  "quality_note": "The report combines verified corporate and government data with expert analysis from WSJ reporters and official testimony.",
+  "worth_reading": true
+ }
+}

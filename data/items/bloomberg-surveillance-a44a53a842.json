@@ -1,0 +1,114 @@
+{
+ "id": "bloomberg-surveillance-a44a53a842",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Nvidia and the AI Trade",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/nvidia-and-the-ai-trade",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/3e879e74-fbbb-472b-996a-b50600f374b1/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-18",
+ "duration": 2454,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Economic resilience and the roaring 2020s",
+   "Federal Reserve interest rate outlook",
+   "Nvidia leadership and AI trade viability",
+   "Anthropic IPO and AI market competition",
+   "Investment strategy in AI and credit markets"
+  ],
+  "headline": "Ed Yardeni on economic resilience; Dan Ives on Nvidia and Anthropic IPO",
+  "tldr": "Economist Ed Yardeni discusses the surprising resilience of the US economy driven by productivity and consumer spending. Meanwhile, analysts evaluate the future of the AI trade, focusing on Nvidia's leadership transition and the upcoming Anthropic IPO.",
+  "key_points": [
+   {
+    "point": "Ed Yardeni attributes current economic resilience to productivity gains, fiscal stimulus, and strong consumer spending, particularly from seniors.",
+    "why_it_matters": "Understanding these drivers helps explain why the economy has avoided recession despite high interest rates."
+   },
+   {
+    "point": "Dan Ives notes Nvidia's strong demand and guidance, despite internal leadership tensions regarding a potential return of Jensen Huang.",
+    "why_it_matters": "Nvidia remains a foundational player in AI infrastructure, making its leadership stability a key factor for market participants."
+   },
+   {
+    "point": "Anthropic is expected to reach a $1.7 to $2 trillion valuation in its upcoming IPO, positioning it as a major competitor in the frontier model space.",
+    "why_it_matters": "This IPO represents a significant test of investor appetite for AI companies beyond hardware providers like Nvidia."
+   },
+   {
+    "point": "Kelly Kawaski of MassMutual emphasizes a cautious, high-quality credit approach, favoring short-duration assets to manage the uncertainty of AI monetization.",
+    "why_it_matters": "Institutional investors are balancing the long-term potential of AI with the immediate risks of negative free cash flows and high capital expenditure."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$2 trillion",
+    "context": "The current annual federal deficit, which Yardeni identifies as a significant fiscal stimulus to the economy."
+   },
+   {
+    "figure": "70%",
+    "context": "The portion of GDP accounted for by consumer spending, highlighting its importance to economic resilience."
+   },
+   {
+    "figure": "1.7 to 2 trillion",
+    "context": "The estimated valuation range for the upcoming Anthropic IPO."
+   },
+   {
+    "figure": "-7%",
+    "context": "The decline in building permits, signaling potential weakness in the housing market."
+   }
+  ],
+  "lesson": "When a sector experiences massive capital expenditure, the timing of actual cash flow generation (monetization) is often delayed, requiring a focus on high-quality credit and shorter-duration assets to mitigate risk.",
+  "opinions_and_predictions": [
+   "Ed Yardeni expects the Fed to hike rates by 50 basis points at the December meeting.",
+   "Ed Yardeni views the current interest rate environment as 'normal for longer' rather than 'higher for longer'.",
+   "Ed Yardeni believes the AI trade is not dead and sees the current market environment as a buying opportunity.",
+   "Dan Ives believes that if activist shareholders secure 15% support, they could force a special meeting to attempt to oust the board and bring back Jensen Huang.",
+   "Kelly Kawaski predicts credit spreads will drift wider as investors become more concentrated in AI-related names."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Salesforce (CRM)",
+   "Service Now (NOW)",
+   "Oracle (ORCL)",
+   "Microsoft (MSFT)",
+   "Palantir (PLTR)",
+   "Apple (AAPL)"
+  ],
+  "glossary": [
+   {
+    "term": "Basis points",
+    "definition": "A unit of measure for interest rates; one basis point equals 0.01%.",
+    "example": "Yardeni expects a 50 basis point hike, meaning a 0.50% increase."
+   },
+   {
+    "term": "CapEx",
+    "definition": "Capital expenditure; money a company spends to buy, maintain, or improve its fixed assets.",
+    "example": "Companies are expected to spend trillions in CapEx on AI infrastructure."
+   },
+   {
+    "term": "Credit spread",
+    "definition": "The difference in yield between two bonds of similar maturity but different credit quality.",
+    "example": "There is a 140 basis point spread between high-quality issuers and riskier ones."
+   },
+   {
+    "term": "Frontier model",
+    "definition": "A highly capable, large-scale artificial intelligence model that pushes the boundaries of current technology.",
+    "example": "Anthropic is positioned as a developer of frontier models."
+   },
+   {
+    "term": "Midstream",
+    "definition": "The segment of the energy industry focused on the transportation and storage of oil and gas.",
+    "example": "MassMutual sees investment opportunities in the midstream space."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "interest rates",
+   "economic outlook",
+   "corporate credit"
+  ],
+  "quality_note": "The source features professional analysts and economists providing data-backed insights alongside speculative commentary on corporate governance and market trends.",
+  "worth_reading": true
+ }
+}

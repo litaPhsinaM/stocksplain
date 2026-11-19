@@ -1,0 +1,110 @@
+{
+ "id": "bloomberg-surveillance-de649861c4",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 18th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-18th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/29cb112d-05c5-4a11-96b7-b506011cd3ff/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-18",
+ "duration": 1212,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia earnings and post-Jensen outlook",
+   "Toyota and Subaru EV sales growth",
+   "US-China chip export restrictions",
+   "Fed policy and market liquidity outlook"
+  ],
+  "headline": "Nvidia earnings beat; Fed policy and US-China chip tensions loom",
+  "tldr": "Nvidia reported strong earnings but faces uncertainty regarding leadership changes and export restrictions. Meanwhile, the Federal Reserve's hawkish stance on interest rates is creating market volatility as investors weigh potential economic slowing against continued growth.",
+  "key_points": [
+   {
+    "point": "Nvidia increased its 2028 growth guidance to 75% despite impending export restrictions.",
+    "why_it_matters": "The company is attempting to reassure investors of its demand strength even as it loses access to key markets like China."
+   },
+   {
+    "point": "Toyota and Subaru EV sales reached nearly 62,000 units in the first three quarters of 2026, more than doubling year-over-year.",
+    "why_it_matters": "These brands are gaining market share while other automakers scale back production and scrap electric vehicle models."
+   },
+   {
+    "point": "The US Commerce Department passed new regulations restricting remote access to chips for Chinese companies.",
+    "why_it_matters": "This escalates trade tensions, with China threatening potential countermeasures ahead of upcoming diplomatic summits."
+   },
+   {
+    "point": "Emily Roland (John Hancock) notes a collision between a tech-driven earnings boom and a hawkish Fed reducing market liquidity.",
+    "why_it_matters": "This dynamic creates downside volatility, leading some to favor quality value stocks, healthcare, and bonds over pure AI growth plays."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "75%",
+    "context": "Nvidia's increased growth forecast for 2028, up from 70%."
+   },
+   {
+    "figure": "62,000",
+    "context": "Combined EV sales for Toyota and Subaru in the US through the first three quarters of 2026."
+   },
+   {
+    "figure": "336 bps",
+    "context": "The current spread of high-yield bonds over Treasuries, indicating credit markets remain relatively contained."
+   }
+  ],
+  "lesson": "When a central bank tightens monetary policy (raises rates) during a period of fiscal stimulus, it can create a 'fiscal sugar rush' followed by a slowdown, as the economy struggles to sustain growth without the initial liquidity boost.",
+  "opinions_and_predictions": [
+   "Angela Zinho (CFRA) believes competition is a bigger threat to Nvidia than regulation in the long term.",
+   "Wendy Cutler (former acting Deputy US Trade Representative) expects both the US and China to try to downplay chip restrictions during upcoming summits.",
+   "Emily Roland (John Hancock) predicts a 'short and sweet' hiking cycle from the Fed, followed by rate cuts in 2027.",
+   "Emily Roland (John Hancock) anticipates a non-recessionary correction, describing the current environment as 'slowing, but still growing'."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Toyota (TM)",
+   "Subaru",
+   "Ford (F)",
+   "General Motors (GM)",
+   "Rivian (RIVN)",
+   "AMD (AMD)",
+   "Broadcom (AVGO)",
+   "Anthropic"
+  ],
+  "glossary": [
+   {
+    "term": "Hawkish",
+    "definition": "A preference for higher interest rates to keep inflation low.",
+    "example": "The Fed is being hawkish by considering rate hikes to cool the economy."
+   },
+   {
+    "term": "Liquidity",
+    "definition": "The availability of cash or assets that can be easily converted to cash in the financial system.",
+    "example": "The Fed is reducing market liquidity by raising rates."
+   },
+   {
+    "term": "CAPEX",
+    "definition": "Capital expenditure; money a company spends to acquire or maintain physical assets like buildings or technology.",
+    "example": "Hyperscalers are slowing their CAPEX spend on AI infrastructure."
+   },
+   {
+    "term": "Basis points (bps)",
+    "definition": "A unit of measure equal to one-hundredth of a percentage point.",
+    "example": "A 50 basis point hike is a 0.5% increase in interest rates."
+   },
+   {
+    "term": "Hyperscalers",
+    "definition": "Large companies that provide cloud computing services at a massive scale.",
+    "example": "Hyperscalers are the primary customers for Nvidia's high-end chips."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "interest rates",
+   "geopolitics",
+   "ev market"
+  ],
+  "quality_note": "The source features professional analysts and trade experts providing market commentary, though some predictions about Fed policy and trade outcomes remain speculative.",
+  "worth_reading": true
+ }
+}

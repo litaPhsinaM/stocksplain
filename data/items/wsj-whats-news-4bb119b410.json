@@ -1,0 +1,116 @@
+{
+ "id": "wsj-whats-news-4bb119b410",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Nvidia Moves On From Jensen Huang",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4d53664c-5060-4969-9a25-aabbb7b5039e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4d53664c-5060-4969-9a25-aabbb7b5039e&feed=BA5QWI2p",
+ "published": "2026-11-18",
+ "duration": 824,
+ "digest_date": "2026-11-19",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia earnings and leadership transition",
+   "US-China-Russia nuclear arms summit",
+   "Middle East military escalation",
+   "Alaska Senate race results",
+   "FDA nomination withdrawal",
+   "Waymo robotaxi freeway ban"
+  ],
+  "headline": "Nvidia beats earnings expectations; Trump meets Xi and Putin on nuclear arms",
+  "tldr": "Nvidia reported strong financial results and raised guidance despite a leadership change, signaling robust demand for AI chips. Meanwhile, President Trump is in China for a trilateral summit with Xi Jinping and Vladimir Putin to discuss nuclear arms control.",
+  "key_points": [
+   {
+    "point": "Nvidia reported $115 billion in quarterly revenue, exceeding analyst expectations of 109 billion.",
+    "why_it_matters": "Strong performance suggests the company's AI-driven growth remains resilient even during a transition away from founder Jensen Huang."
+   },
+   {
+    "point": "Nvidia plans to stop selling hopper chips into China, citing a focus on high-demand markets elsewhere.",
+    "why_it_matters": "This marks a significant shift in strategy, moving away from the previous argument that selling to China maintained US technological leverage."
+   },
+   {
+    "point": "President Trump is meeting with Xi Jinping and Vladimir Putin to discuss a potential three-way nuclear arms control agreement.",
+    "why_it_matters": "The meeting highlights China's growing nuclear arsenal and its desire to be recognized as a peer power on the global stage."
+   },
+   {
+    "point": "Democrats flipped a Senate seat in Alaska, expanding their incoming majority to 56 seats.",
+    "why_it_matters": "This result represents the largest number of Senate seats flipped by Democrats since 1958, impacting the legislative landscape."
+   },
+   {
+    "point": "Waymo suspended robotaxi operations on US freeways following a California state ban after safety incidents.",
+    "why_it_matters": "Regulatory scrutiny and safety concerns remain significant hurdles for the widespread adoption of autonomous vehicle technology."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$115 billion",
+    "context": "Nvidia's revenue for the last quarter, which beat analyst expectations."
+   },
+   {
+    "figure": "75%",
+    "context": "Nvidia's raised growth guidance for the next fiscal year."
+   },
+   {
+    "figure": ">600",
+    "context": "The number of nuclear warheads currently in China's arsenal."
+   },
+   {
+    "figure": "56",
+    "context": "The total number of Senate seats held by Democrats following the Alaska victory."
+   }
+  ],
+  "lesson": "When a company demonstrates consistent financial outperformance, it often signals strong underlying demand that can persist even through leadership changes or geopolitical shifts.",
+  "opinions_and_predictions": [
+   "Kathleen Brooks (XTB) believes Nvidia has a track record of underplaying forecasts and overdelivering on actual results.",
+   "Kathleen Brooks (XTB) expects Nvidia to continue pivoting toward high-quality, cash-generating hyperscaler partners.",
+   "Kathleen Brooks (XTB) views the board's assertive response to Jensen Huang's statements as a sign of strengthened corporate governance.",
+   "Josh Chin (WSJ) notes that most experts do not expect any hard commitments to emerge from the nuclear arms summit.",
+   "Josh Chin (WSJ) suggests Beijing values the summit primarily as a symbol of China's arrival as a peer power to the US."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Alphabet (GOOGL)",
+   "Amazon (AMZN)",
+   "Meta (META)"
+  ],
+  "glossary": [
+   {
+    "term": "Hyperscalers",
+    "definition": "Large companies that provide massive cloud computing and data storage services.",
+    "example": "Google, Amazon, and Meta are cited as hyperscalers partnering with Nvidia."
+   },
+   {
+    "term": "Agentic AI",
+    "definition": "AI systems capable of performing tasks and making decisions autonomously to achieve a goal.",
+    "example": "Colette Kress noted high demand for agentic AI products as a priority for Nvidia."
+   },
+   {
+    "term": "Hopper",
+    "definition": "A specific architecture of high-performance graphics processing units (GPUs) designed by Nvidia for AI workloads.",
+    "example": "Nvidia is stopping the sale of hopper chips into China."
+   },
+   {
+    "term": "Free cash flow",
+    "definition": "The cash a company generates after accounting for cash outflows to support operations and maintain capital assets.",
+    "example": "Kathleen Brooks highlighted Nvidia's $43 billion in free cash flow as evidence of robust financial health."
+   },
+   {
+    "term": "Corporate governance",
+    "definition": "The system of rules, practices, and processes by which a firm is directed and controlled.",
+    "example": "The appointment of a board chairman at Nvidia was cited as an improvement in corporate governance."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "geopolitics",
+   "us politics",
+   "autonomous vehicles"
+  ],
+  "quality_note": "The source features a mix of market analysis from a research director and reporting on political events, with claims supported by company earnings data and official election results.",
+  "worth_reading": true
+ }
+}
