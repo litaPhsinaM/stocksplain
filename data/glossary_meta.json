@@ -38,6 +38,9 @@
  "arr": {
   "topic": "companies"
  },
+ "article 5": {
+  "topic": "policy"
+ },
  "ask": {
   "topic": "trading"
  },
@@ -58,6 +61,9 @@
  },
  "balance sheet": {
   "topic": "companies"
+ },
+ "balloon payment": {
+  "topic": "banking"
  },
  "basis point": {
   "topic": "bonds"
@@ -115,6 +121,9 @@
  "capital gain": {
   "topic": "personal"
  },
+ "capitulation": {
+  "topic": "trading"
+ },
  "career and technical education": {
   "topic": "other"
  },
@@ -148,6 +157,9 @@
  "common ownership": {
   "topic": "stocks"
  },
+ "comparable sales": {
+  "topic": "companies"
+ },
  "comparable store sales": {
   "topic": "companies"
  },
@@ -162,6 +174,9 @@
  },
  "concentration risk": {
   "topic": "stocks"
+ },
+ "constant currency": {
+  "topic": "companies"
  },
  "consumer price index (cpi)": {
   "topic": "economy"
@@ -230,6 +245,9 @@
  },
  "defensive briefing": {
   "topic": "other"
+ },
+ "derisking": {
+  "topic": "trading"
  },
  "diversification": {
   "topic": "stocks"
@@ -309,11 +327,17 @@
  "fertility rate": {
   "topic": "other"
  },
+ "fiduciary duty": {
+  "topic": "personal"
+ },
  "fiduciary responsibility": {
   "topic": "personal"
  },
  "final-mile delivery": {
   "topic": "energy"
+ },
+ "fix and flip loan": {
+  "topic": "banking"
  },
  "flat structure": {
   "topic": "companies"
@@ -499,6 +523,9 @@
  "ipo (initial public offering)": {
   "topic": "stocks"
  },
+ "jevons paradox": {
+  "topic": "economy"
+ },
  "junk status": {
   "topic": "bonds"
  },
@@ -646,6 +673,9 @@
  "nominal growth": {
   "topic": "economy"
  },
+ "open source": {
+  "topic": "tech"
+ },
  "operating losses": {
   "topic": "companies"
  },
@@ -685,6 +715,9 @@
  },
  "pension": {
   "topic": "personal"
+ },
+ "permitting process": {
+  "topic": "policy"
  },
  "pestel": {
   "topic": "companies"
@@ -730,6 +763,9 @@
  },
  "prospectus": {
   "topic": "stocks"
+ },
+ "public benefit corporation": {
+  "topic": "companies"
  },
  "public benefit corporation (pbc)": {
   "topic": "companies"
@@ -827,6 +863,9 @@
  },
  "sectoral bargaining": {
   "topic": "policy"
+ },
+ "secular": {
+  "topic": "economy"
  },
  "securitization": {
   "topic": "banking"

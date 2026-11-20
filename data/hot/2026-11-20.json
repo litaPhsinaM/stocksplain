@@ -1,0 +1,386 @@
+{
+ "date": "2026-11-20",
+ "topics": [
+  {
+   "title": "Anthropic shares slide following record-breaking IPO",
+   "explanation": "After a historic initial public offering, Anthropic's shares have slumped as investors pull back from the broader artificial intelligence sector. The decline has weighed on global tech stocks, with analysts noting that the company's performance is being viewed as a potential tipping point for the AI trade.",
+   "why_it_matters": "As a high-profile AI company, Anthropic's market performance is influencing investor sentiment across the entire technology sector, which has recently seen a significant sell-off.",
+   "tickers": [],
+   "beat": "markets",
+   "headline_ids": [
+    "hbac43362",
+    "h7abcb9e6",
+    "h90a7bf9e",
+    "hfd281161",
+    "h63849d30"
+   ]
+  },
+  {
+   "title": "Rockstar Games' GTA VI sets entertainment sales record",
+   "explanation": "Rockstar Games' latest title, GTA VI, generated $3.79 billion in its first day of sales, marking the largest entertainment launch in history. The game's release has also spurred a wider content economy, with high demand for livestreams and social media clips.",
+   "why_it_matters": "The massive commercial success of a single video game highlights the significant economic impact of major entertainment releases on the broader media and tech landscape.",
+   "tickers": [],
+   "beat": "tech",
+   "headline_ids": [
+    "h4b3f595f",
+    "h1846bb22",
+    "h819d3bab",
+    "h148dd4b9",
+    "hf164454e"
+   ]
+  },
+  {
+   "title": "Trump threatens taxes on companies building data centers abroad",
+   "explanation": "President Trump has vowed to impose a 'tremendous tax' on U.S. companies that construct data centers in foreign countries. This move comes as the administration faces pressure to manage the domestic energy and infrastructure demands of the AI boom.",
+   "why_it_matters": "This policy threat creates regulatory uncertainty for major tech firms that rely on global data center infrastructure to support their AI operations.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "hc98aafca",
+    "h3a0cb236",
+    "h3505a492",
+    "he84def67"
+   ]
+  },
+  {
+   "title": "Nvidia faces ongoing scrutiny and market volatility",
+   "explanation": "Nvidia is experiencing a prolonged stock decline amid investigations into its former CEO Jensen Huang's business dealings with China. The company is also facing legal scrutiny in California regarding past management practices and export control compliance.",
+   "why_it_matters": "As a central player in the AI hardware market, Nvidia's leadership crisis and regulatory challenges are creating significant headwinds for the company and its investors.",
+   "tickers": [
+    "NVDA"
+   ],
+   "beat": "markets",
+   "headline_ids": [
+    "h62d012cb",
+    "h29f5330a",
+    "hdc970c88",
+    "hb9618c60",
+    "h85c8a58c"
+   ]
+  },
+  {
+   "title": "Global central banks weigh AI impact on interest rates",
+   "explanation": "International financial leaders, including the IMF and ECB officials, are warning that the surge in AI-related infrastructure demand may force central banks to maintain higher interest rates to manage inflationary pressures. Policymakers are increasingly focused on the economic consequences of the rapid tech rollout.",
+   "why_it_matters": "Higher interest rates generally increase borrowing costs for businesses and consumers, which can dampen economic growth and impact stock market valuations.",
+   "tickers": [],
+   "beat": "economy",
+   "headline_ids": [
+    "h0b5fe1b0",
+    "h50a5a499",
+    "hfb577f36"
+   ]
+  }
+ ],
+ "headlines": {
+  "h4b3f595f": {
+   "id": "h4b3f595f",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+   "blurb": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of\u2026",
+   "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+   "published": "2026-11-20T19:35"
+  },
+  "h1846bb22": {
+   "id": "h1846bb22",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "\u2018Grand Theft Auto VI\u2019 Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
+   "blurb": "The best-reviewed game ever is also the fastest-selling",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever",
+   "published": "2026-11-20T19:25"
+  },
+  "h0b5fe1b0": {
+   "id": "h0b5fe1b0",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "ECB Must Bring Inflation Back to 2%, France\u2019s Moulin Says",
+   "blurb": "European Central Bank Governing Council member Emmanuel Moulin said policymakers still have work to do to restore price stability.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-must-bring-inflation-back-to-2-france-s-moulin-says",
+   "published": "2026-11-20T18:53"
+  },
+  "hbac43362": {
+   "id": "hbac43362",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
+   "blurb": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+   "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+   "published": "2026-11-20T18:38"
+  },
+  "h7abcb9e6": {
+   "id": "h7abcb9e6",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+   "blurb": "Other tech companies have also taken a hit as share markets broadly slump.",
+   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-20T17:36"
+  },
+  "h62d012cb": {
+   "id": "h62d012cb",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+   "blurb": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+   "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+   "published": "2026-11-20T19:27"
+  },
+  "hc98aafca": {
+   "id": "hc98aafca",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Trump Threatens to Tax Firms Building Data Centers Abroad",
+   "blurb": "President Trump vowed to tax American companies that build data centers in other countries, though he didn\u2019t detail exactly how such a threat would be carried out and what legal authority the government might have to impose one. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-floats-tax-on-firms-building-data-centers-abroad-video",
+   "published": "2026-11-20T19:09"
+  },
+  "h90a7bf9e": {
+   "id": "h90a7bf9e",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Anthropic stock falls 12% in first full day of trading amid AI sell-off",
+   "blurb": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
+   "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+   "published": "2026-11-20T18:32"
+  },
+  "hfd281161": {
+   "id": "hfd281161",
+   "source": "The Guardian Business",
+   "beat": "world",
+   "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+   "blurb": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic\u2019s seven co-founders, now worth $180bn? Anthropic\u2019s shares fell at the start of its second day of trading, as its\u2026",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "published": "2026-11-20T16:26"
+  },
+  "h3a0cb236": {
+   "id": "h3a0cb236",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+   "blurb": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data\u2026",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "published": "2026-11-20T18:50"
+  },
+  "hdc970c88": {
+   "id": "hdc970c88",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Nvidia's 7-week losing streak is longest since 2008 financial crisis",
+   "blurb": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
+   "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+   "published": "2026-11-20T19:26"
+  },
+  "h63849d30": {
+   "id": "h63849d30",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates",
+   "blurb": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "published": "2026-11-20T19:25"
+  },
+  "hb9618c60": {
+   "id": "hb9618c60",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Nvidia\u2019s stock heads for a stretch of weekly losses not seen since 2008",
+   "blurb": "One fund manager says the continued uncertainty makes Nvidia \u201cvulnerable\u201d to more selling, even as the company has erased over $900 billion in market value in the past seven days.",
+   "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+   "published": "2026-11-20T19:04"
+  },
+  "he84def67": {
+   "id": "he84def67",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Trump is trying to stop Big Tech\u2019s push to build data centers outside the U.S.",
+   "blurb": "The companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.",
+   "url": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
+   "published": "2026-11-20T18:57"
+  },
+  "h819d3bab": {
+   "id": "h819d3bab",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+   "blurb": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-20T13:08"
+  },
+  "h29f5330a": {
+   "id": "h29f5330a",
+   "source": "CNBC Politics",
+   "beat": "policy",
+   "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+   "blurb": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+   "published": "2026-11-19T23:21"
+  },
+  "h3505a492": {
+   "id": "h3505a492",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+   "blurb": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+   "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+   "published": "2026-11-20T19:15"
+  },
+  "h148dd4b9": {
+   "id": "h148dd4b9",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "GTA VI Earns Near-Perfect Reviews in Record Launch",
+   "blurb": "Grand Theft Auto VI has finally arrived \u2014 and Bloomberg\u2019s Jason Schreier calls it a \u201cmasterpiece\u201d after spending more than 45 hours with the game. He discusses the extraordinary detail and scale of Rockstar\u2019s latest blockbuster, the record demand surrounding its launch and how\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-20/gta-vi-earns-near-perfect-reviews-in-record-launch-video",
+   "published": "2026-11-20T18:39"
+  },
+  "h50a5a499": {
+   "id": "h50a5a499",
+   "source": "The Guardian Business",
+   "beat": "world",
+   "title": "AI demand will push up interest rates around the world, IMF head warns",
+   "blurb": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: \u2018You snooze, you lose\u2019 Business live \u2013 latest updates Booming demand for artificial intelligence will force the world\u2019s most powerful central banks to raise interest rates, the head of the\u2026",
+   "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+   "published": "2026-11-19T15:15"
+  },
+  "h85c8a58c": {
+   "id": "h85c8a58c",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "California AG subpoenas Nvidia over worries about Huang\u2019s ties with China",
+   "blurb": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+   "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+   "published": "2026-11-20T13:21"
+  },
+  "hfb577f36": {
+   "id": "hfb577f36",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says",
+   "blurb": "The European Central Bank should lift interest rates next month into a range where they begin to constrain the economy, according to Governing Council member Joachim Nagel.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-needs-december-rate-hike-into-restrictive-zone-nagel-says",
+   "published": "2026-11-20T13:56"
+  },
+  "hf164454e": {
+   "id": "hf164454e",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "\u2018More than just a game\u2019: How GTA VI\u2019s blockbuster launch fuels a booming content economy",
+   "blurb": "GTA VI\u2019s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
+   "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+   "published": "2026-11-20T07:08"
+  }
+ },
+ "latest": [
+  {
+   "id": "h4b3f595f",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+   "blurb": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of\u2026",
+   "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+   "published": "2026-11-20T19:35"
+  },
+  {
+   "id": "he666e121",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "A massive bearish trade just happened in the chip stocks",
+   "blurb": "Options traders place big bets that semiconductor stocks have further to fall",
+   "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+   "published": "2026-11-20T19:33"
+  },
+  {
+   "id": "hca0b6701",
+   "source": "CNBC Markets",
+   "beat": "markets",
+   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+   "blurb": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+   "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+   "published": "2026-11-20T19:32"
+  },
+  {
+   "id": "hd6bff584",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis \u2014 and a human did, too",
+   "blurb": "Mathematicians are having their minds blown by the latest AI-driven result\u2014and there's a competing human solution, too.",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "published": "2026-11-20T19:32"
+  },
+  {
+   "id": "h62d012cb",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+   "blurb": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+   "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+   "published": "2026-11-20T19:27"
+  },
+  {
+   "id": "hdc970c88",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Nvidia's 7-week losing streak is longest since 2008 financial crisis",
+   "blurb": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
+   "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+   "published": "2026-11-20T19:26"
+  },
+  {
+   "id": "h63849d30",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates",
+   "blurb": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "published": "2026-11-20T19:25"
+  },
+  {
+   "id": "h1846bb22",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "\u2018Grand Theft Auto VI\u2019 Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
+   "blurb": "The best-reviewed game ever is also the fastest-selling",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever",
+   "published": "2026-11-20T19:25"
+  },
+  {
+   "id": "h252efca4",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Trump Backs Lutnick After Senator\u2019s Criticism of Chip Smuggling",
+   "blurb": "President Donald Trump defended Commerce Secretary Howard Lutnick\u2019s role at the center of a scandal involving AI chips smuggled to China.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-backs-lutnick-after-senator-s-criticism-of-chip-smuggling",
+   "published": "2026-11-20T19:24"
+  },
+  {
+   "id": "hc0da7ec0",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+   "blurb": "Nvidia is now the fourth most valuable U.S. company, behind Apple, Microsoft and Alphabet.",
+   "url": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
+   "published": "2026-11-20T19:23"
+  },
+  {
+   "id": "h7bbdc82b",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "The Fed is too busy fighting inflation to rescue the stock market",
+   "blurb": "Federal Reserve officials will continue to raise interest rates, despite the recent selloff in the stock market, as equity-market gains over the past four years dwarf the recent declines, economists said Friday.",
+   "url": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
+   "published": "2026-11-20T19:22"
+  },
+  {
+   "id": "hb67979ac",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Kalshi\u2019s Novel Treasury Perps Hit Delays as Other Bets Expand",
+   "blurb": "",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/kalshi-s-novel-treasury-perps-hit-delays-as-other-bets-expand",
+   "published": "2026-11-20T19:21"
+  }
+ ],
+ "feeds": 27,
+ "scanned": 265
+}

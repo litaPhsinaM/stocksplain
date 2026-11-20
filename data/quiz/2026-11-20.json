@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-20",
+ "questions": [
+  {
+   "question": "What does it mean for a company like Anthropic to operate as a public benefit corporation?",
+   "options": [
+    "It is a non-profit organization funded purely by public donations and government grants.",
+    "It is a for-profit company legally structured to pursue positive societal impacts alongside profit goals.",
+    "It is owned and operated by the government to ensure public safety over corporate profits.",
+    "It is legally required to make all of its products and software completely free and open to the public."
+   ],
+   "answer": 1,
+   "explanation": "A public benefit corporation is a for-profit entity chartered to balance societal goals with financial returns for shareholders. As highlighted in Anthropic's debut, this corporate structure allows management to formally prioritize missions like AI safety alongside profitability.",
+   "item_id": "squawk-pod-a3dacdd26d"
+  },
+  {
+   "question": "In today's real estate report, what does the 21.6% figure represent?",
+   "options": [
+    "The nationwide median gross profit margin for home flips, reaching a low not seen since the 2008 financial crisis.",
+    "The average annual interest rate charged on short-term fix-and-flip real estate loans.",
+    "The percentage of all single-family homes sold across the United States that were purchased by flippers.",
+    "The drop in total new home construction starts caused by higher mortgage interest rates."
+   ],
+   "answer": 0,
+   "explanation": "The 21.6% median gross profit margin shows how home-flipping returns have compressed due to high borrowing costs and stagnant home prices. As discussed in the story, short-term real estate investment models become highly vulnerable when interest rates rise and property turnover slows.",
+   "item_id": "wsj-whats-news-6260ad7ea8"
+  },
+  {
+   "question": "Why does Walmart's ability to grow overall revenue despite falling physical store sales matter to retail investors?",
+   "options": [
+    "It proves that closing physical stores automatically reduces corporate tax liabilities.",
+    "It signals that big-box physical retail stores will be completely phased out within the next year.",
+    "It demonstrates how traditional retailers can sustain growth by pivoting to digital e-commerce and high-margin services.",
+    "It indicates that high-income consumers have stopped purchasing groceries and everyday goods entirely."
+   ],
+   "answer": 2,
+   "explanation": "Walmart's results show that large retailers can protect overall top-line growth by monetizing digital channels and high-margin services even when physical foot traffic cools. Today's story highlights how business model diversification helps companies adapt to changing consumer shopping habits.",
+   "item_id": "wsj-whats-news-8d65e0ffc9"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "id": "bloomberg-surveillance-2f5cd1c318",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 20th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-20th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/9b9f9f21-a2a7-48c3-93ef-b508011ca359/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-20",
+ "duration": 1562,
+ "digest_date": "2026-11-20",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Market sell-off and chip sector paranoia",
+   "Derisking and institutional strategy",
+   "AI security threats and patching",
+   "Chip export controls to China",
+   "Anthropic IPO and AI policy"
+  ],
+  "headline": "Tech stocks slide on China chip export scrutiny; market faces broad derisking",
+  "tldr": "Markets are experiencing a broad-based sell-off driven by uncertainty surrounding chip export regulations to China and rising AI security threats. Institutional investors are currently prioritizing companies with strong balance sheets and free cash flow as they navigate this volatile environment.",
+  "key_points": [
+   {
+    "point": "The market is currently in a state of 'derisking' where investors are selling assets due to a combination of political, security, and economic concerns.",
+    "why_it_matters": "Understanding that current price moves are driven by fear rather than fundamental changes helps distinguish between temporary panic and long-term value."
+   },
+   {
+    "point": "Ted Morteson (Barry) notes that institutional investors are shifting focus toward companies with high free cash flow, such as Nvidia and Micron.",
+    "why_it_matters": "In times of market stress, companies with strong cash positions are often viewed as safer havens than those relying on external capital."
+   },
+   {
+    "point": "Cybersecurity threats are rising, with attacks up year over year, necessitating a shift toward AI-specific security platforms.",
+    "why_it_matters": "This shift in corporate spending priorities may reduce investment in other areas of IT, impacting the broader tech sector."
+   },
+   {
+    "point": "Congressional scrutiny is mounting over approved chip sales to Chinese firms, including those with alleged military ties.",
+    "why_it_matters": "Increased regulatory pressure on chip exports creates uncertainty for major semiconductor companies and their future revenue streams."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-6%",
+    "context": "The decline in AMD shares during pre-market trading."
+   },
+   {
+    "figure": "-7%",
+    "context": "The decline in Anthropic shares during pre-market trading."
+   },
+   {
+    "figure": "$43B",
+    "context": "The amount of free cash flow reported by Nvidia."
+   },
+   {
+    "figure": "7x",
+    "context": "The increase in cybersecurity attacks year over year."
+   }
+  ],
+  "lesson": "During periods of broad market volatility, capital gravitates toward entities with high free cash flow and strong balance sheets, as these financial attributes provide a buffer against systemic uncertainty.",
+  "opinions_and_predictions": [
+   "Ted Morteson (Barry) believes the market has not yet reached 'capitulation' and remains in a state of panic.",
+   "Ted Morteson (Barry) predicts that increased spending on AI security will likely choke off other IT investments.",
+   "Jennifer Huddleston (Cato Institute) argues that the government should avoid taking equity stakes in young AI companies to prevent picking winners and losers."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "AMD (AMD)",
+   "Anthropic",
+   "Micron (MU)",
+   "Palo Alto Networks (PANW)",
+   "CrowdStrike (CRWD)",
+   "Cloudflare (NET)",
+   "SpaceX",
+   "ByteDance",
+   "BYD",
+   "Alibaba (BABA)",
+   "Tencent"
+  ],
+  "glossary": [
+   {
+    "term": "Derisking",
+    "definition": "The process of reducing exposure to assets perceived as risky, often by selling them to hold cash or safer investments.",
+    "example": "Investors are currently derisking by selling tech stocks amid uncertainty."
+   },
+   {
+    "term": "Capitulation",
+    "definition": "A point in a market decline where investors give up and sell their holdings in a panic, often marking a bottom.",
+    "example": "Ted Morteson noted that the market has not yet seen true capitulation."
+   },
+   {
+    "term": "Free cash flow",
+    "definition": "The cash a company generates after accounting for cash outflows to support operations and maintain its capital assets.",
+    "example": "Institutional investors are targeting companies like Nvidia that produce significant free cash flow."
+   },
+   {
+    "term": "Secular",
+    "definition": "Long-term trends that are not affected by short-term economic cycles.",
+    "example": "The data center explosion is considered a secular trend in technology."
+   },
+   {
+    "term": "Open source",
+    "definition": "Software or models where the underlying code is made available for anyone to inspect, modify, and enhance.",
+    "example": "Jennifer Huddleston discussed the potential for US open source AI models to compete globally."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "semiconductors",
+   "ai",
+   "geopolitics",
+   "market volatility"
+  ],
+  "quality_note": "The source features market analysts and policy experts providing commentary on current market volatility and regulatory issues; claims are a mix of market observation and policy analysis.",
+  "worth_reading": true
+ }
+}

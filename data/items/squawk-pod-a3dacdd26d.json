@@ -1,0 +1,112 @@
+{
+ "id": "squawk-pod-a3dacdd26d",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "Walmart\u2019s New CEO John Furner 11/20/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/d650c4e8-26f0-42d6-92aa-dc4e2af39783/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=d650c4e8-26f0-42d6-92aa-dc4e2af39783&feed=VHAcgaw_",
+ "published": "2026-11-20",
+ "duration": 2900,
+ "digest_date": "2026-11-20",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Anthropic IPO market debut",
+   "Market performance and AI sentiment",
+   "Walmart CEO on consumer trends"
+  ],
+  "headline": "Anthropic IPO debuts as seventh-largest US company; Walmart reports resilient consumer spending",
+  "tldr": "Anthropic completed a record-breaking IPO, closing as the seventh-largest US company despite a broader market pullback. Meanwhile, Walmart CEO John Furner reported consistent consumer spending across all income levels, highlighting the retailer's focus on value and digital growth.",
+  "key_points": [
+   {
+    "point": "Anthropic raised $81 billion in the largest IPO on record, closing with a fully diluted market cap of approximately $1.8 trillion.",
+    "why_it_matters": "The massive scale of this debut signals intense market interest in AI, though it also raises questions about the company's path to profitability."
+   },
+   {
+    "point": "Walmart CEO John Furner reported 4.5% sales growth in constant currency and noted that consumer spending remains resilient across all income groups.",
+    "why_it_matters": "Walmart's performance provides a critical benchmark for the health of the global consumer and the broader retail sector."
+   },
+   {
+    "point": "Anthropic operates as a public benefit corporation, which allows it to balance profit incentives with its stated mission of AI safety.",
+    "why_it_matters": "This governance structure may lead to slower product rollouts compared to competitors, potentially impacting shareholder returns."
+   },
+   {
+    "point": "Walmart is seeing a shift toward digital channels, with global e-commerce sales up 17% while in-store sales remain softer.",
+    "why_it_matters": "Retailers are increasingly forced to innovate and provide flexible shopping options to maintain growth in a changing consumer landscape."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$1.8T",
+    "context": "The fully diluted market capitalization of Anthropic following its IPO."
+   },
+   {
+    "figure": "4.5%",
+    "context": "Walmart's sales growth in constant currency for the reported quarter."
+   },
+   {
+    "figure": "17%",
+    "context": "The growth rate of Walmart's global e-commerce sales."
+   },
+   {
+    "figure": "-5.1%",
+    "context": "The decline of the S&P 500 for the week."
+   }
+  ],
+  "lesson": "When a company adopts a public benefit structure, it creates a formal trade-off between profit maximization and other goals, which can lead to different operational speeds and risk profiles compared to traditional corporations.",
+  "opinions_and_predictions": [
+   "A guest (CNBC) predicts Anthropic will be a market performer and sets a 12-month price target of $110.",
+   "Leslie Picker (CNBC) notes that mid-December is a key date to watch for potential Nasdaq 100 fast entry and the expiration of share lockups for Anthropic.",
+   "A guest (CNBC) suggests that if the AI trade does not firm up, investors may eventually have the opportunity to buy Anthropic shares below the IPO price."
+  ],
+  "tickers": [
+   "Anthropic",
+   "Walmart (WMT)",
+   "Berkshire Hathaway (BRK.A)",
+   "Eli Lilly (LLY)",
+   "Meta (META)",
+   "Tesla (TSLA)",
+   "AMD (AMD)",
+   "Goldman Sachs (GS)",
+   "Morgan Stanley (MS)"
+  ],
+  "glossary": [
+   {
+    "term": "IPO",
+    "definition": "Initial Public Offering; the first time a private company sells shares to the public on a stock exchange.",
+    "example": "Anthropic's debut was the largest IPO on record."
+   },
+   {
+    "term": "Market Cap",
+    "definition": "The total dollar market value of a company's outstanding shares of stock.",
+    "example": "Anthropic closed with a market cap of $1.8 trillion."
+   },
+   {
+    "term": "Public Benefit Corporation",
+    "definition": "A for-profit corporate entity that includes a positive impact on society or the environment in its charter, alongside profit goals.",
+    "example": "Anthropic's governance structure allows it to prioritize AI safety over pure profit maximization."
+   },
+   {
+    "term": "Fiduciary Duty",
+    "definition": "The legal obligation of a party to act in the best interest of another party, typically shareholders in a corporate context.",
+    "example": "The public benefit structure changes the dynamic of Anthropic's fiduciary duty."
+   },
+   {
+    "term": "Constant Currency",
+    "definition": "A financial metric that excludes the effects of foreign exchange rate fluctuations to show true operational growth.",
+    "example": "Walmart reported 4.5% growth in constant currency."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ipo",
+   "ai",
+   "retail",
+   "consumer spending"
+  ],
+  "quality_note": "The source features CNBC journalists and a corporate executive; market data is reported, while analysis of AI governance and future stock performance is speculative.",
+  "worth_reading": true
+ }
+}

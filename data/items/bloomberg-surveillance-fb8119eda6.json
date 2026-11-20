@@ -1,0 +1,104 @@
+{
+ "id": "bloomberg-surveillance-fb8119eda6",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "AI and the Equity Selloff",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/ai-and-the-equity-selloff",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/731fc648-3065-4c86-8757-b50800f2ebd9/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-20",
+ "duration": 2664,
+ "digest_date": "2026-11-20",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "AI market frenzy and long-term uncertainty",
+   "Factors driving current tech market selloff",
+   "Debate on open source versus frontier models",
+   "Asset managers buying despite market volatility",
+   "Nvidia leadership and board challenges"
+  ],
+  "headline": "AI market momentum stalls; experts debate open source impact",
+  "tldr": "Market participants are grappling with uncertainty surrounding AI as tech stocks face a selloff driven by security concerns and regulatory pressure. While some analysts see the current volatility as a buying opportunity, others warn of peak earnings and the disruptive potential of open-source models.",
+  "key_points": [
+   {
+    "point": "Ted Mortenson (Baird) notes the market is facing pressure from Fed chatter about a 50 basis point increase, security issues, and regulatory scrutiny of Nvidia.",
+    "why_it_matters": "These macroeconomic and regulatory headwinds are causing institutional investors to derisk their portfolios."
+   },
+   {
+    "point": "Jean Munster (Deepwater Asset Management) argues that declining token prices do not necessarily signal profitless prosperity due to the Jevons paradox, where lower costs drive higher usage.",
+    "why_it_matters": "Understanding this dynamic helps distinguish between commoditization risks and potential long-term growth in AI revenue."
+   },
+   {
+    "point": "Nikesh Aurora (Palo Alto Networks) reports that approximately 60% of his client base is adopting open-source models.",
+    "why_it_matters": "The rise of open-source alternatives creates a competitive headwind for proprietary frontier models."
+   },
+   {
+    "point": "Jean Munster believes we are only about one-third of the way through the value creation cycle for AI, with adoption still under 1%.",
+    "why_it_matters": "This perspective provides a counter-narrative to the current market pessimism, suggesting long-term upside remains."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "50 basis point",
+    "context": "The potential interest rate increase being discussed by the Federal Reserve."
+   },
+   {
+    "figure": "60%",
+    "context": "The portion of Palo Alto Networks' client base reportedly adopting open-source models."
+   },
+   {
+    "figure": "80%",
+    "context": "The estimated functionality of open-source models compared to proprietary ones."
+   },
+   {
+    "figure": "1%",
+    "context": "The estimated current adoption rate of AI technology."
+   }
+  ],
+  "lesson": "When a new technology experiences explosive growth, market participants often struggle to distinguish between temporary hype and long-term value, leading to volatility as they debate whether proprietary systems or open-source alternatives will capture the majority of the economic benefit.",
+  "opinions_and_predictions": [
+   "Jean Munster (Deepwater Asset Management) believes the AI trade is still in its early stages and currently represents a buying opportunity.",
+   "Ted Mortenson (Baird) predicts that Nvidia's board will face attacks from activist investors and that the company needs to bring in a new visionary leader.",
+   "Ted Mortenson (Baird) thinks the street is concerned about peak earnings and peak multiples that need to be reset."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Anthropic",
+   "Palo Alto Networks (PANW)",
+   "Palantir (PLTR)"
+  ],
+  "glossary": [
+   {
+    "term": "Jevons paradox",
+    "definition": "A phenomenon where technological progress increases the efficiency with which a resource is used, but the rate of consumption of that resource rises rather than falls.",
+    "example": "As AI token prices drop, usage increases, potentially offsetting the lower price per unit."
+   },
+   {
+    "term": "Frontier models",
+    "definition": "Highly capable, proprietary AI models that represent the current state-of-the-art in performance.",
+    "example": "Anthropic's Claude is described as a proprietary frontier model."
+   },
+   {
+    "term": "Open source",
+    "definition": "Software or models where the underlying code or architecture is made available for public use and modification.",
+    "example": "Community-driven AI models that offer an alternative to closed, proprietary systems."
+   },
+   {
+    "term": "Derisking",
+    "definition": "The process of reducing exposure to assets that are perceived as high-risk during periods of market uncertainty.",
+    "example": "Hedge funds and mutual funds selling off tech stocks to protect their portfolios."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "market volatility",
+   "tech sector",
+   "interest rates"
+  ],
+  "quality_note": "The source features two experienced asset managers discussing market sentiment and structural shifts in AI; their views are analytical but speculative regarding future market direction.",
+  "worth_reading": true
+ }
+}

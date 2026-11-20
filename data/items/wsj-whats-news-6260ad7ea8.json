@@ -1,0 +1,106 @@
+{
+ "id": "wsj-whats-news-6260ad7ea8",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "U.S. Floats NATO Membership for Ukraine",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/bf28a712-9e3b-4df3-92ba-865c2b72e9a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=bf28a712-9e3b-4df3-92ba-865c2b72e9a2&feed=BA5QWI2p",
+ "published": "2026-11-20",
+ "duration": 816,
+ "digest_date": "2026-11-20",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "U.S",
+   "California probes Nvidia over China ties",
+   "Senate passes energy permitting bill",
+   "White House cybersecurity chief resigns",
+   "Global tech stocks tumble",
+   "Amazon fights NYC delivery legislation",
+   "Home flipping profitability hits 2008 lows"
+  ],
+  "headline": "U.S. explores Ukraine peace deal; Nvidia faces probe over China ties",
+  "tldr": "U.S. envoys are discussing potential peace terms for Ukraine involving NATO membership or security guarantees in exchange for territory. Meanwhile, Nvidia is under investigation by California officials regarding its China operations, and home-flipping profitability has reached its lowest point since the 2008 financial crisis.",
+  "key_points": [
+   {
+    "point": "U.S. envoys are proposing Ukraine join NATO or receive Article 5-like security guarantees in exchange for ceding territory in the Donbass region to Russia.",
+    "why_it_matters": "This represents a significant shift in diplomatic strategy aimed at ending the war before the new Congress takes office."
+   },
+   {
+    "point": "California Attorney General Rob Bonta is investigating whether Nvidia misled investors regarding its relationship with a suspected Chinese spy and potential sharing of sensitive technology.",
+    "why_it_matters": "Regulatory scrutiny regarding corporate governance and national security risks can significantly impact a company's market valuation and legal standing."
+   },
+   {
+    "point": "The Senate passed a bill 62 to 33 to streamline energy project permitting by shortening environmental review periods.",
+    "why_it_matters": "The legislation aims to reduce consumer costs by accelerating infrastructure development, though it faces criticism for potentially weakening environmental protections."
+   },
+   {
+    "point": "Home-flipping gross profit margins fell to 21.6% nationwide, with some markets like San Antonio seeing median losses of 0.3%.",
+    "why_it_matters": "Rising mortgage rates, property taxes, and an oversupply of new homes have made the short-term real estate investment model increasingly difficult to sustain."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "62 to 33",
+    "context": "The Senate vote count to pass the bill streamlining energy permitting processes."
+   },
+   {
+    "figure": "21.6%",
+    "context": "The nationwide median gross profit for home flips in the second quarter of 2026."
+   },
+   {
+    "figure": "-0.3%",
+    "context": "The median gross profit on a home flip in San Antonio, representing a net loss."
+   },
+   {
+    "figure": "6%",
+    "context": "The percentage of all homes sold that were flips, the lowest level since 2021."
+   }
+  ],
+  "lesson": "When a business model relies on high-speed turnover and short-term debt, such as house flipping with interest-only loans, it becomes highly vulnerable to rising interest rates and market stagnation, which can quickly turn expected profits into losses.",
+  "opinions_and_predictions": [
+   "Boyan Panchevsky (WSJ) believes U.S. negotiators are in a hurry to establish a peace deal framework before the new Congress takes office.",
+   "Shelley Moore Capito (Senator) claims the energy bill threads a needle of support from diverse interest groups, including conservative policy groups and labor unions.",
+   "Zoran Mamdani (NYC Mayor) characterizes Amazon's $5 fee warning as corporate greed rather than a consequence of worker protection efforts."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "ASML (ASML)",
+   "Amazon (AMZN)",
+   "SoftBank"
+  ],
+  "glossary": [
+   {
+    "term": "Article 5",
+    "definition": "A mutual defense clause in the NATO treaty stating that an attack on one member is considered an attack on all.",
+    "example": "Ukraine is seeking Article 5-like guarantees to ensure protection from future Russian aggression."
+   },
+   {
+    "term": "Fix and flip loan",
+    "definition": "A short-term, high-interest loan used to purchase and renovate a property for quick resale.",
+    "example": "Many flippers use these loans, which often require a large balloon payment after six months."
+   },
+   {
+    "term": "Balloon payment",
+    "definition": "A large, lump-sum payment due at the end of a loan term after a period of smaller, interest-only payments.",
+    "example": "Flippers must sell their properties before the balloon payment is due to avoid refinancing."
+   },
+   {
+    "term": "Permitting process",
+    "definition": "The legal and administrative steps required to obtain government approval for construction or infrastructure projects.",
+    "example": "The Senate passed a bill to streamline this process for new energy projects."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "geopolitics",
+   "tech regulation",
+   "real estate",
+   "energy policy"
+  ],
+  "quality_note": "The report relies on primary sources, including interviews with journalists and government officials, though some diplomatic scenarios remain speculative.",
+  "worth_reading": true
+ }
+}

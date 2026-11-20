@@ -1,0 +1,93 @@
+{
+ "id": "wsj-whats-news-8d65e0ffc9",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "America\u2019s Biggest Retailers Say Shoppers Keep Spending",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4db4cf3e-b4cb-448a-913c-dcc92624b157/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4db4cf3e-b4cb-448a-913c-dcc92624b157&feed=BA5QWI2p",
+ "published": "2026-11-20",
+ "duration": 339,
+ "digest_date": "2026-11-20",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Walmart and Target earnings performance",
+   "Consumer spending trends and sentiment",
+   "Walmart's shift to digital and advertising",
+   "Target's sales recovery",
+   "Holiday shopping season outlook"
+  ],
+  "headline": "Walmart and Target raise annual guidance as consumer spending remains resilient",
+  "tldr": "Major retailers Walmart and Target reported strong quarterly results, signaling that American consumers are continuing to spend despite economic concerns. Both companies are successfully diversifying their revenue through digital growth and advertising, leading them to raise their financial outlooks for the year.",
+  "key_points": [
+   {
+    "point": "Target reported quarterly sales growth of more than 7%, its strongest performance in about 5 years.",
+    "why_it_matters": "This marks a significant turnaround for Target after three years of weak or falling sales, signaling a potential recovery in their retail strategy."
+   },
+   {
+    "point": "Walmart's total revenue grew more than 5% despite a decline in comparable sales at its physical US stores.",
+    "why_it_matters": "It demonstrates how large retailers can maintain growth by shifting focus toward e-commerce, membership fees, and high-margin advertising services."
+   },
+   {
+    "point": "Walmart's e-commerce sales now account for a significant portion of its total revenue.",
+    "why_it_matters": "This highlights a massive business model evolution for a company traditionally reliant on physical brick-and-mortar store traffic."
+   },
+   {
+    "point": "Both Walmart and Target raised their financial guidance for the fiscal year.",
+    "why_it_matters": "Raising guidance indicates management confidence that current consumer spending trends will persist through the critical holiday shopping season."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": ">7%",
+    "context": "Target's quarterly sales growth, representing its strongest performance in about 5 years."
+   },
+   {
+    "figure": ">5%",
+    "context": "Walmart's total revenue growth for the quarter ending in October."
+   }
+  ],
+  "lesson": "When core business segments like physical retail face stagnation, companies can sustain growth by pivoting to high-margin digital services and advertising, effectively monetizing their existing customer data and infrastructure.",
+  "opinions_and_predictions": [
+   "Sarah Holder (WSJ) believes the decision by Walmart and Target to raise their annual guidance reflects optimism that holiday sales will remain strong."
+  ],
+  "tickers": [
+   "Walmart (WMT)",
+   "Target (TGT)",
+   "Procter & Gamble (PG)",
+   "Kimberly-Clark (KMB)"
+  ],
+  "glossary": [
+   {
+    "term": "Comparable sales",
+    "definition": "A measure of revenue growth that only includes stores open for at least one year, stripping out the effects of opening new locations.",
+    "example": "Walmart's physical store comparable sales shrank, even though total revenue grew."
+   },
+   {
+    "term": "Guidance",
+    "definition": "An informal forecast or expectation provided by a company's management regarding its future financial performance.",
+    "example": "Both Walmart and Target raised their guidance for the fiscal year."
+   },
+   {
+    "term": "K-shaped economy",
+    "definition": "An economic scenario where different sectors or income groups recover or grow at vastly different rates.",
+    "example": "Walmart data was previously used to analyze how higher-income shoppers fare better than lower-income shoppers."
+   },
+   {
+    "term": "Market cap",
+    "definition": "The total dollar market value of a company's outstanding shares of stock.",
+    "example": "Target is much smaller than Walmart, with less than a 10th of its market cap."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "retail",
+   "consumer spending",
+   "earnings"
+  ],
+  "quality_note": "The report features a WSJ reporter summarizing earnings data provided by the companies, balancing reported figures with industry observations.",
+  "worth_reading": true
+ }
+}
