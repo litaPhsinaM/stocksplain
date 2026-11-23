@@ -1,0 +1,113 @@
+{
+ "id": "wsj-whats-news-36f5d8e677",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Tech Stocks Recover After U.S. Wipeout",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/bab2ee08-52c9-47e1-83e8-3bfad1552542/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=bab2ee08-52c9-47e1-83e8-3bfad1552542&feed=BA5QWI2p",
+ "published": "2026-11-23",
+ "duration": 847,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Asian tech market intervention after AI rout",
+   "Delta flight delays from database glitch",
+   "Democratic primary 2028 debate schedule",
+   "Ukraine drone strike on Russian warship",
+   "Mexico drug kingpin arrest sparks violence",
+   "UN climate talks collapse over fossil fuels",
+   "European energy reliance shifts to Chinese technology"
+  ],
+  "headline": "Asian regulators step in after $4T AI stock wipeout; UN climate talks collapse",
+  "tldr": "Global markets faced severe volatility following a record $4T wipeout in AI stocks, leading regulators across Asia to deploy emergency stabilization measures. Meanwhile, UN climate talks dissolved over fossil fuel transition language, and European leaders debated security risks stemming from heavy reliance on Chinese clean energy components.",
+  "key_points": [
+   {
+    "point": "South Korea, Taiwan, and China launched emergency market interventions after a global AI market sell-off wiped out $4T in US equities and drove South Korea's Kospi down nearly 18% this month.",
+    "why_it_matters": "Heavy index concentration in technology stocks creates systemic volatility across international financial markets during valuation adjustments."
+   },
+   {
+    "point": "UN climate negotiations led by Turkiye collapsed after European nations rejected draft text that removed previous commitments to transition away from fossil fuels.",
+    "why_it_matters": "Geopolitical friction over energy security continues to stall international policy consensus on decarbonization."
+   },
+   {
+    "point": "European nations trading off Russian gas dependence have become reliant on China for over 80% of solar products, prompting security debates over components like solar inverters.",
+    "why_it_matters": "Replacing fuel imports with foreign clean-tech hardware shifts strategic vulnerabilities from energy supplies to critical infrastructure hardware."
+   },
+   {
+    "point": "Delta Air Lines suffered an automated weight-and-balance database glitch that delayed over 1,000 flights and cancelled 40 ahead of the peak Thanksgiving holiday period.",
+    "why_it_matters": "Operational fragility in core software infrastructure can instantly trigger wide-scale supply and travel disruptions."
+   },
+   {
+    "point": "Ukraine launched a surface drone attack against a Russian warship docked in Benghazi, Libya, smoldering the vessel far from the primary conflict zone.",
+    "why_it_matters": "Naval drone technology enables asymmetric force projection against military assets outside traditional geographical boundaries."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$4T",
+    "context": "Total market value wiped out from US stocks during the AI sell-off."
+   },
+   {
+    "figure": "18%",
+    "context": "Decline in South Korea's Kospi stock index over the current month."
+   },
+   {
+    "figure": "80%",
+    "context": "New minimum margin financing requirement set by Chinese stock exchanges, down from 100%."
+   },
+   {
+    "figure": ">80%",
+    "context": "China's current share of global solar product manufacturing output."
+   },
+   {
+    "figure": ">1,000",
+    "context": "Number of Delta Air Lines flights delayed due to an aircraft weight-and-balance software glitch."
+   }
+  ],
+  "lesson": "When aggressive foreign state subsidies enable overseas manufacturers to produce critical technology below cost, domestic competitors fail, forcing importing nations to trade primary energy dependencies for hardware supply-chain risks.",
+  "opinions_and_predictions": [
+   "Sherry Qin (WSJ) reported that market market stabilization measures may only offer temporary relief while underlying worries about stretched tech valuations persist.",
+   "Jared Malsin (WSJ) noted that Ukraine's drone attack demonstrates Russian warships remain exposed to targeted strikes regardless of where they deploy.",
+   "Matthew Dalton (WSJ) reported that high fossil fuel prices created mixed incentives, driving renewable adoption while reinforcing reliance on existing energy infrastructure.",
+   "Kim Mackrael (WSJ) reported that European policymakers remain split between choosing cheap imported solar cells to speed decarbonization or restricting them to safeguard domestic industry."
+  ],
+  "tickers": [
+   "Delta Air Lines (DAL)",
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Margin financing",
+    "definition": "Borrowing money from a brokerage firm to purchase financial securities, using current assets as collateral.",
+    "example": "Chinese exchanges lowered the margin financing requirement from 100% to 80% to encourage market liquidity."
+   },
+   {
+    "term": "Short selling",
+    "definition": "An investment strategy where a trader borrows shares to sell immediately, intending to buy them back later at a lower price.",
+    "example": "South Korean regulators tightened limits on short selling to curb market speculation during the downturn."
+   },
+   {
+    "term": "Market stabilization fund",
+    "definition": "A government-backed pool of capital deployed during financial panics to buy assets and support asset prices.",
+    "example": "South Korea prepared a market stabilization fund to calm equity volatility."
+   },
+   {
+    "term": "Solar inverter",
+    "definition": "An electronic device that converts direct current generated by solar panels into alternating current for the power grid.",
+    "example": "European officials raised cyber security concerns over foreign-made solar inverters connected to grid networks."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "stock markets",
+   "global economy",
+   "climate policy",
+   "tech industry"
+  ],
+  "quality_note": "Reported by WSJ journalists citing official regulatory actions, market performance statistics, and diplomatic statements.",
+  "worth_reading": true
+ }
+}

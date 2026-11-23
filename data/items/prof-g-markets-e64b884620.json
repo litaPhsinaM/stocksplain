@@ -1,0 +1,128 @@
+{
+ "id": "prof-g-markets-e64b884620",
+ "source_id": "prof-g-markets",
+ "source_name": "Prof G Markets",
+ "kind": "podcast",
+ "title": "The AI Bubble Just Popped \u2014 Here\u2019s What To Do",
+ "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8490818003.mp3",
+ "media_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8490818003.mp3",
+ "published": "2026-11-23",
+ "duration": 3405,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Market pullback and AI stock drops",
+   "Anthropic IPO and OpenAI competition",
+   "Historical market crash comparisons",
+   "Stock buybacks versus equity issuance",
+   "Defensive stock rotation and valuation metrics"
+  ],
+  "headline": "AI stocks plunge as Nasdaq enters correction while Anthropic raises $120B IPO",
+  "tldr": "Major AI stocks and indexes experienced a sharp pullback, with $9 trillion in market value erased since October 6 and the semiconductor index falling 43%. Despite market jitters, Anthropic completed its public offering at a $120 billion valuation, securing capital to finance ongoing AI infrastructure spending. Meanwhile, market dynamics shifted as net equity issuance rose to $3.7 trillion and investors rotated into defensive sectors like consumer staples.",
+  "key_points": [
+   {
+    "point": "The technology sector experienced a major correction, erasing $9 trillion in S&P 500 market value since October 6, with the semiconductor index dropping 43% and Nvidia falling nearly 50% from its peak.",
+    "why_it_matters": "High mega-cap valuations can contract rapidly during market corrections, causing significant index volatility even if underlying corporate earnings remain positive."
+   },
+   {
+    "point": "Anthropic went public at an $83 IPO price and opened at $111 before retreating 13%, but successfully raised capital at a $120 billion valuation.",
+    "why_it_matters": "Securing public market funding during market downturns provides frontier AI companies with a liquidity cushion to outlast private rivals in capital expenditure wars."
+   },
+   {
+    "point": "U.S. public markets saw a $4 trillion swing over 12 months as share buybacks slowed and net equity issuances rose to $3.7 trillion.",
+    "why_it_matters": "A large supply of new stock issuances dilutes existing shares and absorbs investor cash, exerting downward pressure on market prices."
+   },
+   {
+    "point": "Defensive sectors outperformed as the equal-weighted S&P 500 beat the cap-weighted index, with healthcare up 14% and consumer staples up 17% year-to-date.",
+    "why_it_matters": "Holding equal-weighted or sector-diversified portfolios helps shield investors when heavy market-cap concentrations in tech unwind."
+   },
+   {
+    "point": "Neocloud GPU infrastructure providers including CoreWeave, Nebius, and Iren fell 50% to 71% from their peaks as external debt and equity financing tightened.",
+    "why_it_matters": "Capital-intensive startups relying on continuous external financing face severe solvency risks when investor appetite contracts."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$9T",
+    "context": "Market value erased from the S&P 500 since October 6."
+   },
+   {
+    "figure": "-43%",
+    "context": "Decline in the semiconductor index from its recent peak."
+   },
+   {
+    "figure": "-50%",
+    "context": "Drop in Nvidia's stock price from its October peak."
+   },
+   {
+    "figure": "$120B",
+    "context": "Valuation achieved by Anthropic in its public market debut."
+   },
+   {
+    "figure": "$3.7T",
+    "context": "Net equity issued by U.S. companies over the past 12 months."
+   }
+  ],
+  "lesson": "When market indexes are heavily concentrated in a few high-valuation companies, a drop in those specific stocks can trigger broader index declines even if non-tech sectors remain stable.",
+  "opinions_and_predictions": [
+   "Scott Galloway believes OpenAI is in a difficult position because it lacks public market liquidity while Anthropic secured $120 billion in capital.",
+   "Scott Galloway thinks the tech stock decline represents a healthy market deflation rather than a systemic dot-com style crash.",
+   "Ed Elson predicted Anthropic would delay its IPO or significantly cut its listing price due to market weakness.",
+   "Scott Galloway predicts Anthropic's cash balance will allow it to outlast competitors in the ongoing AI capital expenditure race.",
+   "Ed Elson expects specialized neocloud GPU providers like CoreWeave to face severe debt defaults as capital markets tighten."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "AMD (AMD)",
+   "Amazon (AMZN)",
+   "Netflix (NFLX)",
+   "Walmart (WMT)",
+   "Costco (COST)",
+   "Procter & Gamble (PG)",
+   "Tesla (TSLA)",
+   "Apple (AAPL)",
+   "Microsoft (MSFT)",
+   "Meta (META)",
+   "Alphabet (GOOGL)",
+   "Anthropic"
+  ],
+  "glossary": [
+   {
+    "term": "Correction",
+    "definition": "A decline of 10% to 20% in a stock, index, or asset price from its recent peak.",
+    "example": "The Nasdaq fell 13% from its high, placing the index into correction territory."
+   },
+   {
+    "term": "Forward P/E Ratio",
+    "definition": "A valuation metric comparing a company's stock price to its expected earnings over the next 12 months.",
+    "example": "Nvidia's forward P/E ratio compressed significantly during the stock pullback."
+   },
+   {
+    "term": "Equal-Weighted Index",
+    "definition": "An index that allocates the exact same dollar weight to every component company regardless of its size.",
+    "example": "The equal-weighted S&P 500 outperformed the standard market-cap weighted index during the tech sell-off."
+   },
+   {
+    "term": "Share Buyback",
+    "definition": "When a company repurchases its own shares from the open market to reduce total share count.",
+    "example": "Companies reduced share buybacks and instead issued new stock to raise capital."
+   },
+   {
+    "term": "Neocloud",
+    "definition": "Specialized cloud computing providers focused on renting out GPU hardware for artificial intelligence workloads.",
+    "example": "Neocloud companies saw their stock prices drop over 50% as hardware funding slowed."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "market correction",
+   "ipos",
+   "stock valuation"
+  ],
+  "quality_note": "Hosted by Scott Galloway and Ed Elson, providing market commentary and financial analysis mixed with speculative technology predictions.",
+  "worth_reading": true
+ }
+}

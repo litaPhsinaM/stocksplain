@@ -1,0 +1,99 @@
+{
+ "id": "squawk-pod-486a030dfa",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "Bonus: The Path with Becky Quick: Cure, Prevent, or Manage All Disease 11/20/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/46b8c4a4-b714-41e0-8e01-4713139a4693/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=46b8c4a4-b714-41e0-8e01-4713139a4693&feed=VHAcgaw_",
+ "published": "2026-11-20",
+ "duration": 2506,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Priscilla Chan's path to medicine and science",
+   "Chan Zuckerberg Initiative's biohub mission",
+   "Funding single-cell sequencing and AI protein models",
+   "The Rare as One disease initiative"
+  ],
+  "headline": "Priscilla Chan outlines Chan Zuckerberg Initiative's AI and biohub strategy to cure all disease",
+  "tldr": "Dr. Priscilla Chan discussed how the Chan Zuckerberg Initiative leverages frontier AI models, massive compute clusters, and single-cell RNA sequencing to accelerate biological research. By funding open-source tools like the Human Cell Atlas and empowering patient-led rare disease groups, CZI aims to systematically understand cellular behavior and develop targeted treatments.",
+  "key_points": [
+   {
+    "point": "Dr. Priscilla Chan and Mark Zuckerberg pledged 99% of their Meta wealth\u2014which grew from $45 billion at launch to roughly $255 billion\u2014to philanthropy through the Chan Zuckerberg Initiative.",
+    "why_it_matters": "Large-scale private philanthropic capital allows researchers to take multi-decade risks on foundational science infrastructure that commercial markets or government grants may overlook."
+   },
+   {
+    "point": "CZI's Biohub combines AI models like Evolutionary Scale Models (ESM) with massive compute clusters to compute protein structures and design custom proteins computationally.",
+    "why_it_matters": "Using AI models to predict protein folding reduces drug discovery timelines from years of manual laboratory testing to days of computational screening."
+   },
+   {
+    "point": "CZI funded approximately one-third of the Human Cell Atlas, creating an open-source repository of single-cell RNA transcriptomes (the full set of active gene transcripts in a cell).",
+    "why_it_matters": "Mapping cellular transcriptomes gives scientists a universal baseline to debug cellular errors and identify precise drug targets."
+   },
+   {
+    "point": "CZI launched the Rare as One initiative eight years ago to provide funding, patient registries, and coordination tools to patient-led rare disease organizations.",
+    "why_it_matters": "Rare disease research acts as a testbed for cell-specific genetic therapies that can later be adapted to common multi-gene conditions."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "99%",
+    "context": "The share of Mark Zuckerberg and Priscilla Chan's Meta wealth pledged to philanthropy through CZI."
+   },
+   {
+    "figure": "$255B",
+    "context": "The estimated total value of the Meta wealth pledged to CZI mentioned during the interview, up from $45B at inception."
+   },
+   {
+    "figure": "1.1B",
+    "context": "The number of protein structures computed in a single week using Evolutionary Scale Models."
+   },
+   {
+    "figure": "8 years",
+    "context": "The duration CZI's Rare as One program has supported patient-led rare disease organizations."
+   }
+  ],
+  "lesson": "When foundational scientific tools and datasets are released as open-source infrastructure, network effects lower development costs across the entire ecosystem, enabling independent teams to accelerate product development.",
+  "opinions_and_predictions": [
+   "Dr. Priscilla Chan believes advances in AI models and cellular biology could enable scientists to cure, prevent, or manage all diseases much sooner than the end of the 21st century.",
+   "Dr. Priscilla Chan predicts that personalized therapeutic models created for rare diseases will serve as the gateway for personalized medicine applied to common medical conditions."
+  ],
+  "tickers": [
+   "Meta Platforms (META)"
+  ],
+  "glossary": [
+   {
+    "term": "Single-cell RNA sequencing",
+    "definition": "A laboratory technique that measures which genes are actively being transcribed into RNA inside individual cells.",
+    "example": "Researchers use single-cell RNA sequencing to analyze how lung cells respond to viruses at an individual cell level."
+   },
+   {
+    "term": "Transcriptome",
+    "definition": "The complete set of RNA transcripts produced by a genome under specific cellular conditions.",
+    "example": "The Human Cell Atlas catalogs the transcriptomes of healthy cells to compare them against diseased cells."
+   },
+   {
+    "term": "Evolutionary Scale Models (ESM)",
+    "definition": "Large AI models trained on millions of biological sequences to predict protein structure and function.",
+    "example": "Biohub uses Evolutionary Scale Models to compute over one billion protein structures in a single week."
+   },
+   {
+    "term": "Protein folding",
+    "definition": "The physical process by which an amino acid chain folds into a functional three-dimensional molecular structure.",
+    "example": "Predicting protein folding computationally helps scientists design custom molecules that block disease pathways."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "biotechnology",
+   "philanthropy",
+   "ai in healthcare",
+   "gene therapy"
+  ],
+  "quality_note": "Interview conducted by CNBC journalist Becky Quick with Dr. Priscilla Chan, pediatrician and co-founder of the Chan Zuckerberg Initiative; content focuses on CZI's philanthropic strategy and research funding.",
+  "worth_reading": true
+ }
+}

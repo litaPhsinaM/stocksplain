@@ -665,7 +665,7 @@
   "symbol": null,
   "target": null,
   "deadline": "2026-11-22",
-  "status": "open"
+  "status": "awaiting_check"
  },
  {
   "id": "squawk-pod-a3dacdd26d-0",
