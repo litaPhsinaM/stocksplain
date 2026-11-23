@@ -369,8 +369,12 @@ def main():
 
     if args.dry_run:
         return
-    if new_count:
-        write_brief(today)
+    # Also after a run that saved episodes but died before the brief (e.g. Gemini down), so a rerun finishes the day.
+    if new_count or not (BRIEFS / f"{today}.json").exists():
+        try:
+            write_brief(today)
+        except Exception as e:  # never lose the hot topics, prices, quiz and site over one failed step
+            print(f"! daily brief failed (a rerun will retry it): {e}")
     try:
         write_hot(today, cfg)
     except Exception as e:
