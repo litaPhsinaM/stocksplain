@@ -1,0 +1,115 @@
+{
+ "id": "wsj-your-money-bff9920b50",
+ "source_id": "wsj-your-money",
+ "source_name": "WSJ Your Money Briefing",
+ "kind": "podcast",
+ "title": "What\u2019s News in Markets: Anthropic IPO, Nvidia Drama, \u2018GTA VI\u2019",
+ "url": "https://www.wsj.com/podcasts/your-money-matters",
+ "media_url": "https://dowjones.simplecastaudio.com/6549bd7e-b1b3-4333-8a34-08c1efc472c9/episodes/a952d042-45e5-452c-b68e-93f6d0e5e937/audio/128/default.mp3?aid=rss_feed&awCollectionId=6549bd7e-b1b3-4333-8a34-08c1efc472c9&awEpisodeId=a952d042-45e5-452c-b68e-93f6d0e5e937&feed=VYCXJ_UH",
+ "published": "2026-11-21",
+ "duration": 352,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Correction in major indices",
+   "Anthropic IPO",
+   "Nvidia CEO resignation drama",
+   "Nvidia earnings and share decline",
+   "Grand Theft Auto VI launch"
+  ],
+  "headline": "Anthropic IPO sparks AI hype, Nvidia slides after CEO scandal, GTA VI launch dampens Take-Two",
+  "tldr": "The week saw the S&P 500, Dow and Nasdaq slip into correction territory as AI stocks cooled. Anthropic\u2019s debut IPO rose 17% then fell 8.5% below $89, while Nvidia\u2019s shares dropped 23% after its CEO\u2019s resignation and a board rebuff. Meanwhile, GTA VI launched to strong sales expectations but Take-Two\u2019s stock fell 8% for the week.",
+  "key_points": [
+   {
+    "point": "The S&P 500 fell nearly 9%, the Dow dropped 10%, and the Nasdaq tumbled 8%, pushing all three into correction (a 10%+ decline from recent peaks).",
+    "why_it_matters": "A correction signals broader market weakness and can affect portfolio values across sectors."
+   },
+   {
+    "point": "Anthropic went public at $83 per share, jumped over 30% intraday, closed up 17%, then slipped 8.5% to just under $89 on day two.",
+    "why_it_matters": "The volatile debut shows how quickly investor sentiment can shift for AI companies amid sector backlash."
+   },
+   {
+    "point": "Nvidia\u2019s board rejected calls to reinstate CEO Jensen Huang after his resignation over a sex and spy scandal; interim CEO Colette Kress led the earnings call.",
+    "why_it_matters": "Leadership turmoil adds uncertainty to a company that had been the largest U.S. firm, influencing its stock performance."
+   },
+   {
+    "point": "Nvidia reported another quarter of strong revenue growth, beating forecasts, yet its shares fell 23% for the week, representing its worst weekly drop.",
+    "why_it_matters": "Even solid earnings can\u2019t offset market concerns about governance and regulatory pressure on chip exports."
+   },
+   {
+    "point": "Grand Theft Auto VI is expected to sell >30 million copies at $80+ each, but Take-Two Interactive\u2019s shares fell nearly 4% on launch day and ended the week 8% lower.",
+    "why_it_matters": "Big product launches don\u2019t always translate into immediate stock gains, especially when broader market sentiment is negative."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "8%",
+    "context": "Nasdaq tumble over the week"
+   },
+   {
+    "figure": "9%",
+    "context": "S&P 500 decline (nearly) over the week"
+   },
+   {
+    "figure": "10%",
+    "context": "Dow drop into correction territory"
+   },
+   {
+    "figure": "17%",
+    "context": "Anthropic stock finish up on day one"
+   },
+   {
+    "figure": "8.5%",
+    "context": "Anthropic drop to just under $89 on day two"
+   }
+  ],
+  "lesson": "When a company\u2019s valuation hinges on a single charismatic leader, any leadership controversy can trigger a sharp stock decline (key-person risk); boards that quickly install stable interim leadership can help steady the company but may not fully offset market fear.",
+  "opinions_and_predictions": [
+   "Jensen Huang\u2019s allies campaigned for his return as CEO, but the board isn\u2019t interested (report).",
+   "Interim CEO Colette Kress gave an assuring message that \u201cwe\u2019ve got this,\u201d but Wall Street remains skeptical (report).",
+   "Analysts noted that the Nvidia share slide is the worst weekly drop, implying heightened risk for the chip sector (report)."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Take-Two Interactive (TTWO)"
+  ],
+  "glossary": [
+   {
+    "term": "Correction",
+    "definition": "A market decline of 10% or more from a recent high, indicating a pullback in prices.",
+    "example": "The S&P 500 fell nearly 9% and the Dow dropped 10%, pushing both into correction territory."
+   },
+   {
+    "term": "IPO",
+    "definition": "Initial public offering \u2013 the first time a private company sells shares to the public.",
+    "example": "Anthropic priced its IPO at $83 per share and saw the stock rise 17% on day one."
+   },
+   {
+    "term": "Key-person risk",
+    "definition": "The risk that a company\u2019s performance is overly dependent on one individual\u2019s leadership or reputation.",
+    "example": "Nvidia\u2019s stock fell sharply after CEO Jensen Huang resigned amid scandal."
+   },
+   {
+    "term": "Interim CEO",
+    "definition": "A temporary chief executive appointed to lead a company until a permanent CEO is selected.",
+    "example": "Colette Kress served as interim CEO of Nvidia during the earnings call."
+   },
+   {
+    "term": "Backers",
+    "definition": "Investors or early supporters who provide capital to a company before it goes public.",
+    "example": "Anthropic\u2019s early backers are making eye-popping profits after the IPO."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "ai stocks",
+   "tech correction",
+   "chip industry",
+   "video games"
+  ],
+  "quality_note": "WSJ reporter Vicky Ge Huang presents market moves with data from index performance, company filings and earnings releases; statements are backed by reported numbers.",
+  "worth_reading": true
+ }
+}

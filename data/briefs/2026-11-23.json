@@ -1,0 +1,58 @@
+{
+ "date": "2026-11-23",
+ "big_picture": "Global equity markets suffered a severe correction as $4 trillion to $9 trillion in tech and AI market value was erased. Meanwhile, Nvidia experienced intense volatility driven by regulatory scrutiny, SEC inquiries, and leadership changes.",
+ "themes": [
+  {
+   "title": "Tech sector correction and AI market sell-off",
+   "explanation": "Global indexes experienced steep declines, with the Nasdaq entering a bear market down 18.4% and the S&P 500 falling nearly 9%. Anthropic completed its public offering at a $120 billion valuation, though its stock fluctuated after its debut, while smaller neocloud providers saw sharp drops. Regulators across South Korea, Taiwan, and China launched emergency market interventions following a $4 trillion wipeout in AI stocks.",
+   "item_ids": [
+    "prof-g-markets-e64b884620",
+    "wsj-your-money-bff9920b50",
+    "wsj-whats-news-36f5d8e677"
+   ]
+  },
+  {
+   "title": "Nvidia executive turmoil, regulatory inquiries, and stock volatility",
+   "explanation": "Nvidia faced intense turbulence after its CEO stepped down amid governance and national security concerns, though he was later reinstated following US government consultations. The stock saw historic single-day swings and a 23% weekly drop, compounded by reports of an SEC accounting inquiry. Single-stock leveraged ETFs tied to Nvidia also suffered catastrophic collapses.",
+   "item_ids": [
+    "bloomberg-surveillance-4613c56ff8",
+    "prof-g-markets-6788735c81",
+    "squawk-pod-e03c64b8ee",
+    "bloomberg-surveillance-4deab53dc6",
+    "wsj-your-money-bff9920b50"
+   ]
+  },
+  {
+   "title": "Broader economic pressures, vehicle prices, and municipal bonds",
+   "explanation": "The US Treasury increased 30-year bond auction frequency to manage rising federal debt. Meanwhile, average new US car prices surpassed $50,000, and elevated energy costs added up to 0.6 percentage points to core PCE inflation. In municipal markets, investment-grade bonds yielded 4.0% while high-yield munis yielded 5.8% for top federal tax brackets.",
+   "item_ids": [
+    "animal-spirits-0a8c4852d7",
+    "marketplace-a3e1b214df",
+    "marketplace-1fca4eb1aa"
+   ]
+  },
+  {
+   "title": "European defense spending and gaming industry production costs",
+   "explanation": "EU countries are projected to spend $500 billion on defense this year, with American venture capital funding up to 50% of European defense startups. In entertainment, Take-Two Interactive developed Grand Theft Auto VI over a decade, highlighting how soaring production costs concentrate mega-budget projects among a few incumbents.",
+   "item_ids": [
+    "indicator-9034563b1e",
+    "wsj-whats-news-8eb23e4498"
+   ]
+  },
+  {
+   "title": "Philanthropic AI science, commodity liquidity, and legal mechanisms",
+   "explanation": "The Chan Zuckerberg Initiative pledged 99% of its Meta wealth to fund open-source biological tools and AI protein modeling. In commodities, copper and gold experienced sharp pullbacks due to dollar liquidity squeezes rather than demand drops. Lastly, the US government explored reviving 18th-century maritime prize law to expedite oil tanker seizures.",
+   "item_ids": [
+    "bloomberg-surveillance-e6e5c6feba",
+    "squawk-pod-486a030dfa",
+    "indicator-2d98e27c23",
+    "planet-money-82becf3e73"
+   ]
+  }
+ ],
+ "concept_of_the_day": {
+  "concept": "Key-person risk",
+  "explanation": "Key-person risk is the vulnerability a company faces when its strategic execution, supplier relationships, and market confidence depend heavily on a single individual. If that leader departs unexpectedly or faces personal controversy, the company's valuation can experience severe downward pressure and volatility. This concept played out prominently when Nvidia experienced massive stock swings and regulatory overhangs following leadership and governance turmoil surrounding its CEO."
+ },
+ "watch_for": []
+}

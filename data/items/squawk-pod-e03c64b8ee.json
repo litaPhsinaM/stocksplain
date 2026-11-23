@@ -1,0 +1,100 @@
+{
+ "id": "squawk-pod-e03c64b8ee",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "Jensen Huang Is Back 11/23/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/4a2a66d5-4299-4038-815a-5c41312d9ba8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=4a2a66d5-4299-4038-815a-5c41312d9ba8&feed=VHAcgaw_",
+ "published": "2026-11-23",
+ "duration": 2849,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Major stock indexes fall sharply",
+   "Treasury yields and oil price movement",
+   "Federal Reserve rate cut expectations shift",
+   "Nvidia faces SEC probe and spy scandal",
+   "Trump advocates rehiring Jensen Huang"
+  ],
+  "headline": "Nvidia faces SEC accounting probe and spy controversy as Trump backs rehiring Jensen Huang",
+  "tldr": "Major stock averages suffered steep weekly drops with the Nasdaq falling into bear market territory before seeing a pre-market bounce. Meanwhile, Nvidia stock came under heavy pressure due to a reported SEC accounting inquiry and intelligence reports connecting former CEO Jensen Huang's partner to Chinese spy agencies, even as President Trump publicly urged the board to rehire Huang.",
+  "key_points": [
+   {
+    "point": "The Nasdaq fell and closed in bear market territory, down 18.4% from its all-time high, while the S&P dropped 3.7%.",
+    "why_it_matters": "Sharp market pullbacks highlight how concentrated selling in tech leaders can drag down broader market indexes."
+   },
+   {
+    "point": "Reuters reported that the SEC is looking into Nvidia's accounting practices, adding to pressure on the stock.",
+    "why_it_matters": "Regulatory inquiries into revenue or accounting methods create governance uncertainty and weigh heavily on stock valuations."
+   },
+   {
+    "point": "Intelligence reports cited by The New York Times linked Alice Huang, who had an affair with Jensen Huang, to contacts within China's Ministry of State Security while her firm bought Nvidia chips.",
+    "why_it_matters": "National security concerns surrounding advanced semiconductor sales create major regulatory and geopolitical risks for technology suppliers."
+   },
+   {
+    "point": "President Trump publicly stated on Truth Social that Nvidia's board should rehire former CEO Jensen Huang.",
+    "why_it_matters": "High-level political intervention in corporate executive decisions adds political noise to company governance."
+   },
+   {
+    "point": "Federal Reserve futures reduced the likelihood of a 50 basis point rate cut to 0%, while still pricing in a 25 basis point cut.",
+    "why_it_matters": "Shifting market expectations for Central Bank interest rate cuts alter borrowing costs and equity valuations across all sectors."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-3.7%",
+    "context": "The weekly drop in the S&P index, leaving it 11.9% below its all-time high."
+   },
+   {
+    "figure": "$82.46",
+    "context": "The price per barrel of West Texas Intermediate (WTI) crude oil after falling an additional 1%."
+   },
+   {
+    "figure": "4.95%",
+    "context": "The yield on the 10-year US Treasury bond."
+   },
+   {
+    "figure": "0%",
+    "context": "The probability priced into Fed futures for a 50 basis point interest rate cut."
+   }
+  ],
+  "lesson": "When key executive leadership is disrupted by legal, regulatory, or personal controversies, increased governance uncertainty often triggers volatility and selling pressure in the company's stock until stable leadership is re-established.",
+  "opinions_and_predictions": [
+   "Scott Bessent voiced the opinion that the Federal Reserve should not be raising interest rates given market volatility.",
+   "Andrew Ross Sorkin suggested the odds of Jensen Huang returning as CEO were around 20% to 30%.",
+   "Andrew Ross Sorkin speculated that Nvidia might eventually adopt a governance structure featuring Tim Cook as executive chairman and Rene Haas as CEO."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Bear market",
+    "definition": "A prolonged period of declining stock prices, typically defined as a market drop of 20% or more from recent highs.",
+    "example": "The Nasdaq closed in bear market territory after dropping over 18% from its record highs."
+   },
+   {
+    "term": "Forward guidance",
+    "definition": "Communication from a central bank about the likely future path of monetary policy and interest rates.",
+    "example": "Commentators debated the value of forward guidance when economic facts change rapidly."
+   },
+   {
+    "term": "Basis point",
+    "definition": "A unit of measure equal to one hundredth of a percentage point (0.01%).",
+    "example": "Traders reduced expectations from a 50 basis point cut to a 25 basis point interest rate cut."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "stock market drop",
+   "semiconductors",
+   "interest rates",
+   "corporate governance"
+  ],
+  "quality_note": "This episode consists of unscripted commentary from CNBC anchors discussing ongoing news reports and market movements without direct guest analysis in this excerpt.",
+  "worth_reading": true
+ }
+}
