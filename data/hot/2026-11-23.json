@@ -2,25 +2,25 @@
  "date": "2026-11-23",
  "topics": [
   {
-   "title": "Nvidia reinstates Jensen Huang as CEO following government intervention",
-   "explanation": "Nvidia's board has unanimously voted to bring back Jensen Huang as CEO and president, just days after he resigned amid a scandal involving extramarital affairs. President Donald Trump confirmed he personally lobbied the board to reinstate Huang, citing him as a national security asset, while the company faces ongoing scrutiny regarding its chip exports.",
-   "why_it_matters": "As a central player in the AI industry, Nvidia's leadership stability is critical for market sentiment, with the stock surging significantly on the news and helping to lift broader tech indices.",
+   "title": "Nvidia Reinstates Jensen Huang as CEO Following Trump Administration Push",
+   "explanation": "Nvidia's board has reinstated Jensen Huang as chief executive officer less than two weeks after his ouster, following intervention by President Donald Trump and other administration officials. The surprise decision sent Nvidia shares soaring by over 30%, adding about $1 trillion in market value and triggering a broad rally across the tech sector and broader stock market. However, the move was made without consulting senior leadership, and lawmakers from both parties have raised national security and corporate governance concerns, with Huang scheduled to testify before a Senate committee.",
+   "why_it_matters": "As a central pillar of the artificial intelligence boom, Nvidia's leadership turmoil and subsequent recovery directly influence broader market sentiment and technology sector valuations.",
    "tickers": [
     "NVDA"
    ],
    "beat": "markets",
    "headline_ids": [
-    "h2f322f0f",
-    "ha3917c1c",
-    "h03500cce",
+    "h13f36368",
     "h786b8cad",
-    "h1785416a"
+    "hdade4541",
+    "hb67b190a",
+    "h8fb6be28"
    ]
   },
   {
-   "title": "CrowdStrike to acquire Zscaler in $44 billion deal",
-   "explanation": "Cybersecurity firm CrowdStrike has announced a $44 billion all-stock acquisition of Zscaler. The deal is aimed at bolstering defenses against increasingly sophisticated AI-driven cyberattacks.",
-   "why_it_matters": "This massive consolidation in the cybersecurity sector highlights the growing corporate spending on digital infrastructure as AI-powered threats become a primary concern for global enterprises.",
+   "title": "CrowdStrike to Acquire Zscaler in $44 Billion Deal",
+   "explanation": "Cybersecurity giant CrowdStrike has agreed to buy competitor Zscaler in an all-stock deal valued at $44 billion. The transaction aims to help customers better utilize AI agents and defend against growing AI-powered cyberattacks as businesses face rising security threats.",
+   "why_it_matters": "Mega-mergers in the cybersecurity sector consolidate market power and signal how established software providers are scaling up to address emerging artificial intelligence vulnerabilities.",
    "tickers": [
     "CRWD",
     "ZS"
@@ -33,131 +33,123 @@
    ]
   },
   {
-   "title": "COP31 climate summit ends without a consensus deal",
-   "explanation": "The U.N.'s COP31 climate conference concluded in failure after governments and campaigners rejected a draft deal that excluded fossil fuels. The summit, which became the longest in history, failed to reach an agreement on climate finance and energy transition goals.",
-   "why_it_matters": "The collapse of these international climate talks creates uncertainty for global energy policy and the transition strategies of major industrial companies.",
-   "tickers": [],
-   "beat": "policy",
+   "title": "Amazon Buys Decart's AI Optimization Technology for $7.5 Billion",
+   "explanation": "Amazon is acquiring AI startup Decart's chip optimization technology and hiring its founders in a deal reported at $7.5 billion. The purchase provides Amazon with software to sync AI models across different chips and boost the efficiency of its custom Trainium processors.",
+   "why_it_matters": "Tech giants are spending heavily on proprietary infrastructure and software integrations to reduce costs and enhance their competitive positioning in artificial intelligence.",
+   "tickers": [
+    "AMZN"
+   ],
+   "beat": "tech",
    "headline_ids": [
-    "hb2fedd61",
-    "h97e47695",
-    "hfd3c1132"
+    "h1a5c8d17",
+    "h6a7990e1",
+    "h564931ea"
    ]
   },
   {
-   "title": "Oil prices slide as supply concerns clash with geopolitical tensions",
-   "explanation": "Crude oil prices fell on Monday, with WTI dropping nearly 4% as market participants weighed rising supply against ongoing attacks on energy infrastructure in the Middle East and Russia. Disruptions in Libya and attacks on Saudi facilities continue to create volatility in energy markets.",
-   "why_it_matters": "Energy prices are a key driver of global inflation, and supply chain disruptions in major oil-producing regions can quickly impact consumer costs and corporate profitability.",
-   "tickers": [],
-   "beat": "energy",
+   "title": "Oregon and Virginia Sue SpaceX Over Grok AI Deepfakes",
+   "explanation": "The Attorneys General of Oregon and Virginia have filed separate lawsuits against SpaceX, accusing the company of violating state consumer protection laws regarding safety features and the creation of nonconsensual sexualized images using Grok on X. The states are seeking civil penalties and injunctions.",
+   "why_it_matters": "Regulatory and legal challenges targeting generative artificial intelligence features highlight growing state-level scrutiny over consumer safety and platform content moderation.",
+   "tickers": [
+    "TSLA"
+   ],
+   "beat": "tech",
    "headline_ids": [
-    "h33613d30",
-    "h2ab8d459",
-    "h0f0b5bfc",
-    "hc9cd71b0",
-    "heb43352d"
+    "h786a4f32",
+    "hf47b3e74"
    ]
   }
  ],
  "headlines": {
-  "h26e93aaa": {
-   "id": "h26e93aaa",
-   "source": "CNBC",
+  "h13f36368": {
+   "id": "h13f36368",
+   "source": "Bloomberg Markets",
    "beat": "markets",
-   "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-   "blurb": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
-   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-   "published": "2026-11-23T17:50"
-  },
-  "h2f322f0f": {
-   "id": "h2f322f0f",
-   "source": "The Guardian Business",
-   "beat": "world",
-   "title": "Nvidia shares surge 33% on Jensen Huang\u2018s return, adding $1tn to company\u2019s value \u2013 business live",
-   "blurb": "Donald Trump hails Huang as a \u2018great patriot and national treasure\u2019 after his surprise reinstatement as Nvidia\u2019s CEO US Politics Live: Trump says he spoke to Nvidia board directly about Jensen Huang Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson\u2026",
-   "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-   "published": "2026-11-23T17:47"
-  },
-  "ha3917c1c": {
-   "id": "ha3917c1c",
-   "source": "Bloomberg Technology",
-   "beat": "tech",
-   "title": "Wall Street Reacts to Return of Nvidia's Huang",
-   "blurb": "The return of Jensen Huang to Nvidia Corp. as chief executive officer and president triggered a wide-ranging rally in stocks. The S&P 500 had been down for seven days. Nvidia's stock rose by 37% at one point. But it remains to be seen if these gains are sustainable. Wall Street\u2026",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
-   "published": "2026-11-23T17:42"
-  },
-  "h03500cce": {
-   "id": "h03500cce",
-   "source": "BBC Business",
-   "beat": "world",
-   "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-   "blurb": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-23T17:42"
+   "title": "A Great Time To Diversify: Todd Sohn",
+   "blurb": "Todd Sohn, chief ETF strategist at Baird Strategas, joins Scarlet Fu and Eric Balchunas on \u201cBloomberg ETF IQ.\u201d They discuss that Nvidia\u2019s board reinstated Jensen Huang in one of the most startling corporate comebacks in history, sending the stock on its biggest rally in decades.\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-23/a-great-time-to-diversify-todd-sohn-video",
+   "published": "2026-11-23T19:46"
   },
   "h786b8cad": {
    "id": "h786b8cad",
    "source": "WSJ Markets",
    "beat": "markets",
-   "title": "Nasdaq Jumps, Nvidia Surges as Investors Cheer Jensen Huang\u2019s Return as CEO",
-   "blurb": "U.S. stocks soared, with the Nasdaq surging more than 6% and the S&P 500 escaping correction territory, following the reinstatement of Nvidia CEO Jensen Huang.",
+   "title": "Nvidia\u2019s Rally Ripples Across Markets",
+   "blurb": "U.S. stocks are climbing, mostly thanks to Nvidia\u2019s rally following Jensen Huang\u2019s return as chief executive.",
    "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
-   "published": "2026-11-23T17:37"
+   "published": "2026-11-23T19:45"
   },
-  "h1785416a": {
-   "id": "h1785416a",
-   "source": "NPR Business",
-   "beat": "world",
-   "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
-   "blurb": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
-   "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-   "published": "2026-11-23T14:53"
+  "hdade4541": {
+   "id": "hdade4541",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "These stocks are the biggest gainers after Jensen Huang\u2019s return to Nvidia",
+   "blurb": "Huang\u2019s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+   "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+   "published": "2026-11-23T19:44"
   },
-  "hb2fedd61": {
-   "id": "hb2fedd61",
+  "hb67b190a": {
+   "id": "hb67b190a",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Lawmakers Demand Answers As Huang Returns to Nvidia",
+   "blurb": "Democrat Representative from Kansas Sharice Davids said that she wants to make sure that there are 'no gray areas' when it comes to national security and AI competition with China, as Nvidia's board reinstates Jensen Huang as CEO amid allegations of an affair with a suspected\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-23/lawmakers-demand-answers-as-huang-returns-to-nvidia-video",
+   "published": "2026-11-23T19:32"
+  },
+  "h8fb6be28": {
+   "id": "h8fb6be28",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "\u2018Outrageous,\u2019 \u2018reckless,\u2019 \u2018wow\u2019: Here\u2019s what politicians are saying about Jensen Huang\u2019s return to Nvidia",
+   "blurb": "Politicians on both side of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+   "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "published": "2026-11-23T19:31"
+  },
+  "h26e93aaa": {
+   "id": "h26e93aaa",
    "source": "CNBC Tech",
    "beat": "tech",
-   "title": "\u2018Worst COP ever\u2019: Climate talks collapse after draft deal fails to include fossil fuels",
-   "blurb": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
-   "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
-   "published": "2026-11-23T13:16"
+   "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+   "blurb": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+   "published": "2026-11-23T17:50"
   },
-  "h97e47695": {
-   "id": "h97e47695",
-   "source": "NPR Politics",
-   "beat": "policy",
-   "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-   "blurb": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-   "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-   "published": "2026-11-23T12:42"
+  "h1a5c8d17": {
+   "id": "h1a5c8d17",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+   "blurb": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
+   "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+   "published": "2026-11-23T19:34"
   },
-  "h33613d30": {
-   "id": "h33613d30",
-   "source": "CNBC Energy",
-   "beat": "energy",
-   "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-   "blurb": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
-   "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-   "published": "2026-11-23T03:52"
-  },
-  "hfd3c1132": {
-   "id": "hfd3c1132",
-   "source": "Ars Technica",
+  "h6a7990e1": {
+   "id": "h6a7990e1",
+   "source": "TechCrunch",
    "beat": "tech",
-   "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-   "blurb": "COP31 ended without a consensus deal for the first time since 2009.",
-   "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-   "published": "2026-11-23T15:23"
+   "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "blurb": "Amazon is acquiring Decart\u2019s AI optimization technology and research team in a reported $7.5 billion deal.",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "published": "2026-11-23T17:14"
   },
-  "h2ab8d459": {
-   "id": "h2ab8d459",
-   "source": "OilPrice.com",
-   "beat": "energy",
-   "title": "Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks",
-   "blurb": "Crude prices deepened their slide on Monday even as Wall Street rallied on Nvidia's reinstatement of chief executive Jensen Huang, with West Texas Intermediate (WTI) trading at its weakest level since late August. At 10:29 a.m. ET, WTI was down 3.5% at $80.50 per barrel, Brent\u2026",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Slides-Nearly-4-as-Returning-Supply-Outweighs-Gulf-Attacks.html",
-   "published": "2026-11-23T15:51"
+  "h564931ea": {
+   "id": "h564931ea",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Amazon may have just found a \u2018cheap\u2019 way to get a lot more out of its chips",
+   "blurb": "Amazon\u2019s deal for Decart\u2019s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
+   "url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+   "published": "2026-11-23T18:47"
+  },
+  "h786a4f32": {
+   "id": "h786a4f32",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Oregon and Virginia sue SpaceX over Grok\u2019s porn deepfakes",
+   "blurb": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social\u2026",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "published": "2026-11-23T18:26"
   },
   "hc32e65ac": {
    "id": "hc32e65ac",
@@ -177,144 +169,126 @@
    "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
    "published": "2026-11-23T11:02"
   },
-  "h0f0b5bfc": {
-   "id": "h0f0b5bfc",
-   "source": "OilPrice.com",
-   "beat": "energy",
-   "title": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook",
-   "blurb": "Brent crude will average $80 per barrel in 2027 as geopolitics and relatively low global inventories leave much of the world vulnerable to supply disruptions, Bank of America said in a new note. Brent fell 2.9% to 89.86 dollars by 9:02 a.m. ET on Monday, and West Texas\u2026",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Drops-Below-90-as-Wall-Street-Splits-on-2027-Oil-Outlook.html",
-   "published": "2026-11-23T14:30"
-  },
-  "hc9cd71b0": {
-   "id": "hc9cd71b0",
-   "source": "OilPrice.com",
-   "beat": "energy",
-   "title": "Libya\u2019s Oil Output Plunges as Armed Groups Shut Key Pipelines",
-   "blurb": "Libya\u2019s oil production has crashed by about 350,000 barrels per day (bpd) after an outlaw group closed a valve on the pipeline transporting crude oil from Sharara, the country\u2019s biggest oilfield, the National Oil Corporation said on Monday. Libya\u2019s NOC condemned the closure,\u2026",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Oil-Output-Plunges-as-Armed-Groups-Shut-Key-Pipelines.html",
-   "published": "2026-11-23T09:45"
-  },
-  "heb43352d": {
-   "id": "heb43352d",
-   "source": "Bloomberg Markets",
+  "hf47b3e74": {
+   "id": "hf47b3e74",
+   "source": "CNBC",
    "beat": "markets",
-   "title": "Ukraine Hits Russian Oil Refinery as 15 Attacked This Month",
-   "blurb": "Ukraine said it hit yet another Russian refinery, this time striking a major fuel-producing plant in the Perm region, as the two countries continued to trade attacks on each other\u2019s energy infrastructure.",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack",
-   "published": "2026-11-23T11:30"
+   "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+   "blurb": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+   "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+   "published": "2026-11-23T16:45"
   }
  },
  "latest": [
   {
-   "id": "h1273406e",
-   "source": "MarketWatch",
-   "beat": "markets",
-   "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500\u2019s biggest losers Monday",
-   "blurb": "Shares of Kroger and Tyson Foods are down, as Nvidia storms higher",
-   "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-   "published": "2026-11-23T17:54"
-  },
-  {
-   "id": "h26e93aaa",
-   "source": "CNBC",
-   "beat": "markets",
-   "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-   "blurb": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
-   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-   "published": "2026-11-23T17:50"
-  },
-  {
-   "id": "h80099838",
-   "source": "MINING.COM",
-   "beat": "energy",
-   "title": "Copper rout threatens Chile\u2019s budget recovery hopes",
-   "blurb": "Falling metal prices, rising fuel subsidies and weak growth put President Kast's fiscal targets and credit standing at risk.",
-   "url": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/",
-   "published": "2026-11-23T17:49"
-  },
-  {
-   "id": "hb95ea355",
-   "source": "CNBC",
-   "beat": "markets",
-   "title": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
-   "blurb": "Retirement account balances fell in the third quarter amid market swings, according to Fidelity. At the same time, more savers tapped their accounts for cash.",
-   "url": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
-   "published": "2026-11-23T17:48"
-  },
-  {
-   "id": "hde960aad",
-   "source": "CNBC",
-   "beat": "markets",
-   "title": "Stocks making the biggest moves midday: Boeing, Nvidia, CoreWeave, Newmont & more",
-   "blurb": "Follow below as CNBC highlights the biggest stock moves of the day.",
-   "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
-   "published": "2026-11-23T17:47"
-  },
-  {
-   "id": "h2f322f0f",
-   "source": "The Guardian Business",
-   "beat": "world",
-   "title": "Nvidia shares surge 33% on Jensen Huang\u2018s return, adding $1tn to company\u2019s value \u2013 business live",
-   "blurb": "Donald Trump hails Huang as a \u2018great patriot and national treasure\u2019 after his surprise reinstatement as Nvidia\u2019s CEO US Politics Live: Trump says he spoke to Nvidia board directly about Jensen Huang Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson\u2026",
-   "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-   "published": "2026-11-23T17:47"
-  },
-  {
-   "id": "he3058747",
-   "source": "CNBC Markets",
-   "beat": "markets",
-   "title": "I'm buying Texas Instruments after the chip sell-off. Here's why I see growth and income",
-   "blurb": "Kevin Simpson says Texas Instruments offers an opportunity for growth and dividend income after the chip sell-off.",
-   "url": "https://www.cnbc.com/2026/11/23/im-buying-texas-instruments-after-the-chip-sell-off-heres-why-i-see-growth-and-income.html",
-   "published": "2026-11-23T17:46"
-  },
-  {
-   "id": "he8321516",
-   "source": "CNBC Markets",
-   "beat": "markets",
-   "title": "Nvidia has reinstated CEO Jensen Huang. These two analysts upgraded the stock",
-   "blurb": "Nvidia welcomed back former CEO Jensen Huang on Monday, removing much of the concern that drove down the stock before and after his departure.",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html",
-   "published": "2026-11-23T17:46"
-  },
-  {
-   "id": "h684ed26f",
+   "id": "h13f36368",
    "source": "Bloomberg Markets",
    "beat": "markets",
-   "title": "Jeff Currie Sees a Liquidity Crisis Behind Copper Selloff",
-   "blurb": "Jeff Currie, CEO at Real Macro, examines the copper selloff and explains what would make him return to being long gold and copper. He speaks on \u201cBloomberg Surveillance.\u201d (Source: Bloomberg)",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
-   "published": "2026-11-23T17:45"
+   "title": "A Great Time To Diversify: Todd Sohn",
+   "blurb": "Todd Sohn, chief ETF strategist at Baird Strategas, joins Scarlet Fu and Eric Balchunas on \u201cBloomberg ETF IQ.\u201d They discuss that Nvidia\u2019s board reinstated Jensen Huang in one of the most startling corporate comebacks in history, sending the stock on its biggest rally in decades.\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-23/a-great-time-to-diversify-todd-sohn-video",
+   "published": "2026-11-23T19:46"
   },
   {
-   "id": "ha3917c1c",
+   "id": "h2b36ada6",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+   "blurb": "The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans such as 401(k)s.",
+   "url": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
+   "published": "2026-11-23T19:46"
+  },
+  {
+   "id": "h786b8cad",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Nvidia\u2019s Rally Ripples Across Markets",
+   "blurb": "U.S. stocks are climbing, mostly thanks to Nvidia\u2019s rally following Jensen Huang\u2019s return as chief executive.",
+   "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+   "published": "2026-11-23T19:45"
+  },
+  {
+   "id": "hdade4541",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "These stocks are the biggest gainers after Jensen Huang\u2019s return to Nvidia",
+   "blurb": "Huang\u2019s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+   "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+   "published": "2026-11-23T19:44"
+  },
+  {
+   "id": "h0aa90cd0",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Nasdaq roars back by 6% as Nvidia soars on Huang\u2019s return, S&P 500 rebounds 4%: Live updates",
+   "blurb": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
+   "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+   "published": "2026-11-23T19:43"
+  },
+  {
+   "id": "h0c780e05",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "HBO Max is offering one of the best Black Friday deals we\u2019ve seen this year",
+   "blurb": "If you\u2019ve been meaning to catch up on Lanterns or the latest season of The Gilded Age, Thanksgiving weekend is the perfect time to do so. And thanks to HBO Max\u2019s new Black Friday deal, new and returning subscribers can now watch both shows for less. The streaming service is\u2026",
+   "url": "https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale",
+   "published": "2026-11-23T19:40"
+  },
+  {
+   "id": "hf46bae4b",
+   "source": "Ars Technica",
+   "beat": "tech",
+   "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+   "blurb": "Amazon now uses its packages for political purposes.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+   "published": "2026-11-23T19:38"
+  },
+  {
+   "id": "hb84aff7e",
+   "source": "CNBC Economy",
+   "beat": "economy",
+   "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
+   "blurb": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia\u2014 until he reversed course",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+   "published": "2026-11-23T19:35"
+  },
+  {
+   "id": "h1a5c8d17",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+   "blurb": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
+   "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+   "published": "2026-11-23T19:34"
+  },
+  {
+   "id": "h3fa657bd",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
+   "blurb": "Doing the math to determine if I have a good deal \u2014 or should trade in for a more modern policy.",
+   "url": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
+   "published": "2026-11-23T19:32"
+  },
+  {
+   "id": "hb67b190a",
    "source": "Bloomberg Technology",
    "beat": "tech",
-   "title": "Wall Street Reacts to Return of Nvidia's Huang",
-   "blurb": "The return of Jensen Huang to Nvidia Corp. as chief executive officer and president triggered a wide-ranging rally in stocks. The S&P 500 had been down for seven days. Nvidia's stock rose by 37% at one point. But it remains to be seen if these gains are sustainable. Wall Street\u2026",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
-   "published": "2026-11-23T17:42"
+   "title": "Lawmakers Demand Answers As Huang Returns to Nvidia",
+   "blurb": "Democrat Representative from Kansas Sharice Davids said that she wants to make sure that there are 'no gray areas' when it comes to national security and AI competition with China, as Nvidia's board reinstates Jensen Huang as CEO amid allegations of an affair with a suspected\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-23/lawmakers-demand-answers-as-huang-returns-to-nvidia-video",
+   "published": "2026-11-23T19:32"
   },
   {
-   "id": "h03500cce",
-   "source": "BBC Business",
-   "beat": "world",
-   "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-   "blurb": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-23T17:42"
-  },
-  {
-   "id": "hf31257b2",
-   "source": "Bloomberg Technology",
+   "id": "h8fb6be28",
+   "source": "TechCrunch",
    "beat": "tech",
-   "title": "Nvidia\u2019s About-Face on Huang Made Without Consulting Leadership",
-   "blurb": "The Nvidia Corp. board\u2019s surprise move to reinstate ousted Chief Executive Officer Jensen Huang was done without consulting the company\u2019s senior leadership, who were only informed at the last minute, according to people familiar with what happened.",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership",
-   "published": "2026-11-23T17:40"
+   "title": "\u2018Outrageous,\u2019 \u2018reckless,\u2019 \u2018wow\u2019: Here\u2019s what politicians are saying about Jensen Huang\u2019s return to Nvidia",
+   "blurb": "Politicians on both side of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+   "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "published": "2026-11-23T19:31"
   }
  ],
  "feeds": 27,
- "scanned": 211
+ "scanned": 215
 }

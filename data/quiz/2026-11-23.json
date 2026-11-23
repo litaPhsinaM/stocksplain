@@ -2,40 +2,40 @@
  "date": "2026-11-23",
  "questions": [
   {
-   "question": "What does it mean for a stock to be in a 'correction'?",
+   "question": "What does the term 'Key-person risk' refer to in the context of Nvidia's recent leadership changes?",
    "options": [
-    "The company is issuing new shares to raise capital.",
-    "The asset price has fallen 10% to 20% from its recent peak.",
-    "The company has corrected an accounting error in its earnings.",
-    "The stock price has risen by more than 20% in a month."
+    "The risk that a company's stock price will always rise when a founder returns.",
+    "The vulnerability a company faces when it relies too heavily on the leadership of one individual.",
+    "The danger of hiring a new CEO who has no experience in the semiconductor industry.",
+    "The requirement for a company to have at least ten executives to avoid government investigation."
    ],
    "answer": 1,
-   "explanation": "A correction is defined as a decline of 10% to 20% in an asset's price from its recent high. This term helps investors identify periods of market volatility, such as when the Nasdaq recently entered correction territory.",
-   "item_id": "prof-g-markets-e64b884620"
+   "explanation": "Key-person risk describes the operational and financial instability that occurs when a company's strategy and supplier relationships are tied to one specific leader. Nvidia's stock experienced massive swings because the market was uncertain about the company's future without Jensen Huang.",
+   "item_id": "bloomberg-surveillance-4613c56ff8"
   },
   {
-   "question": "Why does the US Treasury increase the frequency of bond auctions?",
+   "question": "What does the $500 billion figure represent in the context of European defense?",
    "options": [
-    "To force banks to lower their interest rates for consumers.",
-    "To pay off the national debt in a single payment.",
-    "To manage high federal borrowing without causing supply shocks.",
-    "To increase the amount of physical cash in circulation."
+    "The total amount of venture capital invested in European startups.",
+    "The cost of a single advanced defense system.",
+    "The amount EU countries are expected to spend on defense this year.",
+    "The total market value of all European defense companies combined."
    ],
    "answer": 2,
-   "explanation": "By spreading out debt sales, the Treasury prevents sudden supply shocks in the bond market, which helps keep government borrowing costs stable. This strategy is essential when the government needs to manage high levels of federal debt.",
-   "item_id": "marketplace-a3e1b214df"
+   "explanation": "The $500 billion figure is the total expected defense spending by EU nations this year, which is more than double what they spent a decade ago. This spending surge is a response to shifting geopolitical priorities and the ongoing war in Ukraine.",
+   "item_id": "indicator-9034563b1e"
   },
   {
-   "question": "Why does the reinstatement of a founder-CEO like Jensen Huang often cause a stock price surge?",
+   "question": "Why does the story about 'Core PCE' inflation matter to the average investor?",
    "options": [
-    "It guarantees the company will never face future regulatory investigations.",
-    "It eliminates uncertainty regarding leadership and strategic continuity.",
-    "It automatically increases the company's annual revenue by 27%.",
-    "It allows the company to stop paying taxes to the government."
+    "It shows that energy costs have no impact on the price of consumer goods.",
+    "It explains why the government is lowering the price of gasoline.",
+    "It highlights how rising fuel and freight costs can spill over into the prices of non-energy goods and services.",
+    "It proves that stock market crashes are caused exclusively by high energy prices."
    ],
-   "answer": 1,
-   "explanation": "Executive turnover at a company heavily reliant on one individual creates 'key-person risk,' which depresses valuations. Reinstating a founder resolves this uncertainty, reassuring investors that the company's strategic vision remains stable.",
-   "item_id": "bloomberg-surveillance-4613c56ff8"
+   "answer": 2,
+   "explanation": "Core PCE inflation is a key metric for central banks when setting interest rate policy. When transportation and energy costs rise, companies pass those expenses down the supply chain, which can keep inflation high even when energy prices themselves are excluded from the index.",
+   "item_id": "marketplace-1fca4eb1aa"
   }
  ]
 }

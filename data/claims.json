@@ -702,5 +702,23 @@
   "target": null,
   "deadline": "2027-01-03",
   "status": "open"
+ },
+ {
+  "id": "planet-money-82becf3e73-0",
+  "item_id": "planet-money-82becf3e73",
+  "source": "Planet Money",
+  "episode": "You Can Seize Everything (The U.S. is reviving pirate law)",
+  "url": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
+  "said_on": "2026-11-20",
+  "speaker": "Randy Crane",
+  "role": "US District Court Chief Judge",
+  "quote": "So that spicy action could happen any day now.",
+  "claim": "Legal proceedings involving prize law in the Southern District of Texas will begin soon.",
+  "kind": "other",
+  "subject": "prize law cases",
+  "symbol": null,
+  "target": null,
+  "deadline": "2026-11-21",
+  "status": "awaiting_check"
  }
 ]

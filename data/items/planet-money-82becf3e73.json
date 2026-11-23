@@ -1,0 +1,97 @@
+{
+ "id": "planet-money-82becf3e73",
+ "source_id": "planet-money",
+ "source_name": "Planet Money",
+ "kind": "podcast",
+ "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+ "url": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
+ "media_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+ "published": "2026-11-20",
+ "duration": 1475,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "US military seizes oil tankers",
+   "Civil asset forfeiture for ships",
+   "History of maritime prize law",
+   "Revamping prize law for modern courts"
+  ],
+  "headline": "US considers reviving 18th-century prize law to speed up seizure of foreign oil tankers",
+  "tldr": "The US government is working with the Navy and federal courts to revive antiquated maritime prize law as a faster alternative to civil asset forfeiture for selling seized oil tankers. However, legal experts warn that modern prize law requires a formal declaration of war, creating a significant legal hurdle.",
+  "key_points": [
+   {
+    "point": "The Department of Justice and the US Navy are working to revive prize law to auction off seized ships and cargo without lengthy court battles.",
+    "why_it_matters": "Current civil asset forfeiture is slow and costly; for instance, the US spent $42 million maintaining the seized oil tanker Majestic X in its first month and a half while a court case dragged on for nearly seven months."
+   },
+   {
+    "point": "Historically, prize law in the 17th and 18th centuries gave legal backing to privateers and naval forces to capture enemy vessels and auction them quickly through prize courts.",
+    "why_it_matters": "It established strict rules of evidence and conduct that made maritime seizure a routine and relatively structured process during wartime."
+   },
+   {
+    "point": "US District Court Chief Judge Randy Crane's court in the Southern District of Texas has drafted a 30-page set of modern-day prize rules.",
+    "why_it_matters": "The new rules include modern tracking systems and a carve-out allowing the government to immediately sell hazardous goods like crude oil without waiting for a final court ruling."
+   },
+   {
+    "point": "According to law professor Annie Brett and federal court discussions, prize law traditionally requires a formal state of war to apply.",
+    "why_it_matters": "Because Congress has not formally declared war on nations like Iran or Venezuela, the government may face major jurisdictional challenges in courts trying to apply prize law."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$42 million",
+    "context": "The amount the US spent on custody, maintenance, and repairs for the seized oil tanker Majestic X in the first month and a half."
+   },
+   {
+    "figure": "$3 million",
+    "context": "The government's estimated street value for the Majestic X ship itself."
+   },
+   {
+    "figure": "7 months",
+    "context": "The duration the legal case for the Majestic X had dragged on at the time of recording."
+   },
+   {
+    "figure": "30 pages",
+    "context": "The length of the newly drafted modern prize rules for the Southern District of Texas."
+   }
+  ],
+  "lesson": "When existing legal frameworks for seizing assets prove too slow and costly, governments may attempt to revive antiquated legal mechanisms, but applying rules designed for past eras to modern unconflicted conflicts creates complex jurisdictional hurdles.",
+  "opinions_and_predictions": [
+   "Annie Brett (University of Florida law professor) cautions that prize law procedures do not currently exist for the 21st century and notes that a major threshold question is whether current conflicts count as war without a formal congressional declaration.",
+   "Chief Judge Randy Crane expects spicy legal action in court regarding whether the lack of a formally declared war prevents the application of prize law."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Civil asset forfeiture",
+    "definition": "A legal process that allows the government to seize property suspected of being involved in a crime without necessarily charging the owner criminally.",
+    "example": "Prosecutors use civil asset forfeiture to take a drug dealer's cash or luxury cars."
+   },
+   {
+    "term": "Prize law",
+    "definition": "Historical maritime law providing the framework to condemn, return, or dispose of enemy property seized during conflict.",
+    "example": "The Trump administration is looking to resurrect prize law to quickly auction off seized oil tankers."
+   },
+   {
+    "term": "Privateering",
+    "definition": "State-sanctioned piracy where private individuals with armed ships were authorized by a government to capture enemy vessels during wartime.",
+    "example": "Kings and queens would issue commissions giving privateers permission to act as a bonus navy."
+   },
+   {
+    "term": "Surety bond",
+    "definition": "A promise to pay a specified amount if certain rules or obligations are not met.",
+    "example": "Privateering captains were required to get a surety bond to cover any claims if they committed wrongdoing."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "maritime law",
+   "geopolitics",
+   "legal system",
+   "oil tankers"
+  ],
+  "quality_note": "The reporting features interviews with a maritime law professor, a maritime historian, and a federal chief judge, supported by official statements from the Navy and Justice Department.",
+  "worth_reading": true
+ }
+}

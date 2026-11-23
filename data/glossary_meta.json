@@ -148,6 +148,9 @@
  "citizens' assembly": {
   "topic": "other"
  },
+ "civil asset forfeiture": {
+  "topic": "policy"
+ },
  "class a shares": {
   "topic": "stocks"
  },
@@ -559,6 +562,9 @@
  "interim ceo": {
   "topic": "companies"
  },
+ "interoperability": {
+  "topic": "tech"
+ },
  "investing": {
   "topic": "stocks"
  },
@@ -778,6 +784,9 @@
   "topic": "stocks",
   "same_as": "p/e ratio"
  },
+ "peace dividend": {
+  "topic": "economy"
+ },
  "pension": {
   "topic": "personal"
  },
@@ -822,6 +831,15 @@
  },
  "private equity": {
   "topic": "stocks"
+ },
+ "privateering": {
+  "topic": "other"
+ },
+ "prize law": {
+  "topic": "policy"
+ },
+ "procurement": {
+  "topic": "companies"
  },
  "pronatalism": {
   "topic": "policy"
@@ -1025,6 +1043,9 @@
  "support": {
   "topic": "trading"
  },
+ "surety bond": {
+  "topic": "bonds"
+ },
  "survivorship bias": {
   "topic": "trading"
  },
@@ -1094,6 +1115,9 @@
   "topic": "tech"
  },
  "valuations": {
+  "topic": "stocks"
+ },
+ "venture capital": {
   "topic": "stocks"
  },
  "virtual economy": {
