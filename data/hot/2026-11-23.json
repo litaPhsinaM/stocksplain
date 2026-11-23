@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-23",
+ "topics": [
+  {
+   "title": "Nvidia reinstates Jensen Huang as CEO following government intervention",
+   "explanation": "Nvidia's board has unanimously voted to bring back Jensen Huang as CEO and president, just days after he resigned amid a scandal involving extramarital affairs. President Donald Trump confirmed he personally lobbied the board to reinstate Huang, citing him as a national security asset, while the company faces ongoing scrutiny regarding its chip exports.",
+   "why_it_matters": "As a central player in the AI industry, Nvidia's leadership stability is critical for market sentiment, with the stock surging significantly on the news and helping to lift broader tech indices.",
+   "tickers": [
+    "NVDA"
+   ],
+   "beat": "markets",
+   "headline_ids": [
+    "h2f322f0f",
+    "ha3917c1c",
+    "h03500cce",
+    "h786b8cad",
+    "h1785416a"
+   ]
+  },
+  {
+   "title": "CrowdStrike to acquire Zscaler in $44 billion deal",
+   "explanation": "Cybersecurity firm CrowdStrike has announced a $44 billion all-stock acquisition of Zscaler. The deal is aimed at bolstering defenses against increasingly sophisticated AI-driven cyberattacks.",
+   "why_it_matters": "This massive consolidation in the cybersecurity sector highlights the growing corporate spending on digital infrastructure as AI-powered threats become a primary concern for global enterprises.",
+   "tickers": [
+    "CRWD",
+    "ZS"
+   ],
+   "beat": "tech",
+   "headline_ids": [
+    "h26e93aaa",
+    "hc32e65ac",
+    "h55d7c21b"
+   ]
+  },
+  {
+   "title": "COP31 climate summit ends without a consensus deal",
+   "explanation": "The U.N.'s COP31 climate conference concluded in failure after governments and campaigners rejected a draft deal that excluded fossil fuels. The summit, which became the longest in history, failed to reach an agreement on climate finance and energy transition goals.",
+   "why_it_matters": "The collapse of these international climate talks creates uncertainty for global energy policy and the transition strategies of major industrial companies.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "hb2fedd61",
+    "h97e47695",
+    "hfd3c1132"
+   ]
+  },
+  {
+   "title": "Oil prices slide as supply concerns clash with geopolitical tensions",
+   "explanation": "Crude oil prices fell on Monday, with WTI dropping nearly 4% as market participants weighed rising supply against ongoing attacks on energy infrastructure in the Middle East and Russia. Disruptions in Libya and attacks on Saudi facilities continue to create volatility in energy markets.",
+   "why_it_matters": "Energy prices are a key driver of global inflation, and supply chain disruptions in major oil-producing regions can quickly impact consumer costs and corporate profitability.",
+   "tickers": [],
+   "beat": "energy",
+   "headline_ids": [
+    "h33613d30",
+    "h2ab8d459",
+    "h0f0b5bfc",
+    "hc9cd71b0",
+    "heb43352d"
+   ]
+  }
+ ],
+ "headlines": {
+  "h26e93aaa": {
+   "id": "h26e93aaa",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+   "blurb": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+   "published": "2026-11-23T17:50"
+  },
+  "h2f322f0f": {
+   "id": "h2f322f0f",
+   "source": "The Guardian Business",
+   "beat": "world",
+   "title": "Nvidia shares surge 33% on Jensen Huang\u2018s return, adding $1tn to company\u2019s value \u2013 business live",
+   "blurb": "Donald Trump hails Huang as a \u2018great patriot and national treasure\u2019 after his surprise reinstatement as Nvidia\u2019s CEO US Politics Live: Trump says he spoke to Nvidia board directly about Jensen Huang Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson\u2026",
+   "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+   "published": "2026-11-23T17:47"
+  },
+  "ha3917c1c": {
+   "id": "ha3917c1c",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Wall Street Reacts to Return of Nvidia's Huang",
+   "blurb": "The return of Jensen Huang to Nvidia Corp. as chief executive officer and president triggered a wide-ranging rally in stocks. The S&P 500 had been down for seven days. Nvidia's stock rose by 37% at one point. But it remains to be seen if these gains are sustainable. Wall Street\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
+   "published": "2026-11-23T17:42"
+  },
+  "h03500cce": {
+   "id": "h03500cce",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+   "blurb": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
+   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-23T17:42"
+  },
+  "h786b8cad": {
+   "id": "h786b8cad",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Nasdaq Jumps, Nvidia Surges as Investors Cheer Jensen Huang\u2019s Return as CEO",
+   "blurb": "U.S. stocks soared, with the Nasdaq surging more than 6% and the S&P 500 escaping correction territory, following the reinstatement of Nvidia CEO Jensen Huang.",
+   "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+   "published": "2026-11-23T17:37"
+  },
+  "h1785416a": {
+   "id": "h1785416a",
+   "source": "NPR Business",
+   "beat": "world",
+   "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+   "blurb": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
+   "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+   "published": "2026-11-23T14:53"
+  },
+  "hb2fedd61": {
+   "id": "hb2fedd61",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "\u2018Worst COP ever\u2019: Climate talks collapse after draft deal fails to include fossil fuels",
+   "blurb": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
+   "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+   "published": "2026-11-23T13:16"
+  },
+  "h97e47695": {
+   "id": "h97e47695",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+   "blurb": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+   "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+   "published": "2026-11-23T12:42"
+  },
+  "h33613d30": {
+   "id": "h33613d30",
+   "source": "CNBC Energy",
+   "beat": "energy",
+   "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+   "blurb": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+   "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+   "published": "2026-11-23T03:52"
+  },
+  "hfd3c1132": {
+   "id": "hfd3c1132",
+   "source": "Ars Technica",
+   "beat": "tech",
+   "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+   "blurb": "COP31 ended without a consensus deal for the first time since 2009.",
+   "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+   "published": "2026-11-23T15:23"
+  },
+  "h2ab8d459": {
+   "id": "h2ab8d459",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks",
+   "blurb": "Crude prices deepened their slide on Monday even as Wall Street rallied on Nvidia's reinstatement of chief executive Jensen Huang, with West Texas Intermediate (WTI) trading at its weakest level since late August. At 10:29 a.m. ET, WTI was down 3.5% at $80.50 per barrel, Brent\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Slides-Nearly-4-as-Returning-Supply-Outweighs-Gulf-Attacks.html",
+   "published": "2026-11-23T15:51"
+  },
+  "hc32e65ac": {
+   "id": "hc32e65ac",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "CrowdStrike to acquire Zscaler for $44 billion",
+   "blurb": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+   "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+   "published": "2026-11-23T16:20"
+  },
+  "h55d7c21b": {
+   "id": "h55d7c21b",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
+   "blurb": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
+   "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+   "published": "2026-11-23T11:02"
+  },
+  "h0f0b5bfc": {
+   "id": "h0f0b5bfc",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook",
+   "blurb": "Brent crude will average $80 per barrel in 2027 as geopolitics and relatively low global inventories leave much of the world vulnerable to supply disruptions, Bank of America said in a new note. Brent fell 2.9% to 89.86 dollars by 9:02 a.m. ET on Monday, and West Texas\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Drops-Below-90-as-Wall-Street-Splits-on-2027-Oil-Outlook.html",
+   "published": "2026-11-23T14:30"
+  },
+  "hc9cd71b0": {
+   "id": "hc9cd71b0",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Libya\u2019s Oil Output Plunges as Armed Groups Shut Key Pipelines",
+   "blurb": "Libya\u2019s oil production has crashed by about 350,000 barrels per day (bpd) after an outlaw group closed a valve on the pipeline transporting crude oil from Sharara, the country\u2019s biggest oilfield, the National Oil Corporation said on Monday. Libya\u2019s NOC condemned the closure,\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Oil-Output-Plunges-as-Armed-Groups-Shut-Key-Pipelines.html",
+   "published": "2026-11-23T09:45"
+  },
+  "heb43352d": {
+   "id": "heb43352d",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Ukraine Hits Russian Oil Refinery as 15 Attacked This Month",
+   "blurb": "Ukraine said it hit yet another Russian refinery, this time striking a major fuel-producing plant in the Perm region, as the two countries continued to trade attacks on each other\u2019s energy infrastructure.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack",
+   "published": "2026-11-23T11:30"
+  }
+ },
+ "latest": [
+  {
+   "id": "h1273406e",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500\u2019s biggest losers Monday",
+   "blurb": "Shares of Kroger and Tyson Foods are down, as Nvidia storms higher",
+   "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+   "published": "2026-11-23T17:54"
+  },
+  {
+   "id": "h26e93aaa",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+   "blurb": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+   "published": "2026-11-23T17:50"
+  },
+  {
+   "id": "h80099838",
+   "source": "MINING.COM",
+   "beat": "energy",
+   "title": "Copper rout threatens Chile\u2019s budget recovery hopes",
+   "blurb": "Falling metal prices, rising fuel subsidies and weak growth put President Kast's fiscal targets and credit standing at risk.",
+   "url": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/",
+   "published": "2026-11-23T17:49"
+  },
+  {
+   "id": "hb95ea355",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
+   "blurb": "Retirement account balances fell in the third quarter amid market swings, according to Fidelity. At the same time, more savers tapped their accounts for cash.",
+   "url": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
+   "published": "2026-11-23T17:48"
+  },
+  {
+   "id": "hde960aad",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Stocks making the biggest moves midday: Boeing, Nvidia, CoreWeave, Newmont & more",
+   "blurb": "Follow below as CNBC highlights the biggest stock moves of the day.",
+   "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
+   "published": "2026-11-23T17:47"
+  },
+  {
+   "id": "h2f322f0f",
+   "source": "The Guardian Business",
+   "beat": "world",
+   "title": "Nvidia shares surge 33% on Jensen Huang\u2018s return, adding $1tn to company\u2019s value \u2013 business live",
+   "blurb": "Donald Trump hails Huang as a \u2018great patriot and national treasure\u2019 after his surprise reinstatement as Nvidia\u2019s CEO US Politics Live: Trump says he spoke to Nvidia board directly about Jensen Huang Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson\u2026",
+   "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+   "published": "2026-11-23T17:47"
+  },
+  {
+   "id": "he3058747",
+   "source": "CNBC Markets",
+   "beat": "markets",
+   "title": "I'm buying Texas Instruments after the chip sell-off. Here's why I see growth and income",
+   "blurb": "Kevin Simpson says Texas Instruments offers an opportunity for growth and dividend income after the chip sell-off.",
+   "url": "https://www.cnbc.com/2026/11/23/im-buying-texas-instruments-after-the-chip-sell-off-heres-why-i-see-growth-and-income.html",
+   "published": "2026-11-23T17:46"
+  },
+  {
+   "id": "he8321516",
+   "source": "CNBC Markets",
+   "beat": "markets",
+   "title": "Nvidia has reinstated CEO Jensen Huang. These two analysts upgraded the stock",
+   "blurb": "Nvidia welcomed back former CEO Jensen Huang on Monday, removing much of the concern that drove down the stock before and after his departure.",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html",
+   "published": "2026-11-23T17:46"
+  },
+  {
+   "id": "h684ed26f",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Jeff Currie Sees a Liquidity Crisis Behind Copper Selloff",
+   "blurb": "Jeff Currie, CEO at Real Macro, examines the copper selloff and explains what would make him return to being long gold and copper. He speaks on \u201cBloomberg Surveillance.\u201d (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
+   "published": "2026-11-23T17:45"
+  },
+  {
+   "id": "ha3917c1c",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Wall Street Reacts to Return of Nvidia's Huang",
+   "blurb": "The return of Jensen Huang to Nvidia Corp. as chief executive officer and president triggered a wide-ranging rally in stocks. The S&P 500 had been down for seven days. Nvidia's stock rose by 37% at one point. But it remains to be seen if these gains are sustainable. Wall Street\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
+   "published": "2026-11-23T17:42"
+  },
+  {
+   "id": "h03500cce",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+   "blurb": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
+   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-23T17:42"
+  },
+  {
+   "id": "hf31257b2",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Nvidia\u2019s About-Face on Huang Made Without Consulting Leadership",
+   "blurb": "The Nvidia Corp. board\u2019s surprise move to reinstate ousted Chief Executive Officer Jensen Huang was done without consulting the company\u2019s senior leadership, who were only informed at the last minute, according to people familiar with what happened.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership",
+   "published": "2026-11-23T17:40"
+  }
+ ],
+ "feeds": 27,
+ "scanned": 211
+}

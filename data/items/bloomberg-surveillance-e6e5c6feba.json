@@ -1,0 +1,106 @@
+{
+ "id": "bloomberg-surveillance-e6e5c6feba",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 23rd, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-23rd-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/025a058a-64f0-4c87-9ba3-b50b011aa394/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-23",
+ "duration": 1426,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Deutsche Bank's S&P 9000 target",
+   "Booking Holdings on travel and AI",
+   "Copper and oil market liquidity"
+  ],
+  "headline": "Deutsche Bank sets S&P 9,000 target; Booking Holdings and Carlyle weigh AI and commodities",
+  "tldr": "Deutsche Bank's Binky Chadha projected the S&P 500 will reach 9,000 by 2027 despite recent equity sell-offs, viewing market volatility as temporary systematic deleveraging. Meanwhile, Booking Holdings CEO Glenn Fogel discussed how AI is impacting travel search, and Carlyle's Jeff Currie highlighted how dollar liquidity squeezes are pressuring copper and gold prices.",
+  "key_points": [
+   {
+    "point": "Binky Chadha of Deutsche Bank set a 2027 year-end S&P 500 target of 9,000, viewing recent market sell-offs as a systematic volatility shock rather than a shift in economic fundamentals.",
+    "why_it_matters": "It signals confidence in long-term corporate growth despite short-term pullbacks driven by algorithmic trading and tech sector rebalancing."
+   },
+   {
+    "point": "Binky Chadha highlighted that global technology development is increasingly constrained by de-globalization rules and trade restrictions, creating market uncertainty.",
+    "why_it_matters": "Unclear geopolitical guidelines force markets to attach a higher risk premium to technology companies expanding globally."
+   },
+   {
+    "point": "Booking Holdings CEO Glenn Fogel stated that while consumers use generative AI tools like ChatGPT and Gemini for travel research, very few are using them to complete actual bookings.",
+    "why_it_matters": "Traditional online travel agencies maintain a strong grip on execution and direct booking channels even as consumer search methods evolve."
+   },
+   {
+    "point": "Jeff Currie of Real Macro noted that copper and gold prices experienced sharp pullbacks due to tight dollar funding liquidity rather than deteriorating physical demand.",
+    "why_it_matters": "Financial liquidity crunches can cause temporary mispricings in commodities even when underlying long-term structural demand remains solid."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "9,000",
+    "context": "Deutsche Bank's S&P 500 target for the end of 2027."
+   },
+   {
+    "figure": "6 to 8 weeks",
+    "context": "Estimated time required for volatility to exit the market system after a sharp price shock."
+   },
+   {
+    "figure": "-20%",
+    "context": "Approximate decline in copper prices from recent high points."
+   },
+   {
+    "figure": "mid-60%",
+    "context": "Share of Booking Holdings' travel business generated directly through its own platforms."
+   }
+  ],
+  "lesson": "When dollar funding costs rise sharply during liquidity squeezes, liquid asset prices drop because market participants sell easily tradeable assets to raise cash rather than due to fundamental demand shifts.",
+  "opinions_and_predictions": [
+   "Binky Chadha (Deutsche Bank) expects the S&P 500 to reach 9,000 by the end of 2027.",
+   "Binky Chadha (Deutsche Bank) forecasts it will take 6 to 8 weeks for systematic volatility selling to clear out of equity markets.",
+   "Binky Chadha (Deutsche Bank) thinks underlying demand for technology will continue to outpace available supply over the long term.",
+   "Jeff Currie (Real Macro) predicts central bank policy adjustments will eventually inject liquidity, restoring long-term bull runs in copper and gold.",
+   "Jeff Currie (Real Macro) expects Brent crude oil to remain range-bound between $85 and $100 per barrel."
+  ],
+  "tickers": [
+   "Deutsche Bank (DB)",
+   "Booking Holdings (BKNG)",
+   "Microsoft (MSFT)",
+   "Apple (AAPL)",
+   "United Airlines (UAL)",
+   "Delta Air Lines (DAL)"
+  ],
+  "glossary": [
+   {
+    "term": "Volatility Shock",
+    "definition": "A sudden, sharp increase in market price fluctuations that triggers systematic selling programs.",
+    "example": "Binky Chadha described last week's market drop as a volatility shock."
+   },
+   {
+    "term": "De-globalization",
+    "definition": "The process of reducing economic integration and trade interdependence between countries.",
+    "example": "Tech firms face new trade barriers as countries move toward de-globalization."
+   },
+   {
+    "term": "Agentic Commerce",
+    "definition": "Online transactions conducted autonomously by software agents or AI assistants on behalf of users.",
+    "example": "Booking Holdings is building agentic commerce tools like VAYO and Lola."
+   },
+   {
+    "term": "Roll Yield",
+    "definition": "The profit or loss generated when renewing a futures contract as it approaches expiration.",
+    "example": "Jeff Currie noted that positive roll yields support holding physical commodity contracts."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "equity targets",
+   "travel technology",
+   "commodity markets",
+   "global liquidity"
+  ],
+  "quality_note": "Features interviews with equity strategist Binky Chadha, Booking Holdings CEO Glenn Fogel, and commodity expert Jeff Currie, combining corporate strategy with macroeconomic analysis.",
+  "worth_reading": true
+ }
+}

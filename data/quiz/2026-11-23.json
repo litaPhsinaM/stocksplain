@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-23",
+ "questions": [
+  {
+   "question": "What does it mean for a stock to be in a 'correction'?",
+   "options": [
+    "The company is issuing new shares to raise capital.",
+    "The asset price has fallen 10% to 20% from its recent peak.",
+    "The company has corrected an accounting error in its earnings.",
+    "The stock price has risen by more than 20% in a month."
+   ],
+   "answer": 1,
+   "explanation": "A correction is defined as a decline of 10% to 20% in an asset's price from its recent high. This term helps investors identify periods of market volatility, such as when the Nasdaq recently entered correction territory.",
+   "item_id": "prof-g-markets-e64b884620"
+  },
+  {
+   "question": "Why does the US Treasury increase the frequency of bond auctions?",
+   "options": [
+    "To force banks to lower their interest rates for consumers.",
+    "To pay off the national debt in a single payment.",
+    "To manage high federal borrowing without causing supply shocks.",
+    "To increase the amount of physical cash in circulation."
+   ],
+   "answer": 2,
+   "explanation": "By spreading out debt sales, the Treasury prevents sudden supply shocks in the bond market, which helps keep government borrowing costs stable. This strategy is essential when the government needs to manage high levels of federal debt.",
+   "item_id": "marketplace-a3e1b214df"
+  },
+  {
+   "question": "Why does the reinstatement of a founder-CEO like Jensen Huang often cause a stock price surge?",
+   "options": [
+    "It guarantees the company will never face future regulatory investigations.",
+    "It eliminates uncertainty regarding leadership and strategic continuity.",
+    "It automatically increases the company's annual revenue by 27%.",
+    "It allows the company to stop paying taxes to the government."
+   ],
+   "answer": 1,
+   "explanation": "Executive turnover at a company heavily reliant on one individual creates 'key-person risk,' which depresses valuations. Reinstating a founder resolves this uncertainty, reassuring investors that the company's strategic vision remains stable.",
+   "item_id": "bloomberg-surveillance-4613c56ff8"
+  }
+ ]
+}

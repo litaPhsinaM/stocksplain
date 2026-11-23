@@ -8,6 +8,9 @@
  "60/40 portfolio": {
   "topic": "stocks"
  },
+ "aaa games": {
+  "topic": "other"
+ },
  "active fund": {
   "topic": "stocks"
  },
@@ -15,6 +18,9 @@
   "topic": "companies"
  },
  "agentic ai": {
+  "topic": "tech"
+ },
+ "agentic commerce": {
   "topic": "tech"
  },
  "ai": {
@@ -106,6 +112,9 @@
  "bull market": {
   "topic": "stocks"
  },
+ "c-suite": {
+  "topic": "companies"
+ },
  "cab and chassis": {
   "topic": "other"
  },
@@ -144,6 +153,9 @@
  },
  "clearing event": {
   "topic": "trading"
+ },
+ "co-investment": {
+  "topic": "stocks"
  },
  "cohort fertility": {
   "topic": "other"
@@ -199,6 +211,9 @@
  "core inflation": {
   "topic": "economy"
  },
+ "core pce": {
+  "topic": "economy"
+ },
  "corporate governance": {
   "topic": "companies"
  },
@@ -231,14 +246,23 @@
  "cybercab": {
   "topic": "tech"
  },
+ "cybersecurity": {
+  "topic": "tech"
+ },
  "cyclical": {
   "topic": "stocks"
  },
  "daily digest": {
   "topic": "other"
  },
+ "de-globalization": {
+  "topic": "economy"
+ },
  "de-grossing": {
   "topic": "trading"
+ },
+ "debt limit": {
+  "topic": "policy"
  },
  "debt-to-asset ratio": {
   "topic": "companies"
@@ -249,10 +273,19 @@
  "derisking": {
   "topic": "trading"
  },
+ "digital distribution": {
+  "topic": "tech"
+ },
+ "disaggregate": {
+  "topic": "other"
+ },
  "diversification": {
   "topic": "stocks"
  },
  "dividend": {
+  "topic": "stocks"
+ },
+ "dividend recapitalisation": {
   "topic": "stocks"
  },
  "dividend yield": {
@@ -272,6 +305,9 @@
  },
  "dual use": {
   "topic": "policy"
+ },
+ "dual-class stock": {
+  "topic": "stocks"
  },
  "earnings": {
   "topic": "companies"
@@ -294,6 +330,9 @@
  "eps": {
   "topic": "companies"
  },
+ "equal-weighted index": {
+  "topic": "stocks"
+ },
  "estate tax": {
   "topic": "policy"
  },
@@ -305,6 +344,9 @@
  },
  "event-driven": {
   "topic": "trading"
+ },
+ "evolutionary scale models (esm)": {
+  "topic": "tech"
  },
  "ex-dividend date": {
   "topic": "stocks"
@@ -360,6 +402,10 @@
  "forward multiple": {
   "topic": "stocks"
  },
+ "forward p/e ratio": {
+  "topic": "stocks",
+  "same_as": "forward price-to-earnings ratio"
+ },
  "forward price-to-earnings ratio": {
   "topic": "companies"
  },
@@ -412,6 +458,9 @@
  "growth equity": {
   "topic": "stocks"
  },
+ "growth scare": {
+  "topic": "economy"
+ },
  "guidance": {
   "topic": "companies"
  },
@@ -463,6 +512,9 @@
  },
  "hyperscalers": {
   "topic": "tech"
+ },
+ "icarus paradox": {
+  "topic": "companies"
  },
  "idiosyncratic risk": {
   "topic": "stocks"
@@ -554,6 +606,9 @@
  "legacy systems": {
   "topic": "tech"
  },
+ "leveraged etf": {
+  "topic": "stocks"
+ },
  "liabilities": {
   "topic": "companies"
  },
@@ -578,6 +633,9 @@
  "margin": {
   "topic": "companies"
  },
+ "margin financing": {
+  "topic": "trading"
+ },
  "mark-to-market": {
   "topic": "trading"
  },
@@ -593,6 +651,9 @@
  },
  "market perform": {
   "topic": "stocks"
+ },
+ "market stabilization fund": {
+  "topic": "policy"
  },
  "market timing": {
   "topic": "trading"
@@ -663,6 +724,10 @@
  },
  "neo-clouds": {
   "topic": "tech"
+ },
+ "neocloud": {
+  "topic": "tech",
+  "same_as": "neoclouds"
  },
  "neoclouds": {
   "topic": "tech"
@@ -764,6 +829,9 @@
  "prospectus": {
   "topic": "stocks"
  },
+ "protein folding": {
+  "topic": "other"
+ },
  "public benefit corporation": {
   "topic": "companies"
  },
@@ -806,6 +874,9 @@
  "redundancy": {
   "topic": "tech"
  },
+ "refining capacity": {
+  "topic": "energy"
+ },
  "resource economist": {
   "topic": "economy"
  },
@@ -835,6 +906,9 @@
  },
  "risk-off": {
   "topic": "trading"
+ },
+ "roll yield": {
+  "topic": "bonds"
  },
  "roth ira": {
   "topic": "personal"
@@ -897,14 +971,26 @@
  "short seller": {
   "topic": "trading"
  },
+ "short selling": {
+  "topic": "trading"
+ },
  "single point of failure": {
   "topic": "tech"
+ },
+ "single-cell rna sequencing": {
+  "topic": "other"
  },
  "sipc": {
   "topic": "banking"
  },
+ "smart meter": {
+  "topic": "energy"
+ },
  "smas": {
   "topic": "stocks"
+ },
+ "solar inverter": {
+  "topic": "energy"
  },
  "sortition": {
   "topic": "other"
@@ -970,16 +1056,25 @@
  "teu": {
   "topic": "energy"
  },
+ "think tank": {
+  "topic": "other"
+ },
  "time horizon": {
   "topic": "personal"
  },
  "total return": {
   "topic": "stocks"
  },
+ "transcriptome": {
+  "topic": "other"
+ },
  "transfer stations": {
   "topic": "other"
  },
  "treasury bill": {
+  "topic": "bonds"
+ },
+ "treasury note": {
   "topic": "bonds"
  },
  "treasury yield": {
@@ -1011,6 +1106,9 @@
   "topic": "trading"
  },
  "volatility drag": {
+  "topic": "trading"
+ },
+ "volatility shock": {
   "topic": "trading"
  },
  "volume ratio": {

@@ -1,0 +1,93 @@
+{
+ "id": "indicator-2d98e27c23",
+ "source_id": "indicator",
+ "source_name": "The Indicator from Planet Money",
+ "kind": "podcast",
+ "title": "Tech blackouts, Black Friday fake-outs, and C-suite tariff cash-outs",
+ "url": "https://www.npr.org/2026/11/20/nx-s1-6047743/tech-blackouts-black-friday-fake-outs-and-c-suite-tariff-cash-outs",
+ "media_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/ace46736-91bd-469d-9cc8-711ca5b95dd0/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=ace46736-91bd-469d-9cc8-711ca5b95dd0&feed=IFy3imsg&t=podcast&e=nx-s1-6047743&p=510325&d=564&size=9026751",
+ "published": "2026-11-20",
+ "duration": 564,
+ "digest_date": "2026-11-23",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Software and hardware flaws in 2026",
+   "Fake Black Friday deals",
+   "Companies using tariff refunds for bonuses"
+  ],
+  "headline": "Software flaws surge; retailers inflate Black Friday deals; companies use tariff refunds for executive bonuses",
+  "tldr": "Software and hardware vulnerabilities have more than doubled in the last year, creating security risks for businesses. Meanwhile, research shows many Black Friday deals are misleading, and some companies are using government tariff refunds to fund executive bonuses.",
+  "key_points": [
+   {
+    "point": "Software and hardware vulnerabilities reached 100,222 in 2026, more than double the previous year.",
+    "why_it_matters": "The rapid increase in security flaws, often discovered by hackers, highlights the growing risk of cyberattacks on outdated or unpatched systems."
+   },
+   {
+    "point": "A study by Groundwork Collaborative found that 29% of Black Friday and Cyber Monday deals in 2024 and 2025 were priced the same or higher than the month prior.",
+    "why_it_matters": "Consumers may be misled by marketing tactics that frame existing prices as discounts, making it important to track historical pricing."
+   },
+   {
+    "point": "At least nine companies, including Stanley Black & Decker, have used government tariff refunds to pay executive bonuses.",
+    "why_it_matters": "These refunds, intended to offset costs from trade policies, are being redirected to corporate compensation, raising questions about the use of public funds."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "100,222",
+    "context": "The total number of software and hardware flaws identified in 2026."
+   },
+   {
+    "figure": "29%",
+    "context": "The percentage of Black Friday and Cyber Monday deals that were not actually discounted."
+   },
+   {
+    "figure": "$298M",
+    "context": "The estimated amount of tariff refunds Stanley Black & Decker is expected to receive."
+   }
+  ],
+  "lesson": "When a company relies on outdated, unpatched software, it creates an easy target for security breaches; similarly, when consumers face complex pricing, tracking historical data is necessary to distinguish genuine discounts from marketing inflation.",
+  "opinions_and_predictions": [
+   "Aaron Mitchell (Hero Devs) believes hackers see a significant opportunity in exploiting outdated, unpatched software.",
+   "A guest suggests that consumers should be prepared for higher prices, as some retailers may align current sale prices with the full prices from last year."
+  ],
+  "tickers": [
+   "Stanley Black & Decker (SWK)",
+   "Amazon (AMZN)",
+   "Walmart (WMT)",
+   "Costco (COST)"
+  ],
+  "glossary": [
+   {
+    "term": "Cybersecurity",
+    "definition": "The practice of protecting systems, networks, and programs from digital attacks.",
+    "example": "Hero Devs is a firm that specializes in cybersecurity."
+   },
+   {
+    "term": "Tariff",
+    "definition": "A tax imposed by a government on imported goods.",
+    "example": "The US government imposed tariffs on certain goods, leading to subsequent refund programs for businesses."
+   },
+   {
+    "term": "C-suite",
+    "definition": "The top-ranking senior executives in a company, such as the CEO or CFO.",
+    "example": "The podcast discusses how tariff refunds were used to fund bonuses for the C-suite."
+   },
+   {
+    "term": "Think tank",
+    "definition": "An organization that conducts research and advocacy on topics like social or economic policy.",
+    "example": "Groundwork Collaborative is a left-leaning think tank that analyzed Black Friday pricing."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "cybersecurity",
+   "retail",
+   "trade policy",
+   "corporate compensation"
+  ],
+  "quality_note": "The source features analysts and researchers discussing data-backed findings on cybersecurity trends, retail pricing, and corporate financial disclosures.",
+  "worth_reading": true
+ }
+}
