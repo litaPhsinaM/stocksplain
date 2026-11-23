@@ -19,13 +19,13 @@ from pydantic import BaseModel, Field
 #   3.5-flash-lite   best transcription match vs Whisper                     -> transcripts
 #   3.5-flash        good when it answers, but often overloaded (503)        -> fallback only
 # Override any job with GEMINI_MODELS_<JOB>=model1,model2 (e.g. GEMINI_MODELS_SUMMARY), or all with GEMINI_MODEL.
-_TASKS = {
-    "summary":    "gemini-3.1-flash-lite,gemini-3.5-flash-lite,gemini-3-flash-preview,gemini-3.5-flash",
-    "repair":     "gemini-3.1-flash-lite,gemini-3.5-flash-lite,gemini-3-flash-preview,gemini-3.5-flash",
-    "forecasts":  "gemini-3-flash-preview,gemini-3.1-flash-lite,gemini-3.5-flash",
-    "top_stories": "gemini-3.6-flash,gemini-3.5-flash,gemini-3-flash-preview,gemini-3.1-flash-lite",
-    "brief":      "gemini-3.6-flash,gemini-3-flash-preview,gemini-3.5-flash,gemini-3.1-flash-lite",
-    "quiz":       "gemini-3-flash-preview,gemini-3.5-flash,gemini-3.1-flash-lite",
+_TASKS = {  # gemini-3-flash-preview last everywhere: it failed (504) 35 times in 5 runs, Nov 18-23
+    "summary":    "gemini-3.1-flash-lite,gemini-3.5-flash-lite,gemini-3.5-flash,gemini-3-flash-preview",
+    "repair":     "gemini-3.1-flash-lite,gemini-3.5-flash-lite,gemini-3.5-flash,gemini-3-flash-preview",
+    "forecasts":  "gemini-3.1-flash-lite,gemini-3.5-flash,gemini-3-flash-preview",
+    "top_stories": "gemini-3.6-flash,gemini-3.5-flash,gemini-3.1-flash-lite,gemini-3-flash-preview",
+    "brief":      "gemini-3.6-flash,gemini-3.5-flash,gemini-3.1-flash-lite,gemini-3-flash-preview",
+    "quiz":       "gemini-3.5-flash,gemini-3.1-flash-lite,gemini-3-flash-preview",
     "audio_script": "gemini-3.1-flash-lite,gemini-3.5-flash-lite,gemini-3-flash-preview",
 }
 # Which job an answer belongs to, from the shape we ask for.

@@ -30,7 +30,7 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 75   # room for a slow Gemini day; the data is always saved and published
     outputs:
       ran: ${{ steps.due.outputs.run }}
     env:
@@ -87,8 +87,8 @@ jobs:
         run: python scripts/preflight.py
       - name: New episodes, brief, hot topics, prices, quiz, audio
         if: steps.due.outputs.run == 'yes' && inputs.dry_run != true
-        timeout-minutes: 32   # no new episode is started after 22 min, so the brief, quiz and audio still get written
-        run: python run.py --limit "${{ inputs.limit || '2' }}" --max-minutes 22 --no-score
+        timeout-minutes: 45   # no new episode is started after 20 min, so the brief, quiz and audio still get written
+        run: python run.py --limit "${{ inputs.limit || '2' }}" --max-minutes 20 --no-score
       - name: Forecasts for the Scorecard
         if: steps.due.outputs.run == 'yes' && inputs.dry_run != true && !cancelled()
         # Optional extra: when Gemini is busy (503/504 retries) this can run long. Give it room, and never fail the

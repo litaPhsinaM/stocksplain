@@ -118,7 +118,7 @@ def test_quote_must_be_in_transcript():
 def test_each_job_has_its_own_first_choice_and_fallbacks():
     from digest import summarize
     firsts = {t: summarize.task_models(t)[0] for t in ("summary", "forecasts", "top_stories", "brief", "quiz", "audio_script")}
-    assert firsts["forecasts"] == "gemini-3-flash-preview"
+    assert "gemini-3-flash-preview" not in firsts.values()   # 504s most mornings: only a last resort
     assert firsts["brief"] == "gemini-3.6-flash"
     for t in firsts:
         assert len(summarize.task_models(t)) >= 4          # never a single point of failure
