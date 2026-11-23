@@ -251,3 +251,24 @@ def test_rerun_keeps_the_quiz_people_answered(tmp_path, monkeypatch):
     monkeypatch.setattr(run.summarize, "quiz", lambda *a: pytest.fail("the quiz was rewritten"))
     run.write_extras("2026-11-23")
     assert json.loads((tmp_path / "QUIZ" / "2026-11-23.json").read_text()) == {"keep": True}
+
+
+def test_groq_steps_in_before_claude_with_a_prompt_that_fits(monkeypatch):
+    from digest import summarize as S
+    monkeypatch.setenv("GROQ_API_KEY", "test")
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
+    monkeypatch.setattr(S, "_gemini_call", lambda *a, **k: (_ for _ in ()).throw(RuntimeError("down")))
+    monkeypatch.setattr(S, "_claude_generate", lambda *a: pytest.fail("Claude was asked before the free backup"))
+    seen = []
+    monkeypatch.setattr(S, "_groq_generate", lambda p, schema: seen.append(p) or "ok")
+    big = "x" * (S.GROQ_MAX_PROMPT_CHARS + 1)
+    assert S._gemini_generate([big], S.Quiz, small=lambda b: "short " * 3) == "ok"
+    assert seen == ["short short short "]
+
+
+def test_compact_material_fits_and_only_cuts():
+    from digest import summarize as S
+    item = {"id": "a", "source_name": "Pod", "summary": {"headline": "H", "tldr": "word " * 200,
+            "key_points": ["p " * 100] * 5, "lesson": "l " * 100}}
+    m = S._compact([item] * 30, None, 4000)
+    assert len(m) <= 4000 and '"headline":"H"' in m

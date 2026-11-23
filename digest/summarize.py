@@ -228,12 +228,33 @@ def _material(items: list[dict], hot: dict | None) -> str:
     return json.dumps({"stories": stories, "hot_topics": topics}, indent=0)
 
 
-def _generate(prompt: str, schema):
-    return _ollama_generate(prompt, schema) if BACKEND == "ollama" else _gemini_generate([prompt], schema)
+def _compact(items: list[dict], hot: dict | None, budget: int, extra: dict | None = None) -> str:
+    """The same material, shortened step by step until it fits budget characters (Groq's free tier): shorter
+    summaries first, then fewer stories. Only ever cuts; every word left is from the checked summaries."""
+    cut = lambda t, n: t if len(t) <= n else t[:n].rsplit(" ", 1)[0] + "…"
+    topics = [{"id": f"hot-{n}", "title": t["title"], "explanation": cut(t["explanation"], 260),
+               "why_it_matters": cut(t["why_it_matters"], 200)} for n, t in enumerate((hot or {}).get("topics", []))]
+    m = ""
+    for tl, pts, lesson in ((300, 2, 200), (220, 1, 150), (160, 0, 0)):
+        stories = [{"id": i["id"], "source": i["source_name"], "headline": i["summary"]["headline"],
+                    "tldr": cut(i["summary"]["tldr"], tl), "key_points": [cut(x, 170) for x in i["summary"]["key_points"][:pts]],
+                    **({"lesson": cut(i["summary"]["lesson"], lesson)} if lesson else {})} for i in items]
+        m = json.dumps({"stories": stories, "hot_topics": topics, **(extra or {})}, separators=(",", ":"))
+        if len(m) <= budget:
+            return m
+    while stories and len(m) > budget:
+        stories.pop()
+        m = json.dumps({"stories": stories, "hot_topics": topics, **(extra or {})}, separators=(",", ":"))
+    return m
+
+
+def _generate(prompt: str, schema, small=None):
+    return _ollama_generate(prompt, schema) if BACKEND == "ollama" else _gemini_generate([prompt], schema, small)
 
 
 def quiz(items: list[dict], hot: dict | None) -> Quiz:
-    q = _generate(QUIZ_PROMPT.format(material=_material(items, hot)), Quiz)
+    q = _generate(QUIZ_PROMPT.format(material=_material(items, hot)), Quiz,
+                  small=lambda b: QUIZ_PROMPT.format(material=_compact(items, hot, b - len(QUIZ_PROMPT))))
     q.questions = [x for x in q.questions if len(x.options) == 4 and 0 <= x.answer < 4][:3]
     return q
 
@@ -242,7 +263,10 @@ def briefing(items: list[dict], hot: dict | None, brief: dict | None, date_words
     material = json.loads(_material(items, hot))
     if brief:
         material["concept_of_the_day"] = brief["concept_of_the_day"]
-    return _generate(BRIEFING_PROMPT.format(material=json.dumps(material, indent=0), date=date_words), Briefing)
+    extra = {"concept_of_the_day": brief["concept_of_the_day"]} if brief else None
+    return _generate(BRIEFING_PROMPT.format(material=json.dumps(material, indent=0), date=date_words), Briefing,
+                     small=lambda b: BRIEFING_PROMPT.format(material=_compact(items, hot, b - len(BRIEFING_PROMPT) - 600, extra),
+                                                            date=date_words))
 
 
 MAX_TRANSCRIPT_WORDS = 22000  # ~2 h of speech; keeps long shows inside the local model's context
@@ -377,7 +401,8 @@ def _gemini_call(contents, cfg, parse, models=None, timeout=180, pauses=(0, 20, 
     raise RuntimeError(f"no Gemini model answered: {last}") from last
 
 
-def _gemini_generate(contents, schema):
+def _gemini_generate(contents, schema, small=None):
+    """small: optional builder of a shorter prompt (small(budget_chars) -> str) for Groq's free tier."""
     from google.genai import types
     cfg = types.GenerateContentConfig(
         response_mime_type="application/json", response_schema=schema, temperature=0.3,
@@ -387,11 +412,53 @@ def _gemini_generate(contents, schema):
         return _gemini_call(contents, cfg, lambda r: schema.model_validate_json(r.text or ""),
                             models=task_models(_SCHEMA_TASK.get(schema.__name__)))
     except RuntimeError:
-        # Every Gemini model failed. Text-only jobs can still be done by Claude (if a key is set);
-        # audio and video can't, so those wait for the next run as before.
-        if not (os.environ.get("ANTHROPIC_API_KEY") and all(isinstance(c, str) for c in contents)):
+        # Every Gemini model failed. Text-only jobs can still be done by Groq (free) and then Claude (if keys are
+        # set); audio and video can't, so those wait for the next run as before.
+        if not all(isinstance(c, str) for c in contents):
             raise
-        return _claude_generate("\n\n".join(contents), schema)
+        prompt = "\n\n".join(contents)
+        groq_prompt = prompt if len(prompt) <= GROQ_MAX_PROMPT_CHARS else small(GROQ_MAX_PROMPT_CHARS) if small else None
+        if os.environ.get("GROQ_API_KEY") and not groq_prompt:
+            print(f"    (too long for Groq's free tier: {len(prompt):,} characters)")
+        elif os.environ.get("GROQ_API_KEY"):
+            try:
+                return _groq_generate(groq_prompt, schema)
+            except Exception as e:
+                print(f"    Groq failed too ({' '.join(str(e).split())[:100]})")
+        if not os.environ.get("ANTHROPIC_API_KEY"):
+            raise
+        return _claude_generate(prompt, schema)
+
+
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")  # free tier: 1K requests, 200K tokens a day
+# The free tier allows 8K tokens a minute, prompt and answer together, so only the smaller jobs fit (brief, top
+# stories, quiz, audio script); a whole episode transcript goes to Claude instead. ~3.5 characters per token.
+GROQ_ANSWER_TOKENS = 3000
+GROQ_MAX_PROMPT_CHARS = int((8000 - GROQ_ANSWER_TOKENS - 300) * 3.5)
+
+
+def _groq_generate(prompt: str, schema):
+    """Free backup writer: same prompt, answer checked against the same schema (and later the same fact checks)."""
+    global last_model
+    import httpx
+    print(f"    Gemini unavailable, asking Groq ({GROQ_MODEL})")
+    r = httpx.post("https://api.groq.com/openai/v1/chat/completions", timeout=120, headers={
+        "Authorization": "Bearer " + os.environ["GROQ_API_KEY"]}, json={
+        "model": GROQ_MODEL, "temperature": 0.3, "max_completion_tokens": GROQ_ANSWER_TOKENS,
+        "reasoning_effort": "low",
+        "messages": [{"role": "user", "content": prompt}],
+        "response_format": {"type": "json_schema", "json_schema": {
+            "name": schema.__name__, "schema": schema.model_json_schema(), "strict": False}},
+    })
+    if r.status_code != 200:
+        raise RuntimeError(f"Groq HTTP {r.status_code}: {r.text[:200]}")
+    text = r.json()["choices"][0]["message"]["content"] or ""
+    # gpt-oss writes narrow no-break spaces and non-breaking hyphens ("$500\u202fbillion"); use plain ones so the
+    # fact checks and the site see the same text Gemini would write.
+    text = text.translate({0x202F: " ", 0x00A0: " ", 0x2011: "-", 0x2010: "-"})
+    out = schema.model_validate_json(text)
+    last_model = GROQ_MODEL
+    return out
 
 
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-haiku-5-5")  # cheapest; backup only
@@ -538,8 +605,12 @@ def _summarize_item(item, transcript, audio) -> ItemSummary:
 def hot_topics(headlines: list[dict]) -> HotTopics:
     slim = [{k: h.get(k, "") for k in ("id", "source", "beat", "title", "blurb")} for h in headlines]
     prompt = HOT_PROMPT.format(headlines=json.dumps(slim, indent=0))
-    gen = _ollama_generate if BACKEND == "ollama" else (lambda p, s: _gemini_generate([p], s))
-    result = gen(prompt, HotTopics)
+    def small(budget):  # fewer, shorter headlines (the list is already balanced across newsrooms and beats)
+        rows = [{**h, "blurb": h["blurb"][:140]} for h in slim]
+        while rows and len(HOT_PROMPT) + len(json.dumps(rows, separators=(",", ":"))) > budget:
+            rows.pop()
+        return HOT_PROMPT.format(headlines=json.dumps(rows, separators=(",", ":")))
+    result = _ollama_generate(prompt, HotTopics) if BACKEND == "ollama" else _gemini_generate([prompt], HotTopics, small)
     valid = {h["id"] for h in headlines}
     for t in result.topics:  # drop hallucinated ids; a topic with no real headline behind it is dropped
         t.headline_ids = [i for i in t.headline_ids if i in valid]
@@ -554,4 +625,5 @@ def daily_brief(items: list[dict]) -> DailyBrief:
     prompt = BRIEF_PROMPT.format(summaries=json.dumps(slim, indent=1))
     if BACKEND == "ollama":
         return _ollama_generate(prompt, DailyBrief)
-    return _gemini_generate([prompt], DailyBrief)
+    return _gemini_generate([prompt], DailyBrief, small=lambda b: BRIEF_PROMPT.format(
+        summaries=_compact(items, None, b - len(BRIEF_PROMPT))))
