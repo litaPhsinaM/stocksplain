@@ -98,7 +98,7 @@
 {% set lead = hot.topics[0] %}
 <section class="top" aria-labelledby="top-h">
   <div class="sec-head"><h2 class="section-title" id="top-h">Top stories <span class="live-dot" aria-hidden="true"></span></h2>
-    <span class="muted small">{% if hot.edition == 'pm' %}<span class="ed-pm">Afternoon update{% if hot.updated %} · {{ hot.updated }}{% endif %}</span> · {% endif %}From {{ hot.scanned }} headlines · {{ hot.feeds }} newsrooms</span></div>
+    <span class="muted small">{% if hot.edition == 'pm' %}<span class="ed-pm">Midday update{% if hot.updated %} · {{ hot.updated }}{% endif %}</span> · {% endif %}From {{ hot.scanned }} headlines · {{ hot.feeds }} newsrooms</span></div>
   <button class="hero" type="button" data-story="hot-1">
     <span class="hero-kicker">#1 today{% for sym in lead.tickers if sym in co_syms %} · {{ sym }}{% endfor %}</span>
     <span class="hero-title">{{ lead.title }}</span>

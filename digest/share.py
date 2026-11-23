@@ -5,7 +5,7 @@ link opens the story itself (not the home page), with credit to the newsrooms or
 the rest of the day. Every word on these pages comes from the day's published, already-checked files: nothing here
 asks an AI for anything new.
 
-Links never change once published: /s/<date>/<slug>.html. A top story replaced by the afternoon edition keeps its
+Links never change once published: /s/<date>/<slug>.html. A top story replaced by the midday update keeps its
 page (the earlier edition is kept in data/hot_earlier/).
 """
 from __future__ import annotations

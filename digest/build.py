@@ -197,7 +197,7 @@ def build(root: Path):
     srcs, feeds = cfg["sources"], cfg.get("news", [])
     load = lambda sub: {p.stem: json.loads(p.read_text()) for p in (data / sub).glob("*.json")} if (data / sub).exists() else {}
     hots, quizzes, audio, econs = load("hot"), load("quiz"), load("audio"), load("econ")
-    hots_earlier = load("hot_earlier")  # the morning's top stories, kept when the afternoon edition replaces them
+    hots_earlier = load("hot_earlier")  # the morning's top stories, kept when the midday update replaces them
 
     days = defaultdict(list)
     for it in items:

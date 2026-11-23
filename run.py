@@ -24,7 +24,7 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ITEMS, BRIEFS, TRANSCRIPTS, MARKET = DATA / "items", DATA / "briefs", DATA / "transcripts", DATA / "market"
 HOT, QUIZ, AUDIO, ECON = DATA / "hot", DATA / "quiz", DATA / "audio", DATA / "econ"
-HOT_EARLIER = DATA / "hot_earlier"  # the morning's top stories, kept when the afternoon edition replaces them
+HOT_EARLIER = DATA / "hot_earlier"  # the morning's top stories, kept when the midday update replaces them
 STATE = DATA / "state.json"
 
 
@@ -133,7 +133,7 @@ def redo(ids: list[str], today: str):
 
 
 def edition() -> str:
-    """'am' for the morning run, 'pm' for the afternoon edition after the close (New York time)."""
+    """'am' for the morning run, 'pm' for the midday update (New York time)."""
     from digest import hours
     return "pm" if dt.datetime.now(hours.NY).hour >= 12 else "am"
 
@@ -147,7 +147,7 @@ def write_hot(today: str, cfg: dict):
         return
     topics = summarize.hot_topics(headlines)
     path = HOT / f"{today}.json"
-    # The afternoon edition replaces the morning's top stories on the page, but links people already shared must keep
+    # The midday update replaces the morning's top stories on the page, but links people already shared must keep
     # working: keep the morning's file (once) so its story pages stay published.
     if edition() == "pm" and path.exists() and not (HOT_EARLIER / f"{today}.json").exists():
         old = json.loads(path.read_text())
@@ -191,7 +191,7 @@ def fix_spellings(today: str, reference: list[str]):
 
 def write_extras(today: str, force: bool = False):
     """Daily quiz + spoken briefing, built from today's stories and hot topics. Each is written once a day (a rerun or
-    the afternoon edition fills in a missing one but never swaps a quiz people may already have answered), unless
+    the midday update fills in a missing one but never swaps a quiz people may already have answered), unless
     force (--extras-only)."""
     items = [r for r in (json.loads(p.read_text()) for p in ITEMS.glob("*.json"))
              if r["digest_date"] == today and r["summary"]["worth_reading"]]
