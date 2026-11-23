@@ -24,6 +24,7 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ITEMS, BRIEFS, TRANSCRIPTS, MARKET = DATA / "items", DATA / "briefs", DATA / "transcripts", DATA / "market"
 HOT, QUIZ, AUDIO, ECON = DATA / "hot", DATA / "quiz", DATA / "audio", DATA / "econ"
+HOT_EARLIER = DATA / "hot_earlier"  # the morning's top stories, kept when the afternoon edition replaces them
 STATE = DATA / "state.json"
 
 
@@ -131,17 +132,32 @@ def redo(ids: list[str], today: str):
     build.build(ROOT)
 
 
+def edition() -> str:
+    """'am' for the morning run, 'pm' for the afternoon edition after the close (New York time)."""
+    from digest import hours
+    return "pm" if dt.datetime.now(hours.NY).hour >= 12 else "am"
+
+
 def write_hot(today: str, cfg: dict):
-    from digest import news
+    from digest import hours, news
     scanned = news.collect(cfg.get("news", []))
     headlines = news.balanced(scanned)
     print(f"Picking hot topics from {len(headlines)} headlines")
     if not headlines:
         return
     topics = summarize.hot_topics(headlines)
+    path = HOT / f"{today}.json"
+    # The afternoon edition replaces the morning's top stories on the page, but links people already shared must keep
+    # working: keep the morning's file (once) so its story pages stay published.
+    if edition() == "pm" and path.exists() and not (HOT_EARLIER / f"{today}.json").exists():
+        old = json.loads(path.read_text())
+        if old.get("edition", "am") == "am":
+            HOT_EARLIER.mkdir(parents=True, exist_ok=True)
+            (HOT_EARLIER / f"{today}.json").write_text(path.read_text())
     used = {i for t in topics.topics for i in t.headline_ids}
-    (HOT / f"{today}.json").write_text(json.dumps({
-        "date": today, "topics": topics.model_dump()["topics"],
+    path.write_text(json.dumps({
+        "date": today, "edition": edition(), "updated": dt.datetime.now(hours.NY).strftime("%-I:%M %p").lower() + " ET",
+        "topics": topics.model_dump()["topics"],
         "headlines": {h["id"]: h for h in headlines if h["id"] in used},
         "latest": scanned[:12], "feeds": len(cfg.get("news", [])), "scanned": len(scanned),
     }, indent=1))
@@ -173,8 +189,10 @@ def fix_spellings(today: str, reference: list[str]):
             print(f"  spelling: {p.stem}: " + ", ".join(f"{a} → {b}" for a, b in fixes.items()))
 
 
-def write_extras(today: str):
-    """Daily quiz + spoken briefing, built from today's stories and hot topics."""
+def write_extras(today: str, force: bool = False):
+    """Daily quiz + spoken briefing, built from today's stories and hot topics. Each is written once a day (a rerun or
+    the afternoon edition fills in a missing one but never swaps a quiz people may already have answered), unless
+    force (--extras-only)."""
     items = [r for r in (json.loads(p.read_text()) for p in ITEMS.glob("*.json"))
              if r["digest_date"] == today and r["summary"]["worth_reading"]]
     hot_p, brief_p = HOT / f"{today}.json", BRIEFS / f"{today}.json"
@@ -182,15 +200,18 @@ def write_extras(today: str):
     brief = json.loads(brief_p.read_text()) if brief_p.exists() else None
     if not items and not hot:
         return
-    print("Writing quiz")
-    q = summarize.quiz(items, hot)
-    (QUIZ / f"{today}.json").write_text(json.dumps({"date": today, **q.model_dump()}, indent=1))
-    from digest import supa
-    if supa.available():
-        try:
-            supa.push_quiz_keys(today, q.model_dump())
-        except Exception as e:
-            print(f"! pushing quiz answers to Supabase failed: {e}")
+    if force or not (QUIZ / f"{today}.json").exists():
+        print("Writing quiz")
+        q = summarize.quiz(items, hot)
+        (QUIZ / f"{today}.json").write_text(json.dumps({"date": today, **q.model_dump()}, indent=1))
+        from digest import supa
+        if supa.available():
+            try:
+                supa.push_quiz_keys(today, q.model_dump())
+            except Exception as e:
+                print(f"! pushing quiz answers to Supabase failed: {e}")
+    if not force and (AUDIO / f"{today}.mp3").exists():
+        return
 
     from digest import voice
     if not voice.available():
@@ -298,7 +319,8 @@ def main():
 
     cfg = yaml.safe_load((ROOT / "sources.yaml").read_text())
     state = load_state()
-    today = dt.date.today().isoformat()
+    from digest import hours
+    today = dt.datetime.now(hours.NY).date().isoformat()  # the New York day, wherever this runs (the cloud is on UTC)
     if args.market_only or args.hot_only:
         # Market data is filed by the New York date (the cloud job runs in UTC, which is tomorrow by evening ET).
         if args.market_only:
@@ -328,7 +350,7 @@ def main():
         build.build(ROOT)
         return
     if args.extras_only:
-        write_extras(today)
+        write_extras(today, force=True)
         build.build(ROOT)
         return
     if args.redo is not None:

@@ -9,3 +9,4 @@ yfinance==1.8.0
 yt-dlp==2026.10.21
 psycopg==3.3.8
 psycopg-binary==3.3.8
+Pillow==12.1.1

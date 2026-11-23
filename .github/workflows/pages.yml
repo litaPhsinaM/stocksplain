@@ -24,7 +24,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install jinja2 pyyaml feedparser pydantic
+      - run: pip install jinja2 pyyaml feedparser pydantic Pillow==12.1.1
       - run: python run.py --build-only
       - uses: actions/upload-pages-artifact@v3
         with:

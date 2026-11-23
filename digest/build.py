@@ -197,11 +197,14 @@ def build(root: Path):
     srcs, feeds = cfg["sources"], cfg.get("news", [])
     load = lambda sub: {p.stem: json.loads(p.read_text()) for p in (data / sub).glob("*.json")} if (data / sub).exists() else {}
     hots, quizzes, audio, econs = load("hot"), load("quiz"), load("audio"), load("econ")
+    hots_earlier = load("hot_earlier")  # the morning's top stories, kept when the afternoon edition replaces them
 
     days = defaultdict(list)
     for it in items:
         days[it["digest_date"]].append(it)
     dates = sorted(set(days) | set(hots), reverse=True)
+    from digest import share
+    stories = share.collect(hots, hots_earlier, days)
 
     glossary = {}
     for it in sorted(items, key=lambda i: i["digest_date"]):
@@ -310,6 +313,7 @@ def build(root: Path):
                 "n_podcasts": len(srcs), "n_feeds": len(feeds),
                 "by_id": {i["id"]: i for i in its}, "src_index": src_index,
                 "pretty_date": dt.date.fromisoformat(date).strftime("%A, %B %-d, %Y"),
+                "share_urls": {s["anchor"]: site_url + s["path"] for s in stories if s["date"] == date and s["anchor"]},
                 "listen_min": sum(_minutes(i["duration"]) for i in its)}
 
     today_iso = dt.date.today().isoformat()
@@ -373,6 +377,30 @@ def build(root: Path):
     for i, l in enumerate(lessons):  # one indexable page per lesson
         render("lesson.html", f"lessons/{l['slug']}.html", "../", l=l, total=len(lessons), all=lessons,
                next=lessons[i + 1] if i + 1 < len(lessons) else None)
+    # One shareable page per story, with its own link-preview image (recent days only; older pages use the site's).
+    newest = dates[0] if dates else None
+    cutoff = (dt.date.today() - dt.timedelta(days=share.IMAGE_DAYS)).isoformat()
+    for s in stories:
+        d = s["date"]
+        pretty = dt.date.fromisoformat(d).strftime("%a, %b %-d")
+        later = sorted(m for m in markets if m >= d)
+        mkt = markets.get(d) or (markets[later[0]] if later else None)
+        by_sym = {c["symbol"]: c for c in (mkt or {}).get("companies", [])}
+        quotes = [by_sym[t] for t in s["tickers"] if t in by_sym and by_sym[t].get("change_pct") is not None
+                  and by_sym[t].get("date") == d]  # before the open, the snapshot still holds the last session's move
+        og = None
+        if d >= cutoff:
+            try:
+                share.image(s, out / s["path"].replace(".html", ".jpg"), pretty, {c["symbol"]: c["change_pct"] for c in quotes})
+                og = site_url + s["path"].replace(".html", ".jpg")
+            except Exception as e:  # a missing image only means the site's own preview picture is shown
+                print(f"! preview image failed for {s['path']}: {e}")
+        others = [o for o in stories if o["date"] == d and o is not s][:5]
+        day_path = "index.html" if d == newest else f"days/{d}.html"
+        render("story.html", s["path"], "../../", lastmod=d, s=s, others=others, quotes=quotes, og_image=og,
+               pretty_date=dt.date.fromisoformat(d).strftime("%A, %B %-d, %Y"), day_path=day_path,
+               is_latest=d == newest, has_quiz=bool(quizzes.get(d)), n_day=sum(o["date"] == d for o in stories))
+
     # Search engines: sitemap of every public page, and robots.txt pointing to it (admin stays out).
     urls = "".join(f"<url><loc>{u}</loc><lastmod>{m}</lastmod></url>" for u, m in pages)
     (out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>'

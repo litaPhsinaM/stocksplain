@@ -569,9 +569,60 @@
     setTimeout(() => URL.revokeObjectURL(a.href), 2000);
     toast("Image saved, ready to post");
   }
+  // Share a LINK (not just a picture): the chat shows the story's own preview image and summary, and a tap opens the
+  // story's page, so friends can read it, check the sources and see the rest of the day. ?ref=share lets the admin
+  // page count how many visitors each share brings in.
+  const firstSentence = (t) => ((t || "").match(/^[\s\S]{40,}?[.!?](?=\s|$)/) || [(t || "").slice(0, 160)])[0];
+  let shareSheet;
+  function shareLink(b) {
+    const url = b.dataset.url + (b.dataset.url.includes("?") ? "&" : "?") + "ref=share";
+    const title = b.dataset.title, line = firstSentence(b.dataset.text);
+    const kind = b.closest("[data-story-page]") ? "page" : b.closest("dialog") ? "sheet" : "card";
+    const done = (via) => MD.track("share", { via, kind, path: new URL(b.dataset.url).pathname.slice(0, 80) });
+    if (navigator.share) {
+      navigator.share({ title, text: `${title}\n${line}`, url })
+        .then(() => done("native"), (e) => { if (e.name !== "AbortError") openShareSheet(); });
+      return;
+    }
+    openShareSheet();
+    function openShareSheet() {
+      if (!shareSheet) {
+        shareSheet = document.createElement("dialog");
+        shareSheet.className = "sheet share-sheet";
+        shareSheet.setAttribute("aria-label", "Share this story");
+        document.body.append(shareSheet);
+        shareSheet.addEventListener("click", (e) => { if (e.target === shareSheet || e.target.closest("[data-sheet-close]")) shareSheet.close(); });
+      }
+      const msg = encodeURIComponent(`${title}\n${line}\n${url}`), u = encodeURIComponent(url), t = encodeURIComponent(title);
+      const opt = (via, href, label) => `<a class="sh-opt" data-via="${via}" href="${href}" target="_blank" rel="noopener">${label}</a>`;
+      shareSheet.innerHTML = `<div class="sheet-grab" aria-hidden="true"></div>
+        <div class="sh-head"><b>Share this story</b><button class="close" type="button" data-sheet-close aria-label="Close">×</button></div>
+        <p class="sh-title">${esc(title)}</p>
+        <div class="sh-grid">
+          ${opt("whatsapp", "https://wa.me/?text=" + msg, "💬 WhatsApp")}
+          ${opt("telegram", `https://t.me/share/url?url=${u}&text=${t}`, "✈️ Telegram")}
+          ${opt("x", `https://x.com/intent/post?text=${t}&url=${u}`, "𝕏 Post")}
+          ${opt("email", `mailto:?subject=${t}&body=${msg}`, "✉️ Email")}
+          <button class="sh-opt" type="button" data-copy>🔗 Copy link</button>
+          <button class="sh-opt" type="button" data-image>🖼 Save image</button>
+        </div>`;
+      shareSheet.querySelectorAll("a.sh-opt").forEach((a) => a.addEventListener("click", () => { done(a.dataset.via); shareSheet.close(); }));
+      shareSheet.querySelector("[data-copy]").addEventListener("click", async () => {
+        try { await navigator.clipboard.writeText(url); toast("Link copied, paste it anywhere"); done("copy"); }
+        catch (e) { toast("Copy this link: " + url); }
+        shareSheet.close();
+      });
+      shareSheet.querySelector("[data-image]").addEventListener("click", () => {
+        shareSheet.close(); shareCard(b.dataset.kind, title, b.dataset.text); done("image");
+      });
+      shareSheet.showModal();
+    }
+  }
   document.addEventListener("click", (e) => {
     const b = e.target.closest("[data-share]");
-    if (b) { shareCard(b.dataset.kind, b.dataset.title, b.dataset.text); MD.track("share"); }
+    if (!b) return;
+    if (b.dataset.url) shareLink(b);
+    else { shareCard(b.dataset.kind, b.dataset.title, b.dataset.text); MD.track("share", { via: "image" }); }
   });
 
   // ---------- Android app: the BACK button closes whatever is open before it leaves the page or the app ----------

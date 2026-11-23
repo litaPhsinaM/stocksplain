@@ -1,7 +1,8 @@
 # The daily AI run in the cloud (scripts/daily.sh without the Mac): new podcast episodes → Gemini transcript + summary
 # (checked against the transcript) → brief, hot topics, prices, quiz, audio briefing (Kokoro on CPU), forecasts →
 # commit data/ → publish the site. Needs the GEMINI_API_KEY and SUPABASE_DB_URL secrets.
-# Started each weekday at 5:30 am New York time by the database timer (supabase/migrations/016_daily_timer.sql);
+# Started each weekday at 5:30 am New York time, and again at 4:30 pm for the afternoon edition, by the database timer
+# (supabase/migrations/022_afternoon_edition.sql);
 # GitHub's own schedule below is only a backup, because it has skipped runs for this repo.
 name: Daily digest
 
@@ -160,4 +161,7 @@ jobs:
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
-        run: python -m digest.email_daily
+        # Once a day, in the morning: the afternoon edition (and any run after 3 pm) doesn't email.
+        run: |
+          if [ "$(TZ=America/New_York date +%-H)" -ge 15 ]; then echo "Afternoon run: the email went out this morning."; exit 0; fi
+          python -m digest.email_daily

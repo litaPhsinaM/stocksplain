@@ -44,7 +44,7 @@ jobs:
           cache: pip
       - name: Install
         if: steps.open.outputs.run == 'yes'
-        run: pip install jinja2 pyyaml feedparser pydantic yfinance "psycopg[binary]"
+        run: pip install jinja2 pyyaml feedparser pydantic yfinance "psycopg[binary]" Pillow==12.1.1
       - name: Fetch prices, update database, build site
         if: steps.open.outputs.run == 'yes'
         env:

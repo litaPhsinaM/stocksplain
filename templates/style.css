@@ -1773,3 +1773,31 @@ main h1, .course-hero h1, .src-hero h1, .dict-title h1, .about-hero h1, .learn-h
 .acct-daily input { margin-top: 3px; accent-color: var(--accent); }
 .acct-daily span { display: grid; } .acct-daily small { color: var(--text-3); font-size: .78rem; }
 .unsub { max-width: 640px; }
+
+/* ---------- shareable story pages (/s/<date>/<slug>.html) and the share sheet ---------- */
+.story-page, .sp-next { max-width: 760px; margin: 0 auto 16px; padding: 22px 24px; }
+.story-page h1 { font-family: var(--font-display); font-size: 1.8rem; line-height: 1.2; margin: 8px 0 6px; }
+.story-page h2, .sp-next h2 { font-family: var(--font-display); font-size: 1.15rem; margin: 22px 0 8px; }
+.sp-next h2 { margin-top: 0; }
+.story-page .lede { color: var(--text-2); }
+.story-page .lesson { margin-top: 18px; }
+.sp-quotes { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 14px; }
+.sp-q { padding: 4px 10px; border-radius: 99px; font-size: .84rem; font-variant-numeric: tabular-nums; background: var(--surface-2); border: 1px solid var(--line); }
+.sp-q.up span { color: var(--up); } .sp-q.down span { color: var(--down); }
+.sp-points { padding-left: 20px; line-height: 1.6; } .sp-points li + li { margin-top: 6px; }
+.sp-listen { margin-top: 18px; font-weight: 600; }
+.sp-actions { margin-top: 20px; }
+.sp-cta { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0 6px; }
+.sp-more { list-style: none; padding: 0; margin: 14px 0 0; border-top: 1px solid var(--line); }
+.sp-more li { border-bottom: 1px solid var(--line); }
+.sp-more a { display: grid; gap: 2px; padding: 12px 2px; color: var(--text); text-decoration: none; font-weight: 600; line-height: 1.35; }
+.sp-more a:hover { color: var(--accent); }
+@media (max-width: 640px) { .story-page, .sp-next { padding: 18px 16px; } .story-page h1 { font-size: 1.5rem; } }
+.share-sheet { width: min(440px, calc(100vw - 24px)); padding: 16px 18px 20px; }
+.sh-head { display: flex; justify-content: space-between; align-items: center; }
+.sh-title { margin: 6px 0 14px; color: var(--text-2); font-size: .9rem; line-height: 1.4; }
+.sh-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.sh-opt { display: flex; align-items: center; justify-content: center; min-height: 46px; padding: 0 10px; border-radius: 12px;
+  border: 1px solid var(--line); background: var(--surface-2); color: var(--text); font: 600 .9rem var(--font); text-decoration: none; cursor: pointer; }
+.sh-opt:hover { border-color: var(--accent); }
+.ed-pm { padding: 1px 8px; border-radius: 99px; background: var(--accent-soft); color: var(--accent); font-weight: 700; white-space: nowrap; }

@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% set active = 'today' %}
+{% block title %}{{ s.title }} · Stocksplain{% endblock %}
+{% block description %}{{ s.text|truncate(180, false, '…') }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block og_image %}{% if og_image %}{{ og_image }}{% else %}{{ site_url }}icons/og.jpg{% endif %}{% endblock %}
+{% block jsonld %}<script type="application/ld+json">{{ {
+  "@context": "https://schema.org", "@type": "NewsArticle", "headline": s.title[:110], "description": s.text,
+  "datePublished": s.date, "url": canonical, "isAccessibleForFree": true, "inLanguage": "en",
+  "image": og_image or (site_url ~ "icons/og.jpg"),
+  "publisher": {"@type": "Organization", "name": "Stocksplain", "url": site_url, "logo": {"@type": "ImageObject", "url": site_url ~ "icons/icon-512.png"}}
+}|tojson }}</script>{% endblock %}
+{% block content %}
+<article class="card story-page" data-story-page="{{ s.kind }}">
+  <div class="eyebrow">{% if s.kind == 'hot' %}Top story{% else %}From {{ s.source_name }}{% endif %} · {{ pretty_date }}</div>
+  <h1>{{ s.title }}</h1>
+  <p class="lede">{{ s.text }}</p>
+
+  {% if quotes %}<div class="sp-quotes">{% for c in quotes %}
+    <span class="sp-q {{ 'up' if c.change_pct >= 0 else 'down' }}"><b>{{ c.symbol }}</b> {{ c.price|num }} <span>{{ '+' if c.change_pct >= 0 else '−' }}{{ c.change_pct|abs|num(1) }}%</span></span>
+  {% endfor %}<span class="muted small">{{ 'Latest price' if is_latest else 'Price that day' }}</span></div>{% endif %}
+
+  {% if s.why %}<div class="lesson"><div class="eyebrow">{{ 'Why it matters' if s.kind == 'hot' else 'The lesson' }}</div><p>{{ s.why }}</p></div>{% endif %}
+
+  {% if s.points %}<h2>The key points</h2>
+  <ul class="sp-points">{% for p in s.points %}<li>{{ p }}</li>{% endfor %}</ul>{% endif %}
+
+  {% if s.terms %}<h2>Words to know</h2>
+  <dl class="terms">{% for t in s.terms %}<div class="term"><dt>{{ t.term }}</dt><dd>{{ t.definition }}</dd></div>{% endfor %}</dl>{% endif %}
+
+  {% if s.links %}<h2>Read the reporting</h2>
+  <ul class="news">{% for h in s.links %}<li><a href="{{ h.url }}" target="_blank" rel="noopener">{{ h.title }}</a><span class="muted">{{ h.source }}</span></li>{% endfor %}</ul>
+  <p class="asof">Summarised from {{ s.links|length }} newsroom{{ '' if s.links|length == 1 else 's' }}’ headlines and short descriptions. Education, not financial advice.</p>
+  {% elif s.listen %}<p class="sp-listen"><a href="{{ s.listen }}" target="_blank" rel="noopener">🎧 Listen to the original episode ↗</a></p>
+  <p class="asof">Summarised from the episode’s transcript, with every number checked against it. Opinions are the speakers’. Education, not financial advice.</p>{% endif %}
+
+  <div class="sp-actions">
+    <button class="btn" type="button" data-share data-url="{{ canonical }}" data-kind="{{ 'Top story' if s.kind == 'hot' else s.source_name }}" data-title="{{ s.title }}" data-text="{{ s.text }}">Share this story</button>
+  </div>
+</article>
+
+<section class="card sp-next" aria-labelledby="sp-next-h">
+  <h2 id="sp-next-h">{% if is_latest %}Today in 5 minutes{% else %}The rest of {{ pretty_date }}{% endif %}</h2>
+  <p class="muted">This is 1 of {{ n_day }} stories, explained in plain English for people learning to invest. Free, no account needed.</p>
+  <div class="sp-cta">
+    <a class="btn" href="{{ prefix }}{{ day_path }}?ref=story">See all of {{ 'today' if is_latest else 'that day' }}’s stories →</a>
+    {% if has_quiz %}<a class="btn ghost" href="{{ prefix }}{{ day_path }}?ref=story#quiz">Take the quiz</a>{% endif %}
+  </div>
+  {% if others %}<ul class="sp-more">{% for o in others %}
+    <li><a href="{{ prefix }}{{ o.path }}"><span class="muted small">{{ 'Top story' if o.kind == 'hot' else o.source_name }}</span>{{ o.title }}</a></li>
+  {% endfor %}</ul>{% endif %}
+</section>
+{% endblock %}

@@ -215,3 +215,39 @@ def test_email_first_sentence_skips_abbreviations():
     from digest.email_daily import _first_sentence
     assert _first_sentence("U.S. stocks fell on Tuesday as Mr. Powell spoke. Bonds rose.") == \
         "U.S. stocks fell on Tuesday as Mr. Powell spoke."
+
+
+# ---------- shareable story pages and the afternoon edition ----------
+
+def test_story_slugs_are_short_and_stable():
+    from digest import share
+    assert share.slug("Nvidia’s CEO returns: S&P 500 +2%") == "nvidias-ceo-returns-s-p-500-2"
+    long = share.slug("word " * 40)
+    assert len(long) <= 60 and not long.endswith("-") and long.endswith("word")
+
+
+def test_shared_links_survive_the_afternoon_edition():
+    from digest import share
+    topic = lambda t: {"title": t, "explanation": "x", "why_it_matters": "y", "tickers": [], "headline_ids": []}
+    morning = {"topics": [topic("Oil jumps"), topic("Fed holds rates")], "headlines": {}}
+    afternoon = {"topics": [topic("Fed holds rates"), topic("Stocks close higher")], "headlines": {}}
+    got = share.collect({"2026-11-23": afternoon}, {"2026-11-23": morning}, {})
+    paths = [s["path"] for s in got]
+    assert len(paths) == len(set(paths)) == 3   # the repeated story is one page
+    assert "s/2026-11-23/oil-jumps.html" in paths   # the morning-only story keeps its page
+    anchors = {s["slug"]: s["anchor"] for s in got}
+    assert anchors["fed-holds-rates"] == "hot-1" and anchors["oil-jumps"] is None
+
+
+def test_rerun_keeps_the_quiz_people_answered(tmp_path, monkeypatch):
+    import json
+    import run
+    for name in ("ITEMS", "HOT", "QUIZ", "AUDIO", "BRIEFS"):
+        (tmp_path / name).mkdir()
+        monkeypatch.setattr(run, name, tmp_path / name)
+    (tmp_path / "HOT" / "2026-11-23.json").write_text(json.dumps({"topics": []}))
+    (tmp_path / "QUIZ" / "2026-11-23.json").write_text('{"keep": true}')
+    (tmp_path / "AUDIO" / "2026-11-23.mp3").write_bytes(b"x")
+    monkeypatch.setattr(run.summarize, "quiz", lambda *a: pytest.fail("the quiz was rewritten"))
+    run.write_extras("2026-11-23")
+    assert json.loads((tmp_path / "QUIZ" / "2026-11-23.json").read_text()) == {"keep": True}

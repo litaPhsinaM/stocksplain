@@ -98,7 +98,7 @@
 {% set lead = hot.topics[0] %}
 <section class="top" aria-labelledby="top-h">
   <div class="sec-head"><h2 class="section-title" id="top-h">Top stories <span class="live-dot" aria-hidden="true"></span></h2>
-    <span class="muted small">From {{ hot.scanned }} headlines · {{ hot.feeds }} newsrooms</span></div>
+    <span class="muted small">{% if hot.edition == 'pm' %}<span class="ed-pm">Afternoon update{% if hot.updated %} · {{ hot.updated }}{% endif %}</span> · {% endif %}From {{ hot.scanned }} headlines · {{ hot.feeds }} newsrooms</span></div>
   <button class="hero" type="button" data-story="hot-1">
     <span class="hero-kicker">#1 today{% for sym in lead.tickers if sym in co_syms %} · {{ sym }}{% endfor %}</span>
     <span class="hero-title">{{ lead.title }}</span>
@@ -191,7 +191,7 @@
   <h4>Read the reporting</h4>
   <ul class="news">{% for h in t.links %}<li><a href="{{ h.url }}" target="_blank" rel="noopener">{{ h.title }}</a><span class="muted">{{ h.source }}</span></li>{% endfor %}</ul>
   <footer class="sheet-foot">
-    <button class="share" type="button" data-share data-kind="Top story" data-title="{{ t.title }}" data-text="{{ t.explanation }}">Share</button>
+    <button class="share" type="button" data-share data-url="{{ share_urls.get('hot-' ~ loop.index, '') }}" data-kind="Top story" data-title="{{ t.title }}" data-text="{{ t.explanation }}">Share</button>
     <button class="btn ghost" type="button" data-sheet-close>Done</button>
   </footer>
   <p class="asof">Summarised from headlines and the newsrooms’ own short descriptions.</p>
@@ -320,7 +320,7 @@
   </div>
   <div class="sheet-links">
     <a href="{{ it.url }}" target="_blank" rel="noopener">🎧 Listen to the original ↗</a>
-    <button class="share" type="button" data-share data-kind="{{ it.source_name }}" data-title="{{ s.headline }}" data-text="{{ s.tldr }}">Share</button>
+    <button class="share" type="button" data-share data-url="{{ share_urls.get(it.id, '') }}" data-kind="{{ it.source_name }}" data-title="{{ s.headline }}" data-text="{{ s.tldr }}">Share</button>
   </div>
 
   <footer class="sheet-foot">
