@@ -361,9 +361,17 @@ def _with_deadline(fn, seconds: float):
     return box["ok"]
 
 
+_gemini_outage = False  # set once every model has failed through a full backoff in this run
+
+
 def _gemini_call(contents, cfg, parse, models=None, timeout=180, pauses=(0, 20, 60, 120)):
-    """Ask each model in turn until one gives an answer `parse` accepts; if all fail, more rounds with backoff."""
-    global last_model
+    """Ask each model in turn until one gives an answer `parse` accepts; if all fail, more rounds with backoff.
+    Once Gemini has been down for a whole backoff in this run, later calls make one quick round and then hand over
+    to the backups (or wait for the next run), instead of each spending ~9 minutes retrying: that used up the job's
+    time limit on outage days."""
+    global last_model, _gemini_outage
+    if _gemini_outage:
+        pauses = pauses[:1]
     import httpx
     from google.genai import errors, types
     cfg = cfg.model_copy(update={"http_options": types.HttpOptions(timeout=timeout * 1000)})
@@ -382,6 +390,7 @@ def _gemini_call(contents, cfg, parse, models=None, timeout=180, pauses=(0, 20, 
                                                                                 config=cfg), timeout)
                 out = parse(resp)
                 last_model = model
+                _gemini_outage = False
                 return out
             except errors.APIError as e:
                 last = e
@@ -398,6 +407,9 @@ def _gemini_call(contents, cfg, parse, models=None, timeout=180, pauses=(0, 20, 
             except ValueError as e:  # empty/blocked answer, or JSON that doesn't fit the schema
                 last = e
                 print(f"    {model}: unusable answer ({' '.join(str(e).split())[:80]}), trying the next model")
+    if len(pauses) > 1:
+        _gemini_outage = True
+        print("    Gemini looks down: the rest of this run tries it once per job, then the backups")
     raise RuntimeError(f"no Gemini model answered: {last}") from last
 
 
@@ -437,6 +449,30 @@ GROQ_ANSWER_TOKENS = 3000
 GROQ_MAX_PROMPT_CHARS = int((8000 - GROQ_ANSWER_TOKENS - 300) * 3.5)
 
 
+def _validate_dropping_bad_items(schema, text: str):
+    """Validate; if some entries of a list are malformed (e.g. one glossary word tagged with a topic we don't use),
+    drop just those entries instead of the whole answer. Anything else still fails."""
+    from pydantic import ValidationError
+    try:
+        return schema.model_validate_json(text)
+    except ValidationError as e:
+        data, bad = json.loads(text), {}
+        for err in e.errors():
+            loc = err["loc"]
+            idx = next((n for n, part in enumerate(loc) if isinstance(part, int)), None)
+            if idx is None:
+                raise
+            bad.setdefault(loc[:idx], set()).add(loc[idx])
+        for path, rows in bad.items():
+            target = data
+            for part in path:
+                target = target[part]
+            for i in sorted(rows, reverse=True):
+                del target[i]
+        print(f"    dropped {sum(map(len, bad.values()))} malformed entr{'y' if sum(map(len, bad.values())) == 1 else 'ies'}")
+        return schema.model_validate(data)
+
+
 def _groq_generate(prompt: str, schema):
     """Free backup writer: same prompt, answer checked against the same schema (and later the same fact checks)."""
     global last_model
@@ -456,7 +492,7 @@ def _groq_generate(prompt: str, schema):
     # gpt-oss writes narrow no-break spaces and non-breaking hyphens ("$500\u202fbillion"); use plain ones so the
     # fact checks and the site see the same text Gemini would write.
     text = text.translate({0x202F: " ", 0x00A0: " ", 0x2011: "-", 0x2010: "-"})
-    out = schema.model_validate_json(text)
+    out = _validate_dropping_bad_items(schema, text)
     last_model = GROQ_MODEL
     return out
 

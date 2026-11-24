@@ -272,3 +272,35 @@ def test_compact_material_fits_and_only_cuts():
             "key_points": ["p " * 100] * 5, "lesson": "l " * 100}}
     m = S._compact([item] * 30, None, 4000)
     assert len(m) <= 4000 and '"headline":"H"' in m
+
+
+def test_backup_answer_keeps_good_entries_and_drops_bad_ones():
+    import json
+    from pydantic import BaseModel
+    from typing import Literal
+    from digest import summarize as S
+
+    class Tag(BaseModel):
+        term: str
+        topic: Literal["stocks", "other"]
+
+    class Tags(BaseModel):
+        tags: list[Tag]
+
+    raw = json.dumps({"tags": [{"term": "a", "topic": "stocks"}, {"term": "b", "topic": "nonsense"}, {"term": "c", "topic": "other"}]})
+    assert [t.term for t in S._validate_dropping_bad_items(Tags, raw).tags] == ["a", "c"]
+
+
+def test_after_one_full_outage_later_jobs_dont_wait_again(monkeypatch):
+    from digest import summarize as S
+    monkeypatch.setattr(S, "_gemini_outage", False)
+    slept = []
+    monkeypatch.setattr(S.time, "sleep", lambda s: slept.append(s))
+    monkeypatch.setattr(S, "_pace", lambda: None)
+    monkeypatch.setattr(S, "_with_deadline", lambda f, t: (_ for _ in ()).throw(TimeoutError()))
+    from google.genai import types
+    cfg = types.GenerateContentConfig()
+    for _ in range(2):
+        with pytest.raises(RuntimeError):
+            S._gemini_call(["x"], cfg, lambda r: r, models=["m"])
+    assert slept == [20, 60, 120]   # the full backoff happened once, not twice
