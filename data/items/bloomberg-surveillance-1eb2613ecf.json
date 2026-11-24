@@ -1,0 +1,103 @@
+{
+ "id": "bloomberg-surveillance-1eb2613ecf",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 24th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-24th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/1d6f266f-95d0-4237-a29c-b50c01178816/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-24",
+ "duration": 1313,
+ "digest_date": "2026-11-24",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Nvidia rally and AI capex buildout",
+   "Congressional probes into Nvidia security risks",
+   "Government intervention in corporate governance"
+  ],
+  "headline": "Nvidia faces Senate probes over chip export controls while AI capex continues to expand",
+  "tldr": "Market strategists and lawmakers debated the trajectory of Nvidia and the broader AI trade following executive leadership shifts and market volatility. While wealth managers point to strong underlying cash flows and depressed growth valuations, members of Congress are launching hearings into potential national security breaches and chip export control circumventions.",
+  "key_points": [
+   {
+    "point": "Steve Chiovarone of Federated noted that the Russell 1000 Growth Index traded at its lowest valuation multiple since the COVID-19 pandemic bottom, having underperformed value stocks by two standard deviations.",
+    "why_it_matters": "Valuation pullbacks in high-growth technology stocks can create entry points when underlying corporate earnings estimates and cash flows remain intact."
+   },
+   {
+    "point": "Senator Dave McCormick announced that the Senate Banking Committee will hold hearings on October 3rd to examine whether Nvidia circumvented U.S. Commerce Department export rules or compromised national security.",
+    "why_it_matters": "Regulatory and national security scrutiny can lead to tighter trade restrictions, directly impacting revenue potential in international markets."
+   },
+   {
+    "point": "Gil Luria of D.A. Davidson stated that export restrictions on selling chips to Asian intermediaries have already reduced Nvidia's addressable market and market valuation.",
+    "why_it_matters": "Geopolitical trade barriers limit total market size for leading hardware providers, shifting growth reliance back to domestic hyperscalers."
+   },
+   {
+    "point": "Senator McCormick raised concerns about executive branch interference in private corporate board decisions and advocated for legislation banning stock trading by elected officials.",
+    "why_it_matters": "Government intervention in corporate governance creates precedent risk that can distort market pricing and investor confidence."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "17x",
+    "context": "The forward price-to-earnings multiple of the growth index, down from 20x prior to the pullback."
+   },
+   {
+    "figure": "200,000",
+    "context": "Weekly U.S. jobless claims remained below this threshold, signaling labor market resilience."
+   },
+   {
+    "figure": "30%",
+    "context": "The single-day rally magnitude reported for Nvidia stock following leadership announcements."
+   },
+   {
+    "figure": "$200",
+    "context": "Gil Luria's stock price target for Nvidia (NVDA)."
+   },
+   {
+    "figure": "$15M",
+    "context": "Reported single-day gain in President Trump's Nvidia stock holdings."
+   }
+  ],
+  "lesson": "When market sentiment drops faster than corporate earnings estimates, valuation multiples compress, creating divergence between stock prices and business fundamentals.",
+  "opinions_and_predictions": [
+   "Steve Chiovarone (Federated) expects the AI infrastructure buildout to continue despite short-term market pullbacks and supply chain bottlenecks.",
+   "Senator Dave McCormick (R-PA) predicts that recent security allegations will build momentum for passage of the Remote Access Security Act to restrict data-center backdoors.",
+   "Gil Luria (D.A. Davidson) thinks Nvidia faces a difficult path repairing internal corporate culture and customer relationships while navigating tighter congressional oversight."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Capex",
+    "definition": "Short for capital expenditures, referring to funds used by a company to acquire or upgrade physical assets such as data centers and hardware.",
+    "example": "Hyperscale tech companies are increasing capex to build out AI data centers."
+   },
+   {
+    "term": "Valuation Multiple",
+    "definition": "A ratio comparing a company's market value or stock price to a financial metric like earnings or sales.",
+    "example": "The growth stock index saw its valuation multiple drop from 20x to 17x earnings."
+   },
+   {
+    "term": "Export Controls",
+    "definition": "Government laws and regulations that restrict the sale of specific technologies or goods to foreign entities for national security reasons.",
+    "example": "The Commerce Department enforces export controls on advanced semiconductor chips."
+   },
+   {
+    "term": "Hyperscaler",
+    "definition": "Large-scale cloud computing service providers that operate massive data center networks.",
+    "example": "Tech hyperscalers are the primary buyers of advanced AI processing chips."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "export controls",
+   "market valuation",
+   "regulation"
+  ],
+  "quality_note": "Broadcast features commentary from a institutional asset manager, a U.S. Senator on the Senate Banking Committee, and an equity research analyst.",
+  "worth_reading": true
+ }
+}

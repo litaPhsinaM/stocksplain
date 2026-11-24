@@ -1,0 +1,121 @@
+{
+ "id": "patrick-boyle-88fca8af0e",
+ "source_id": "patrick-boyle",
+ "source_name": "Patrick Boyle On Finance",
+ "kind": "podcast",
+ "title": "Nvidia Had No Plan B",
+ "url": "https://podcasters.spotify.com/pod/show/patrickboyle/episodes/Nvidia-Had-No-Plan-B-e3sfjkk",
+ "media_url": "https://traffic.megaphone.fm/APO7292846842.mp3",
+ "published": "2026-11-16",
+ "duration": 2169,
+ "digest_date": "2026-11-24",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia CEO search and Jensen Huang resignation",
+   "Nvidia spy allegations and stock drop",
+   "Analyst risk factor disclosures and SEC filings",
+   "Alice Huang background and MegaSpeed purchase",
+   "Insider stock sales and executive selling",
+   "US export restrictions and chip supply chains",
+   "Nvidia board governance and succession planning"
+  ],
+  "headline": "Nvidia CEO Jensen Huang resigns amid spy scandal as board faces succession pressure",
+  "tldr": "Nvidia co-founder Jensen Huang resigned amid reports that US intelligence agencies believe a Chinese citizen with close ties to him passed information to Beijing. Following the news, Nvidia's stock fell over 20%, highlighting vulnerabilities in the company's risk disclosures and corporate governance structure.",
+  "key_points": [
+   {
+    "point": "Jensen Huang, co-founder of Nvidia, resigned after US intelligence agencies alleged a Chinese citizen close to him passed information to Beijing.",
+    "why_it_matters": "Demonstrates key-person risk, showing how a company's stock can drop significantly when its leadership and value are tied to a single individual."
+   },
+   {
+    "point": "Nvidia's stock fell by more than 20% following the news, wiping out a significant portion of its value amid the AI boom.",
+    "why_it_matters": "Illustrates how quickly market sentiment and valuations can shift when unexpected geopolitical and regulatory risks materialize."
+   },
+   {
+    "point": "Public companies are required to disclose material risk factors in SEC filings, though in practice, companies often list extensive hypothetical scenarios, including asteroid strikes.",
+    "why_it_matters": "Helps investors understand the purpose of risk factor disclosures as legal protections rather than precise predictive tools."
+   },
+   {
+    "point": "Alice Huang, who took control of the AI cloud provider MegaSpeed and bought billions in Nvidia chips, previously worked as a journalist at CCTV and in finance.",
+    "why_it_matters": "Highlights the complex and sometimes opaque corporate relationships within the tech supply chain that analysts must scrutinize."
+   },
+   {
+    "point": "Jensen Huang and other Nvidia insiders have engaged in regular stock sales under planned trading programs.",
+    "why_it_matters": "Shows how executive stock sales are managed through pre-scheduled programs, though they still draw scrutiny during periods of stock volatility."
+   },
+   {
+    "point": "Nvidia's board of directors, including long-serving members like Harvey Jones, faces pressure regarding succession planning and risk oversight.",
+    "why_it_matters": "Underscores the importance of robust corporate governance and active board oversight in managing unforeseen executive crises."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-20%",
+    "context": "The decline in Nvidia's stock price following the reports linking CEO Jensen Huang to the spy allegations."
+   },
+   {
+    "figure": "$4T",
+    "context": "Nvidia's market capitalization at the center of the artificial intelligence boom before the recent stock decline."
+   },
+   {
+    "figure": "5.7M",
+    "context": "The amount of US dollars in top-of-the-range GB300 chips purchased by MegaSpeed from Nvidia, worth about $787M."
+   },
+   {
+    "figure": "1.1T",
+    "context": "The dollar value of Nvidia shares sold by insiders under planned selling programs, according to financial reports."
+   },
+   {
+    "figure": "50,000",
+    "context": "The number of chips or data points referenced in regulatory discussions regarding unaccounted supply chain components."
+   }
+  ],
+  "lesson": "When a company's market dominance and valuation are heavily concentrated around a single leader and rapid technological growth, any sudden leadership or geopolitical disruption can trigger an outsized negative reaction in the stock price.",
+  "opinions_and_predictions": [
+   "Robert Armstrong (FT) thinks that Jensen Huang's interactions with Alice Huang were not unusual or unexpected given his frequent meetings with industry executives.",
+   "Bloomberg's Lex column suggested that companies should be much more precise in their risk factors about how founder departures could impact operations.",
+   "Tracy Alloway pointed out that demand for Nvidia chips remains exceptionally strong, allowing the company to maintain pricing power despite supply chain scrutiny."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Apple (AAPL)"
+  ],
+  "glossary": [
+   {
+    "term": "Key-person risk",
+    "definition": "The risk of a company's business and stock price suffering significantly if a vital executive or founder departs or faces a scandal.",
+    "example": "Nvidia's stock dropped over 20% following reports surrounding co-founder Jensen Huang."
+   },
+   {
+    "term": "Risk factors",
+    "definition": "A section in a public company's regulatory filings detailing potential events that could negatively impact its business operations and financial results.",
+    "example": "Companies list everything from supply chain disruptions to asteroid strikes in their risk disclosures."
+   },
+   {
+    "term": "Collateral",
+    "definition": "An asset pledged by a borrower to a lender as security for a loan, which the lender can seize if the borrower defaults.",
+    "example": "Malaysia was used as collateral for chip financing arrangements in supply chain transactions."
+   },
+   {
+    "term": "Insider selling",
+    "definition": "When executives, directors, or major shareholders of a company sell shares of their own stock.",
+    "example": "Jensen Huang and other Nvidia insiders sold shares through pre-arranged trading programs."
+   },
+   {
+    "term": "Export restrictions",
+    "definition": "Government-mandated rules that limit or prohibit the sale of certain technologies or products to specific foreign countries.",
+    "example": "US rules restrict the sale of advanced semiconductors to Chinese customers to protect national security."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "corporate governance",
+   "geopolitics",
+   "chip manufacturing"
+  ],
+  "quality_note": "The episode is presented by Patrick Boyle, drawing on reporting from financial publications like the Financial Times, Bloomberg, and the New York Times, combining factual news reports with analyst commentary and market data.",
+  "worth_reading": true
+ }
+}

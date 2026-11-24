@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "fetched": "2026-11-24T10:58+00:00",
+ "fetched": "2026-11-24T18:07+00:00",
  "indicators": [
   {
    "id": "CPIAUCSL",
@@ -50,7 +50,7 @@
    "prev": 4.0,
    "text": "4.00%",
    "unit": "%",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "explain": "The top of the Federal Reserve's target rate. Higher rates make borrowing costlier and can cool prices.",
    "url": "https://fred.stlouisfed.org/series/DFEDTARU"
   },
@@ -58,12 +58,12 @@
    "id": "GASREGW",
    "label": "Gas price",
    "vs": "last week",
-   "change": "down from $4.00 last week",
-   "value": 3.805,
-   "prev": 3.995,
-   "text": "$3.81",
+   "change": "down from $3.81 last week",
+   "value": 3.642,
+   "prev": 3.805,
+   "text": "$3.64",
    "unit": "$",
-   "date": "2026-11-16",
+   "date": "2026-11-23",
    "explain": "Average US price of a gallon of regular gas, weekly. A quick read on energy costs for households.",
    "url": "https://fred.stlouisfed.org/series/GASREGW"
   }

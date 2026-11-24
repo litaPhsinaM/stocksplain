@@ -1,0 +1,95 @@
+{
+ "id": "wsj-your-money-af1340e84c",
+ "source_id": "wsj-your-money",
+ "source_name": "WSJ Your Money Briefing",
+ "kind": "podcast",
+ "title": "The Staggering Financial Toll of Caring for Aging Parents",
+ "url": "https://www.wsj.com/podcasts/your-money-matters",
+ "media_url": "https://dowjones.simplecastaudio.com/6549bd7e-b1b3-4333-8a34-08c1efc472c9/episodes/a3a05a7b-c88e-4129-8a8a-fb5725e8c9c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6549bd7e-b1b3-4333-8a34-08c1efc472c9&awEpisodeId=a3a05a7b-c88e-4129-8a8a-fb5725e8c9c6&feed=VYCXJ_UH",
+ "published": "2026-11-24",
+ "duration": 636,
+ "digest_date": "2026-11-24",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Cost of elder care in America",
+   "Financial burdens on adult child caregivers",
+   "Shortage of home health aides"
+  ],
+  "headline": "Elder care costs surge as private nursing rooms average $130,000 annually",
+  "tldr": "Long-term care in the U.S. presents severe financial challenges for aging Americans and their families, with private nursing home rooms averaging $130,000 per year. Medicare does not cover standard long-term care, forcing families into personal debt, career sacrifices, or reliance on Medicaid after depleting their assets. Meanwhile, low pay and high turnover contribute to a severe labor shortage among professional home health aides.",
+  "key_points": [
+   {
+    "point": "Private nursing home care averages $130,000 per year, while assisted living facility care averages $74,000 annually.",
+    "why_it_matters": "Care expenses frequently outpace standard retirement savings and median income, draining family assets rapidly."
+   },
+   {
+    "point": "Medicare does not cover long-term custodial care, leaving Medicaid as the primary government funder only after personal wealth is exhausted.",
+    "why_it_matters": "Misunderstandings regarding Medicare coverage cause families to delay financial planning until an health crisis occurs."
+   },
+   {
+    "point": "Many adult children resign from high-paying careers or take on personal debt to provide home care for elderly parents.",
+    "why_it_matters": "Informal family caregiving reduces household earned income and freezes personal retirement fund contributions."
+   },
+   {
+    "point": "Approximately 78% of adults aged 65 and older prefer to age at home, yet a persistent shortage of home health aides leaves care needs unmet.",
+    "why_it_matters": "Low compensation and high emotional demands deter workers from entering or remaining in the elder care labor market."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$130,000/year",
+    "context": "Average annual cost for a private room in a nursing home care facility."
+   },
+   {
+    "figure": "$74,000/year",
+    "context": "Average annual cost for an assisted living facility."
+   },
+   {
+    "figure": "70%",
+    "context": "Share of Americans aged 65 and older who will require some form of long-term care."
+   },
+   {
+    "figure": "78%",
+    "context": "Share of adults aged 65 and older who express a desire to age at home."
+   },
+   {
+    "figure": "$1,800/month",
+    "context": "Earnings received by caregiver Natalie Rodriguez from the Veterans Administration after leaving an $8,000/month corporate job."
+   }
+  ],
+  "lesson": "When public safety nets exclude coverage for high-cost life events, financial risk transfers directly to individual household balance sheets.",
+  "opinions_and_predictions": [
+   "Jean Whalen (WSJ) notes widespread public misunderstanding regarding Medicare not paying for long-term elder care.",
+   "Ta-Ping Chen (WSJ) indicates that home care agencies are currently unable to meet market demand due to worker shortages."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Medicare",
+    "definition": "A U.S. federal health insurance program for seniors aged 65 and older that covers doctor visits and hospitalizations, but excludes long-term custodial care.",
+    "example": "Families are often surprised to learn that Medicare does not cover standard nursing home stays."
+   },
+   {
+    "term": "Medicaid",
+    "definition": "A joint federal and state program covering medical costs for low-income individuals, which pays for long-term care only after personal assets are spent down.",
+    "example": "Many seniors must exhaust their personal savings before qualifying for Medicaid elder care benefits."
+   },
+   {
+    "term": "Assisted Living",
+    "definition": "Housing facilities providing assistance with daily activities such as bathing and medication management for seniors who do not need full nursing care.",
+    "example": "Assisted living options cost an average of $74,000 per year in the United States."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "elder care",
+   "personal finance",
+   "healthcare costs",
+   "medicare"
+  ],
+  "quality_note": "WSJ reporters Jean Whalen and Ta-Ping Chen offer data-backed reporting combined with direct interviews of family caregivers and industry aides.",
+  "worth_reading": true
+ }
+}
