@@ -1,0 +1,111 @@
+{
+ "id": "indicator-304d3e6fe0",
+ "source_id": "indicator",
+ "source_name": "The Indicator from Planet Money",
+ "kind": "podcast",
+ "title": "Is Jensen Huang too big to fail?",
+ "url": "https://www.npr.org/2026/11/24/nx-s1-6051562/is-nvidias-jensen-huang-too-big-to-fail",
+ "media_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/847a48ee-4e48-47d5-9d3a-ae9acac40684/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=847a48ee-4e48-47d5-9d3a-ae9acac40684&feed=IFy3imsg&t=podcast&e=nx-s1-6051562&p=510325&d=569&size=9111994",
+ "published": "2026-11-24",
+ "duration": 569,
+ "digest_date": "2026-11-24",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Jensen Huang resigns amid scandal",
+   "Affair allegations and spy rumors",
+   "Petition and big tech support",
+   "Trump intervention and board reversal",
+   "Market rally on Nvidia's return"
+  ],
+  "headline": "Nvidia reinstates CEO Jensen Huang after scandals and Trump intervention",
+  "tldr": "Nvidia CEO Jensen Huang resigned following reports of affairs and an alleged Chinese spy connection, only to be reinstated as CEO weeks later. A massive public petition, pressure from big tech executives, and a phone call from President Trump helped push the board to reverse its decision, sparking a massive rally in Nvidia stock and the broader market.",
+  "key_points": [
+   {
+    "point": "Nvidia CEO Jensen Huang resigned after multiple scandals broke, including alleged affairs with employees and an association with an alleged Chinese spy named Alice Huang at a company called Mega Speed.",
+    "why_it_matters": "The scandals initially cost Nvidia hundreds of billions of dollars in market value and raised serious national security and export control concerns regarding advanced AI chips ending up in China."
+   },
+   {
+    "point": "Over 10,000 current Nvidia employees and over 100,000 shareholders signed a petition on standwithjensen.com to bring him back, while tech leaders like Shopify's CEO and Tesla CEO Elon Musk publicly pushed for his return.",
+    "why_it_matters": "Strong internal and external backing demonstrated that many stakeholders viewed the company's fortunes as inseparable from its longtime leader."
+   },
+   {
+    "point": "President Trump stated on CNBC that he called Nvidia's board to urge them to reinstate Jensen Huang, while also noting he owned at least $12 million worth of Nvidia stock at the end of last year.",
+    "why_it_matters": "Unusual presidential intervention on behalf of a corporate executive highlights how deeply intertwined major technology companies have become with national economic and political interests."
+   },
+   {
+    "point": "Upon news of Huang's return, Nvidia's stock rose about 30%, adding roughly a trillion dollars in market cap, while the S&P 500 rose close to 5%.",
+    "why_it_matters": "The explosive market reaction showed that investors viewed Huang's leadership as critical not just for Nvidia, but for the entire technology sector and broader market confidence."
+   },
+   {
+    "point": "Smaller data centers known as neoclouds, such as CoreWeave, also surged 18% because Nvidia has backstopped them by promising to step in and pay for unused computing supply.",
+    "why_it_matters": "It demonstrates how financial health across smaller, debt-reliant AI infrastructure firms is tied directly to Nvidia's support and stability."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$12M",
+    "context": "The minimum value of Nvidia stock owned by President Trump at the end of last year."
+   },
+   {
+    "figure": "30%",
+    "context": "The approximate rise in Nvidia stock on the day Jensen Huang returned as CEO."
+   },
+   {
+    "figure": "5%",
+    "context": "The approximate rise of the entire S&P 500 on the day Jensen came back as CEO."
+   },
+   {
+    "figure": "18%",
+    "context": "The one-day gain for a basket of neoclouds following Huang's reinstatement."
+   },
+   {
+    "figure": "10 terabytes",
+    "context": "The amount of black hole data Nvidia's new supercomputer can process in just over a minute."
+   }
+  ],
+  "lesson": "When a company's market dominance and growth narrative are heavily concentrated in a single visionary leader, its stock price and perceived stability can become exceptionally vulnerable to that leader's personal conduct, prompting boards and powerful stakeholders to weigh behavioral risks against key-person dependency.",
+  "opinions_and_predictions": [
+   "President Trump stated that Jensen Huang would, hopefully, be back soon as CEO.",
+   "The podcast hosts noted that Jensen Huang may be too big to fail.",
+   "Jensen Huang stated that AI will create high-quality jobs and change the world, like powering self-driving cars."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Shopify (SHOP)",
+   "Tesla (TSLA)",
+   "Walmart (WMT)"
+  ],
+  "glossary": [
+   {
+    "term": "Market cap",
+    "definition": "The total dollar market value of a company's outstanding shares of stock.",
+    "example": "Nvidia added roughly a trillion dollars in market cap when its stock surged."
+   },
+   {
+    "term": "Earnings call",
+    "definition": "A conference call between company management, analysts, and investors to discuss financial results for a quarter or year.",
+    "example": "Board chair Harvey Jones announced Jensen Huang's resignation on the company's earnings call."
+   },
+   {
+    "term": "Neoclouds",
+    "definition": "Smaller data centers that rent out graphics processing units (GPUs) and often rely heavily on debt to build out their infrastructure.",
+    "example": "CoreWeave is a neocloud that has run into trouble in the credit markets."
+   },
+   {
+    "term": "Supercomputer",
+    "definition": "A computer with a high-level performance capacity compared to a general-purpose computer, used for intensely complex data processing.",
+    "example": "Nvidia's new supercomputer is being used to collect data from black holes."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "corporate governance",
+   "market dynamics"
+  ],
+  "quality_note": "The source features reporting from NPR journalists referencing statements from board members, company statements, newspaper investigations, and public figures, mixed with market analysis and commentary.",
+  "worth_reading": true
+ }
+}

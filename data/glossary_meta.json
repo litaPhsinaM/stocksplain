@@ -38,8 +38,17 @@
  "ai trade": {
   "topic": "tech"
  },
+ "aigc": {
+  "topic": "tech"
+ },
+ "all-stock deal": {
+  "topic": "companies"
+ },
  "apec": {
   "topic": "policy"
+ },
+ "arbitrage": {
+  "topic": "trading"
  },
  "arr": {
   "topic": "companies"
@@ -54,6 +63,9 @@
   "topic": "stocks"
  },
  "assets": {
+  "topic": "companies"
+ },
+ "backers": {
   "topic": "companies"
  },
  "backlog": {
@@ -81,6 +93,9 @@
  "basis points (bps)": {
   "topic": "bonds",
   "same_as": "basis point"
+ },
+ "bazi": {
+  "topic": "other"
  },
  "bear market": {
   "topic": "stocks"
@@ -190,6 +205,9 @@
  "concentration risk": {
   "topic": "stocks"
  },
+ "consolidation": {
+  "topic": "trading"
+ },
  "constant currency": {
   "topic": "companies"
  },
@@ -294,6 +312,9 @@
  "dividend yield": {
   "topic": "stocks"
  },
+ "diy investor": {
+  "topic": "personal"
+ },
  "dollar-cost averaging": {
   "topic": "personal"
  },
@@ -315,6 +336,9 @@
  "earnings": {
   "topic": "companies"
  },
+ "earnings call": {
+  "topic": "companies"
+ },
  "earnings estimate": {
   "topic": "companies"
  },
@@ -329,6 +353,9 @@
  },
  "endowment": {
   "topic": "stocks"
+ },
+ "endpoint security": {
+  "topic": "tech"
  },
  "eps": {
   "topic": "companies"
@@ -353,6 +380,10 @@
  },
  "ex-dividend date": {
   "topic": "stocks"
+ },
+ "exchange-traded funds (etfs)": {
+  "topic": "stocks",
+  "same_as": "etf"
  },
  "expectations": {
   "topic": "stocks"
@@ -433,6 +464,9 @@
  },
  "gaap": {
   "topic": "companies"
+ },
+ "gamma": {
+  "topic": "trading"
  },
  "gini coefficient": {
   "topic": "economy"
@@ -544,6 +578,9 @@
  "indie": {
   "topic": "other"
  },
+ "infill development": {
+  "topic": "other"
+ },
  "inflation": {
   "topic": "economy"
  },
@@ -608,6 +645,9 @@
  },
  "law fair": {
   "topic": "policy"
+ },
+ "lead azide": {
+  "topic": "other"
  },
  "legacy systems": {
   "topic": "tech"
@@ -710,6 +750,9 @@
  "multi-strategy fund": {
   "topic": "stocks"
  },
+ "municipal bond": {
+  "topic": "bonds"
+ },
  "mutual fund": {
   "topic": "stocks"
  },
@@ -741,11 +784,18 @@
  "net income": {
   "topic": "companies"
  },
+ "nimby": {
+  "topic": "policy"
+ },
  "nominal growth": {
   "topic": "economy"
  },
  "open source": {
   "topic": "tech"
+ },
+ "open-source": {
+  "topic": "tech",
+  "same_as": "open source"
  },
  "operating losses": {
   "topic": "companies"
@@ -764,6 +814,9 @@
  },
  "overbought / oversold": {
   "topic": "trading"
+ },
+ "overcapacity": {
+  "topic": "economy"
  },
  "overconfidence": {
   "topic": "personal"
@@ -813,6 +866,9 @@
  },
  "premium": {
   "topic": "personal"
+ },
+ "prepaid gas bond": {
+  "topic": "bonds"
  },
  "price discovery": {
   "topic": "trading"
@@ -937,6 +993,9 @@
  "rule of 72": {
   "topic": "personal"
  },
+ "rule of law": {
+  "topic": "policy"
+ },
  "s&p 500": {
   "topic": "stocks"
  },
@@ -1001,6 +1060,9 @@
  "sipc": {
   "topic": "banking"
  },
+ "smart christopher": {
+  "topic": "other"
+ },
  "smart meter": {
   "topic": "energy"
  },
@@ -1037,6 +1099,9 @@
  "succession planning": {
   "topic": "companies"
  },
+ "supercomputer": {
+  "topic": "tech"
+ },
  "supply chain": {
   "topic": "companies"
  },
@@ -1070,6 +1135,9 @@
  },
  "tax loss harvesting": {
   "topic": "personal"
+ },
+ "tax-equivalent yield": {
+  "topic": "bonds"
  },
  "technical debt": {
   "topic": "tech"
@@ -1120,6 +1188,9 @@
  "venture capital": {
   "topic": "stocks"
  },
+ "vibe coding": {
+  "topic": "tech"
+ },
  "virtual economy": {
   "topic": "tech"
  },
@@ -1146,5 +1217,8 @@
  },
  "yield": {
   "topic": "bonds"
+ },
+ "zoning": {
+  "topic": "policy"
  }
 }

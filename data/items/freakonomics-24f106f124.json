@@ -1,0 +1,98 @@
+{
+ "id": "freakonomics-24f106f124",
+ "source_id": "freakonomics",
+ "source_name": "Freakonomics Radio",
+ "kind": "podcast",
+ "title": "696. Build, Baby, Build!",
+ "url": "https://freakonomics.com",
+ "media_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4",
+ "published": "2026-11-20",
+ "duration": 3309,
+ "digest_date": "2026-11-24",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Housing as a driver of societal issues",
+   "Work-from-home impact on housing and fertility",
+   "Home ownership as marriage insurance",
+   "The decline in housing supply and affordability",
+   "Zoning regulations as a tax on housing",
+   "Austin's housing policy reforms",
+   "Federal policy and the future of housing"
+  ],
+  "headline": "Housing supply shortages and their impact on US fertility",
+  "tldr": "The US is facing a significant housing supply shortage, which economists argue is a primary driver of declining fertility rates and economic inequality. By reforming restrictive zoning and permitting processes, cities can increase housing density and affordability, potentially helping young families achieve their goals.",
+  "key_points": [
+   {
+    "point": "The US fertility rate is at an all-time low of 1.6 children per woman, despite surveys showing people desire larger families.",
+    "why_it_matters": "This demographic shift impacts long-term economic growth and social stability, making it a critical issue for future policy."
+   },
+   {
+    "point": "Home ownership is often viewed as 'marriage insurance' and a prerequisite for starting a family in the US, but median home prices have risen to five times median household income.",
+    "why_it_matters": "High housing costs create a barrier to entry for young people, forcing them to delay major life milestones like marriage and child-rearing."
+   },
+   {
+    "point": "Economist Ed Glaeser argues that restrictive zoning and land-use regulations act as a 'tax' that prevents the market from building enough supply to meet demand.",
+    "why_it_matters": "Understanding that supply constraints\u2014rather than just demand\u2014drive prices helps clarify why simply having more land does not guarantee affordability."
+   },
+   {
+    "point": "Austin, Texas, reduced permitting steps and allowed for higher density, such as three units on a single-family lot, to increase housing supply.",
+    "why_it_matters": "This serves as a real-world example of how local policy changes can successfully lower rental prices and improve housing availability."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "1.6",
+    "context": "The current total fertility rate in the US, representing children per woman."
+   },
+   {
+    "figure": "5x",
+    "context": "The ratio of the median home cost to the median household income today, compared to 2.5x in 1970."
+   },
+   {
+    "figure": "144 million",
+    "context": "The estimated number of housing units in the US as of 2023."
+   }
+  ],
+  "lesson": "When local governments restrict the supply of housing through zoning and complex permitting, the resulting scarcity drives up costs, which disproportionately prevents younger generations from accessing the same economic opportunities as their predecessors.",
+  "opinions_and_predictions": [
+   "Melissa Kearney (University of Notre Dame) believes that making housing more affordable is a viable way to support people who want to have families.",
+   "Nick Bloom (Stanford) predicts that the work-from-home revolution will continue to reshape the housing market by shifting demand toward suburbs and rural areas.",
+   "Lyman Stone (Institute for Family Studies) argues that the government should reform FHA loans to provide specific benefits for marriage and child-rearing.",
+   "Ed Glaeser (Harvard) suggests that federal transportation funding should be tied to local housing production to force municipalities to build more in high-demand areas."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Zoning",
+    "definition": "Local government regulations that dictate how land can be used, such as limiting the types of buildings allowed in specific areas.",
+    "example": "Austin changed its zoning to allow for higher density housing on single-family lots."
+   },
+   {
+    "term": "Infill development",
+    "definition": "The process of developing vacant or underused parcels of land within existing urban areas.",
+    "example": "Austin encouraged infill development to increase housing supply in the central city."
+   },
+   {
+    "term": "NIMBY",
+    "definition": "An acronym for 'Not In My Backyard,' referring to residents who oppose new development in their local area.",
+    "example": "The podcast discusses how NIMBY sentiment often leads to restrictive zoning laws."
+   },
+   {
+    "term": "Arbitrage",
+    "definition": "The practice of taking advantage of a price difference between two or more markets.",
+    "example": "Investors used arbitrage by buying single-family homes after 2008 to convert them into rental units."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "housing policy",
+   "fertility rates",
+   "economics",
+   "zoning"
+  ],
+  "quality_note": "The source features interviews with academic economists and policymakers, providing a mix of data-backed analysis and policy-oriented speculation.",
+  "worth_reading": true
+ }
+}

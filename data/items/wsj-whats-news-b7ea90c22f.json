@@ -1,0 +1,119 @@
+{
+ "id": "wsj-whats-news-b7ea90c22f",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Jensen Huang Is Back at Nvidia. What\u2019s Next?",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/01d6d97e-e3b5-4c97-8b0e-669dab9bf739/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=01d6d97e-e3b5-4c97-8b0e-669dab9bf739&feed=BA5QWI2p",
+ "published": "2026-11-23",
+ "duration": 600,
+ "digest_date": "2026-11-24",
+ "backend": "gemini",
+ "model": "gemini-3-flash-preview",
+ "summary": {
+  "segments": [
+   "Jensen Huang reinstated as Nvidia CEO",
+   "Trump and Vance intervention in reinstatement",
+   "Nvidia stock adds $1 trillion market cap",
+   "New governance controls at Nvidia board",
+   "CrowdStrike to buy Zscaler for $44B",
+   "Trump halts Iowa toxic explosive detonation"
+  ],
+  "headline": "Nvidia reinstates Jensen Huang as CEO; CrowdStrike buys Zscaler for $44B",
+  "tldr": "Nvidia's board reinstated Jensen Huang as CEO just 11 days after his resignation, following pressure from the White House and a massive stock recovery. The news sparked a record-breaking market rally, while the cybersecurity sector saw a major consolidation with CrowdStrike's $44 billion acquisition of Zscaler.",
+  "key_points": [
+   {
+    "point": "Nvidia's board brought back Jensen Huang after 11 days, following assurances from the Trump administration that he was not a security risk.",
+    "why_it_matters": "The move ends leadership uncertainty at the world's most valuable chipmaker, though it follows a scandal involving an affair with a suspected foreign agent."
+   },
+   {
+    "point": "Nvidia's stock rose 30% on the news, adding nearly $1 trillion in market value, the largest single-day gain in U.S. history.",
+    "why_it_matters": "This massive jump illustrates the market's 'cult of the founder' and how much of Nvidia's valuation is tied specifically to Huang's leadership."
+   },
+   {
+    "point": "CrowdStrike agreed to acquire Zscaler in an all-stock deal (paying with shares instead of cash) valued at $44 billion.",
+    "why_it_matters": "This is a major consolidation in the cybersecurity industry as companies race to integrate AI-driven digital defenses."
+   },
+   {
+    "point": "Nvidia's board added a Chairman and a National Security Committee to oversee chip exports and compliance.",
+    "why_it_matters": "Even with Huang back, the company will face stricter oversight regarding sensitive technology sales to countries like China."
+   },
+   {
+    "point": "President Trump ordered the Army to pause the detonation of 10,000 lbs of toxic lead azide explosives in Iowa.",
+    "why_it_matters": "The decision addresses local health concerns regarding lead dispersion, which environmentalists warned could cause developmental delays."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "+30%",
+    "context": "The increase in Nvidia's stock price following the announcement of Huang's return."
+   },
+   {
+    "figure": "~$1T",
+    "context": "The amount of market capitalization Nvidia added in a single day."
+   },
+   {
+    "figure": "$44B",
+    "context": "The total value of the all-stock deal for CrowdStrike to acquire Zscaler."
+   },
+   {
+    "figure": "+6.5%",
+    "context": "The daily gain for the Nasdaq index, driven by the tech rally."
+   },
+   {
+    "figure": "10,000 lbs",
+    "context": "The amount of lead azide explosives the Army planned to detonate in Iowa."
+   }
+  ],
+  "lesson": "Key-person risk occurs when a company's market value is heavily dependent on one leader; while their presence can drive growth, it makes the stock vulnerable to that individual's personal risks and scandals.",
+  "opinions_and_predictions": [
+   "President Trump called Jensen Huang a 'genius' and said he was essential for the country's AI race.",
+   "Amrith Ram Kumar (WSJ) noted the timing of the reinstatement is 'interesting' given that federal investigations are still ongoing.",
+   "Aaron Back (WSJ) expects Huang to be 'reined in' on national security and China questions due to new board committees.",
+   "Aaron Back (WSJ) predicts that tougher export controls and increased scrutiny will be a lasting legacy of this scandal.",
+   "Carrie Johansson (Iowa Environmental Council) expressed concern that lead dispersion could cause developmental delays and health issues for residents."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "CrowdStrike (CRWD)",
+   "Zscaler (ZS)",
+   "Intel (INTC)"
+  ],
+  "glossary": [
+   {
+    "term": "Market cap",
+    "definition": "The total dollar value of all a company's outstanding shares.",
+    "example": "Nvidia added close to a trillion dollars in market cap in one day."
+   },
+   {
+    "term": "All-stock deal",
+    "definition": "An acquisition where the buying company uses its own shares as currency to pay the target company's shareholders.",
+    "example": "CrowdStrike agreed to buy Zscaler in an all-stock deal valued at $44 billion."
+   },
+   {
+    "term": "Export controls",
+    "definition": "Government regulations that restrict the sale of certain technologies to foreign countries for national security reasons.",
+    "example": "Nvidia's board created a committee to monitor chip exports to China."
+   },
+   {
+    "term": "Open-source",
+    "definition": "Software or AI models where the original source code is made freely available and may be redistributed and modified.",
+    "example": "Huang has long argued for the democratization of AI and open-source models."
+   },
+   {
+    "term": "Lead azide",
+    "definition": "An inorganic compound used as an explosive in military primers and detonators.",
+    "example": "The Army planned to blow up almost 10,000 lbs of lead azide at an ammunition plant."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "ai stocks",
+   "mergers and acquisitions",
+   "corporate governance"
+  ],
+  "quality_note": "The report features direct quotes from President Trump and WSJ editors, backed by market data and official company announcements.",
+  "worth_reading": true
+ }
+}

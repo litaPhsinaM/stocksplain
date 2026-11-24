@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-24",
+ "questions": [
+  {
+   "question": "What does 'key-person risk' refer to in the context of Nvidia's recent leadership changes?",
+   "options": [
+    "The risk that a company's stock price is overly dependent on a single leader.",
+    "The danger of hiring a CEO who has no prior experience in the tech industry.",
+    "The risk that a company will lose money by paying a CEO too much.",
+    "The requirement for a company to have a backup plan for every employee."
+   ],
+   "answer": 0,
+   "explanation": "Key-person risk describes how a company's market value can become dangerously tied to one individual's presence. When Nvidia's stock swung wildly based on Jensen Huang's resignation and return, it highlighted how much the market relies on his specific leadership.",
+   "item_id": "prof-g-markets-a6fe9a6e6f"
+  },
+  {
+   "question": "What does a VIX level of 40 indicate about the stock market?",
+   "options": [
+    "That the market is experiencing extreme stability and low trading volume.",
+    "That investors are expecting a period of very low interest rates.",
+    "That there is significant market stress and high fear among investors.",
+    "That the S&P 500 is guaranteed to rise by 40% in the coming week."
+   ],
+   "answer": 2,
+   "explanation": "The VIX is a measure of expected market volatility; a level of 40 signals extreme fear and potential for large price swings. This high level was reached recently as technical factors and market stress caused significant turbulence.",
+   "item_id": "odd-lots-4375df19dc"
+  },
+  {
+   "question": "Why does the story about restrictive zoning and housing supply matter for the US economy?",
+   "options": [
+    "Because it explains why the US has too many houses and not enough people.",
+    "Because housing shortages drive up costs, delaying life milestones and impacting long-term growth.",
+    "Because zoning laws are the only factor that determines the price of a stock.",
+    "Because building more houses is the only way to lower the national debt."
+   ],
+   "answer": 1,
+   "explanation": "Restrictive zoning limits supply, which drives up housing costs and creates barriers for young people to start families. This demographic shift is a critical issue because it impacts long-term economic growth and social stability.",
+   "item_id": "freakonomics-24f106f124"
+  }
+ ]
+}

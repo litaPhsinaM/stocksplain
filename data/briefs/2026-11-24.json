@@ -1,0 +1,58 @@
+{
+ "date": "2026-11-24",
+ "big_picture": "Nvidia reinstated CEO Jensen Huang after an 11-day ouster, triggering a 30% stock surge that added nearly $1 trillion in market cap and rallied major indexes. CrowdStrike agreed to acquire cybersecurity rival Zscaler in a $44 billion all-stock transaction. Meanwhile, U.S. median home prices reached five times median household income, contributing to a record-low national fertility rate of 1.6 children per woman.",
+ "themes": [
+  {
+   "title": "Nvidia reinstates CEO Jensen Huang after 11-day ouster, sparking market rally",
+   "explanation": "Nvidia's board unanimously reinstated Jensen Huang following pressure from tech executives, employee and shareholder petitions, and President Trump, driving a single-day 30% stock surge that added ~$1 trillion in market capitalization. The jump helped propel the S&P 500 up nearly 5% and the Nasdaq up 6.5%, recovering from a correction earlier in the week where the VIX hit 40 and leveraged ETF selling reached $35 billion amid low market liquidity. To address security concerns stemming from Huang's alleged links to an unverified Chinese spy, Nvidia's board added a Chairman and a National Security Committee to oversee chip export compliance.",
+   "item_ids": [
+    "wsj-whats-news-b7ea90c22f",
+    "prof-g-markets-a6fe9a6e6f",
+    "indicator-304d3e6fe0",
+    "odd-lots-4375df19dc",
+    "marketplace-ffa33db71a"
+   ]
+  },
+  {
+   "title": "CrowdStrike acquires Zscaler for $44 billion in all-stock cybersecurity deal",
+   "explanation": "CrowdStrike agreed to acquire cloud security company Zscaler in an all-stock transaction valued at $44 billion. The deal represents major consolidation in the cybersecurity sector as firms seek scale to deploy capital-intensive, AI-driven digital defense systems.",
+   "item_ids": [
+    "wsj-whats-news-b7ea90c22f",
+    "marketplace-ffa33db71a"
+   ]
+  },
+  {
+   "title": "Housing supply restrictions raise home prices to 5x median income and depress U.S. fertility",
+   "explanation": "The U.S. total fertility rate has dropped to an all-time low of 1.6 children per woman, driven in part by high housing costs that delay marriage and family formation. Economist Ed Glaeser highlights that restrictive zoning regulations act as a tax on housing supply, driving median home prices to five times median household income compared to 2.5 times in 1970. Cities like Austin, Texas, demonstrated that reforming land-use rules to allow three units per single-family lot can successfully expand supply and lower rents.",
+   "item_ids": [
+    "freakonomics-24f106f124"
+   ]
+  },
+  {
+   "title": "China pursues broad AI industrial diffusion amid localized overcapacity and speculative schemes",
+   "explanation": "China's national 'AI plus' initiative focuses on integrating artificial intelligence across traditional manufacturing and supply chains rather than focusing exclusively on frontier models. However, regional government mandates have created localized speculative bubbles, such as short-form AI drama production where 90% of firms lose money, and commercial AI training companies like Shengcaiyoushu charging 3,000 to 4,000 yuan for basic classes.",
+   "item_ids": [
+    "odd-lots-be56133c6e"
+   ]
+  },
+  {
+   "title": "Rising material costs impact 82% of U.S. businesses across energy, labor, and agriculture",
+   "explanation": "A survey by the National Association for Business Economics showed 82% of respondents facing higher material costs, the highest share since 1999. The inflationary pressures are driven by fuel prices, wage increases, and trade tariffs, directly impacting sectors like agriculture where farmers face equipment prices of $700,000 for tractors and $180 per hour for repair shop labor.",
+   "item_ids": [
+    "marketplace-ffa33db71a"
+   ]
+  },
+  {
+   "title": "PWL Capital evolves executive leadership and scales financial planning via internal software",
+   "explanation": "PWL Capital named Ben Felix president alongside CEO Cameron Passmore to formalize executive governance across its 150-person firm. To scale financial planning standard operating procedures across cash, tax, retirement, and estate management, the firm deployed internal software that transcribes client meeting notes directly into structured planning checklists.",
+   "item_ids": [
+    "rational-reminder-e662f30b61"
+   ]
+  }
+ ],
+ "concept_of_the_day": {
+  "concept": "Key-person risk",
+  "explanation": "Key-person risk refers to the operational and financial vulnerability a company faces when its business model, investor trust, or valuation is heavily concentrated in a single individual. If that leader resigns, is removed, or faces personal scandal, the firm can suffer sudden losses in market value and strategic stability. This risk manifested clearly today across Nvidia's stock movements. When CEO Jensen Huang resigned amid personal and national security allegations, Nvidia lost hundreds of billions in value, but when the board reinstated him 11 days later, the stock surged 30% in a single day, adding nearly $1 trillion in market cap. To manage this dependency going forward, Nvidia's board added a Chairman and a National Security Committee to oversee compliance while retaining Huang's leadership."
+ },
+ "watch_for": []
+}

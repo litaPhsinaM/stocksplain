@@ -1,0 +1,94 @@
+{
+ "id": "prof-g-markets-a6fe9a6e6f",
+ "source_id": "prof-g-markets",
+ "source_name": "Prof G Markets",
+ "kind": "podcast",
+ "title": "Unprecedented Corruption: How Jensen Huang Got His Job Back",
+ "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8853773004.mp3",
+ "media_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8853773004.mp3",
+ "published": "2026-11-24",
+ "duration": 1712,
+ "digest_date": "2026-11-24",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Market update and Nvidia board vote",
+   "Scott Galloway on wealth versus virtue",
+   "Jensen Huang's reinstatement controversy"
+  ],
+  "headline": "Nvidia reinstates Jensen Huang as CEO; markets rally to best day since April 2025",
+  "tldr": "Markets rallied to their best day since April 2025 as major indexes climbed, led by a 30% jump in Nvidia shares following the board's unanimous vote to reinstate Jensen Huang as CEO. Guest Scott Galloway discussed the broader societal shift toward wealth over virtue and criticized the erosion of corporate governance and rule of law standards.",
+  "key_points": [
+   {
+    "point": "Nvidia's board unanimously voted to reinstate Jensen Huang as CEO, president, and board director less than a week after he resigned over alleged ties to an unverified Chinese spy.",
+    "why_it_matters": "The reversal sparked massive stock gains but left key questions unanswered regarding what Chinese intelligence was obtained and whether export controls were circumvented."
+   },
+   {
+    "point": "Nvidia stock jumped more than 30% on Monday after falling nearly 50% from its peak, driving a broader market rally that saw the S&P climb nearly 5% and the Nasdaq rise 6.5%.",
+    "why_it_matters": "It demonstrates how heavily weighted and reactive major indexes remain to single mega-cap AI stocks like Nvidia."
+   },
+   {
+    "point": "Scott Galloway argued that society is teaching young people that the path to virtue is wealth, rather than wealth being the byproduct of virtue.",
+    "why_it_matters": "This cultural shift undermines the rule of law and corporate governance standards that protect public markets and everyday shareholders."
+   },
+   {
+    "point": "Scott Galloway characterized the U.S. economic engine as relying fundamentally on trust and the rule of law rather than just cheap capital.",
+    "why_it_matters": "When trust erodes through perceived double standards for executives, it threatens the foundational appeal of U.S. public markets to global investors."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "+30%",
+    "context": "The stock jump for Nvidia on Monday after falling nearly 50% from its peak."
+   },
+   {
+    "figure": "5%",
+    "context": "The gain by which the S&P climbed during the broader market rally."
+   },
+   {
+    "figure": "6.5%",
+    "context": "The gain by which the Nasdaq rose during the market rally."
+   },
+   {
+    "figure": "11 days",
+    "context": "The duration since Jensen Huang originally resigned from his position."
+   }
+  ],
+  "lesson": "When a company's leadership and valuation rely heavily on exceptional individual performance, boards may compromise governance standards to retain that leader, creating key-person risk and signaling that rules apply unequally.",
+  "opinions_and_predictions": [
+   "Scott Galloway believes that investors are about to see 'the mother of all C-SPAN porn' as congressional hearings unfold around tech executives and government investigations.",
+   "Scott Galloway thinks that the reinstatement of Jensen Huang sends a terrible signal that undermines the rule of law and trust in public markets.",
+   "Scott Galloway predicts that the controversy surrounding Jensen Huang will severely distract the board and management over the next two years as investigations proceed."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Key-person risk",
+    "definition": "The risk that a company's business performance and stock price are overly dependent on a single key individual, such as a CEO.",
+    "example": "Nvidia's stock fluctuations based on Jensen Huang's resignation and reinstatement illustrate key-person risk."
+   },
+   {
+    "term": "Export controls",
+    "definition": "Government restrictions on the export of sensitive technologies, such as advanced semiconductors, to foreign adversaries.",
+    "example": "Questions remain regarding whether Nvidia circumvented export controls."
+   },
+   {
+    "term": "Rule of law",
+    "definition": "The principle that all people and institutions are subject to and accountable to law that is fairly applied and enforced.",
+    "example": "Scott Galloway noted that the U.S. economic advantage rests on the rule of law and corporate governance."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "corporate governance",
+   "market updates",
+   "regulation"
+  ],
+  "quality_note": "The episode features commentary from podcast host Ed Elson and guest Scott Galloway, offering personal analysis, opinions, and critiques of corporate governance and market reactions.",
+  "worth_reading": true
+ }
+}
