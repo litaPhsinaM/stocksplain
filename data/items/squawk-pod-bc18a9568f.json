@@ -1,0 +1,103 @@
+{
+ "id": "squawk-pod-bc18a9568f",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "New Tariffs & the Turkey Talk-Line 11/25/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/8798ac73-922f-43d5-8947-8215ff9a622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=8798ac73-922f-43d5-8947-8215ff9a622e&feed=VHAcgaw_",
+ "published": "2026-11-25",
+ "duration": 2055,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Nvidia CEO Jensen Huang return and governance",
+   "US proposed tariffs on 14 trading partners",
+   "Anthropic IPO stock performance",
+   "Butterball Turkey Talk-Line Thanksgiving advice"
+  ],
+  "headline": "US proposes tariffs on 14 trade partners; Nvidia CEO rejects succession plan",
+  "tldr": "US Trade Representative Jameson Greer outlined proposed targeted tariffs of 15% to 20% on 14 trading partners following a Section 301 investigation into industrial subsidies and overcapacity. Meanwhile, Nvidia CEO Jensen Huang defended the company's lack of a formal succession plan following his reinstatement, and Anthropic shares traded below their $83 IPO price.",
+  "key_points": [
+   {
+    "point": "US Trade Representative Jameson Greer announced proposed targeted tariffs ranging from 15% to 20% on 14 trading partners, including China and the EU, to address excess industrial capacity.",
+    "why_it_matters": "Learners can observe how trade policy uses tariffs to counter foreign government subsidies, which directly affects international supply chains and import costs."
+   },
+   {
+    "point": "Nvidia CEO Jensen Huang told employees the company does not need traditional succession planning due to its unique structure and capable segment leaders.",
+    "why_it_matters": "Key-person risk and corporate governance choices influence investor confidence and drive stock volatility during leadership transitions."
+   },
+   {
+    "point": "The US trade proposal includes targeted exemptions for approximately $30 billion worth of Chinese consumer goods to adhere to existing trade agreements.",
+    "why_it_matters": "Policymakers balance trade protectionism against consumer price inflation and diplomatic commitments when structuring tariff schedules."
+   },
+   {
+    "point": "Anthropic stock fell to the $77-81 range after its $83 IPO price, despite raising over $81 billion in one of the largest share sales recorded.",
+    "why_it_matters": "Initial market debuts do not guarantee price appreciation, demonstrating that high valuations can face immediate downward pressure once trading starts."
+   },
+   {
+    "point": "Butterball Turkey Talk Line supervisor Jessica Romanowski highlighted using a food thermometer to verify a 170\u00b0F internal temperature rather than relying solely on timed cooking.",
+    "why_it_matters": "Relying on precise measurement tools rather than estimates prevents failure in quality control and process execution."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "15% to 20%",
+    "context": "The proposed US targeted tariff rates on excess capacity goods across 14 trade partners."
+   },
+   {
+    "figure": "$30B",
+    "context": "The value of Chinese consumer goods proposed to be exempt from new US tariffs."
+   },
+   {
+    "figure": "-6%",
+    "context": "The drop in Nvidia stock on Tuesday following Jensen Huang's internal address."
+   },
+   {
+    "figure": "$81B",
+    "context": "The total capital raised by Anthropic during its initial public offering."
+   }
+  ],
+  "lesson": "When a company's market value is tied to one leader, leadership instability creates key-person risk that causes stock volatility; boards manage this exposure through clear succession plans.",
+  "opinions_and_predictions": [
+   "Jameson Greer (USTR) expects the proposed targeted tariffs will not take effect for a couple of months following public comment.",
+   "Donald Trump (US President) stated he does not think Jensen Huang needs to invoke Fifth Amendment rights before congressional committees."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Section 301 Investigation",
+    "definition": "A provision of US trade law that allows the government to investigate and enforce remedies against foreign unfair trade practices or subsidies.",
+    "example": "The US Trade Representative conducted a Section 301 investigation into foreign excess manufacturing capacity."
+   },
+   {
+    "term": "Excess Capacity",
+    "definition": "A situation where an industry's production potential significantly exceeds domestic or global market demand, often resulting from government subsidies.",
+    "example": "US officials designed tariffs to address Chinese industrial overcapacity in manufacturing."
+   },
+   {
+    "term": "Key-Person Risk",
+    "definition": "The financial and operational risk a firm faces if a founder or essential executive suddenly departs or experiences personal trouble.",
+    "example": "Nvidia experienced stock volatility amid questions over Jensen Huang's governance role."
+   },
+   {
+    "term": "IPO (Initial Public Offering)",
+    "definition": "The first time a private company offers its shares of stock for purchase by the public on an exchange.",
+    "example": "Anthropic issued shares at an IPO price of $83 before trading in the open market."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "tariffs",
+   "corporate governance",
+   "stocks",
+   "trade policy"
+  ],
+  "quality_note": "Squawk Box anchors interview US Trade Representative Jameson Greer and report on corporate announcements and stock trading data.",
+  "worth_reading": true
+ }
+}

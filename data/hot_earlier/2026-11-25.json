@@ -1,0 +1,418 @@
+{
+ "date": "2026-11-25",
+ "edition": "am",
+ "updated": "5:40 am ET",
+ "topics": [
+  {
+   "title": "Jensen Huang resumes Nvidia CEO role following scandal while facing ongoing investigations",
+   "explanation": "Jensen Huang apologized to Nvidia employees during an all-hands meeting after returning to his position as chief executive officer. President Trump took credit for facilitating his return, but Nvidia shares dropped over 5% as market enthusiasm cooled. The semiconductor maker continues to navigate an internal investigation alongside state and federal scrutiny.",
+   "why_it_matters": "Executive instability and legal scrutiny at critical tech giants can trigger market volatility and impact sentiment surrounding high-growth sectors like artificial intelligence.",
+   "tickers": [
+    "NVDA"
+   ],
+   "beat": "tech",
+   "headline_ids": [
+    "h7b37625c",
+    "h648f8f97",
+    "h2b8b0d15",
+    "hecd26f98"
+   ]
+  },
+  {
+   "title": "Oil tankers explode in Strait of Hormuz following mine strikes",
+   "explanation": "Iranian forces reported that several oil tankers caught fire after striking naval mines in the Strait of Hormuz during unauthorized transits. The incidents took place despite U.S. naval escorts, heightening security concerns in the region. Crude oil futures nonetheless edged lower as market participants weighed broader supply conditions.",
+   "why_it_matters": "Geopolitical conflict in major maritime choke points can disrupt global energy supply chains and drive price volatility across fuel markets.",
+   "tickers": [],
+   "beat": "energy",
+   "headline_ids": [
+    "h4a156e80",
+    "he4ce6dcd",
+    "h6ba67494"
+   ]
+  },
+  {
+   "title": "United States prepares to unveil new tariffs on major global trade partners",
+   "explanation": "The U.S. government is readying a plan to introduce new import tariffs targeting key trade partners including China, the European Union, Japan, and South Korea. Chinese officials characterized the prospective levies as political maneuvering and urged cooperation to preserve existing trade arrangements. The tariff proposals weighed on stock index futures and international tech equities.",
+   "why_it_matters": "Tariffs increase the cost of imported goods, alter international supply chains, and can trigger retaliatory trade policies that impact corporate earnings.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "hb6f42170",
+    "hc967df2c",
+    "h79400360",
+    "h279b665e"
+   ]
+  },
+  {
+   "title": "Anthropic shares drop below initial public offering price",
+   "explanation": "Shares of artificial intelligence developer Anthropic dropped below their $83 initial public offering price following three consecutive sessions of declines. The stock slide comes short after the company completed a record-sized listing on the Nasdaq exchange. Despite the post-IPO sell-off, several Wall Street analysts maintain positive long-term ratings on the company.",
+   "why_it_matters": "Price declines in high-profile stock debuts can signal changing investor sentiment toward venture-backed tech companies and high-valuation AI startups.",
+   "tickers": [],
+   "beat": "markets",
+   "headline_ids": [
+    "h2116f73a",
+    "hb2f33d60",
+    "h754f8673",
+    "hba51d929"
+   ]
+  },
+  {
+   "title": "US jury convicts Huawei of trade secret theft and fraud charges",
+   "explanation": "A U.S. federal jury in New York found Chinese telecommunications giant Huawei guilty of bank fraud, money laundering, and trade secret theft conspiracy. The verdict concludes a multi-year criminal trial accusing the firm of stealing proprietary source code and technology from American businesses. The jury acquitted Huawei on racketeering charges.",
+   "why_it_matters": "Criminal convictions against foreign technology firms highlight increasing regulatory enforcement and geopolitical friction in global tech supply chains.",
+   "tickers": [],
+   "beat": "tech",
+   "headline_ids": [
+    "hd4c272d2",
+    "h4e956f5d",
+    "had056cd7"
+   ]
+  },
+  {
+   "title": "United Kingdom household energy bills set to surge 26% in January",
+   "explanation": "British utility regulator Ofgem is raising the energy price cap, causing average UK household bills to jump by 26% starting in January. The rise is driven by climbing wholesale gas and electricity prices tied to Middle East tensions and winter heating demand. A typical household could see annual power costs rise from \u00a31,723 to \u00a32,166.",
+   "why_it_matters": "Significant jumps in utility costs reduce consumer purchasing power and add to inflationary pressures in regional economies.",
+   "tickers": [],
+   "beat": "world",
+   "headline_ids": [
+    "h2f688370",
+    "h604b9172",
+    "h749ae1ab"
+   ]
+  },
+  {
+   "title": "Dell tops earnings expectations and announces $25 billion buyback program",
+   "explanation": "Dell Technologies posted third-quarter quarterly sales that more than doubled year-over-year, driven by robust demand for artificial intelligence servers. Following the earnings beat, the company's board approved a $25 billion stock repurchase authorization. Management noted that its project backlog remains rigorously vetted for customer financing and infrastructure access.",
+   "why_it_matters": "Strong hardware earnings and large share buybacks demonstrate how corporate spending on AI computing infrastructure translates into financial performance for tech manufacturers.",
+   "tickers": [
+    "DELL"
+   ],
+   "beat": "markets",
+   "headline_ids": [
+    "h34784abe",
+    "h5b0ad5da"
+   ]
+  }
+ ],
+ "headlines": {
+  "h4a156e80": {
+   "id": "h4a156e80",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify",
+   "blurb": "Two oil tankers exploded early on Wednesday after hitting naval mines while attempting to transit the Strait of Hormuz on routes unauthorized by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said. These Iranian reports about tankers that Tehran says are \u2018violating\u2019 the\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-Fresh-Tanker-Explosions-as-Hormuz-Attacks-Intensify.html",
+   "published": "2026-11-25T09:30"
+  },
+  "hd4c272d2": {
+   "id": "hd4c272d2",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+   "blurb": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+   "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+   "published": "2026-11-25T02:43"
+  },
+  "he4ce6dcd": {
+   "id": "he4ce6dcd",
+   "source": "CNBC Energy",
+   "beat": "energy",
+   "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+   "blurb": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+   "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+   "published": "2026-11-24T05:05"
+  },
+  "h2f688370": {
+   "id": "h2f688370",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
+   "blurb": "A household using a typical amount of energy would see its annual bill rise from \u00a31,723 to \u00a32,166 if this level was sustained for a year.",
+   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-25T09:54"
+  },
+  "h604b9172": {
+   "id": "h604b9172",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "What will the energy cap changes mean for my bills?",
+   "blurb": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+   "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-25T09:54"
+  },
+  "h749ae1ab": {
+   "id": "h749ae1ab",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "UK Energy Bills Rise 26% as War Fuels Cost-of-Living Squeeze",
+   "blurb": "UK households are set for a 26% rise in energy costs in January as the Middle East war pushes up wholesale gas and electricity prices, with winter demand adding further pressure.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/uk-energy-bills-rise-26-with-war-fueling-cost-of-living-squeeze",
+   "published": "2026-11-25T07:04"
+  },
+  "h6ba67494": {
+   "id": "h6ba67494",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz",
+   "blurb": "Crude oil prices moved lower in early Asian trading on Wednesday, extending the recent downward trend despite reports of increasingly frequent incidents involving tankers in the Strait of Hormuz, with Iranian authorities attributing them to mines and other sources suggesting\u2026",
+   "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-Despite-Mounting-Threats-in-the-Strait-of-Hormuz.html",
+   "published": "2026-11-25T05:50"
+  },
+  "h7b37625c": {
+   "id": "h7b37625c",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+   "blurb": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+   "published": "2026-11-24T21:15"
+  },
+  "h4e956f5d": {
+   "id": "h4e956f5d",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Huawei found guilty of stealing trade secrets",
+   "blurb": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary\u2026",
+   "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+   "published": "2026-11-24T22:23"
+  },
+  "hecd26f98": {
+   "id": "hecd26f98",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
+   "blurb": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.",
+   "url": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy",
+   "published": "2026-11-24T11:42"
+  },
+  "h2116f73a": {
+   "id": "h2116f73a",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+   "blurb": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+   "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+   "published": "2026-11-24T21:04"
+  },
+  "h34784abe": {
+   "id": "h34784abe",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Dell\u2019s stock rises as the AI boom helps sales more than double",
+   "blurb": "Dell says its backlog is \u201crigorously vetted for customer quality and access to capital, land and power.\u201d",
+   "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+   "published": "2026-11-25T01:11"
+  },
+  "hb2f33d60": {
+   "id": "hb2f33d60",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+   "blurb": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions.",
+   "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+   "published": "2026-11-24T22:07"
+  },
+  "had056cd7": {
+   "id": "had056cd7",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+   "blurb": "The verdict follows a months-long trial in New York.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-25T02:59"
+  },
+  "h279b665e": {
+   "id": "h279b665e",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "China Dismisses US Tariff Prospect as \u2018Political Maneuvering\u2019",
+   "blurb": "China called the prospect of new US tariffs on its exports \u201cpolitical maneuvering\u201d and said the two nations should work together to maintain their trade truce.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
+   "published": "2026-11-25T07:57"
+  },
+  "hb6f42170": {
+   "id": "hb6f42170",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "US Set to Announce New Tariffs on China, EU",
+   "blurb": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from Brussels, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-25/daybreak-europe-11-25-2026-video",
+   "published": "2026-11-25T07:43"
+  },
+  "h648f8f97": {
+   "id": "h648f8f97",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Huang Apologizes to Nvidia Staff After Returning as CEO",
+   "blurb": "Jensen Huang apologized to employees during an all-hands meeting a day after his reinstatement as Nvidia\u2019s chief executive officer. Speaking at the company\u2019s Santa Clara, California-headquarters, Huang acknowledged violating the company's code of conduct. Bloomberg\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-25/huang-apologizes-to-nvidia-staff-after-returning-as-ceo-video",
+   "published": "2026-11-25T07:00"
+  },
+  "h2b8b0d15": {
+   "id": "h2b8b0d15",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Nvidia brought Jensen Huang back. But the investigations aren\u2019t over",
+   "blurb": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+   "published": "2026-11-24T15:03"
+  },
+  "h754f8673": {
+   "id": "h754f8673",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "blurb": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
+   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "published": "2026-11-24T18:30"
+  },
+  "hc967df2c": {
+   "id": "hc967df2c",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Trump readies raft of new tariffs on major economies",
+   "blurb": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
+   "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+   "published": "2026-11-24T16:30"
+  },
+  "hba51d929": {
+   "id": "hba51d929",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Anthropic\u2019s stock just broke below its IPO price for the first time",
+   "blurb": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+   "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+   "published": "2026-11-24T21:46"
+  },
+  "h79400360": {
+   "id": "h79400360",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "US preparing to unveil plan for new tariffs on global trading partners",
+   "blurb": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-25T00:38"
+  },
+  "h5b0ad5da": {
+   "id": "h5b0ad5da",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+   "blurb": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+   "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+   "published": "2026-11-24T22:07"
+  }
+ },
+ "latest": [
+  {
+   "id": "h7224a61c",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Where to Find Bargains After the AI Power Boom Reality Check",
+   "blurb": "The sharp correction to power stocks creates an opportunity for investors.",
+   "url": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+   "published": "2026-11-25T10:30"
+  },
+  {
+   "id": "h06e3e196",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Tech stocks slide as confidence in AI trade fades",
+   "blurb": "Nasdaq 100 set to open lower as weeks-long sell-off continues",
+   "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+   "published": "2026-11-25T10:19"
+  },
+  {
+   "id": "h8f4f4642",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Budget carrier Norse Atlantic falls 81% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
+   "blurb": "The Norwegian low-cost carrier said its situation is dependent on securing financing for its short-term liquidity needs.",
+   "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+   "published": "2026-11-25T10:18"
+  },
+  {
+   "id": "h1975e1ca",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+   "blurb": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "published": "2026-11-25T10:17"
+  },
+  {
+   "id": "h8424e9dc",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Dangote Hires Veteran Oil Trader Jonathan Zarembok From Equinor",
+   "blurb": "Veteran oil trader Jonathan Zarembok is joining Dangote Group, which has a huge refinery in Nigeria and is expanding elsewhere in Africa, according to people familiar with the matter.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-hires-veteran-oil-trader-jonathan-zarembok-from-equinor",
+   "published": "2026-11-25T10:12"
+  },
+  {
+   "id": "hc1d6bba5",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "This strategist\u2019s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+   "blurb": "Inflation and nominal growth have been way too high for too long, argues Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
+   "url": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+   "published": "2026-11-25T10:12"
+  },
+  {
+   "id": "hffc7c2da",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Deutsche Bank Is Among Biggest S&P 500 Bulls With 9,000 Target",
+   "blurb": "Deutsche Bank AG\u2019s Binky Chadha is among the most bullish stock forecasters on Wall Street, predicting the S&P 500 will recover from its rout to rally 25% by the end of next year.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/deutsche-bank-is-among-biggest-s-p-500-bulls-with-9-000-target",
+   "published": "2026-11-25T10:06"
+  },
+  {
+   "id": "hb3fe24b1",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
+   "blurb": "Kylie Jenner\u2019s fortress-like home is back on the market, this time with a fresh set of listing images\u2014some of which have been enhanced by AI.",
+   "url": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
+   "published": "2026-11-25T10:05"
+  },
+  {
+   "id": "h3b1d5c3b",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+   "blurb": "\u201cI was paralyzed during the market downturn.\u201d",
+   "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "published": "2026-11-25T10:05"
+  },
+  {
+   "id": "h9c8c90cc",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Libya\u2019s Haftar in Turkey Days After Ukrainians Sank Russian Ship",
+   "blurb": "Eastern Libyan military commander Khalifa Haftar is making a rare visit to Turkey, just days after Ukrainian strikes on Russian-linked shipping on his turf that risk complicating Ankara\u2019s efforts to reunify the North African nation.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/libya-s-haftar-in-turkey-days-after-ukrainians-sank-russian-ship",
+   "published": "2026-11-25T10:05"
+  },
+  {
+   "id": "h6002c203",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Aareal Bank Nears Commercial Real Estate SRT With 12% Premium",
+   "blurb": "Aareal Bank AG is set to pay investors a premium of more than 12% to hedge part of the risk on a commercial real estate lending book worth around \u20ac2.5 billion ($2.7 billion) in only its second such deal.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/aareal-bank-nears-commercial-real-estate-srt-with-12-premium",
+   "published": "2026-11-25T10:04"
+  },
+  {
+   "id": "h2917d946",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "blurb": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-25T10:04"
+  }
+ ],
+ "feeds": 27,
+ "scanned": 248
+}

@@ -1,0 +1,109 @@
+{
+ "id": "animal-spirits-7eb98f41eb",
+ "source_id": "animal-spirits",
+ "source_name": "Animal Spirits",
+ "kind": "podcast",
+ "title": "The Stock Market Is Too Big to Fail (EP. 492)",
+ "url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP7442332299.mp3",
+ "media_url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP7442332299.mp3",
+ "published": "2026-11-25",
+ "duration": 5293,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia's volatile week and Jensen's return",
+   "Market correction and investor sentiment",
+   "Anthropic's massive IPO",
+   "The stock market's power and influence",
+   "AI's impact on employment and economy",
+   "Disney's streaming and sports performance"
+  ],
+  "headline": "Jensen Huang's Return to Nvidia Stabilizes Market Volatility",
+  "tldr": "The stock market experienced a historic week of extreme volatility, driven by Nvidia's leadership crisis and subsequent recovery. Despite a sharp correction, the hosts remain optimistic about the long-term potential of AI and the resilience of the broader economy.",
+  "key_points": [
+   {
+    "point": "Nvidia's stock experienced extreme swings, falling from highs before rebounding after CEO Jensen Huang was reinstated.",
+    "why_it_matters": "It highlights the intense 'key-person risk' associated with leaders of massive, AI-focused companies."
+   },
+   {
+    "point": "The S&P 500 fell during the week, marking one of the worst weeks of the decade, before a sharp reversal on Monday.",
+    "why_it_matters": "Rapid market drawdowns can trigger panic selling, but they also reset valuations to more reasonable levels."
+   },
+   {
+    "point": "Anthropic went public with a massive valuation, despite broader AI sentiment being at a low point.",
+    "why_it_matters": "It demonstrates the massive scale of capital flowing into AI, even when the public narrative around bubbles is negative."
+   },
+   {
+    "point": "The hosts argue the stock market is now 'too big to fail' due to high household participation and its central role in the economy.",
+    "why_it_matters": "This suggests that the government and regulators may feel compelled to intervene to prevent systemic market crashes."
+   },
+   {
+    "point": "Disney's stock is showing strength, supported by massive streaming hours for Marvel content and high viewership for ESPN sports.",
+    "why_it_matters": "It shows that legacy media companies can still find growth through dominant sports and entertainment franchises."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-8.6%",
+    "context": "The S&P 500's decline during the week, representing one of the worst weekly performances of the decade."
+   },
+   {
+    "figure": "16x",
+    "context": "The S&P 500's forward earnings multiple as of Friday, indicating a return to more reasonable valuation levels."
+   },
+   {
+    "figure": "$3.7B",
+    "context": "Day one sales for the video game GTA 6, which outgrossed the highest-grossing movie of all time."
+   }
+  ],
+  "lesson": "When a company's value is heavily concentrated in a single leader, the stock price becomes hypersensitive to that person's status, creating significant volatility when leadership stability is questioned.",
+  "opinions_and_predictions": [
+   "Michael believes the AI trade 'died' but is not 'dead,' meaning it has the potential to return in a new phase.",
+   "Ben argues that Nvidia's CEO Jensen Huang is so important to the company that it would have been 'screwed' without him.",
+   "Michael predicts that the stock market will not have a V-shaped rally but will instead experience a 'hangover' period.",
+   "Ben believes that movie ticket prices will likely rise in the future because consumers have shown a willingness to pay high prices for premium entertainment experiences like video games."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Meta (META)",
+   "Disney (DIS)",
+   "Tesla (TSLA)",
+   "Google (GOOGL)",
+   "Dell (DELL)",
+   "Micron (MU)"
+  ],
+  "glossary": [
+   {
+    "term": "Key-person risk",
+    "definition": "The risk that a company's performance or stock price will suffer if a specific, essential individual leaves or is incapacitated.",
+    "example": "The hosts discussed how Nvidia's stock plummeted when Jensen Huang's leadership was in doubt."
+   },
+   {
+    "term": "Standard deviation",
+    "definition": "A statistical measure of how much prices vary from their average; high deviations often signal extreme market moves.",
+    "example": "The S&P 500 closed four standard deviations below its moving average, indicating an oversold market."
+   },
+   {
+    "term": "CAPEX",
+    "definition": "Capital expenditures, or money companies spend to acquire or maintain physical assets like data centers.",
+    "example": "The hosts noted that hyperscalers' spending on AI infrastructure is a major driver of tech company revenue."
+   },
+   {
+    "term": "Multiple compression",
+    "definition": "When a stock's price-to-earnings ratio falls, usually because the market is less willing to pay a premium for the company's future earnings.",
+    "example": "Technology stocks saw their valuation multiples drop significantly despite continued earnings growth."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "stock market",
+   "ai stocks",
+   "investor behavior",
+   "corporate leadership"
+  ],
+  "quality_note": "The hosts are financial commentators who provide analysis based on market data and news headlines, though they acknowledge their own biases and the speculative nature of market predictions.",
+  "worth_reading": true
+ }
+}

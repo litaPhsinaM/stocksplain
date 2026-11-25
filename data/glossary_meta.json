@@ -408,6 +408,9 @@
  "ex-dividend date": {
   "topic": "stocks"
  },
+ "excess capacity": {
+  "topic": "energy"
+ },
  "exchange-traded funds (etfs)": {
   "topic": "stocks",
   "same_as": "etf"
@@ -782,6 +785,9 @@
  "meme stock": {
   "topic": "stocks"
  },
+ "mercantilism": {
+  "topic": "economy"
+ },
  "microtransactions": {
   "topic": "tech"
  },
@@ -814,6 +820,9 @@
   "topic": "trading"
  },
  "multi-strategy fund": {
+  "topic": "stocks"
+ },
+ "multiple compression": {
   "topic": "stocks"
  },
  "municipal bond": {
@@ -936,6 +945,9 @@
  },
  "plead the fifth": {
   "topic": "policy"
+ },
+ "politburo": {
+  "topic": "other"
  },
  "ponzi scheme": {
   "topic": "personal"
@@ -1106,6 +1118,9 @@
  "saving": {
   "topic": "personal"
  },
+ "section 301 investigation": {
+  "topic": "policy"
+ },
  "sectoral bargaining": {
   "topic": "policy"
  },
@@ -1160,6 +1175,9 @@
  "single-cell rna sequencing": {
   "topic": "other"
  },
+ "single-payer healthcare": {
+  "topic": "policy"
+ },
  "sipc": {
   "topic": "banking"
  },
@@ -1192,6 +1210,9 @@
  },
  "stablecoin": {
   "topic": "crypto"
+ },
+ "standard deviation": {
+  "topic": "trading"
  },
  "step-up basis": {
   "topic": "policy"

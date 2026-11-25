@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "fetched": "2026-11-25T10:41+00:00",
+ "fetched": "2026-11-25T18:02+00:00",
  "indicators": [
   {
    "id": "CPIAUCSL",
@@ -50,7 +50,7 @@
    "prev": 4.0,
    "text": "4.00%",
    "unit": "%",
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "explain": "The top of the Federal Reserve's target rate. Higher rates make borrowing costlier and can cool prices.",
    "url": "https://fred.stlouisfed.org/series/DFEDTARU"
   },

@@ -954,5 +954,41 @@
   "target": null,
   "deadline": "2026-12-31",
   "status": "open"
+ },
+ {
+  "id": "animal-spirits-7eb98f41eb-0",
+  "item_id": "animal-spirits-7eb98f41eb",
+  "source": "Animal Spirits",
+  "episode": "The Stock Market Is Too Big to Fail (EP. 492)",
+  "url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP7442332299.mp3",
+  "said_on": "2026-11-25",
+  "speaker": "Michael",
+  "role": "Podcast host",
+  "quote": "I don't think that we're making new highs by the end of the year.",
+  "claim": "The S&P 500 will not reach a new all-time high before the end of 2026.",
+  "kind": "below",
+  "subject": "S&P 500",
+  "symbol": "^GSPC",
+  "target": 6000.0,
+  "deadline": "2026-12-31",
+  "status": "open"
+ },
+ {
+  "id": "animal-spirits-7eb98f41eb-1",
+  "item_id": "animal-spirits-7eb98f41eb",
+  "source": "Animal Spirits",
+  "episode": "The Stock Market Is Too Big to Fail (EP. 492)",
+  "url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP7442332299.mp3",
+  "said_on": "2026-11-25",
+  "speaker": "Ben",
+  "role": "Podcast host",
+  "quote": "I don't think they're going to do it. Unless like I guess December the it's it's a few weeks away. I don't think they're going to do it.",
+  "claim": "The Federal Reserve will not raise interest rates at the December 2026 meeting.",
+  "kind": "rate_hold",
+  "subject": "Fed funds rate",
+  "symbol": null,
+  "target": null,
+  "deadline": "2026-12-31",
+  "status": "open"
  }
 ]

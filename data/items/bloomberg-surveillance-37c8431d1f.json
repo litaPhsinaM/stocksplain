@@ -1,0 +1,91 @@
+{
+ "id": "bloomberg-surveillance-37c8431d1f",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Markets React to Inflation Data and Nvidia Latest",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/markets-react-to-inflation-data-and-nvidia-latest",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/9241a034-2689-483b-8ac0-b50d00edd49a/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-25",
+ "duration": 3229,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Inflation data and Fed rate outlook",
+   "Trump trade tariffs and economic impact",
+   "Gary Hufbauer tribute and trade history",
+   "Geopolitics and global trade policy",
+   "Stock market and economic indicators"
+  ],
+  "headline": "Fed's preferred inflation gauge hits 3.3%; economists debate tariff impacts",
+  "tldr": "The latest economic data showed the Fed's preferred inflation gauge rose 3.3% from a year earlier, meeting expectations. Guests discussed the persistent risks of trade tariffs, the legacy of trade advocate Gary Hufbauer, and broader economic uncertainties.",
+  "key_points": [
+   {
+    "point": "The Fed's preferred inflation gauge, the core PCE price index, rose 3.3% from a year earlier.",
+    "why_it_matters": "It is a primary measure watched by the Federal Reserve to gauge underlying inflation trends."
+   },
+   {
+    "point": "Personal income rose 0.7% and spending rose lower than expected.",
+    "why_it_matters": "These figures show consumer health and demand trends across the economy."
+   },
+   {
+    "point": "Adam Posen (Peterson Institute) warns that trade tariffs act as a protectionist ratchet that stokes inflation and reduces competitiveness.",
+    "why_it_matters": "Higher tariffs on countries like Canada could further strain trade policies and economic growth."
+   },
+   {
+    "point": "The podcast paid tribute to the late Gary Hufbauer, a prominent free trade advocate.",
+    "why_it_matters": "His work shaped modern trade economics and the analysis of tariffs."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "3.3%",
+    "context": "The year-over-year increase in the core PCE price index."
+   },
+   {
+    "figure": "0.7%",
+    "context": "The increase in personal income."
+   },
+   {
+    "figure": "-2.7%",
+    "context": "The decline in Nasdaq futures."
+   }
+  ],
+  "lesson": "When trade barriers and tariffs increase, they tend to drive up costs for downstream industries and consumers, acting as a structural driver of inflation.",
+  "opinions_and_predictions": [
+   "Adam Posen (Peterson Institute) thinks tariffs are a protectionist ratchet that will maintain or worsen trade restrictions.",
+   "Adam Posen (Peterson Institute) believes the Trump administration's trade policies failed to achieve manufacturing growth and instead increased uncertainty."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Core PCE",
+    "definition": "Personal Consumption Expenditures price index excluding food and energy, watched by the Fed as a key inflation measure.",
+    "example": "The core PCE price index rose 3.3% from a year earlier."
+   },
+   {
+    "term": "Tariff",
+    "definition": "A tax imposed by a government on imported goods.",
+    "example": "Proposed tariffs on Canada could raise costs for consumers."
+   },
+   {
+    "term": "Mercantilism",
+    "definition": "An economic policy designed to maximize exports and minimize imports for an economy.",
+    "example": "A shift toward a neo-mercantilist policy framework."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "inflation",
+   "tariffs",
+   "federal reserve",
+   "economy"
+  ],
+  "quality_note": "The episode features substantive analysis from economists and experts discussing inflation data and trade policy, backed by economic figures.",
+  "worth_reading": true
+ }
+}

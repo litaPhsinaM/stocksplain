@@ -1,0 +1,110 @@
+{
+ "id": "wsj-whats-news-ed0783322d",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "Is Medicare for All Within Reach?",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/34229b47-a243-426b-9fd5-84e6c31a55be/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=34229b47-a243-426b-9fd5-84e6c31a55be&feed=BA5QWI2p",
+ "published": "2026-11-25",
+ "duration": 1128,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash",
+ "summary": {
+  "segments": [
+   "Anthropic IPO stock slide",
+   "JLR wins BYD copycat EU ban",
+   "Shanghai party chief purged in China",
+   "Solomon Islands signs Australia security deal",
+   "Democrats push expanded Medicare coverage",
+   "AI recording wearables spark privacy concerns"
+  ],
+  "headline": "Anthropic stock drops below $83 IPO price; JLR wins EU court ban on BYD SUV",
+  "tldr": "Anthropic shares fell below their initial public offering price of $83 after briefly peaking above $110, reflecting broader tech market jitters. Meanwhile, Jaguar Land Rover secured a legal ban in Europe against Chinese rival BYD for copying its Land Rover Defender design, and Australian diplomats signed a defense pact with the Solomon Islands prohibiting foreign military bases.",
+  "key_points": [
+   {
+    "point": "Anthropic shares fell below their $83 initial public offering price despite earlier rising above $110 on debut day.",
+    "why_it_matters": "Heavy initial valuations during market downturns leave little margin for safety if broad market sentiment turns negative."
+   },
+   {
+    "point": "A Dutch court banned Chinese carmaker BYD from selling its T7 SUV in the European Union following a copyright claim by Jaguar Land Rover.",
+    "why_it_matters": "European automakers are increasingly using intellectual property lawsuits to defend home markets against rising Chinese electric vehicle competition."
+   },
+   {
+    "point": "Chinese authorities placed Shanghai Party Secretary Chen Jining under investigation, making him the fourth Politburo member ousted since last year.",
+    "why_it_matters": "The move allows President Xi Jinping to further consolidate power and clear key leadership positions ahead of the upcoming party congress."
+   },
+   {
+    "point": "The Solomon Islands signed a defense treaty with Australia prohibiting foreign military bases on its territory.",
+    "why_it_matters": "The agreement mitigates Western security concerns about a potential Chinese naval outpost threatening Pacific sea lanes."
+   },
+   {
+    "point": "Newly elected congressional Democrats are preparing legislation to expand public healthcare coverage, including lowering Medicare eligibility to age 55.",
+    "why_it_matters": "Legislators are shifting toward incremental healthcare reforms that may attract bipartisan support rather than pursuing immediate full single-payer systems."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$83",
+    "context": "The initial public offering price per share for Anthropic before its stock fell."
+   },
+   {
+    "figure": "$110",
+    "context": "The peak stock price per share reached by Anthropic during post-debut trading."
+   },
+   {
+    "figure": "1/10th",
+    "context": "The portion of its global workforce Jaguar Land Rover announced it would cut in September."
+   },
+   {
+    "figure": "4th",
+    "context": "The number of Chinese Politburo members removed from office since last year."
+   },
+   {
+    "figure": "55",
+    "context": "The proposed target eligibility age for Medicare under incremental Democratic reform plans."
+   }
+  ],
+  "lesson": "When aggressive initial public offering pricing outpaces fundamental earnings during broad market uncertainty, stock prices frequently retreat below their opening valuation; companies mitigate this risk by pricing shares to leave a margin of safety for new buyers.",
+  "opinions_and_predictions": [
+   "Alex Frangos (WSJ) believes market anxiety over Federal Reserve interest rate projections into 2027 and potential tariffs is depressing growth stock valuations.",
+   "Stephen Wilmot (WSJ) expects European automakers to continue facing severe pressure as Chinese electric vehicle manufacturers rapidly gain global market share.",
+   "Mike Cherney (WSJ) notes that Australia's bilateral treaties with Pacific island nations provide a strategic buffer for Washington against Chinese military expansion.",
+   "Sabrina Siddiqui (WSJ) thinks lowering the Medicare eligibility age to 55 is more politically viable for Democrats than passing a complete single-payer healthcare system.",
+   "Nicole Nguyen (WSJ) feels continuous background audio recording from wearable AI devices creates awkward social friction and consent issues in daily interactions."
+  ],
+  "tickers": [
+   "BYD (BYDDY)",
+   "Nvidia (NVDA)",
+   "Apple (AAPL)",
+   "Amazon (AMZN)"
+  ],
+  "glossary": [
+   {
+    "term": "IPO (Initial Public Offering)",
+    "definition": "The first time a private company offers its shares of stock for sale to the general public.",
+    "example": "Anthropic completed an IPO priced at $83 per share."
+   },
+   {
+    "term": "Single-payer healthcare",
+    "definition": "A healthcare system in which a single government entity pays all basic medical bills for residents.",
+    "example": "Progressive lawmakers campaigned on replacing private health insurance with a single-payer system."
+   },
+   {
+    "term": "Politburo",
+    "definition": "The principal executive committee and decision-making body of a communist political party.",
+    "example": "Chen Jining was the fourth member removed from China's Politburo since last year."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "automotive",
+   "geopolitics",
+   "healthcare policy"
+  ],
+  "quality_note": "WSJ editors and reporters provide news analysis based on court rulings, corporate filings, public statements, and geopolitical treaties.",
+  "worth_reading": true
+ }
+}
