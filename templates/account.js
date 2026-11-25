@@ -162,7 +162,7 @@
     const b = e.submitter || $("#acct-email-form button"); b.disabled = true;
     const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: here } });
     b.disabled = false;
-    if (error) { setMsg(error.message); return; }
+    if (error) { setMsg(mailError(error, "sign_in")); return; }
     $("#acct-code-form").hidden = false;
     setMsg(`📬 Check ${email} and tap “Sign in” (look in spam if it's not there). If the email shows a 6-digit code, you can type it below instead.`);
     $("#acct-code-in").focus();
@@ -173,6 +173,14 @@
     if (error) setMsg(error.message);
   });
   function setMsg(t) { const m = $("#acct-msg"); m.textContent = t; m.hidden = !t; }
+  // Supabase's own wording ("Error sending magic link email", "email rate limit exceeded") means nothing to a reader,
+  // and these failures were invisible to us: say what to do, and log the real message for the admin page.
+  function mailError(error, where) {
+    MD.track("signin_email_error", { where, msg: String(error.message || error).slice(0, 120) });
+    return /rate limit|too many|security purposes/i.test(error.message || "")
+      ? "Too many sign-in emails just now. Please wait a few minutes and try again."
+      : "We couldn't send the email right now. Please try again in a few minutes; if it keeps failing, tell us at the About page.";
+  }
   $("#acct-signout") && $("#acct-signout").addEventListener("click", async () => {
     await sb.auth.signOut();
     MD.toast("Signed out. Your progress stays on this device.");
@@ -231,7 +239,7 @@
       flag(true);
       const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: here + "?daily=1" } });
       b.disabled = false;
-      if (error) { flag(false); say(error.message); return; }
+      if (error) { flag(false); say(mailError(error, "daily_email")); return; }
       say(`📬 One step left: open the email we just sent to ${email} and tap the link to confirm (check spam if it's not there). That also signs you in, so your progress syncs.`);
       MD.track("daily_email_request", {});
     });
