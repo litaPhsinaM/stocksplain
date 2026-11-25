@@ -160,17 +160,23 @@
     e.preventDefault();
     email = $("#acct-email-in").value.trim();
     const b = e.submitter || $("#acct-email-form button"); b.disabled = true;
-    const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: here } });
-    b.disabled = false;
+    let error;
+    try { ({ error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: here } })); }
+    catch (err) { error = err; } finally { b.disabled = false; }
     if (error) { setMsg(mailError(error, "sign_in")); return; }
     $("#acct-code-form").hidden = false;
     setMsg(`📬 Check ${email} and tap “Sign in” (look in spam if it's not there). If the email shows a 6-digit code, you can type it below instead.`);
-    $("#acct-code-in").focus();
+    if (!matchMedia("(pointer: coarse)").matches) $("#acct-code-in").focus();  // on phones the keyboard would cover the pop-up
   });
   $("#acct-code-form") && $("#acct-code-form").addEventListener("submit", async (e) => {
     e.preventDefault();
-    const { error } = await sb.auth.verifyOtp({ email, token: $("#acct-code-in").value.trim(), type: "email" });
-    if (error) setMsg(error.message);
+    const b = e.submitter || $("#acct-code-form button"); b.disabled = true;
+    let error;
+    try { ({ error } = await sb.auth.verifyOtp({ email, token: $("#acct-code-in").value.trim(), type: "email" })); }
+    catch (err) { error = err; } finally { b.disabled = false; }
+    if (error) setMsg(/expired|invalid/i.test(error.message || "")
+      ? "That code didn't work: it may have expired. Check you typed the newest one, or tap the link in the email instead."
+      : "Couldn't check the code right now. Please try again in a minute.");
   });
   function setMsg(t) { const m = $("#acct-msg"); m.textContent = t; m.hidden = !t; }
   // Supabase's own wording ("Error sending magic link email", "email rate limit exceeded") means nothing to a reader,
@@ -227,7 +233,9 @@
   document.querySelectorAll("[data-dm-form]").forEach((f) => {
     const card = f.closest("[data-daily-mail]"), msg = card.querySelector("[data-dm-msg]");
     const say = (t) => { msg.textContent = t; msg.hidden = !t; };
-    if (user && user.email) f.querySelector("[data-dm-email]").value = user.email;
+    // Fill in the signed-in person's address (the sign-in state arrives after this script runs).
+    const fill = () => { const i = f.querySelector("[data-dm-email]"); if (user && user.email && !i.value) i.value = user.email; };
+    fill(); document.addEventListener("md:auth", fill);
     f.addEventListener("submit", async (e) => {
       e.preventDefault();
       const email = f.querySelector("[data-dm-email]").value.trim();
@@ -237,8 +245,9 @@
         b.disabled = false; return;
       }
       flag(true);
-      const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: here + "?daily=1" } });
-      b.disabled = false;
+      let error;
+      try { ({ error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: here + "?daily=1" } })); }
+      catch (err) { error = err; } finally { b.disabled = false; }
       if (error) { flag(false); say(mailError(error, "daily_email")); return; }
       say(`📬 One step left: open the email we just sent to ${email} and tap the link to confirm (check spam if it's not there). That also signs you in, so your progress syncs.`);
       MD.track("daily_email_request", {});
