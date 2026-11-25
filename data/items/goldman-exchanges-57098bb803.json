@@ -1,0 +1,106 @@
+{
+ "id": "goldman-exchanges-57098bb803",
+ "source_id": "goldman-exchanges",
+ "source_name": "Exchanges (Goldman Sachs)",
+ "kind": "podcast",
+ "title": "Steady Global Economic Growth in 2027 Outlook But Risks Tilted to Downside",
+ "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1012556925.mp3",
+ "media_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1012556925.mp3",
+ "published": "2026-11-17",
+ "duration": 2072,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "2026 global economic resilience",
+   "2027 growth and downside risks",
+   "Market outlook and AI impact",
+   "Labor market and AI effects",
+   "Inflation trends and forecasts",
+   "Bond market outlook"
+  ],
+  "headline": "Goldman Sachs 2027 outlook: steady growth with downside risks",
+  "tldr": "The global economy showed surprising resilience in 2026 despite geopolitical tensions and higher interest rates. Looking ahead to 2027, analysts expect continued growth but warn of risks from potential energy price spikes, fiscal instability, and a possible cooling of the AI investment boom.",
+  "key_points": [
+   {
+    "point": "Global GDP growth for 2026 is on track for 2.7%, with a baseline forecast of 2.8% for 2027.",
+    "why_it_matters": "Understanding global growth trends helps determine the overall health of the international economy and potential for corporate earnings."
+   },
+   {
+    "point": "AI investment added to global GDP in 2026, though benefits are unevenly distributed.",
+    "why_it_matters": "AI spending is a major driver of current economic activity, but its impact may peak as the capital build-out matures."
+   },
+   {
+    "point": "Jan Hatzius (Goldman Sachs) expects US core PCE inflation to reach 2.4% by the end of 2027.",
+    "why_it_matters": "Inflation forecasts influence central bank interest rate policies, which directly affect borrowing costs and asset valuations."
+   },
+   {
+    "point": "Dominic Wilson (Goldman Sachs) notes that the market is currently pricing in less risk of an energy price spike than it was a few weeks ago.",
+    "why_it_matters": "When markets underestimate specific risks, they become more vulnerable to sudden volatility if those risks materialize."
+   },
+   {
+    "point": "Research indicates a correlation between higher AI adoption and slower employment growth in certain industries.",
+    "why_it_matters": "Technological shifts can cause temporary labor market friction, which may impact consumer spending and broader economic stability."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "2.7%",
+    "context": "The estimated global GDP growth rate for 2026."
+   },
+   {
+    "figure": "40 basis points",
+    "context": "The estimated contribution of tariff pass-through to the year-on-year core PCE inflation rate."
+   },
+   {
+    "figure": "2.4%",
+    "context": "The projected US core PCE inflation rate by the end of 2027."
+   }
+  ],
+  "lesson": "When an economy experiences a significant positive productivity shock, such as the rapid adoption of new technology, it often faces a temporary increase in the unemployment rate (frictional unemployment) as labor demand shifts across industries.",
+  "opinions_and_predictions": [
+   "Jan Hatzius (Goldman Sachs) believes risks to 2027 growth are tilted to the downside due to potential fiscal instability and AI-related regulatory or supply chain issues.",
+   "Dominic Wilson (Goldman Sachs) expects positive equity returns in 2027 based on the baseline growth outlook.",
+   "Jan Hatzius (Goldman Sachs) predicts a temporary increase in the unemployment rate due to AI-driven productivity shifts.",
+   "Dominic Wilson (Goldman Sachs) suggests that government bonds may offer better diversification benefits in 2027 as risks shift toward factors that could lower yields."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Core PCE",
+    "definition": "A measure of inflation that excludes volatile food and energy prices to show the underlying trend.",
+    "example": "The analysts expect core PCE to settle near 2.4% by late 2027."
+   },
+   {
+    "term": "Basis points",
+    "definition": "A common unit of measure for interest rates and percentages, where 100 basis points equals 1%.",
+    "example": "Tariffs are contributing 40 basis points to the core inflation rate."
+   },
+   {
+    "term": "Frictional unemployment",
+    "definition": "Temporary unemployment that occurs when workers are transitioning between jobs or industries.",
+    "example": "AI adoption may cause a frictional increase in the unemployment rate."
+   },
+   {
+    "term": "Capex",
+    "definition": "Capital expenditure; money a company spends to buy, maintain, or improve its physical assets.",
+    "example": "The AI investment story has significantly boosted corporate capex."
+   },
+   {
+    "term": "Risk premium",
+    "definition": "The extra return or price adjustment required to compensate for the risk of an investment.",
+    "example": "The market's risk premium for oil has decreased recently."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "macroeconomics",
+   "ai",
+   "inflation",
+   "interest rates"
+  ],
+  "quality_note": "The content features senior research analysts from Goldman Sachs providing economic forecasts based on their firm's proprietary models and market analysis.",
+  "worth_reading": true
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "date": "2026-11-25",
+ "big_picture": "Nvidia's board reinstated CEO Jensen Huang after an 11-day absence following intervention from President Trump, driving Nvidia shares up by over 30%. Meanwhile, Anthropic's stock fell below its IPO price as market scrutiny intensified around the multi-billion-dollar capital requirements and return on investment for the AI sector. Additionally, Best Buy reported Q3 sales growth of over 6%, outperforming expectations thanks to a pandemic-era electronics replacement cycle.",
+ "themes": [
+  {
+   "title": "Nvidia reinstates CEO Jensen Huang following political intervention",
+   "explanation": "Nvidia's board unanimously reinstated CEO Jensen Huang just 11 days after his resignation over conduct policy violations, following direct outreach from President Trump. Nvidia shares surged between 30% and 31% on the news, though corporate governance experts and lawmakers warned that the board now bears full legal, security, and oversight risks.",
+   "item_ids": [
+    "prof-g-markets-16b8506a66",
+    "squawk-pod-bdaa973201",
+    "wsj-whats-news-a987e52854"
+   ]
+  },
+  {
+   "title": "Questions grow over AI revenue models and return on investment",
+   "explanation": "Anthropic shares dropped 6.5% below their initial offering price on their fourth trading day, highlighting investor concerns over cash-flow-negative AI companies requiring continuous capital. Analysts at Goldman Sachs and Social Capital noted a structural mismatch between 5-to-8-year hardware build-out cycles and short-term earnings expectations, warning that neo clouds require 70% to 75% utilization to reach profitability.",
+   "item_ids": [
+    "prof-g-markets-16b8506a66",
+    "goldman-exchanges-e4eb5bcad2",
+    "wsj-whats-news-a987e52854",
+    "goldman-exchanges-57098bb803"
+   ]
+  },
+  {
+   "title": "Pandemic-era replacement cycles boost Best Buy sales growth",
+   "explanation": "Best Buy reported Q3 sales growth of more than 6%, nearly triple analyst expectations, despite headwind pressures from inflation and high gas prices. The retail growth is being driven by a natural replacement wave for computers bought 4 to 5 years ago and TVs bought 6 to 7 years ago during the pandemic, alongside hype for major releases like Grand Theft Auto 6.",
+   "item_ids": [
+    "marketplace-310162205d"
+   ]
+  },
+  {
+   "title": "Cheapflation causes budget grocery prices to outpace premium brands",
+   "explanation": "Data from January 2020 to May 2024 reveals that budget food and beverage prices in the US increased by 30%, compared to a 22% increase for premium products. This trend, termed cheapflation, happens as inflation forces consumers to switch to store brands, boosting demand and pushing up prices on lower-cost goods.",
+   "item_ids": [
+    "indicator-90bad02a38"
+   ]
+  },
+  {
+   "title": "Cyber fraud and identity theft fuel rising US cargo theft",
+   "explanation": "Cargo theft in the US generates $10 billion to $20 billion in annual losses as criminal syndicates use phishing scams and cheap motor carrier numbers to hijack digital load boards. Food and beverage theft jumped 47%, burdening small trucking operators with higher insurance costs that ultimately trickle down to consumer prices for items like turkeys and bourbon.",
+   "item_ids": [
+    "planet-money-04659a8bc7"
+   ]
+  }
+ ],
+ "concept_of_the_day": {
+  "concept": "Replacement cycle",
+  "explanation": "A replacement cycle is the predictable multi-year timeframe in which consumers or businesses purchase new versions of durable goods because existing products reach the end of their useful lifespans. Durable goods like computers typically have replacement periods of 4 to 5 years, whereas televisions are replaced every 6 to 7 years. Because these products represent significant capital expenses, retail sales tend to surge in predictable waves when a large cohort of past buyers enters the market simultaneously. This concept appeared today as Best Buy posted third-quarter sales growth of over 6%, beating analyst forecasts. The retailer benefited from consumers replacing home electronics originally purchased during the early-pandemic shopping surge."
+ },
+ "watch_for": []
+}

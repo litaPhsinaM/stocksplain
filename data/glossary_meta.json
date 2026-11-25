@@ -23,6 +23,9 @@
  "agentic commerce": {
   "topic": "tech"
  },
+ "aggregate number": {
+  "topic": "other"
+ },
  "ai": {
   "topic": "tech"
  },
@@ -44,6 +47,9 @@
  "all-stock deal": {
   "topic": "companies"
  },
+ "amortize": {
+  "topic": "banking"
+ },
  "apec": {
   "topic": "policy"
  },
@@ -64,6 +70,9 @@
  },
  "assets": {
   "topic": "companies"
+ },
+ "assisted living": {
+  "topic": "other"
  },
  "backers": {
   "topic": "companies"
@@ -112,6 +121,9 @@
  "blind signing": {
   "topic": "crypto"
  },
+ "board of directors": {
+  "topic": "companies"
+ },
  "bond": {
   "topic": "bonds"
  },
@@ -154,6 +166,9 @@
  "cash flow positive": {
   "topic": "companies"
  },
+ "cheapflation": {
+  "topic": "economy"
+ },
  "china hawks": {
   "topic": "policy"
  },
@@ -177,6 +192,9 @@
  },
  "cohort fertility": {
   "topic": "other"
+ },
+ "collateral": {
+  "topic": "banking"
  },
  "collective bargaining agreement": {
   "topic": "policy"
@@ -212,6 +230,9 @@
   "topic": "companies"
  },
  "consumer price index (cpi)": {
+  "topic": "economy"
+ },
+ "consumer sentiment": {
   "topic": "economy"
  },
  "containerization": {
@@ -333,6 +354,9 @@
  "dual-class stock": {
   "topic": "stocks"
  },
+ "durable goods": {
+  "topic": "economy"
+ },
  "earnings": {
   "topic": "companies"
  },
@@ -363,6 +387,9 @@
  "equal-weighted index": {
   "topic": "stocks"
  },
+ "espionage": {
+  "topic": "policy"
+ },
  "estate tax": {
   "topic": "policy"
  },
@@ -385,14 +412,25 @@
   "topic": "stocks",
   "same_as": "etf"
  },
+ "exit liquidity": {
+  "topic": "crypto"
+ },
  "expectations": {
   "topic": "stocks"
  },
  "expense ratio": {
   "topic": "stocks"
  },
+ "export control laws": {
+  "topic": "policy",
+  "same_as": "export controls"
+ },
  "export controls": {
   "topic": "policy"
+ },
+ "export restrictions": {
+  "topic": "policy",
+  "same_as": "export controls"
  },
  "factor": {
   "topic": "stocks"
@@ -447,6 +485,9 @@
   "topic": "companies"
  },
  "freight recession": {
+  "topic": "economy"
+ },
+ "frictional unemployment": {
   "topic": "economy"
  },
  "frontier model": {
@@ -515,6 +556,12 @@
  },
  "headline risk": {
   "topic": "trading"
+ },
+ "headwinds": {
+  "topic": "companies"
+ },
+ "healthspan": {
+  "topic": "other"
  },
  "high arousal negative content": {
   "topic": "other"
@@ -587,6 +634,9 @@
  "infrastructure": {
   "topic": "economy"
  },
+ "insider selling": {
+  "topic": "stocks"
+ },
  "institutional capital": {
   "topic": "stocks"
  },
@@ -631,6 +681,10 @@
   "topic": "companies",
   "same_as": "key-person risk"
  },
+ "key-man risk": {
+  "topic": "companies",
+  "same_as": "key-person risk"
+ },
  "key-person risk": {
   "topic": "companies"
  },
@@ -666,6 +720,9 @@
  },
  "liquidity": {
   "topic": "trading"
+ },
+ "load board": {
+  "topic": "energy"
  },
  "lump sum investing": {
   "topic": "personal"
@@ -716,6 +773,12 @@
  "media rights": {
   "topic": "companies"
  },
+ "medicaid": {
+  "topic": "policy"
+ },
+ "medicare": {
+  "topic": "policy"
+ },
  "meme stock": {
   "topic": "stocks"
  },
@@ -744,6 +807,9 @@
  "mortgage rates": {
   "topic": "banking"
  },
+ "motor carrier (mc) number": {
+  "topic": "energy"
+ },
  "moving average (ma)": {
   "topic": "trading"
  },
@@ -768,8 +834,15 @@
  "nda (non-disclosure agreement)": {
   "topic": "policy"
  },
+ "neet": {
+  "topic": "economy"
+ },
  "negative gamma": {
   "topic": "trading"
+ },
+ "neo clouds": {
+  "topic": "tech",
+  "same_as": "neoclouds"
  },
  "neo-clouds": {
   "topic": "tech"
@@ -790,12 +863,18 @@
  "nominal growth": {
   "topic": "economy"
  },
+ "off-balance sheet loans": {
+  "topic": "banking"
+ },
  "open source": {
   "topic": "tech"
  },
  "open-source": {
   "topic": "tech",
   "same_as": "open source"
+ },
+ "operating leverage": {
+  "topic": "companies"
  },
  "operating losses": {
   "topic": "companies"
@@ -849,8 +928,14 @@
  "pestel": {
   "topic": "companies"
  },
+ "phishing": {
+  "topic": "personal"
+ },
  "physical ai": {
   "topic": "tech"
+ },
+ "plead the fifth": {
+  "topic": "policy"
  },
  "ponzi scheme": {
   "topic": "personal"
@@ -969,11 +1054,20 @@
  "reverse solicitation": {
   "topic": "policy"
  },
+ "rfid tags": {
+  "topic": "tech"
+ },
  "rights issues": {
   "topic": "stocks"
  },
  "risk": {
   "topic": "stocks"
+ },
+ "risk factors": {
+  "topic": "stocks"
+ },
+ "risk premium": {
+  "topic": "bonds"
  },
  "risk tolerance": {
   "topic": "personal"
@@ -1021,6 +1115,9 @@
  "securitization": {
   "topic": "banking"
  },
+ "seigniorage": {
+  "topic": "economy"
+ },
  "semiconductors": {
   "topic": "tech"
  },
@@ -1039,6 +1136,9 @@
  "shareholder": {
   "topic": "stocks"
  },
+ "shareholder vote": {
+  "topic": "companies"
+ },
  "shareholders' equity": {
   "topic": "companies"
  },
@@ -1050,6 +1150,9 @@
  },
  "short selling": {
   "topic": "trading"
+ },
+ "shrinkflation": {
+  "topic": "economy"
  },
  "single point of failure": {
   "topic": "tech"
@@ -1092,6 +1195,9 @@
  },
  "step-up basis": {
   "topic": "policy"
+ },
+ "structured products": {
+  "topic": "bonds"
  },
  "subpoena": {
   "topic": "policy"
@@ -1160,6 +1266,9 @@
  "transfer stations": {
   "topic": "other"
  },
+ "transshipment": {
+  "topic": "energy"
+ },
  "treasury bill": {
   "topic": "bonds"
  },
@@ -1181,6 +1290,15 @@
  },
  "usb stick": {
   "topic": "tech"
+ },
+ "utility cost": {
+  "topic": "energy"
+ },
+ "utilization mismatch": {
+  "topic": "tech"
+ },
+ "valuation multiple": {
+  "topic": "stocks"
  },
  "valuations": {
   "topic": "stocks"

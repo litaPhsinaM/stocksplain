@@ -1,0 +1,100 @@
+{
+ "id": "planet-money-04659a8bc7",
+ "source_id": "planet-money",
+ "source_name": "Planet Money",
+ "kind": "podcast",
+ "title": "How to steal a truckload of bourbon and not get caught",
+ "url": "https://www.npr.org/2026/11/25/nx-s1-6053008/cargo-theft-groceries-fbi-cyber",
+ "media_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b55b392-98fa-4963-9641-41942cc6d7f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b55b392-98fa-4963-9641-41942cc6d7f6&feed=hvWWWzRv&t=podcast&e=nx-s1-6053008&p=510289&d=1590&size=25451273",
+ "published": "2026-11-25",
+ "duration": 1590,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Truckload of turkeys stolen",
+   "Cargo theft trends and targets",
+   "Bourbon heist and FBI investigation",
+   "Cyber hacking of load boards",
+   "Motor carrier number fraud",
+   "Criminal syndicates and enforcement challenges",
+   "Economic impact and consumer costs"
+  ],
+  "headline": "Organized crime syndicates target US trucking via cyber-enabled cargo theft",
+  "tldr": "Cargo theft is rising as organized criminal syndicates use cyber-hacking and identity fraud to hijack truckloads of goods. These thefts, often targeting food and beverages, increase costs for small trucking businesses and eventually consumers.",
+  "key_points": [
+   {
+    "point": "Cargo thieves use phishing scams to hack 'load boards' and impersonate legitimate trucking companies to reroute shipments.",
+    "why_it_matters": "The trucking industry relies on speed and digital platforms, creating vulnerabilities that sophisticated criminals exploit to steal valuable goods."
+   },
+   {
+    "point": "Obtaining a motor carrier (MC) number, which authorizes a company to haul goods, is inexpensive and lacks rigorous enforcement.",
+    "why_it_matters": "Criminals can easily establish fake trucking companies, steal multiple shipments, and abandon the registration before authorities can track them."
+   },
+   {
+    "point": "FBI Special Agent Wayne Jacobs notes that many cargo thefts are orchestrated by international criminal syndicates.",
+    "why_it_matters": "These groups are difficult to prosecute because they operate across borders where US law enforcement lacks jurisdiction or cooperation."
+   },
+   {
+    "point": "Cargo theft losses are estimated between $10 billion and $20 billion annually, with food and beverage being the fastest-growing category.",
+    "why_it_matters": "Perishable goods are attractive targets because they lack serial numbers and are difficult to trace once sold or consumed."
+   },
+   {
+    "point": "The financial burden of cargo theft trickles down to consumers through higher insurance premiums and increased shipping costs.",
+    "why_it_matters": "Small owner-operators often bear the brunt of these losses, which can lead to higher prices for everyday items like turkeys and bourbon."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$102,000",
+    "context": "The value of the stolen truckload of turkeys."
+   },
+   {
+    "figure": "47%",
+    "context": "The growth rate of food and beverage cargo theft."
+   },
+   {
+    "figure": "$13B",
+    "context": "The total value of goods transported on US roads daily."
+   }
+  ],
+  "lesson": "When an industry relies on high-speed digital coordination without robust identity verification, it creates a systemic vulnerability that bad actors can exploit for profit (asymmetric risk).",
+  "opinions_and_predictions": [
+   "Rob Cook (COO, A21 Wine and Spirits) suggests that autonomous trucking might eventually help prevent cargo hijacking.",
+   "Special Agent Wayne Jacobs (FBI) believes that cargo theft is a complex balancing act for regulators, as stricter rules could create supply chain bottlenecks."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Load board",
+    "definition": "An online bulletin board that connects shippers who need goods moved with truckers who have available capacity.",
+    "example": "Rob's company posted their bourbon shipment on a load board to find a carrier."
+   },
+   {
+    "term": "Motor carrier (MC) number",
+    "definition": "A unique identifier issued by the US government that certifies a trucking company is authorized to transport goods.",
+    "example": "Criminals buy multiple MC numbers for $300 each to pose as legitimate trucking businesses."
+   },
+   {
+    "term": "Phishing",
+    "definition": "A cyber-attack where criminals send fraudulent messages to trick victims into revealing sensitive information like passwords.",
+    "example": "Hackers used phishing to gain access to a dispatcher's phone number and email."
+   },
+   {
+    "term": "RFID tags",
+    "definition": "Small electronic labels that emit radio signals to track inventory automatically.",
+    "example": "Bourbon companies considered using RFID tags to track cases, but the cost was too high relative to their profit margins."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "logistics",
+   "cybersecurity",
+   "supply chain",
+   "organized crime"
+  ],
+  "quality_note": "The source features interviews with a trucking company owner, a corporate executive, and an FBI agent, providing a mix of firsthand experience and law enforcement perspective.",
+  "worth_reading": true
+ }
+}

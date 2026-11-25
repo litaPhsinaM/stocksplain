@@ -1,0 +1,104 @@
+{
+ "id": "goldman-exchanges-e4eb5bcad2",
+ "source_id": "goldman-exchanges",
+ "source_name": "Exchanges (Goldman Sachs)",
+ "kind": "podcast",
+ "title": "What Will Determine the Durability of the AI Investment Cycle?",
+ "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3836292455.mp3",
+ "media_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3836292455.mp3",
+ "published": "2026-11-24",
+ "duration": 1512,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "AI investment cycle durability",
+   "Neo cloud business model vulnerabilities",
+   "Challenges in AI implementation and ROI",
+   "Market expectations vs"
+  ],
+  "headline": "AI investment cycle faces scrutiny over ROI and implementation hurdles",
+  "tldr": "The AI investment cycle is under pressure as companies struggle to translate massive capital spending into measurable returns. While experts acknowledge the long-term potential, they note that current business models face significant challenges with utilization and the transition from experimental projects to scalable, profitable outcomes.",
+  "key_points": [
+   {
+    "point": "AI projects are facing slow adoption due to difficult change management within large organizations.",
+    "why_it_matters": "If companies cannot effectively integrate AI into their workflows, the expected productivity gains fail to materialize, undermining the business case for further investment."
+   },
+   {
+    "point": "Neo clouds face a structural risk because they have long-term fixed obligations for expensive hardware but rely on speculative, short-term revenue.",
+    "why_it_matters": "This mismatch creates a vulnerability similar to the airline industry, where high utilization is required to achieve profitability."
+   },
+   {
+    "point": "Current AI business models often rely on selling 'tokens' rather than proven outcomes, making it difficult for finance teams to justify ROI.",
+    "why_it_matters": "A shift toward 'cost per outcome' pricing is likely necessary for AI to become a standard, measurable business expense rather than an experimental cost."
+   },
+   {
+    "point": "Eric Sheridan (Goldman Sachs) notes that compute infrastructure cycles typically span 5 to 8 years, while investors often demand results in 6-month intervals.",
+    "why_it_matters": "The disconnect between the time required to build physical data centers and the market's desire for immediate returns leads to recurring disillusionment and volatility."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "6 gigawatts",
+    "context": "The amount of powered assets accumulated by Social Capital for AI infrastructure."
+   },
+   {
+    "figure": "70 to 75%",
+    "context": "The estimated utilization ratio for Neo clouds, which must be higher to reach profitability."
+   },
+   {
+    "figure": "50%",
+    "context": "The portion of backlogs that some hyperscalers have disclosed will convert to revenue within 2 years."
+   }
+  ],
+  "lesson": "When a new technology requires massive upfront capital expenditure, the return on investment depends on the ability to transition from experimental usage to high-volume, outcome-based utility; if the underlying infrastructure is fixed-cost, the business model remains highly sensitive to utilization rates.",
+  "opinions_and_predictions": [
+   "Chamath Palihapitiya (Social Capital) believes the current AI investment cycle is experiencing a 'utilization mismatch' due to slow adoption and a lack of clear ROI.",
+   "Chamath Palihapitiya predicts that the industry will eventually transition from selling 'cost per million tokens' to 'cost per outcome' to prove value.",
+   "Eric Sheridan (Goldman Sachs) views current market concerns as 'understandable' rather than 'overblown,' as the cycle moves from product excitement to scrutiny of returns."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Micron (MU)",
+   "Snowflake (SNOW)",
+   "Meta (META)",
+   "Alphabet (GOOGL)"
+  ],
+  "glossary": [
+   {
+    "term": "Neo clouds",
+    "definition": "Specialized cloud computing providers focused on hosting AI models and infrastructure.",
+    "example": "These companies buy massive amounts of GPUs to rent out computing power to AI developers."
+   },
+   {
+    "term": "Hyperscalers",
+    "definition": "Large companies that provide cloud computing services at a massive scale.",
+    "example": "Major providers like Amazon, Microsoft, and Google are the primary hyperscalers."
+   },
+   {
+    "term": "CapEx",
+    "definition": "Capital expenditure; money spent by a company to acquire or maintain physical assets like buildings and equipment.",
+    "example": "Building a new data center is a major CapEx project for a tech company."
+   },
+   {
+    "term": "Utilization mismatch",
+    "definition": "A situation where the capacity of an asset is underused, preventing the owner from covering fixed costs.",
+    "example": "If a data center is only 70% full, it may not generate enough revenue to pay for the expensive hardware inside."
+   },
+   {
+    "term": "Amortize",
+    "definition": "The process of spreading the cost of an expensive asset over its useful life rather than expensing it all at once.",
+    "example": "A company amortizes the cost of a GPU over several years as it continues to use it."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "infrastructure",
+   "capital expenditure"
+  ],
+  "quality_note": "The source features a venture capitalist and a research analyst providing expert analysis on the structural challenges of the AI industry, though their views are speculative regarding future market outcomes.",
+  "worth_reading": true
+ }
+}

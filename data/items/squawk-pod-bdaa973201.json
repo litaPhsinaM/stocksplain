@@ -1,0 +1,103 @@
+{
+ "id": "squawk-pod-bdaa973201",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "President Trump & Nvidia\u2019s Board: \u201cI Convinced Them\u201d 11/24/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/1726062a-5b8a-4422-a249-f0ef8902ee72/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=1726062a-5b8a-4422-a249-f0ef8902ee72&feed=VHAcgaw_",
+ "published": "2026-11-24",
+ "duration": 2057,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Nvidia reinstates CEO Jensen Huang",
+   "President Trump's role in board decision",
+   "Political and national security concerns",
+   "Market reaction to Nvidia news"
+  ],
+  "headline": "Nvidia reinstates CEO Jensen Huang; President Trump claims intervention",
+  "tldr": "Nvidia has reinstated former CEO Jensen Huang just 11 days after his resignation amid investigations into his conduct. The move follows direct intervention from President Trump, who claims he pressured the board to bring Wong back.",
+  "key_points": [
+   {
+    "point": "Nvidia reinstated Jensen Huang as CEO following an 11-day absence.",
+    "why_it_matters": "The rapid reversal highlights significant internal and external pressure on the company's leadership during a period of intense scrutiny."
+   },
+   {
+    "point": "President Trump stated he spoke to the board directly and indirectly to advocate for Wong's return.",
+    "why_it_matters": "This intervention raises questions about the influence of political figures on corporate governance and the independence of company boards."
+   },
+   {
+    "point": "Government officials reportedly briefed the board that Wong did not violate national security laws.",
+    "why_it_matters": "While the board received these assurances, the company still faces ongoing investigations and potential reputational risks."
+   },
+   {
+    "point": "Senator Kevin Kramer noted that the board now bears the full legal, reputational, and security risks of the hiring decision.",
+    "why_it_matters": "The board has assumed responsibility for a leader who remains under investigation for alleged espionage and export control violations."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "31%",
+    "context": "The jump in Nvidia shares following the announcement of Wong's reinstatement."
+   },
+   {
+    "figure": "3%",
+    "context": "The gain of the Dow Jones Industrial Average on the day of the announcement."
+   },
+   {
+    "figure": "4.7%",
+    "context": "The gain of the S&P 500 index following the news."
+   },
+   {
+    "figure": "6.5%",
+    "context": "The gain of the Nasdaq index on the day of the announcement."
+   }
+  ],
+  "lesson": "When a board makes major leadership decisions under external political pressure, it assumes the full weight of the resulting legal and reputational consequences, regardless of any informal government assurances.",
+  "opinions_and_predictions": [
+   "President Trump claims he felt strongly about the company's importance and found the board to be reasonable.",
+   "Senator Kevin Kramer believes the board now owns the security and reputational risks associated with Wong.",
+   "Senator Kevin Kramer believes the markets would have resolved the situation without intervention if given patience.",
+   "Elon Musk stated on X that the mistake of removing Wong has been corrected.",
+   "Bill Ackman stated on X that the wisdom of the crowd prevailed.",
+   "Hakeem Jeffries called the decision indefensible, irresponsible, and incomprehensible.",
+   "Senator Elizabeth Warren labeled the decision reckless."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Board of Directors",
+    "definition": "A group of individuals elected to represent shareholders and oversee a company's management and strategic direction.",
+    "example": "The Nvidia board faced pressure to decide whether to keep or remove the CEO."
+   },
+   {
+    "term": "Espionage",
+    "definition": "The act of spying or using spies to obtain secret information, often related to government or military intelligence.",
+    "example": "Wong faced investigations regarding alleged ties to a suspected Chinese spy."
+   },
+   {
+    "term": "Export Control Laws",
+    "definition": "Government regulations that restrict the shipment of certain goods, technologies, or software to foreign countries for national security reasons.",
+    "example": "Wong is being investigated for potential violations of these laws."
+   },
+   {
+    "term": "Shareholder Vote",
+    "definition": "A process where company owners cast ballots on major corporate decisions, such as electing board members or approving mergers.",
+    "example": "The board considered if they would be forced to hold a shareholder vote on Wong's future."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "corporate governance",
+   "tech stocks",
+   "political influence"
+  ],
+  "quality_note": "The source features a mix of reported news, direct quotes from political figures, and analysis from journalists; claims regarding the board's internal motivations are speculative.",
+  "worth_reading": true
+ }
+}

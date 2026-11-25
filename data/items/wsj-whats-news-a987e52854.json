@@ -1,0 +1,107 @@
+{
+ "id": "wsj-whats-news-a987e52854",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "How the White House Made Jensen Huang CEO Again",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/0ec701cf-4030-4cfa-8308-3067f80f81dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=0ec701cf-4030-4cfa-8308-3067f80f81dc&feed=BA5QWI2p",
+ "published": "2026-11-24",
+ "duration": 800,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "US preparing new tariffs on global imports",
+   "President Trump reinstates Jensen Huang at Nvidia",
+   "Economic risks of an AI sector bust",
+   "OpenAI engineer released on bond",
+   "Huawei convicted of fraud",
+   "Shortage of home health workers for elderly"
+  ],
+  "headline": "US plans new global tariffs; Trump intervenes in Nvidia leadership",
+  "tldr": "The US government is preparing new tariffs on China and other nations while President Trump has taken the unprecedented step of reinstating Jensen Huang as CEO of Nvidia. Meanwhile, economists are debating the potential fallout of an AI sector collapse, and the US faces a critical shortage of home health workers for an aging population.",
+  "key_points": [
+   {
+    "point": "The US is preparing to raise tariffs on China and 14 other nations, including EU members, following an investigation into industrial subsidies.",
+    "why_it_matters": "Tariffs increase the cost of imported goods, which can impact inflation and global trade relations."
+   },
+   {
+    "point": "President Trump intervened to reinstate Jensen Huang as Nvidia CEO after confirming with DOJ and intelligence officials that no criminal acts were known.",
+    "why_it_matters": "This represents an unprecedented level of direct presidential involvement in the internal management of a private corporation."
+   },
+   {
+    "point": "AI currently accounts for approximately 2% of US GDP, a higher concentration than internet investment in the late 1990s.",
+    "why_it_matters": "High economic reliance on a single sector increases the risk of a broader recession if that sector experiences a significant downturn."
+   },
+   {
+    "point": "A federal jury convicted Huawei of criminal fraud but acquitted the company of conspiracy to control the global telecom market.",
+    "why_it_matters": "The mixed verdict complicates the US government's efforts to characterize the company as a racketeering threat."
+   },
+   {
+    "point": "The US faces a severe shortage of home health aides, with agencies unable to fill current shifts as the population over 70 grows.",
+    "why_it_matters": "The lack of care infrastructure poses a significant economic and social challenge as the majority of seniors prefer to age at home."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "2%",
+    "context": "The estimated portion of US GDP currently accounted for by the AI industry."
+   },
+   {
+    "figure": "-5.9%",
+    "context": "The drop in Nvidia shares during the most recent trading session."
+   },
+   {
+    "figure": "$1 million",
+    "context": "The bond amount set for the former OpenAI engineer accused of bugging a conference room."
+   }
+  ],
+  "lesson": "When a single industry becomes a primary driver of economic growth and capital investment, the entire economy becomes vulnerable to the boom-and-bust cycles of that specific sector.",
+  "opinions_and_predictions": [
+   "President Trump stated he may intervene in other companies if he believes they need help or involvement.",
+   "Senator John Kennedy expects Jensen Huang to plead the Fifth Amendment during upcoming Congressional testimony.",
+   "Conrad Putzier (WSJ) suggests a worst-case scenario for an AI bust could involve a 30% drop in the stock market and a halt to data center projects.",
+   "Deping Chen (WSJ) predicts the US will not be able to meet the future demand for home health workers given current compensation and labor shortages."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Apple (AAPL)",
+   "Anthropic",
+   "Huawei",
+   "OpenAI"
+  ],
+  "glossary": [
+   {
+    "term": "Tariffs",
+    "definition": "Taxes imposed by a government on imported goods.",
+    "example": "The US is preparing to raise tariffs on goods from China and the EU."
+   },
+   {
+    "term": "Hyperscalers",
+    "definition": "Large companies that provide cloud computing and data center services at a massive scale.",
+    "example": "Hyperscalers might stop data center projects if they no longer see profit potential."
+   },
+   {
+    "term": "Plead the Fifth",
+    "definition": "Exercising the constitutional right to refuse to answer questions that might incriminate oneself.",
+    "example": "Senator John Kennedy expects Jensen Huang to plead the Fifth Amendment when testifying."
+   },
+   {
+    "term": "Off-balance sheet loans",
+    "definition": "Debt or financial obligations that do not appear on a company's main balance sheet, making them harder to track.",
+    "example": "Much of the current data center construction is financed by these opaque loans."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "trade policy",
+   "corporate governance",
+   "ai economy",
+   "demographics"
+  ],
+  "quality_note": "The report relies on a mix of first-hand interviews with the President, market data, and expert economic analysis, though some predictions about an AI bust remain speculative.",
+  "worth_reading": true
+ }
+}

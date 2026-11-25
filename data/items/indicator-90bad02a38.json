@@ -1,0 +1,96 @@
+{
+ "id": "indicator-90bad02a38",
+ "source_id": "indicator",
+ "source_name": "The Indicator from Planet Money",
+ "kind": "podcast",
+ "title": "Sorry, even store brands are expensive now",
+ "url": "https://www.npr.org/2026/11/25/nx-s1-6053235/sorry-even-store-brands-are-expensive-now",
+ "media_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/708e74fd-2bbd-4840-8e8d-97da6ea423f9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=708e74fd-2bbd-4840-8e8d-97da6ea423f9&feed=IFy3imsg&t=podcast&e=nx-s1-6053235&p=510325&d=508&size=8129393",
+ "published": "2026-11-25",
+ "duration": 508,
+ "digest_date": "2026-11-25",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Thanksgiving grocery planning",
+   "Defining cheapflation",
+   "Research on inflation inequality",
+   "Drivers of cheapflation",
+   "Impact on low-income households"
+  ],
+  "headline": "Cheapflation: Why budget-friendly groceries are rising in price",
+  "tldr": "Researchers have identified a phenomenon called cheapflation, where the prices of budget-friendly grocery items rise faster than premium products. This trend disproportionately affects low-income households, potentially erasing the benefits of government stimulus payments.",
+  "key_points": [
+   {
+    "point": "Cheapflation occurs when the prices of low-cost, budget-friendly goods increase at a higher rate than premium versions of the same products.",
+    "why_it_matters": "It challenges the assumption that switching to store brands is a reliable way to escape the effects of high inflation."
+   },
+   {
+    "point": "Between January 2020 and May 2024, prices for cheaper food and beverages in the US rose 30%, while premium versions rose 22%.",
+    "why_it_matters": "This data reveals that inflation is not experienced equally across all income levels or product categories."
+   },
+   {
+    "point": "Increased consumer demand for budget items during inflationary periods and the inability of low-margin companies to absorb rising costs drive this trend.",
+    "why_it_matters": "Understanding these drivers helps explain why budget-friendly staples like rice and bread have become significantly more expensive."
+   },
+   {
+    "point": "Alberto Cavallo notes that the utility cost\u2014the loss of satisfaction from being forced to switch away from preferred brands\u2014is an additional burden for shoppers.",
+    "why_it_matters": "It highlights that the impact of inflation goes beyond just the dollar amount spent, affecting the quality of life for consumers."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "30%",
+    "context": "The price increase for cheaper food and beverages in the US between January 2020 and May 2024."
+   },
+   {
+    "figure": "22%",
+    "context": "The price increase for premium food and beverage products in the US during the same period."
+   },
+   {
+    "figure": "30%",
+    "context": "The price increase for cheap food and beverages in Italy during the study period."
+   },
+   {
+    "figure": "15%",
+    "context": "The price increase for premium products in Italy during the study period."
+   }
+  ],
+  "lesson": "When demand shifts toward lower-cost alternatives during economic stress, the increased volume can drive up prices for those specific goods, effectively reducing the purchasing power of the very consumers who rely on them most.",
+  "opinions_and_predictions": [
+   "Alberto Cavallo (Harvard Business School) believes that for many low-income households, cheapflation erased the income gains provided by government stimulus payments during the pandemic."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Cheapflation",
+    "definition": "A phenomenon where the prices of budget-friendly, low-cost goods rise faster than the prices of premium goods.",
+    "example": "Store-brand eggs increasing in price more rapidly than organic, name-brand eggs."
+   },
+   {
+    "term": "Shrinkflation",
+    "definition": "The practice of reducing the size or quantity of a product while keeping the retail price the same.",
+    "example": "A cereal box containing fewer ounces of product but sold at the same price as before."
+   },
+   {
+    "term": "Utility cost",
+    "definition": "The economic concept of lost satisfaction or benefit when a consumer is forced to choose a less preferred product due to price constraints.",
+    "example": "Having to buy a generic cottage cheese that one does not enjoy as much as the preferred brand."
+   },
+   {
+    "term": "Aggregate number",
+    "definition": "A total or summary statistic that combines many individual data points into one single figure.",
+    "example": "Using a single inflation rate to represent price changes across an entire economy."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "inflation",
+   "consumer behavior",
+   "grocery prices"
+  ],
+  "quality_note": "The report relies on academic research from Harvard Business School and the Bank of Canada, supplemented by anecdotal evidence from a food blogger.",
+  "worth_reading": true
+ }
+}
