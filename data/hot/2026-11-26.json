@@ -1,105 +1,162 @@
 {
  "date": "2026-11-26",
- "edition": "am",
- "updated": "6:03 am ET",
+ "edition": "pm",
+ "updated": "12:35 pm ET",
  "topics": [
   {
-   "title": "Nvidia CEO Jensen Huang returns amid scandal and credit rating warnings",
-   "explanation": "Jensen Huang has returned as CEO of Nvidia following a brief ouster triggered by reports of personal affairs and potential security risks. S&P Global Ratings warned it may downgrade the company's credit rating due to rising management and governance risks, while shareholders have filed lawsuits over board oversight.",
-   "why_it_matters": "Leadership stability and corporate governance\u2014the rules by which a company is run\u2014are critical for investor confidence in a firm that anchors the global AI market.",
+   "title": "U.S. proposes new tariffs on 14 trading partners",
+   "explanation": "The U.S. administration has announced plans for a new round of tariffs targeting 14 major trading partners, including China and the European Union. The proposed levies are intended to counter trade practices deemed unfair or discriminatory to U.S. commerce, though they have already faced pushback from Democrats and international partners.",
+   "why_it_matters": "Tariffs are taxes on imported goods that can increase costs for businesses and consumers, potentially leading to retaliatory trade measures and broader economic uncertainty.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "h02d65ac2",
+    "h9dda273b",
+    "h1e67f5e5",
+    "h004d71e1",
+    "h79400360"
+   ]
+  },
+  {
+   "title": "Nvidia faces mounting scrutiny over governance and chip export controls",
+   "explanation": "Nvidia is navigating multiple challenges, including S&P warnings about potential credit rating downgrades due to management and governance risks, and reports that it is halting chip shipments to Southeast Asia to comply with U.S. export controls. Additionally, the company's board is under investigation following shareholder lawsuits, and there is ongoing political debate regarding the CEO's interactions with foreign entities.",
+   "why_it_matters": "As a central player in the AI hardware market, Nvidia's regulatory and governance issues can significantly impact its stock performance and the broader AI-linked investment sector.",
    "tickers": [
     "NVDA"
    ],
    "beat": "tech",
    "headline_ids": [
-    "h0e1dbd84",
+    "h84279315",
+    "h707319c9",
     "ha3e2147a",
-    "h894319cf",
-    "h707319c9"
+    "hb63ff3c4"
    ]
   },
   {
-   "title": "Trump administration proposes new tariffs on 14 major trading partners",
-   "explanation": "The US has announced plans for fresh tariffs on a dozen countries, including a proposed 40% levy on Chinese imports and 20% on the European Union. Trading partners including Singapore and China have expressed disappointment or threatened retaliation, while analysts suggest the move aims to pressure nations into new trade deals.",
-   "why_it_matters": "Tariffs are taxes on imported goods that can raise costs for businesses and consumers, potentially disrupting global supply chains and trade relationships.",
-   "tickers": [],
-   "beat": "policy",
-   "headline_ids": [
-    "h004d71e1",
-    "h79400360",
-    "h1083f3fa",
-    "h02d65ac2",
-    "h286fac79"
-   ]
-  },
-  {
-   "title": "US inflation rose to 3.8% in October according to Fed's preferred gauge",
-   "explanation": "The Personal Consumption Expenditures (PCE) price index, which the Federal Reserve uses to track price changes, accelerated to an annual rate of 3.8% in October. This higher-than-expected reading comes amid soaring energy prices and rising costs for holiday items like toys and travel.",
-   "why_it_matters": "Persistent inflation can force the central bank to keep interest rates higher for longer, which increases the cost of borrowing for homes, cars, and business expansion.",
+   "title": "Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+   "explanation": "Spanish economist Pablo Hern\u00e1ndez de Cos has secured the backing of European leaders to succeed Christine Lagarde as president of the European Central Bank in 2027. His appointment comes as the ECB navigates a period of political uncertainty, choppy economic growth, and ongoing efforts to manage inflation.",
+   "why_it_matters": "The ECB president plays a critical role in setting monetary policy for the Eurozone, directly influencing interest rates and economic stability across Europe.",
    "tickers": [],
    "beat": "economy",
    "headline_ids": [
-    "h4fc9c7b0",
-    "ha61ab511",
-    "h35460b7c"
+    "h5064aafa",
+    "h56561117",
+    "h981d7fc3",
+    "h58ce3c57",
+    "h6fce9372"
    ]
   },
   {
-   "title": "FCC approves SpaceX plan to launch 1 million data center satellites",
-   "explanation": "The Federal Communications Commission has authorized SpaceX to deploy a massive constellation of satellites designed to provide orbital AI computing power. The project, known as Starmind, was approved despite opposition from rivals like Amazon and concerns regarding orbital debris and scientific research.",
-   "why_it_matters": "This massive expansion of space infrastructure could transform global internet and AI processing capabilities, though it faces significant regulatory and environmental scrutiny.",
-   "tickers": [],
-   "beat": "tech",
-   "headline_ids": [
-    "ha4c3fb2f",
-    "hb8e65de0",
-    "h8540e801",
-    "h27217ba3"
-   ]
-  },
-  {
-   "title": "US-backed consortium led by Todd Boehly to buy Lukoil's international assets",
-   "explanation": "A group of investors including billionaire Todd Boehly and the US International Development Finance Corp has signed a deal to acquire the international oil and gas assets of Russia's Lukoil. The transaction involves a share swap intended to move these energy assets out of Russian control amid ongoing international sanctions.",
-   "why_it_matters": "This deal represents a significant shift in global energy ownership, moving major oil and gas infrastructure into Western-aligned hands.",
-   "tickers": [],
-   "beat": "energy",
-   "headline_ids": [
-    "h6d22e0de",
-    "he661f5cb"
-   ]
-  },
-  {
-   "title": "UK discount retailer Poundland enters administration putting 11,000 jobs at risk",
-   "explanation": "The major British discount chain Poundland has collapsed into administration after its owners failed to secure a buyer or new funding. The move threatens thousands of jobs and highlights the ongoing struggle for high-street retailers facing rising costs and shifting consumer habits.",
-   "why_it_matters": "Administration is a legal process where an insolvent company is managed by professionals to pay off debts, often resulting in store closures or the sale of the business.",
+   "title": "Poundland collapses into administration",
+   "explanation": "The discount retailer Poundland has entered administration after its owners, Gordon Brothers, failed to find a buyer for the chain. The collapse puts approximately 11,000 jobs at risk, with management and lawmakers blaming the owners for the retailer's financial failure.",
+   "why_it_matters": "The failure of a major retail chain highlights the ongoing pressures of weak demand and high operating costs facing the retail sector.",
    "tickers": [],
    "beat": "world",
    "headline_ids": [
+    "h1f475a1b",
     "he75ad5ef",
     "h20b847b4"
    ]
   },
   {
-   "title": "State attorneys general move to block Character.AI from selling user chat data",
-   "explanation": "A coalition of 42 state attorneys general is intervening in Character.AI's bankruptcy proceedings to prevent the company from auctioning off private user data. The AGs allege that the company plans to sell sensitive chat logs, including those belonging to millions of minors, as part of its liquidation process.",
-   "why_it_matters": "This case highlights the legal risks surrounding data privacy and how personal information is treated when technology companies fail financially.",
+   "title": "SpaceX receives FCC approval for orbital data center constellation",
+   "explanation": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of 1 million satellites designed to function as orbital data centers. The project aims to provide energy-efficient computing power, though it has faced opposition from Amazon and other groups concerned about potential regulatory and scientific impacts.",
+   "why_it_matters": "This expansion of satellite infrastructure represents a significant development in the global race to provide the computing power required for the growing AI sector.",
    "tickers": [],
    "beat": "tech",
    "headline_ids": [
-    "hc0f2de19",
-    "h16ddaf76"
+    "ha4c3fb2f",
+    "h8540e801",
+    "hb8e65de0",
+    "h27217ba3"
+   ]
+  },
+  {
+   "title": "Altria explores potential takeover of Imperial Brands",
+   "explanation": "U.S. tobacco company Altria Group is exploring a potential all-cash takeover of the UK-based Imperial Brands. The move is seen as an effort to consolidate the declining cigarette market in what would be one of the largest UK acquisitions in a decade.",
+   "why_it_matters": "Large-scale mergers in mature industries like tobacco are often attempts to maintain profitability and market share in the face of long-term volume declines.",
+   "tickers": [
+    "MO"
+   ],
+   "beat": "markets",
+   "headline_ids": [
+    "h88b9aa70",
+    "h4063c5e8"
    ]
   }
  ],
  "headlines": {
-  "he75ad5ef": {
-   "id": "he75ad5ef",
+  "h1f475a1b": {
+   "id": "h1f475a1b",
    "source": "BBC Business",
    "beat": "world",
-   "title": "What's gone wrong at Poundland?",
-   "blurb": "Poundland has collapse into administration. Why?",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-26T10:15"
+   "title": "When will Poundland shops close? Five key questions answered",
+   "blurb": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T17:21"
+  },
+  "h84279315": {
+   "id": "h84279315",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+   "blurb": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+   "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+   "published": "2026-11-26T17:04"
+  },
+  "h5064aafa": {
+   "id": "h5064aafa",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Pablo Hern\u00e1ndez de Cos: the \u2018consensus-builder\u2019 taking over the ECB",
+   "blurb": "Spanish economist is seen as a skilled diplomat with a \u2018unique blend of diplomatic finesse and academic rigour\u2019",
+   "url": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
+   "published": "2026-11-26T16:02"
+  },
+  "h56561117": {
+   "id": "h56561117",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "Spain's de Cos Set To Succeed Lagarde as ECB President",
+   "blurb": "Pablo Hernandez de Cos is set to become the next European Central Bank president, succeeding Christine Lagarde when she leaves her role early in February 2027. Zoe Schneeweiss explains. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video",
+   "published": "2026-11-26T14:03"
+  },
+  "h02d65ac2": {
+   "id": "h02d65ac2",
+   "source": "CNBC Economy",
+   "beat": "economy",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "blurb": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "published": "2026-11-26T12:46"
+  },
+  "h981d7fc3": {
+   "id": "h981d7fc3",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+   "blurb": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+   "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "published": "2026-11-26T15:28"
+  },
+  "h58ce3c57": {
+   "id": "h58ce3c57",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "De Cos Gets Leaders\u2019 Nod for ECB Presidency in Post-Lagarde Era",
+   "blurb": "Pablo Hernandez de Cos will become European Central Bank\u2019s next president, directing the region\u2019s fight against inflation and possible bond turmoil.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/de-cos-is-poised-to-take-ecb-presidency-in-era-after-lagarde",
+   "published": "2026-11-26T13:38"
+  },
+  "h9dda273b": {
+   "id": "h9dda273b",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
+   "blurb": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
+   "published": "2026-11-26T11:43"
   },
   "h707319c9": {
    "id": "h707319c9",
@@ -110,32 +167,23 @@
    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
    "published": "2026-11-25T22:44"
   },
-  "h02d65ac2": {
-   "id": "h02d65ac2",
+  "h88b9aa70": {
+   "id": "h88b9aa70",
    "source": "CNBC",
    "beat": "markets",
-   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-   "blurb": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-   "published": "2026-11-26T10:02"
+   "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
+   "blurb": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for \u200bImperial Brands.",
+   "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
+   "published": "2026-11-26T14:47"
   },
-  "hc0f2de19": {
-   "id": "hc0f2de19",
-   "source": "The Verge",
-   "beat": "tech",
-   "title": "42 state AGs are trying to stop Character.AI from selling users\u2019 chats",
-   "blurb": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private\u2026",
-   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-   "published": "2026-11-26T09:54"
-  },
-  "h286fac79": {
-   "id": "h286fac79",
-   "source": "Financial Times",
-   "beat": "world",
-   "title": "China hits back at Trump tariff threat",
-   "blurb": "Levies follow investigation into whether countries give their own companies unfair subsidies",
-   "url": "https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1",
-   "published": "2026-11-26T08:02"
+  "h1e67f5e5": {
+   "id": "h1e67f5e5",
+   "source": "CNBC Politics",
+   "beat": "policy",
+   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+   "blurb": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce.",
+   "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+   "published": "2026-11-25T16:02"
   },
   "ha4c3fb2f": {
    "id": "ha4c3fb2f",
@@ -146,59 +194,14 @@
    "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
    "published": "2026-11-25T20:56"
   },
-  "h35460b7c": {
-   "id": "h35460b7c",
-   "source": "CNBC Economy",
-   "beat": "economy",
-   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-   "blurb": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-   "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-   "published": "2026-11-25T16:17"
-  },
-  "hb8e65de0": {
-   "id": "hb8e65de0",
-   "source": "CNBC Tech",
-   "beat": "tech",
-   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-   "blurb": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-   "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-   "published": "2026-11-26T02:35"
-  },
-  "ha61ab511": {
-   "id": "ha61ab511",
-   "source": "The Guardian Business",
+  "h6fce9372": {
+   "id": "h6fce9372",
+   "source": "Financial Times",
    "beat": "world",
-   "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-   "blurb": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in\u2026",
-   "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "published": "2026-11-25T15:46"
-  },
-  "h4fc9c7b0": {
-   "id": "h4fc9c7b0",
-   "source": "CNBC Economy",
-   "beat": "economy",
-   "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-   "blurb": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-   "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-   "published": "2026-11-25T14:18"
-  },
-  "h27217ba3": {
-   "id": "h27217ba3",
-   "source": "BBC Business",
-   "beat": "world",
-   "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-   "blurb": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-26T09:27"
-  },
-  "h6d22e0de": {
-   "id": "h6d22e0de",
-   "source": "CNBC Energy",
-   "beat": "energy",
-   "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
-   "blurb": "The U.S. International Development Finance Corporation and Catena Investments, based in the United Arab Emirates, are also parties to the deal, the sources said.",
-   "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-   "published": "2026-11-25T16:00"
+   "title": "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
+   "blurb": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
+   "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+   "published": "2026-11-26T14:44"
   },
   "h004d71e1": {
    "id": "h004d71e1",
@@ -209,6 +212,15 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
    "published": "2026-11-25T14:59"
   },
+  "ha3e2147a": {
+   "id": "ha3e2147a",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+   "blurb": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+   "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+   "published": "2026-11-26T03:19"
+  },
   "h8540e801": {
    "id": "h8540e801",
    "source": "Ars Technica",
@@ -217,6 +229,42 @@
    "blurb": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
    "published": "2026-11-25T18:22"
+  },
+  "he75ad5ef": {
+   "id": "he75ad5ef",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "What's gone wrong at Poundland?",
+   "blurb": "Poundland has collapse into administration. Why?",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T10:15"
+  },
+  "hb8e65de0": {
+   "id": "hb8e65de0",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "blurb": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+   "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "published": "2026-11-26T02:35"
+  },
+  "h4063c5e8": {
+   "id": "h4063c5e8",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
+   "blurb": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential takeover of British cigarette maker Imperial Brands Plc, accelerating consolidation in the declining cigarette market in what would be one of the biggest UK acquisitions in a decade.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+   "published": "2026-11-26T13:08"
+  },
+  "h27217ba3": {
+   "id": "h27217ba3",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+   "blurb": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T09:27"
   },
   "h20b847b4": {
    "id": "h20b847b4",
@@ -227,6 +275,15 @@
    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-26T08:24"
   },
+  "hb63ff3c4": {
+   "id": "hb63ff3c4",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Nvidia halts chip shipments to south-east Asia",
+   "blurb": "Move comes as US steps up export controls to prevent Chinese access to AI computing power",
+   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
+   "published": "2026-11-26T05:00"
+  },
   "h79400360": {
    "id": "h79400360",
    "source": "BBC Business",
@@ -235,172 +292,118 @@
    "blurb": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-26T04:10"
-  },
-  "h894319cf": {
-   "id": "h894319cf",
-   "source": "WSJ Markets",
-   "beat": "markets",
-   "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-   "blurb": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO\u2014and then brought him back.",
-   "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-   "published": "2026-11-25T22:27"
-  },
-  "h1083f3fa": {
-   "id": "h1083f3fa",
-   "source": "Bloomberg Politics",
-   "beat": "policy",
-   "title": "How Are US Trading Partners Responding to Tariffs?",
-   "blurb": "Major US trading partners responded with disappointment and protests while holding out the prospect of negotiations after the Trump administration rolled out a fresh round of tariffs on goods from China, the European Union and a dozen other economies. Bloomberg's Jon Herskovitz\u2026",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-26/how-are-us-trading-partners-responding-to-tariffs-video",
-   "published": "2026-11-26T07:45"
-  },
-  "h0e1dbd84": {
-   "id": "h0e1dbd84",
-   "source": "CNBC Tech",
-   "beat": "tech",
-   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-   "blurb": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-   "published": "2026-11-25T14:29"
-  },
-  "ha3e2147a": {
-   "id": "ha3e2147a",
-   "source": "CNBC",
-   "beat": "markets",
-   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-   "blurb": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
-   "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-   "published": "2026-11-26T03:19"
-  },
-  "h16ddaf76": {
-   "id": "h16ddaf76",
-   "source": "TechCrunch",
-   "beat": "tech",
-   "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
-   "blurb": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-   "published": "2026-11-25T17:35"
-  },
-  "he661f5cb": {
-   "id": "he661f5cb",
-   "source": "OilPrice.com",
-   "beat": "energy",
-   "title": "U.S.-Backed Consortium Signs Deal for Lukoil's International Oil Empire",
-   "blurb": "US billionaire Todd Boehly has signed a deal with Lukoil to buy the sanctioned Russian oil company's international assets through a share swap backed by the US International Development Finance Corp (DFC), Reuters reported on Wednesday. The consortium will exchange Lukoil\u2026",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Backed-Consortium-Signs-Deal-for-Lukoils-International-Oil-Empire.html",
-   "published": "2026-11-25T20:30"
   }
  },
  "latest": [
   {
-   "id": "h4d1ac2c7",
-   "source": "Bloomberg Markets",
-   "beat": "markets",
-   "title": "Wall Street Flips From AI Euphoria to Gloom",
-   "blurb": "US stocks haven\u2019t been this volatile in years.",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
-   "published": "2026-11-26T10:56"
+   "id": "h1f475a1b",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "When will Poundland shops close? Five key questions answered",
+   "blurb": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T17:21"
   },
   {
-   "id": "hb585a72f",
-   "source": "WSJ Markets",
-   "beat": "markets",
-   "title": "Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
-   "blurb": "Bachem Holding shares fell after the Swiss peptide maker, a supplier to both Novo Nordisk and Eli Lilly, outlined plans to boost spending and issued new targets that analysts saw as weaker than anticipated.",
-   "url": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
-   "published": "2026-11-26T10:55"
+   "id": "h02e493b5",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Sweden\u2019s Kristersson Nears New Term After Kingmaker U-Turn",
+   "blurb": "Sweden\u2019s kingmaker Center Party appears ready to switch its backing to Ulf Kristersson\u2019s bid to return as prime minister, in what would be a stinging political defeat for the country\u2019s Social Democrats who won the general election more than two months ago.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sweden-s-acting-premier-nears-new-term-after-kingmaker-u-turn",
+   "published": "2026-11-26T17:11"
   },
   {
-   "id": "h7e788c0b",
-   "source": "OilPrice.com",
-   "beat": "energy",
-   "title": "Japan\u2019s Nuclear Revival Hits a Snag as TEPCO Delays Reactor Restart",
-   "blurb": "Tokyo Electric Power Company (TEPCO) will delay the restart of a second reactor at its Kashiwazaki-Kariwa nuclear power plant in Japan, the world\u2019s largest in terms of nameplate capacity, after identifying a problem with the construction at the facility. TEPCO, which also\u2026",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Nuclear-Revival-Hits-a-Snag-as-TEPCO-Delays-Reactor-Restart.html",
-   "published": "2026-11-26T10:55"
-  },
-  {
-   "id": "h4b612de6",
-   "source": "Bloomberg Markets",
-   "beat": "markets",
-   "title": "Romanian Far-Right Leader Simion Charged With Inciting Violence",
-   "blurb": "Romanian far-right leader George Simion was charged with public incitement by prosecutors for allegedly urging violence against election bureau justices last year following the highly-contested 2024 presidential election.",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/romanian-far-right-leader-simion-charged-with-inciting-violence",
-   "published": "2026-11-26T10:49"
-  },
-  {
-   "id": "h12585daf",
-   "source": "CNBC",
-   "beat": "markets",
-   "title": "The Nobel-winning science turning \u2018water harvesting\u2019 into a commercial race",
-   "blurb": "Startups Atoco and Ahbstra are moving water-from-air machines toward commercial use, including for data centers and drought-hit communities.",
-   "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
-   "published": "2026-11-26T10:46"
-  },
-  {
-   "id": "he95bfe93",
+   "id": "hb8b8a9d2",
    "source": "The Verge",
    "beat": "tech",
-   "title": "X is finally getting its first parental controls",
-   "blurb": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits,\u2026",
-   "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-   "published": "2026-11-26T10:45"
+   "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+   "blurb": "If you\u2019re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with\u2026",
+   "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+   "published": "2026-11-26T17:07"
   },
   {
-   "id": "h438eb046",
-   "source": "MarketWatch",
+   "id": "hfc3f6c86",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Android app developers will soon have to share their address publicly",
+   "blurb": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services\u2026",
+   "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+   "published": "2026-11-26T17:06"
+  },
+  {
+   "id": "h84279315",
+   "source": "CNBC Tech",
+   "beat": "tech",
+   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+   "blurb": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+   "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+   "published": "2026-11-26T17:04"
+  },
+  {
+   "id": "h948f79b6",
+   "source": "TechCrunch",
+   "beat": "tech",
+   "title": "A month with the iPhone Duo has changed how I use my phone",
+   "blurb": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+   "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+   "published": "2026-11-26T17:00"
+  },
+  {
+   "id": "he926eadd",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Why Gasoline Prices Are Falling While Diesel Remains Expensive",
+   "blurb": "Americans heading into the Thanksgiving holiday are finally getting some relief at the gasoline pump. After months of elevated prices, the national average has fallen sharply in November, dropping to approximately $3.66 per gallon as of November 21. That\u2019s a welcome development\u2026",
+   "url": "https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html",
+   "published": "2026-11-26T17:00"
+  },
+  {
+   "id": "hb10ebf43",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "The best Black Friday deals we\u2019ve already found",
+   "blurb": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn\u2019t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a\u2026",
+   "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+   "published": "2026-11-26T16:55"
+  },
+  {
+   "id": "hafcad6da",
+   "source": "Bloomberg Markets",
    "beat": "markets",
-   "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-   "blurb": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
-   "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-   "published": "2026-11-26T10:37"
+   "title": "Stellantis to Pause More Europe Plants as Chinese Rivals Advance",
+   "blurb": "Stellantis NV is planning further plant stoppages in Europe in the coming weeks as the carmaker grapples with mounting competition, high costs and weak demand for some models.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance",
+   "published": "2026-11-26T16:49"
   },
   {
-   "id": "hdeb23f68",
+   "id": "h4d86bdfc",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
+   "blurb": "Trans-Oil Group has yet to secure a waiver after breaching financial covenants on a key export facility, adding to liquidity pressure at the agricultural commodities firm.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
+   "published": "2026-11-26T16:39"
+  },
+  {
+   "id": "hb00ec161",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Federal judge blocks the FCC from reviewing ABC\u2019s licenses early",
+   "blurb": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its\u2026",
+   "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+   "published": "2026-11-26T16:38"
+  },
+  {
+   "id": "h333c58c4",
    "source": "Bloomberg Politics",
    "beat": "policy",
-   "title": "EU Leaders Meet With ECB, Budget, Tariffs on the Agenda",
-   "blurb": "European Union leaders meeting in Brussels for a summit are divided about the bloc\u2019s next seven-year budget. US trade tariffs and the European Central Bank's next president are also on the agenda. Bloomberg's Suzanne Lynch reports. (Source: Bloomberg)",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-26/eu-leaders-meet-with-ecb-budget-tariffs-on-the-agenda-video",
-   "published": "2026-11-26T10:36"
-  },
-  {
-   "id": "h75106430",
-   "source": "Bloomberg Economics",
-   "beat": "economy",
-   "title": "BOE Proposes 30 Basis Point Cut to UK Bank Capital Requirements",
-   "blurb": "The Bank of England has laid out fresh measures that would cut UK lenders\u2019 capital requirements by another 30 basis points, but warned reductions beyond that point could lead to \u201cfinancial instability.\u201d",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements",
-   "published": "2026-11-26T10:33"
-  },
-  {
-   "id": "hcc9c1b55",
-   "source": "Bloomberg Economics",
-   "beat": "economy",
-   "title": "AI Crisis Would Collide With Political Mire, Scope Ratings Says",
-   "blurb": "Global economies would struggle to respond to a financial crisis caused by an unwinding of the artificial intelligence boom, Scope Ratings said.",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/ai-crisis-would-collide-with-political-mire-scope-ratings-says",
-   "published": "2026-11-26T10:27"
-  },
-  {
-   "id": "h9af45062",
-   "source": "Bloomberg Economics",
-   "beat": "economy",
-   "title": "Portugal Rejects Opposition Tax Cuts to Preserve Budget Surplus",
-   "blurb": "Portugal\u2019s minority government said it won\u2019t enact tax cuts forced on it by opposition parties as it seeks to deliver a fifth straight budget surplus next year.",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/portugal-rejects-opposition-tax-cuts-to-preserve-budget-surplus",
-   "published": "2026-11-26T10:22"
-  },
-  {
-   "id": "hf349cd54",
-   "source": "Bloomberg Politics",
-   "beat": "policy",
-   "title": "Spain\u2019s Kingmaker Vox Floats Massive Spending Cuts After Election",
-   "blurb": "Vox is considering sweeping public spending cuts, a party platform aimed at turning the standard-bearer of Spain\u2019s new far right into a kingmaker in the next government.",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/spain-s-kingmaker-vox-floats-massive-spending-cuts-after-election",
-   "published": "2026-11-26T10:18"
+   "title": "Canada Government Spending Slowed in 2025 as Defense Jumped",
+   "blurb": "The pace of spending by all levels of government slowed to 2.2% in 2025 \u2014 about half the growth rate of the previous year \u2014 as the country ramped up spending on defense and pulled back on environmental policies.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/canada-government-spending-slowed-in-2025-as-defense-jumped",
+   "published": "2026-11-26T16:37"
   }
  ],
  "feeds": 27,
- "scanned": 244
+ "scanned": 248
 }

@@ -1,35 +1,50 @@
 {
  "date": "2026-11-26",
- "big_picture": "The U.S. economy shows resilience with Q3 GDP revised upward to 4.3%, even as inflation pressures persist with core PCE reaching a three-year high of 3.3%. Meanwhile, tech stocks are facing volatility due to high debt levels for AI infrastructure and concerns over key-person risk at Nvidia.",
+ "big_picture": "The U.S. economy shows resilience with Q3 GDP revised upward to 4.3%, though persistent inflation and high interest rates continue to pressure consumers and tech valuations. Meanwhile, structural issues in the construction industry and the financial burden of long-term elder care highlight growing challenges for household budgets.",
  "themes": [
   {
-   "title": "Market volatility and tech sector concerns",
-   "explanation": "Nvidia shares dropped 5% as investors recalibrate exposure away from overcrowded tech trades. Analysts highlight that the company's reliance on CEO Jensen Huang creates key-person dependency, while broader tech stocks are under pressure from the high debt costs required to build AI data centers.",
+   "title": "Market volatility and tech sector headwinds",
+   "explanation": "Tech stocks are facing pressure as investors recalibrate portfolios away from overcrowded trades and worry about the high debt levels required to fund AI infrastructure. Nvidia shares fell 5% following CEO Jensen Huang's return, highlighting the stock's sensitivity to key-person risk and the massive capital demands of data center expansion.",
    "item_ids": [
     "bloomberg-surveillance-f6c7dafe15",
     "marketplace-4f1533e841"
    ]
   },
   {
-   "title": "Economic growth and inflation indicators",
-   "explanation": "U.S. Q3 GDP was revised upward to 4.3%, the strongest growth in three years. However, the PCE price index rose 3.8% annually, and core inflation hit 3.3%, leading to a 94% market probability of a Federal Reserve interest rate hike in December.",
+   "title": "Inflation, GDP, and monetary policy",
+   "explanation": "The PCE price index rose 3.8% annually, while core inflation hit a three-year high of 3.3%. With Q3 GDP growth revised up to 4.3%, markets are pricing in a 94% probability of a Federal Reserve interest rate hike in December.",
    "item_ids": [
     "marketplace-4f1533e841",
     "wsj-whats-news-57a82bd4e5"
    ]
   },
   {
-   "title": "Construction productivity and trade policy",
-   "explanation": "U.S. construction productivity has fallen 40% since 1970, hindered by industry fragmentation and local regulations, though modular building offers a potential efficiency fix. Separately, the administration is implementing tariffs of up to 40% on foreign nations to combat state-subsidized industrial overcapacity.",
+   "title": "Construction productivity and housing challenges",
+   "explanation": "U.S. construction productivity has declined 40% since 1970, contributing to a 4 million unit housing shortage. Experts suggest that industry fragmentation and regulatory bottlenecks hinder the adoption of efficient modular manufacturing, which could otherwise reduce construction time by 50%.",
    "item_ids": [
-    "freakonomics-03a64f2ccb",
+    "freakonomics-03a64f2ccb"
+   ]
+  },
+  {
+   "title": "Trade policy and industrial subsidies",
+   "explanation": "The administration is implementing tariffs of up to 40% on China and other nations to counter state-subsidized industrial overcapacity. While intended to protect domestic firms, these policies risk increasing consumer prices for goods like canned items.",
+   "item_ids": [
+    "marketplace-4f1533e841",
     "wsj-whats-news-57a82bd4e5"
+   ]
+  },
+  {
+   "title": "Corporate history and valuation metrics",
+   "explanation": "UPS's evolution from a private local delivery service to a national carrier demonstrates how firms use public capital markets to fund infrastructure scaling. Separately, analysts are using the component CAPE ratio to better forecast equity returns by accounting for earnings growth and dividend yields.",
+   "item_ids": [
+    "rational-reminder-f5a20e67a2",
+    "odd-lots-cac5315a62"
    ]
   }
  ],
  "concept_of_the_day": {
-  "concept": "Financial Leverage",
-  "explanation": "Financial leverage is the use of borrowed capital to fund business operations or investments. While it can amplify returns during growth cycles, it increases risk because the company must service debt regardless of revenue performance. In today's reports, tech companies are facing stock price sensitivity to credit ratings and interest rates because they are relying heavily on debt to fund expensive AI data center infrastructure. If revenue fails to meet expectations, this high leverage makes the companies vulnerable to credit downgrades and increased volatility."
+  "concept": "Key-person risk",
+  "explanation": "Key-person risk occurs when a company's valuation, strategic direction, or operational success is disproportionately dependent on a single individual. If that person faces controversy, health issues, or departure, the stock price often experiences heightened volatility. In today's news, Nvidia's stock dropped 5% upon the return of CEO Jensen Huang, illustrating how market sentiment is tethered to his leadership and upcoming congressional appearances."
  },
  "watch_for": [
   "December Federal Reserve meeting: 94% market probability of an interest rate hike"

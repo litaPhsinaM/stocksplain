@@ -1,0 +1,80 @@
+{
+ "id": "odd-lots-cac5315a62",
+ "source_id": "odd-lots",
+ "source_name": "Odd Lots (Bloomberg)",
+ "kind": "podcast",
+ "title": "Marc Levinson on How UPS Created Modern Logistics",
+ "url": "https://omny.fm/shows/odd-lots/marc-levinson-on-how-ups-created-modern-logistics",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84bd57a3-7784-4f39-9716-b50d01106c9e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+ "published": "2026-11-26",
+ "duration": 2990,
+ "digest_date": "2026-11-26",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Era of delivery abundance",
+   "James Casey and UPS history",
+   "UPS business model evolution",
+   "The 1999 IPO and expansion"
+  ],
+  "headline": "How James Casey built UPS into a logistics giant",
+  "tldr": "Historian Marc Levinson discusses the origins of UPS and its founder, James Casey. The company evolved from a local retail delivery service into a national common carrier, a transformation that required a major shift in strategy and capital.",
+  "key_points": [
+   {
+    "point": "UPS began in 1907 and remained a private company until 1999.",
+    "why_it_matters": "Operating as a private entity for nearly a century allowed the company to maintain a secretive culture and avoid public scrutiny."
+   },
+   {
+    "point": "The original business model involved delivering parcels for multiple retail stores on the same route.",
+    "why_it_matters": "This consolidation made delivery significantly cheaper than each store managing its own logistics, providing a clear competitive advantage."
+   },
+   {
+    "point": "In the 1960s, UPS transitioned from a retail-focused service to a common carrier for the general public.",
+    "why_it_matters": "This pivot allowed the company to scale nationally as retail moved to the suburbs, necessitating massive investment in infrastructure."
+   },
+   {
+    "point": "The 1999 IPO raised approximately $1 billion to fund the company's national expansion.",
+    "why_it_matters": "Accessing public capital markets was a critical step in financing the transition to a nationwide logistics network."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$1B",
+    "context": "The amount raised by the 1999 initial public offering to finance national expansion."
+   }
+  ],
+  "lesson": "When a business model relies on high fixed costs like sorting hubs and fleets, scaling requires significant capital; transitioning from a niche service to a broad market often necessitates moving from private ownership to public capital markets to fund that growth.",
+  "opinions_and_predictions": [
+   "Marc Levinson believes James Casey is an exceedingly important figure who played a key role in the development of globalization."
+  ],
+  "tickers": [
+   "United Parcel Service (UPS)"
+  ],
+  "glossary": [
+   {
+    "term": "Common carrier",
+    "definition": "A company that provides transportation services to the general public for a fee.",
+    "example": "UPS transitioned from serving only specific retail stores to being a common carrier for anyone in the U.S."
+   },
+   {
+    "term": "Initial public offering (IPO)",
+    "definition": "The process of offering shares of a private corporation to the public in a new stock issuance.",
+    "example": "UPS conducted an IPO in 1999 to raise capital for expansion."
+   },
+   {
+    "term": "Logistics",
+    "definition": "The detailed coordination of a complex operation involving many people, facilities, or supplies.",
+    "example": "UPS created modern logistics by optimizing delivery routes across multiple retailers."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "logistics",
+   "business history",
+   "transportation"
+  ],
+  "quality_note": "The source features a historian and author discussing the evolution of a major corporation, providing factual historical context despite limited access to company archives.",
+  "worth_reading": true
+ }
+}

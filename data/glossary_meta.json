@@ -148,6 +148,9 @@
  "cap table": {
   "topic": "companies"
  },
+ "cape ratio": {
+  "topic": "stocks"
+ },
  "capex": {
   "topic": "companies"
  },
@@ -204,6 +207,9 @@
  },
  "commission": {
   "topic": "trading"
+ },
+ "common carrier": {
+  "topic": "other"
  },
  "common ownership": {
   "topic": "stocks"
@@ -653,6 +659,10 @@
  "infrastructure": {
   "topic": "economy"
  },
+ "initial public offering (ipo)": {
+  "topic": "stocks",
+  "same_as": "ipo"
+ },
  "insider selling": {
   "topic": "stocks"
  },
@@ -741,6 +751,9 @@
   "topic": "trading"
  },
  "load board": {
+  "topic": "energy"
+ },
+ "logistics": {
   "topic": "energy"
  },
  "long-term care": {
@@ -959,6 +972,9 @@
  },
  "pension": {
   "topic": "personal"
+ },
+ "permanent portfolio": {
+  "topic": "stocks"
  },
  "permitting process": {
   "topic": "policy"
@@ -1194,6 +1210,9 @@
  },
  "shareholders' equity": {
   "topic": "companies"
+ },
+ "sharpe ratio": {
+  "topic": "stocks"
  },
  "shell company": {
   "topic": "companies"

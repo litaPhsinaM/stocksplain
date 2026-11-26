@@ -1,0 +1,81 @@
+{
+ "id": "rational-reminder-f5a20e67a2",
+ "source_id": "rational-reminder",
+ "source_name": "Rational Reminder (Ben Felix)",
+ "kind": "podcast",
+ "title": "Is CAPE Overstating US Stock Valuations? (Ben Marshall) | #437",
+ "url": "https://rationalreminder.libsyn.com/is-cape-overstating-us-stock-valuations-ben-marshall-437",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/rationalreminder/RRP_-_EP.437_Ben_Marshall_-_AUDIO_V2.mp3?dest-id=763774",
+ "published": "2026-11-26",
+ "duration": 3481,
+ "digest_date": "2026-11-26",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Expected equity market returns",
+   "Component CAPE ratio",
+   "Permanent portfolio"
+  ],
+  "headline": "Ben Marshall on expected equity returns and the component CAPE ratio",
+  "tldr": "Professor Ben Marshall discusses methods for estimating expected equity market returns, highlighting the limitations of historical averages and the utility of the component CAPE ratio. He also explores the performance of the permanent portfolio and the importance of accounting for valuation in return forecasts.",
+  "key_points": [
+   {
+    "point": "Expected return estimates help asset managers and individuals make asset allocation decisions and help regulators set fair rates of return for companies with monopoly pricing power.",
+    "why_it_matters": "Understanding expected returns is foundational for building portfolios and evaluating the fairness of regulated industries."
+   },
+   {
+    "point": "Historical returns are a poor predictor of future returns over shorter time frames because they are conditional on current valuations.",
+    "why_it_matters": "Relying solely on long-term historical averages can lead to inaccurate expectations when current market valuations are significantly higher or lower than historical norms."
+   },
+   {
+    "point": "The component CAPE ratio (cyclically adjusted price-to-earnings ratio) is a valuation metric that adjusts the standard CAPE calculation to account for earnings growth and dividend yield.",
+    "why_it_matters": "This metric provides a more nuanced view of valuation, which is the primary driver of changes in return forecasts over time."
+   },
+   {
+    "point": "The permanent portfolio, which allocates equally to stocks, bonds, gold, and cash, provides meaningful downside protection in both economic and statistical terms.",
+    "why_it_matters": "Diversification across these asset classes can help mitigate risk, particularly during periods of economic volatility."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "10%",
+    "context": "The average annual return on the US equity market over the last 100 years."
+   },
+   {
+    "figure": "30%",
+    "context": "The approximate increase in the Sharpe ratio for an investor using the three-component model compared to a naive approach."
+   }
+  ],
+  "lesson": "When a valuation metric is used to forecast returns, the accuracy of the forecast depends on the relationship between current valuations and future returns; if current valuations are high relative to history, expected returns are generally lower.",
+  "opinions_and_predictions": [
+   "Ben Marshall believes that the component CAPE ratio is a superior valuation metric because it accounts for earnings growth and dividend yield, providing a more accurate forecast of future returns."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "CAPE ratio",
+    "definition": "A valuation measure that uses the real price of a stock divided by the average of ten years of earnings, adjusted for inflation.",
+    "example": "The CAPE ratio is used to determine if the stock market is overvalued or undervalued."
+   },
+   {
+    "term": "Sharpe ratio",
+    "definition": "A measure of risk-adjusted return, calculated by dividing the excess return of an investment by its standard deviation.",
+    "example": "A higher Sharpe ratio indicates better risk-adjusted performance."
+   },
+   {
+    "term": "Permanent portfolio",
+    "definition": "An investment strategy that allocates capital equally among four asset classes: stocks, bonds, gold, and cash.",
+    "example": "The permanent portfolio aims to provide stable returns across different economic environments."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "investing",
+   "valuation",
+   "asset allocation"
+  ],
+  "quality_note": "The source is an academic researcher providing data-backed insights on valuation metrics and portfolio construction.",
+  "worth_reading": true
+ }
+}
