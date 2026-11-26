@@ -1,0 +1,37 @@
+{
+ "date": "2026-11-26",
+ "big_picture": "The U.S. economy shows resilience with Q3 GDP revised upward to 4.3%, even as inflation pressures persist with core PCE reaching a three-year high of 3.3%. Meanwhile, tech stocks are facing volatility due to high debt levels for AI infrastructure and concerns over key-person risk at Nvidia.",
+ "themes": [
+  {
+   "title": "Market volatility and tech sector concerns",
+   "explanation": "Nvidia shares dropped 5% as investors recalibrate exposure away from overcrowded tech trades. Analysts highlight that the company's reliance on CEO Jensen Huang creates key-person dependency, while broader tech stocks are under pressure from the high debt costs required to build AI data centers.",
+   "item_ids": [
+    "bloomberg-surveillance-f6c7dafe15",
+    "marketplace-4f1533e841"
+   ]
+  },
+  {
+   "title": "Economic growth and inflation indicators",
+   "explanation": "U.S. Q3 GDP was revised upward to 4.3%, the strongest growth in three years. However, the PCE price index rose 3.8% annually, and core inflation hit 3.3%, leading to a 94% market probability of a Federal Reserve interest rate hike in December.",
+   "item_ids": [
+    "marketplace-4f1533e841",
+    "wsj-whats-news-57a82bd4e5"
+   ]
+  },
+  {
+   "title": "Construction productivity and trade policy",
+   "explanation": "U.S. construction productivity has fallen 40% since 1970, hindered by industry fragmentation and local regulations, though modular building offers a potential efficiency fix. Separately, the administration is implementing tariffs of up to 40% on foreign nations to combat state-subsidized industrial overcapacity.",
+   "item_ids": [
+    "freakonomics-03a64f2ccb",
+    "wsj-whats-news-57a82bd4e5"
+   ]
+  }
+ ],
+ "concept_of_the_day": {
+  "concept": "Financial Leverage",
+  "explanation": "Financial leverage is the use of borrowed capital to fund business operations or investments. While it can amplify returns during growth cycles, it increases risk because the company must service debt regardless of revenue performance. In today's reports, tech companies are facing stock price sensitivity to credit ratings and interest rates because they are relying heavily on debt to fund expensive AI data center infrastructure. If revenue fails to meet expectations, this high leverage makes the companies vulnerable to credit downgrades and increased volatility."
+ },
+ "watch_for": [
+  "December Federal Reserve meeting: 94% market probability of an interest rate hike"
+ ]
+}

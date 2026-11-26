@@ -175,6 +175,9 @@
  "circular financing": {
   "topic": "companies"
  },
+ "citizen voice": {
+  "topic": "other"
+ },
  "citizens' assembly": {
   "topic": "other"
  },
@@ -256,6 +259,9 @@
  "core pce": {
   "topic": "economy"
  },
+ "core prices": {
+  "topic": "economy"
+ },
  "corporate governance": {
   "topic": "companies"
  },
@@ -315,6 +321,9 @@
  "derisking": {
   "topic": "trading"
  },
+ "derivatives": {
+  "topic": "trading"
+ },
  "digital distribution": {
   "topic": "tech"
  },
@@ -366,6 +375,9 @@
  "earnings estimate": {
   "topic": "companies"
  },
+ "economies of scale": {
+  "topic": "companies"
+ },
  "efficient-market hypothesis": {
   "topic": "stocks"
  },
@@ -410,6 +422,10 @@
  },
  "excess capacity": {
   "topic": "energy"
+ },
+ "excess industrial capacity": {
+  "topic": "energy",
+  "same_as": "excess capacity"
  },
  "exchange-traded funds (etfs)": {
   "topic": "stocks",
@@ -727,6 +743,9 @@
  "load board": {
   "topic": "energy"
  },
+ "long-term care": {
+  "topic": "personal"
+ },
  "lump sum investing": {
   "topic": "personal"
  },
@@ -796,6 +815,9 @@
  },
  "moat": {
   "topic": "companies"
+ },
+ "modular construction": {
+  "topic": "other"
  },
  "momentum (factor)": {
   "topic": "trading"
@@ -921,6 +943,13 @@
  "panic selling": {
   "topic": "trading"
  },
+ "pce index": {
+  "topic": "economy",
+  "same_as": "pce price index"
+ },
+ "pce price index": {
+  "topic": "economy"
+ },
  "pe ratio": {
   "topic": "stocks",
   "same_as": "p/e ratio"
@@ -994,6 +1023,9 @@
  "procurement": {
   "topic": "companies"
  },
+ "productivity": {
+  "topic": "economy"
+ },
  "pronatalism": {
   "topic": "policy"
  },
@@ -1008,6 +1040,9 @@
  },
  "public benefit corporation (pbc)": {
   "topic": "companies"
+ },
+ "public utility commission": {
+  "topic": "policy"
  },
  "pullback": {
   "topic": "trading"
@@ -1032,6 +1067,9 @@
  },
  "real sales": {
   "topic": "companies"
+ },
+ "real terms": {
+  "topic": "economy"
  },
  "rebalancing": {
   "topic": "personal"
@@ -1323,6 +1361,9 @@
  },
  "valuations": {
   "topic": "stocks"
+ },
+ "value added": {
+  "topic": "economy"
  },
  "venture capital": {
   "topic": "stocks"

@@ -1,0 +1,120 @@
+{
+ "id": "freakonomics-03a64f2ccb",
+ "source_id": "freakonomics",
+ "source_name": "Freakonomics Radio",
+ "kind": "podcast",
+ "title": "Why Is It So Hard (and Expensive) to Build Anything in America? (Update)",
+ "url": "https://freakonomics.com",
+ "media_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4",
+ "published": "2026-11-25",
+ "duration": 3220,
+ "digest_date": "2026-11-26",
+ "backend": "gemini",
+ "model": "gemini-3-flash-preview",
+ "summary": {
+  "segments": [
+   "Construction productivity decline over 50 years",
+   "Economic impact of falling productivity",
+   "Regulation and citizen voice bottlenecks",
+   "Industry fragmentation and small firm dominance",
+   "Modular construction as a manufacturing solution",
+   "International modular success in Japan and Sweden",
+   "The failure of Katerra and future outlook"
+  ],
+  "headline": "US construction productivity falls 40% since 1970; modular building offers potential fix",
+  "tldr": "While most industries have become more efficient over time, US construction productivity has declined significantly since the late 1960s, making housing and infrastructure more expensive. Experts attribute this to complex local regulations, industry fragmentation, and a reluctance to adopt mass-production techniques like modular manufacturing.",
+  "key_points": [
+   {
+    "point": "Construction productivity has fallen for 50 years, unlike agriculture or manufacturing which have seen steady gains.",
+    "why_it_matters": "Falling productivity leads to higher costs for housing, schools, and infrastructure, effectively lowering the standard of living for citizens."
+   },
+   {
+    "point": "A construction worker's value added was 40% less in 2023 than it was in 1970.",
+    "why_it_matters": "This trend reverses the usual economic growth pattern where workers produce more over time, contributing to the current housing affordability crisis."
+   },
+   {
+    "point": "Local regulations and 'citizen voice' create significant bottlenecks for new projects.",
+    "why_it_matters": "Rules like minimum lot sizes and extensive public hearing requirements often protect current homeowners' wealth at the expense of outsiders needing homes."
+   },
+   {
+    "point": "The US construction industry is dominated by small firms, with 600,000 establishments having fewer than five people.",
+    "why_it_matters": "Small companies lack the R&D budgets and scale required to implement the mass-production technologies that drive efficiency in other sectors."
+   },
+   {
+    "point": "Modular construction can build components in factories in half the time of on-site work.",
+    "why_it_matters": "Offsite building can reduce carbon emissions by 40% and help address the 4 million unit housing shortage more rapidly."
+   },
+   {
+    "point": "International examples like Sweden and Singapore show that government mandates can drive modular adoption.",
+    "why_it_matters": "In Sweden, 80% of houses use prefabricated elements, demonstrating that regulatory frameworks can successfully modernize the industry."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "-40%",
+    "context": "The decline in value added by a construction worker in 2023 compared to 1970."
+   },
+   {
+    "figure": "4%",
+    "context": "The percentage of total US GDP represented by the construction industry."
+   },
+   {
+    "figure": "4M",
+    "context": "The estimated shortage of housing units in the US according to Freddie Mac."
+   },
+   {
+    "figure": "5%",
+    "context": "The current share of US construction that is modular, compared to 80% in Sweden."
+   },
+   {
+    "figure": "50%",
+    "context": "The reduction in construction time typically achieved by modular building compared to on-site work."
+   }
+  ],
+  "lesson": "When an industry is fragmented into small firms, it lacks the capital to invest in R&D, leading to technological stagnation and falling productivity relative to the broader economy.",
+  "opinions_and_predictions": [
+   "Chad Syverson (UChicago) believes the productivity problem is likely a combination of many factors rather than a single 'magic lever.'",
+   "Ed Glaeser (Harvard) argues that incumbent homeowners use regulations to 'rig the game' for themselves, harming younger generations.",
+   "Vaughn Buckley (VBC) predicts the industry is in a 'spiral' that requires a complete shift to offsite construction to maintain future output.",
+   "Carrie Sturts Dossick (U. Washington) suggests that the need to build in space might eventually motivate better construction technology on Earth.",
+   "Ed Glaeser (Harvard) suggests that local governments should 'tear up the rules' and allow high-density building as-of-right to solve the housing crisis."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Productivity",
+    "definition": "A measure of how much output is produced for every unit of input, such as labor hours or money.",
+    "example": "Construction productivity has declined, meaning it takes more resources to build a house today than in the 1970s."
+   },
+   {
+    "term": "Modular Construction",
+    "definition": "A process where a building is constructed off-site in a factory before being assembled on-site.",
+    "example": "VBC builds apartment modules in a factory and ships them to the site for assembly like Lego pieces."
+   },
+   {
+    "term": "Citizen Voice",
+    "definition": "The ability of local residents to influence government decisions through public hearings and social movements.",
+    "example": "Increased citizen voice has led to more public hearings, which can slow down and increase the cost of infrastructure projects."
+   },
+   {
+    "term": "Economies of Scale",
+    "definition": "The cost advantage that arises when a company increases its level of production, spreading fixed costs over more units.",
+    "example": "Small construction firms cannot achieve economies of scale because they build unique projects on a small number of acres."
+   },
+   {
+    "term": "Value Added",
+    "definition": "The contribution of a worker or firm to the final value of a product, minus the cost of materials.",
+    "example": "The value added by a construction worker has fallen 40% over the last 50 years."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "construction",
+   "productivity",
+   "housing",
+   "regulation"
+  ],
+  "quality_note": "The source features academic economists from the University of Chicago and Harvard, alongside industry executives and engineers, providing a mix of data-driven analysis and professional experience.",
+  "worth_reading": true
+ }
+}

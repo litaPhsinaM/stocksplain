@@ -1,0 +1,122 @@
+{
+ "id": "wsj-whats-news-57a82bd4e5",
+ "source_id": "wsj-whats-news",
+ "source_name": "WSJ What's News",
+ "kind": "podcast",
+ "title": "The Growing Cost of Caring for America\u2019s Aging Population",
+ "url": "https://www.wsj.com/podcasts/whats-news",
+ "media_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c85933b6-5947-49ba-974f-4f7cf7eda04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c85933b6-5947-49ba-974f-4f7cf7eda04e&feed=BA5QWI2p",
+ "published": "2026-11-25",
+ "duration": 870,
+ "digest_date": "2026-11-26",
+ "backend": "gemini",
+ "model": "gemini-3-flash-preview",
+ "summary": {
+  "segments": [
+   "US tariffs on China and 60 nations",
+   "World trade volume rises 2.3%",
+   "US Q3 GDP revised to 4.3%",
+   "Core PCE inflation hits 3.3%",
+   "Army detonates toxic lead explosives in Iowa",
+   "High costs of caring for aging parents",
+   "Black Friday deals starting earlier in October",
+   "Macy's Thanksgiving Day parade postponed"
+  ],
+  "headline": "US Q3 GDP revised to 4.3%; new tariffs target global industrial subsidies",
+  "tldr": "The US economy showed significant strength with Q3 GDP revised upward to 4.3%, though core inflation remains at a three-year high. Meanwhile, the administration is moving forward with new tariffs on dozens of countries to combat industrial overcapacity, and families are struggling with the rising financial burden of elder care.",
+  "key_points": [
+   {
+    "point": "US Q3 GDP growth was revised upward to 4.3% from an initial 3.4%, marking the strongest growth in three years.",
+    "why_it_matters": "Strong economic growth suggests the economy is resilient, but it may also give the Federal Reserve more room to keep interest rates high to fight inflation."
+   },
+   {
+    "point": "The Trump administration is introducing new tariffs of up to 40% on China and other nations to counter state-subsidized excess industrial capacity.",
+    "why_it_matters": "While intended to protect US companies from cheap imports, many studies suggest these costs are ultimately passed on to US consumers."
+   },
+   {
+    "point": "Core PCE inflation rose to 3.3%, the highest level in three years, excluding volatile food and energy prices.",
+    "why_it_matters": "This is the Fed's preferred inflation gauge; its rise maintains high expectations for a December interest rate hike."
+   },
+   {
+    "point": "Long-term care for the elderly is becoming a major financial crisis, with private nursing rooms costing $130,000 annually.",
+    "why_it_matters": "Medicare does not cover most long-term care, forcing many adult children to quit jobs or freeze retirement savings to provide care themselves."
+   },
+   {
+    "point": "The US Army detonated 10,000 pounds of unstable lead azide explosives in Iowa to prevent an accidental explosion.",
+    "why_it_matters": "The move addressed immediate safety risks but raised significant environmental and health concerns for local residents regarding lead exposure."
+   },
+   {
+    "point": "Black Friday is shifting from a single-day event to a season starting as early as October.",
+    "why_it_matters": "Retailers are spreading out deals to capture early holiday spending, though 182.7 million people are still expected to shop over the holiday weekend."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "4.3%",
+    "context": "The revised US Q3 GDP growth rate, up from the initial 3.4% estimate."
+   },
+   {
+    "figure": "3.3%",
+    "context": "The 12-month core PCE inflation rate, a three-year high."
+   },
+   {
+    "figure": "94%",
+    "context": "The market probability of a Federal Reserve interest rate hike in December."
+   },
+   {
+    "figure": "$130,000",
+    "context": "The average annual cost for a private room in a nursing care facility."
+   },
+   {
+    "figure": "2.3%",
+    "context": "The growth in world trade volume for the third quarter."
+   }
+  ],
+  "lesson": "When government subsidies create excess industrial capacity, global prices for those goods drop, often triggering protectionist trade policies like tariffs to protect domestic industries from being undercut.",
+  "opinions_and_predictions": [
+   "Gavin Bade (WSJ) believes the Trump administration will not back down from its tariff agenda despite a Democratic Congress.",
+   "Gavin Bade (WSJ) expects the response from foreign allies to these tariffs to be muted, though China is more likely to retaliate against tech controls.",
+   "Hannah Aaran Lang (WSJ) notes there is a 94% chance the Fed hikes rates at its upcoming December meeting.",
+   "Sarah Nassauer (WSJ) notes that while Black Friday is changing, it remains the biggest shopping day of the year with 182.7 million estimated shoppers."
+  ],
+  "tickers": [
+   "Macy's (M)"
+  ],
+  "glossary": [
+   {
+    "term": "Excess industrial capacity",
+    "definition": "When a country's industries can produce far more goods than its own people can buy, leading to cheap exports that can flood global markets.",
+    "example": "The US is targeting China's excess capacity in industries supported by state-run bank financing."
+   },
+   {
+    "term": "PCE Index",
+    "definition": "Personal Consumption Expenditures; a measure of price changes for goods and services purchased by consumers.",
+    "example": "The Fed looks closely at the PCE index to decide whether to change interest rates."
+   },
+   {
+    "term": "Core prices",
+    "definition": "An inflation measure that removes volatile food and energy costs to show the underlying price trend.",
+    "example": "Core PCE rose to 3.3%, indicating persistent underlying inflation."
+   },
+   {
+    "term": "Tariff",
+    "definition": "A tax imposed by a government on goods imported from other countries.",
+    "example": "New tariffs on China could reach as high as 40% under the new trade action."
+   },
+   {
+    "term": "Long-term care",
+    "definition": "A variety of services which help meet both the medical and non-medical needs of people with a chronic illness or disability who cannot care for themselves.",
+    "example": "70% of people aged 65 and older will eventually need some form of long-term care."
+   }
+  ],
+  "level": "beginner",
+  "topics": [
+   "tariffs",
+   "inflation",
+   "gdp",
+   "elder care"
+  ],
+  "quality_note": "The report features Wall Street Journal specialist reporters providing data-driven updates on trade policy, economic indicators, and retail trends.",
+  "worth_reading": true
+ }
+}

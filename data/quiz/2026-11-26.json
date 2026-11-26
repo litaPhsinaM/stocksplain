@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-26",
+ "questions": [
+  {
+   "question": "What does it mean for a company to enter 'administration'?",
+   "options": [
+    "The company is undergoing a mandatory leadership change.",
+    "The company is insolvent and managed by professionals to pay off debts.",
+    "The company is being acquired by a government agency.",
+    "The company is expanding into new international markets."
+   ],
+   "answer": 1,
+   "explanation": "Administration is a legal process for insolvent companies to try and settle debts, often leading to store closures or business sales. This was highlighted by the collapse of the UK retailer Poundland.",
+   "item_id": "hot-5"
+  },
+  {
+   "question": "If a construction firm has a 50% reduction in time due to 'modular building,' what does that imply?",
+   "options": [
+    "The firm is using 50% more workers to finish the job faster.",
+    "The firm is building components in a factory off-site to speed up assembly.",
+    "The firm is cutting corners on safety regulations to save time.",
+    "The firm is only building 50% of the required housing units."
+   ],
+   "answer": 1,
+   "explanation": "Modular construction involves building components in a factory before shipping them to the site, which is much faster than traditional on-site methods. This technique is being explored to help fix the US housing shortage.",
+   "item_id": "freakonomics-03a64f2ccb"
+  },
+  {
+   "question": "Why does the 'key-person dependency' of a CEO like Jensen Huang matter to investors?",
+   "options": [
+    "It guarantees the company will always meet its quarterly earnings targets.",
+    "It makes the stock price less sensitive to broader market sell-offs.",
+    "It creates value during growth but introduces fragility if leadership changes.",
+    "It ensures that the company will never face congressional hearings."
+   ],
+   "answer": 2,
+   "explanation": "When a company's success is tied to a charismatic leader, the stock becomes vulnerable to 'key-person risk.' This means the stock price can drop sharply if that leader's tenure or decisions are questioned.",
+   "item_id": "bloomberg-surveillance-f6c7dafe15"
+  }
+ ]
+}

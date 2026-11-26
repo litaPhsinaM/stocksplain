@@ -1,0 +1,80 @@
+{
+ "id": "bloomberg-surveillance-f6c7dafe15",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 25th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-25th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/99537d75-3436-48e2-bf17-b50d011ffc59/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-25",
+ "duration": 1237,
+ "digest_date": "2026-11-26",
+ "backend": "gemini",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "segments": [
+   "Market sell-off and portfolio repositioning",
+   "Nvidia CEO return and upcoming congressional hearings"
+  ],
+  "headline": "Nvidia drops 5% on Jensen Huang's return; markets digest tech sell-off",
+  "tldr": "Stocks are sliding as markets work through a rational sell-off and reposition away from overcrowded tech trades. Meanwhile, Nvidia shares fell after CEO Jensen Huang returned to address recent missteps and face upcoming congressional hearings.",
+  "key_points": [
+   {
+    "point": "Monica Desenso of JP Morgan Private Bank set her year-end target range for stocks between 8500 and, pointing to double-digit earnings growth as the main bull case.",
+    "why_it_matters": "Strong earnings support a positive fundamental outlook for equities even as markets experience a pullback."
+   },
+   {
+    "point": "Monica Desenso noted that many investors became overly concentrated in tech and need to recalibrate exposure toward sectors like financials, healthcare, industrials, and fixed income.",
+    "why_it_matters": "Diversification protects portfolios when specific market segments face high volatility and valuation squeezes."
+   },
+   {
+    "point": "Dan Ives of Wedbush Securities raised his price target on Nvidia to $250 and views CEO Jensen Huang as uniquely irreplaceable for the AI ecosystem.",
+    "why_it_matters": "Key-person dependency creates immense value during growth cycles but introduces fragile tail risks if leadership changes."
+   },
+   {
+    "point": "Dan Ives stated that Nvidia still maintains a 10-to-1 demand-to-supply ratio for its chips, with U.S. data center orders booked out until the end of 2028.",
+    "why_it_matters": "Strong underlying commercial demand shows that data center buildouts continue despite broader market jitters."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "10 to 1",
+    "context": "Dan Ives's stated demand-to-supply ratio for Nvidia chips."
+   },
+   {
+    "figure": "5%",
+    "context": "The drop in Nvidia shares during early trading following Jensen Huang's return."
+   }
+  ],
+  "lesson": "When a company's valuation and strategic execution rely heavily on a single charismatic leader, the stock price becomes vulnerable to key-person risk, causing sharp volatility whenever that leader's tenure or decisions come into question.",
+  "opinions_and_predictions": [
+   "Monica Desenso (JP Morgan Private Bank) thinks the current market sell-off feels rational rather than irrational after massive prior gains.",
+   "Monica Desenso (JP Morgan Private Bank) predicts equities will grind higher next year driven by double-digit earnings growth.",
+   "Dan Ives (Wedbush Securities) thinks Jensen Huang is worth $1 trillion to Nvidia's valuation and $8 to $10 trillion to the overall market.",
+   "Dan Ives (Wedbush Securities) predicts Nvidia's stock can move from $250 to $300 as it gets past upcoming congressional appearances."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)"
+  ],
+  "glossary": [
+   {
+    "term": "Derivatives",
+    "definition": "Financial contracts whose value depends on an underlying asset like a stock, used to hedge risk or generate income.",
+    "example": "Monica Desenso suggested using derivatives like selling puts to manage market volatility."
+   },
+   {
+    "term": "Succession planning",
+    "definition": "A corporate strategy for passing leadership roles on to new employees or external candidates when a key executive leaves.",
+    "example": "Jensen Huang drew a hard line against traditional succession planning at Nvidia."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "market sell-off",
+   "earnings"
+  ],
+  "quality_note": "The episode features commentary from senior banking and equity research professionals discussing market positioning and tech valuations, backed by reported earnings expectations and company supply metrics.",
+  "worth_reading": true
+ }
+}
