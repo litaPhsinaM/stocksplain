@@ -1,0 +1,116 @@
+{
+ "id": "squawk-pod-9ccb034d84",
+ "source_id": "squawk-pod",
+ "source_name": "Squawk Pod (CNBC)",
+ "kind": "podcast",
+ "title": "Black Friday with Shopify President Harley Finkelstein 11/27/26",
+ "url": "https://www.cnbc.com",
+ "media_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/da7e450b-04d3-415e-ac20-d8ad534d2295/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=da7e450b-04d3-415e-ac20-d8ad534d2295&feed=VHAcgaw_",
+ "published": "2026-11-27",
+ "duration": 2203,
+ "digest_date": "2026-11-27",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Thanksgiving travel disruptions",
+   "GDP revision controversy",
+   "Nvidia chip shipment halt",
+   "Altria potential acquisition",
+   "Black Friday mall shopping trends",
+   "Shopify real-time e-commerce data",
+   "NFL content dominance"
+  ],
+  "headline": "Black Friday retail trends; Nvidia halts Southeast Asia shipments",
+  "tldr": "Black Friday shopping shows robust consumer activity both in-person and online, with Shopify reporting record sales. Meanwhile, Nvidia has paused server shipments to several Southeast Asia countries amid heightened scrutiny over tech exports to China.",
+  "key_points": [
+   {
+    "point": "Shopify reports $2.3 million in sales per minute across its platform, with 26,000 merchants seeing their best sales day.",
+    "why_it_matters": "This provides a real-time pulse on consumer demand and the health of e-commerce brands during the critical holiday period."
+   },
+   {
+    "point": "84% of shoppers are expected to visit physical stores this week, driven by experiential shopping and younger demographics like Gen Z.",
+    "why_it_matters": "Physical retail remains a vital component of the shopping season, contradicting the narrative that e-commerce has fully replaced in-person experiences."
+   },
+   {
+    "point": "Nvidia has ordered manufacturing partners to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia.",
+    "why_it_matters": "This move aims to close loopholes that allowed Chinese companies to access high-end computing power through third-party data centers."
+   },
+   {
+    "point": "The Commerce Department revised Q3 real GDP growth to 4.3%, up from the initial 3.4% estimate.",
+    "why_it_matters": "Economic data revisions can influence political discourse and market expectations regarding the strength of the economy."
+   },
+   {
+    "point": "Altria is exploring an all-cash bid for competitor Imperial Brands.",
+    "why_it_matters": "Consolidation in the tobacco industry highlights a strategy to focus on recession-proof and AI-proof sectors."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "4.3%",
+    "context": "The revised annualized real GDP growth rate for the third quarter."
+   },
+   {
+    "figure": "$2.3M",
+    "context": "The amount of sales per minute processed across Shopify stores."
+   },
+   {
+    "figure": "$113",
+    "context": "The average cart price on Shopify for this year, compared to $112.38 last year."
+   },
+   {
+    "figure": "84%",
+    "context": "The percentage of shoppers expected to visit a physical store location during Cyber Week."
+   }
+  ],
+  "lesson": "When a company's growth is heavily dependent on a single product or market, regulatory scrutiny or supply chain restrictions can create sudden operational hurdles, necessitating rapid compliance adjustments.",
+  "opinions_and_predictions": [
+   "Harley Finkelstein (Shopify) believes consumers are voting with their wallets for brands they have deep relationships with rather than just chasing discounts.",
+   "Rich Greenfield (Media Analyst) thinks the NFL's content dominance puts the league in an incredibly strong position regardless of where the games are streamed.",
+   "Dominic Chu (CNBC) suggests shoppers are grappling with the trade-off between securing items now versus waiting for potentially deeper discounts on Cyber Monday."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Dell",
+   "Super Micro",
+   "Altria",
+   "Imperial Brands",
+   "Japan Tobacco",
+   "Shopify",
+   "Urban Outfitters",
+   "The North Face",
+   "Timberland"
+  ],
+  "glossary": [
+   {
+    "term": "Agentic",
+    "definition": "Refers to AI systems that can act autonomously to perform tasks or make decisions on behalf of a user.",
+    "example": "Harley Finkelstein noted that this is the first Black Friday where agentic AI is playing a real role in shopping."
+   },
+   {
+    "term": "Real GDP",
+    "definition": "A measure of a country's economic output that is adjusted for inflation.",
+    "example": "The Commerce Department revised the third-quarter real GDP growth rate to 4.3%."
+   },
+   {
+    "term": "Rope drop",
+    "definition": "A retail term describing the rush of customers entering a store as soon as it opens, often for limited-time deals.",
+    "example": "Dominic Chu observed rope drop lines at stores like Aritzia on Black Friday morning."
+   },
+   {
+    "term": "Cyber Week",
+    "definition": "The period surrounding Black Friday and Cyber Monday that represents the peak of online and physical holiday shopping.",
+    "example": "84% of shoppers are expected to visit physical stores during Cyber Week."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "retail",
+   "macroeconomics",
+   "tech exports",
+   "e-commerce"
+  ],
+  "quality_note": "The source features a mix of real-time retail data from a company executive and reporting on economic and geopolitical events by journalists; claims are a blend of verifiable data and expert analysis.",
+  "worth_reading": true
+ }
+}

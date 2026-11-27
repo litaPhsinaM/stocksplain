@@ -1,0 +1,88 @@
+{
+ "id": "bloomberg-surveillance-4399db38bf",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Markets and Black Friday",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/markets-and-black-friday",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/7e7e8f3f-592d-4fb2-87ea-b50f00f45ccd/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-27",
+ "duration": 1892,
+ "digest_date": "2026-11-27",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Retail and holiday shopping trends",
+   "Brick-and-mortar store comeback",
+   "AI in retail shopping",
+   "Economic outlook and Fed policy"
+  ],
+  "headline": "Holiday retail outlook and economic policy",
+  "tldr": "Retailers expect a strong holiday season driven by AI-assisted shopping and a resurgence in physical store traffic. Meanwhile, economic experts debate the impact of current interest rate policies on the labor market and consumer demand.",
+  "key_points": [
+   {
+    "point": "Retailers anticipate a 5-5.5% sales increase this holiday season, with AI-assisted shopping helping consumers find specific products.",
+    "why_it_matters": "AI is changing how consumers shop, allowing for more personalized and efficient purchasing experiences."
+   },
+   {
+    "point": "Physical stores are seeing a comeback, with traffic expected to be higher than pre-COVID levels during the holiday season.",
+    "why_it_matters": "The shift back to in-store shopping suggests that consumers value the experiential aspect of retail, which helps drive sales."
+   },
+   {
+    "point": "The labor market remains a key focus for the Federal Reserve, with concerns that a tight labor market could lead to wage-price spirals.",
+    "why_it_matters": "Understanding the relationship between labor supply and inflation is crucial for predicting future interest rate decisions."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "5-5.5%",
+    "context": "The expected increase in retail sales for the holiday season."
+   },
+   {
+    "figure": "70%",
+    "context": "The percentage of shoppers expected to visit stores during the Thanksgiving weekend."
+   },
+   {
+    "figure": "9.1%",
+    "context": "The yield on an Oracle bond, which is currently at a new low."
+   }
+  ],
+  "lesson": "When a company's value is tied to one leader, the stock reacts to that person's risks (key-person risk); boards reduce it with succession plans.",
+  "opinions_and_predictions": [
+   "Dana Telsey (Telsey Advisory Group) predicts a 5-5.5% sales increase this holiday season.",
+   "Michael Ball (Well Solution) believes the current credit structure in the market has changed, making it harder for companies to manage debt."
+  ],
+  "tickers": [
+   "Oracle (ORCL)",
+   "Macy's (M)",
+   "Best Buy (BBY)",
+   "Grand Theft Auto (TTWO)"
+  ],
+  "glossary": [
+   {
+    "term": "Yield",
+    "definition": "The income returned on an investment, such as the interest or dividends received from holding a security.",
+    "example": "The 9.1% yield on the Oracle bond."
+   },
+   {
+    "term": "Wage-price spiral",
+    "definition": "An economic scenario where rising wages lead to higher prices, which in turn lead to demands for even higher wages.",
+    "example": "Concerns about a tight labor market leading to wage-price spirals."
+   },
+   {
+    "term": "Hedge",
+    "definition": "An investment made to reduce the risk of adverse price movements in an asset.",
+    "example": "People are hedging their portfolios to protect against market volatility."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "retail",
+   "economy",
+   "interest rates"
+  ],
+  "quality_note": "The source features industry analysts and financial experts providing data-backed insights on retail trends and macroeconomic conditions.",
+  "worth_reading": true
+ }
+}

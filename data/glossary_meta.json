@@ -17,6 +17,9 @@
  "adjusted earnings": {
   "topic": "companies"
  },
+ "agentic": {
+  "topic": "tech"
+ },
  "agentic ai": {
   "topic": "tech"
  },
@@ -163,6 +166,10 @@
  "capitulation": {
   "topic": "trading"
  },
+ "capx": {
+  "topic": "companies",
+  "same_as": "capex"
+ },
  "career and technical education": {
   "topic": "other"
  },
@@ -296,6 +303,9 @@
  },
  "cutout": {
   "topic": "other"
+ },
+ "cyber week": {
+  "topic": "economy"
  },
  "cybercab": {
   "topic": "tech"
@@ -544,6 +554,9 @@
  "gaap": {
   "topic": "companies"
  },
+ "gamification": {
+  "topic": "tech"
+ },
  "gamma": {
   "topic": "trading"
  },
@@ -608,8 +621,15 @@
  "healthspan": {
   "topic": "other"
  },
+ "hedge": {
+  "topic": "trading"
+ },
  "high arousal negative content": {
   "topic": "other"
+ },
+ "high bandwidth memory": {
+  "topic": "tech",
+  "same_as": "hbm"
  },
  "high beta": {
   "topic": "trading"
@@ -635,6 +655,10 @@
  "hyper scalar": {
   "topic": "tech",
   "same_as": "hyperscalers"
+ },
+ "hyper scaler": {
+  "topic": "tech",
+  "same_as": "hyperscaler"
  },
  "hyper-scaler": {
   "topic": "tech"
@@ -1111,6 +1135,9 @@
  "rate hike": {
   "topic": "economy"
  },
+ "real gdp": {
+  "topic": "economy"
+ },
  "real return": {
   "topic": "personal"
  },
@@ -1176,6 +1203,9 @@
  },
  "roll yield": {
   "topic": "bonds"
+ },
+ "rope drop": {
+  "topic": "other"
  },
  "roth ira": {
   "topic": "personal"
@@ -1411,6 +1441,9 @@
  "utilization mismatch": {
   "topic": "tech"
  },
+ "utopia": {
+  "topic": "other"
+ },
  "valuation multiple": {
   "topic": "stocks"
  },
@@ -1419,6 +1452,9 @@
  },
  "value added": {
   "topic": "economy"
+ },
+ "value capture": {
+  "topic": "companies"
  },
  "venture capital": {
   "topic": "stocks"
@@ -1446,6 +1482,9 @@
  },
  "wage theft": {
   "topic": "policy"
+ },
+ "wage-price spiral": {
+  "topic": "economy"
  },
  "water rights": {
   "topic": "energy"

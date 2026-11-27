@@ -1,0 +1,96 @@
+{
+ "id": "bloomberg-surveillance-2ffbe94e37",
+ "source_id": "bloomberg-surveillance",
+ "source_name": "Bloomberg Surveillance",
+ "kind": "podcast",
+ "title": "Bloomberg Surveillance TV: November 27th, 2026",
+ "url": "https://omny.fm/shows/bloomberg-surveillance/bloomberg-surveillance-tv-november-27th-2026",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/b602ba62-ff13-40cb-a87c-b50f00f558f1/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+ "published": "2026-11-27",
+ "duration": 1227,
+ "digest_date": "2026-11-27",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "AI trade outlook and political risk",
+   "Nvidia governance and market valuation",
+   "Uber launches parking reservation feature",
+   "Holiday shopping trends and consumer behavior"
+  ],
+  "headline": "AI investment outlook; holiday retail spending trends",
+  "tldr": "Market experts remain optimistic about AI infrastructure spending despite political uncertainty and governance concerns. Meanwhile, retailers are leveraging AI tools to drive holiday shopping, with consumer behavior shifting toward value-seeking in a resilient economy.",
+  "key_points": [
+   {
+    "point": "Patrick Armstrong (Wellwealth) argues that AI capital expenditure is essential for US growth and will continue to drive market gains through 2027.",
+    "why_it_matters": "It suggests that political rhetoric regarding data center regulation may moderate, as the infrastructure is viewed as critical to national economic competitiveness."
+   },
+   {
+    "point": "Nvidia is currently trading at a valuation below 10 times earnings, which Armstrong attributes to market pessimism and governance uncertainty.",
+    "why_it_matters": "It highlights how regulatory scrutiny and governance concerns can create a valuation discount for high-growth companies."
+   },
+   {
+    "point": "Matthew Shay (National Retail Federation) expects 60% of the 85 million shoppers this weekend to use AI to assist their purchasing journey.",
+    "why_it_matters": "It demonstrates how AI is moving from a novelty to a practical tool for consumers to find value and convenience during peak shopping periods."
+   },
+   {
+    "point": "Consumer confidence data is increasingly reflecting political affiliation rather than purely economic sentiment.",
+    "why_it_matters": "It warns that traditional economic indicators may be becoming less reliable as they become influenced by partisan views."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "50-55%",
+    "context": "The projected growth rate for AI data center spending in 2027."
+   },
+   {
+    "figure": "85 million",
+    "context": "The number of shoppers expected to participate in the five-day holiday weekend."
+   },
+   {
+    "figure": "4%",
+    "context": "The expected growth in retail spending for the holiday weekend."
+   }
+  ],
+  "lesson": "When a specific technology theme drives market growth, diversification often fails because assets become highly correlated, meaning the risk is concentrated in a single underlying trend rather than spread across different sectors.",
+  "opinions_and_predictions": [
+   "Patrick Armstrong (Wellwealth) believes Nvidia will trade back near a market multiple by 2027 as governance clarity improves.",
+   "Patrick Armstrong (Wellwealth) predicts AI data center spend growth will decelerate to low double digits by 2028.",
+   "Matthew Shay (National Retail Federation) expects AI will help drive lower prices for consumers by increasing market efficiency."
+  ],
+  "tickers": [
+   "Nvidia (NVDA)",
+   "Uber (UBER)"
+  ],
+  "glossary": [
+   {
+    "term": "Hyper scaler",
+    "definition": "A large cloud computing company that provides massive-scale computing and storage services.",
+    "example": "Companies like Amazon, Google, and Microsoft are hyper scalers driving AI infrastructure spend."
+   },
+   {
+    "term": "Capx",
+    "definition": "Capital expenditure; money a company spends to acquire, upgrade, and maintain physical assets.",
+    "example": "Hyper scalers are increasing their AI Capx to build more data centers."
+   },
+   {
+    "term": "High bandwidth memory",
+    "definition": "A specialized type of computer memory that provides high-speed data transfer for AI processors.",
+    "example": "These are commodity-like components essential for AI hardware."
+   },
+   {
+    "term": "Agentic",
+    "definition": "Refers to AI systems that can take independent actions or make decisions to achieve a goal.",
+    "example": "Retailers are using agentic AI to help shoppers find specific products or deals."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "ai stocks",
+   "retail",
+   "macroeconomics"
+  ],
+  "quality_note": "The content features professional analysts and industry leaders providing market commentary; claims are a mix of data-backed observations and forward-looking speculation.",
+  "worth_reading": true
+ }
+}
