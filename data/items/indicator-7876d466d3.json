@@ -1,0 +1,91 @@
+{
+ "id": "indicator-7876d466d3",
+ "source_id": "indicator",
+ "source_name": "The Indicator from Planet Money",
+ "kind": "podcast",
+ "title": "How a record El Ni\u00f1o is hitting your wallet",
+ "url": "https://www.npr.org/2026/11/27/nx-s1-6048521/how-a-record-el-nino-is-hitting-your-wallet",
+ "media_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/56259755-0133-4d54-9752-66b9f8d2f49e/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=56259755-0133-4d54-9752-66b9f8d2f49e&feed=IFy3imsg&t=podcast&e=nx-s1-6048521&p=510325&d=605&size=9688777",
+ "published": "2026-11-27",
+ "duration": 605,
+ "digest_date": "2026-11-27",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Origin of El Ni\u00f1o name",
+   "How El Ni\u00f1o disrupts Peruvian fisheries",
+   "Economic impact of anchovy industry contraction",
+   "Long-term global economic costs of El Ni\u00f1o"
+  ],
+  "headline": "El Ni\u00f1o's global economic toll and long-term climate scars",
+  "tldr": "El Ni\u00f1o is a periodic climate phenomenon that disrupts ecosystems and economies worldwide by warming Pacific waters. Beyond immediate weather damage, these events create long-term economic scars that can cost the global economy trillions of dollars over several years.",
+  "key_points": [
+   {
+    "point": "El Ni\u00f1o reduces the Humboldt Current's upwelling, forcing Peruvian anchovies into deeper, inaccessible waters.",
+    "why_it_matters": "This causes a sharp contraction in the anchovy catch, which is critical for global fish meal and oil supplies used in agriculture and nutrition."
+   },
+   {
+    "point": "Peru's fishing sector faces a projected 30% contraction for 2026 and the loss of 78,000 jobs.",
+    "why_it_matters": "Local industry collapses in major exporting nations create supply shocks that inflate prices for global commodities like fish meal."
+   },
+   {
+    "point": "Christopher Callahan (Indiana University) found that super El Ni\u00f1o events can cost the global economy $4 to $5 trillion over the five years following the event.",
+    "why_it_matters": "Economic damage persists long after the weather event ends because infrastructure recovery is slow and health impacts like disease outbreaks affect labor productivity."
+   },
+   {
+    "point": "The Peterson Institute for International Economics estimates the current El Ni\u00f1o could drag the global economy down by almost $1 trillion next year.",
+    "why_it_matters": "Climate events are increasingly compounded by underlying global warming, making it difficult to isolate the economic impact of El Ni\u00f1o alone."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "$2 billion",
+    "context": "The typical annual value of Peruvian fish oil and fish meal exports."
+   },
+   {
+    "figure": "30%",
+    "context": "The projected contraction in Peru's fishing sector for 2026."
+   },
+   {
+    "figure": "$4 to $5 trillion",
+    "context": "The cumulative cost to the global economy in the five years following super El Ni\u00f1o events."
+   },
+   {
+    "figure": "$84 trillion",
+    "context": "The projected total cost of El Ni\u00f1o events to the global economy by the end of the century."
+   }
+  ],
+  "lesson": "When a localized industry relies on a specific environmental condition, a shift in that climate variable creates a supply shock that ripples through global commodity markets and persists until infrastructure and ecosystems recover.",
+  "opinions_and_predictions": [
+   "Christopher Callahan (Indiana University) believes countries should prepare for El Ni\u00f1o impacts to last long after the event fades.",
+   "Christopher Callahan (Indiana University) notes it is an open scientific question whether the combined effects of climate change and El Ni\u00f1o are greater than the sum of their individual parts."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "Upwelling",
+    "definition": "A process where deep, cold, nutrient-rich water rises to the surface of the ocean.",
+    "example": "The Humboldt Current creates upwelling that feeds plankton, which supports the massive Peruvian anchovy population."
+   },
+   {
+    "term": "Forage fish",
+    "definition": "Small fish that serve as a primary food source for larger predators, birds, and marine mammals.",
+    "example": "Peruvian anchoveta are a prolific forage fish used to produce fish meal and oil."
+   },
+   {
+    "term": "GDP (Gross Domestic Product)",
+    "definition": "The total monetary value of all finished goods and services produced within a country's borders in a specific time period.",
+    "example": "Researchers analyzed 60 years of GDP growth to measure the economic impact of El Ni\u00f1o."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "climate economics",
+   "commodities",
+   "global trade"
+  ],
+  "quality_note": "The source features an economist and a climate researcher providing data-backed analysis on the economic consequences of climate patterns.",
+  "worth_reading": true
+ }
+}

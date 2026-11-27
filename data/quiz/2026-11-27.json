@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-27",
+ "questions": [
+  {
+   "question": "What does it mean for an index like the CPI to be described as a 'plutocratic index'?",
+   "options": [
+    "It only tracks the spending habits of government officials.",
+    "It weights items based on total dollar spending, giving more influence to the wealthy.",
+    "It is designed to exclusively measure the cost of luxury goods.",
+    "It is a secret index used only by the top 1% of earners."
+   ],
+   "answer": 1,
+   "explanation": "A plutocratic index weights goods by total dollar volume, meaning the preferences of higher-income households disproportionately affect the final number. This can mask the true inflation experienced by lower-income families who spend most of their money on essentials.",
+   "item_id": "odd-lots-79d479ce02"
+  },
+  {
+   "question": "If a company has a 'key-person' vulnerability, what does that imply for its stock?",
+   "options": [
+    "The stock price is highly sensitive to the personal and legal risks of a single individual.",
+    "The stock is guaranteed to perform well because of strong leadership.",
+    "The company is immune to market volatility due to its founder's reputation.",
+    "The stock price will remain stable regardless of any scandals."
+   ],
+   "answer": 0,
+   "explanation": "When a company lacks a succession plan and relies on one founder, the stock price often swings wildly based on that person's actions. This was highlighted by the volatility seen in Nvidia's stock following the scandal involving its CEO.",
+   "item_id": "prof-g-markets-9917ba5d6f"
+  },
+  {
+   "question": "Why does the story mention that government GDP data is 'iterative'?",
+   "options": [
+    "Because the government intentionally hides data to manipulate the stock market.",
+    "Because GDP is calculated by a computer algorithm that never changes.",
+    "Because initial estimates are based on incomplete information and are revised as more data arrives.",
+    "Because the government only releases GDP data once every five years."
+   ],
+   "answer": 2,
+   "explanation": "Economic data is revised over time as more comprehensive information becomes available to government agencies. Understanding this helps investors avoid overreacting to initial reports that are likely to be adjusted later.",
+   "item_id": "marketplace-cd1a05ce7c"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "date": "2026-11-27",
+ "big_picture": "Tech markets experienced volatility as Nvidia stock jumped over 30% following Jensen Huang's reinstatement, while Anthropic's IPO fell below its $83 issue price. El Ni\u00f1o disruptions are projected to contract Peru's fishing sector by 30% in 2026, contributing to multi-trillion dollar global economic impacts. Meanwhile, economic data showed US third-quarter GDP revised up to 4.3%, even as lower-income households spend 70% of their budgets on basic essentials.",
+ "themes": [
+  {
+   "title": "Tech corporate governance and market valuation struggles",
+   "explanation": "Nvidia stock jumped over 30% following the reinstatement of CEO Jensen Huang amid a spying scandal, highlighting governance risks and ongoing SEC investigations. Anthropic struggled after its public launch, trading below its $83 issue price due to high expenditure plans and evolving business models. Meanwhile, Bitcoin fell over 30% year-to-date, behaving like a speculative asset while risk-free bonds offered yields near 5%.",
+   "item_ids": [
+    "prof-g-markets-9917ba5d6f"
+   ]
+  },
+  {
+   "title": "Climate phenomena creating persistent global commodity shocks",
+   "explanation": "El Ni\u00f1o warms Pacific waters and disrupts the Humboldt Current, preventing Peruvian anchovies from reaching surface waters. This disruption threatens Peru's $2 billion annual fish oil and meal export industry, driving a projected 30% sector contraction and 78,000 job losses in 2026. Research indicates super El Ni\u00f1o events create lingering economic damage costing $4 trillion to $5 trillion globally over the five years following an event.",
+   "item_ids": [
+    "indicator-7876d466d3"
+   ]
+  },
+  {
+   "title": "Discrepancies in economic measurement and evolving consumer trends",
+   "explanation": "Professor Isabella Weber highlights that the bottom 50% of households spend 70% of their income on basic essentials, arguing that the CPI acts as a plutocratic index by weighting total dollar volume over individual household impact. Separate government reporting demonstrated that initial economic data is iterative, with third-quarter GDP growth revised upward from 3.4% to 4.3%. Consumer markets are also shifting, as adult buyers accounted for 55% of toy sales in the first half of the year.",
+   "item_ids": [
+    "marketplace-cd1a05ce7c",
+    "odd-lots-79d479ce02"
+   ]
+  }
+ ],
+ "concept_of_the_day": {
+  "concept": "Key-person risk",
+  "explanation": "Key-person risk is the operational and financial vulnerability an organization faces when it relies excessively on a single leader for its success, stability, or strategic direction. If that individual leaves, faces legal trouble, or suffers personal instability, the company's market valuation can fluctuate wildly regardless of core business fundamentals. Governance structures attempt to hedge against this risk through clear succession planning and broad management authority. Today, Nvidia illustrated key-person risk when its stock price jumped over 30% in a single day upon the return of CEO Jensen Huang after a spying scandal. Investors tied the company's strategic enterprise value directly to Huang's presence, exposing shareholders to severe governance volatility."
+ },
+ "watch_for": []
+}

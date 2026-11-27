@@ -1,0 +1,79 @@
+{
+ "id": "odd-lots-79d479ce02",
+ "source_id": "odd-lots",
+ "source_name": "Odd Lots (Bloomberg)",
+ "kind": "podcast",
+ "title": "Isabella Weber's Vision for an Affordability Agenda",
+ "url": "https://omny.fm/shows/odd-lots/isabella-webers-vision-for-an-affordability-agenda",
+ "media_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cac23723-26f1-4df3-b177-b50d011072f1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+ "published": "2026-11-27",
+ "duration": 2823,
+ "digest_date": "2026-11-27",
+ "backend": "gemini",
+ "model": "gemini-3.1-flash-lite",
+ "summary": {
+  "segments": [
+   "Politics of affordability agendas",
+   "Global cost of living crisis",
+   "Why CPI is a plutocratic index",
+   "Economic insecurity and democracy"
+  ],
+  "headline": "Isabella Weber on the cost of living crisis and flaws in CPI",
+  "tldr": "Professor Isabella Weber discusses why the cost of essentials like food and housing drives global political unrest. She argues that standard inflation metrics like the CPI fail to capture the economic insecurity felt by lower-income households.",
+  "key_points": [
+   {
+    "point": "The bottom 50% of households spend approximately 70% of their income on essentials like food, housing, energy, and healthcare.",
+    "why_it_matters": "When these specific costs rise, lower-income families face an immediate threat to their basic livelihood, unlike higher-income groups."
+   },
+   {
+    "point": "Isabella Weber describes the Consumer Price Index (CPI) as a 'plutocratic index' because it weights spending by dollar amount rather than by household.",
+    "why_it_matters": "This means the spending habits of wealthy individuals disproportionately influence the index, potentially masking the inflation felt by the average person."
+   },
+   {
+    "point": "Affordability is a primary driver of political frustration and recent election outcomes globally, including in Europe and the US.",
+    "why_it_matters": "When democratic systems fail to provide basic stability for essentials, it erodes public trust in the political status quo."
+   }
+  ],
+  "numbers": [
+   {
+    "figure": "70%",
+    "context": "The share of income that the bottom 50% of households spend on essentials."
+   },
+   {
+    "figure": "10%",
+    "context": "The impact on a household budget when a major essential item increases in price by this amount."
+   }
+  ],
+  "lesson": "Standard economic indicators often aggregate data in ways that obscure the lived experience of different income groups; focusing on the specific basket of goods for lower-income households provides a more accurate picture of economic hardship.",
+  "opinions_and_predictions": [
+   "Isabella Weber believes the CPI is misleading because it gives more weight to the spending of the wealthy.",
+   "Isabella Weber argues that the inability of liberal democracies to deliver on basic needs like housing and food is at the core of a deep crisis of trust."
+  ],
+  "tickers": [],
+  "glossary": [
+   {
+    "term": "CPI (Consumer Price Index)",
+    "definition": "A measure that examines the weighted average of prices of a basket of consumer goods and services.",
+    "example": "The podcast argues that CPI may not reflect the inflation felt by lower-income families."
+   },
+   {
+    "term": "Plutocratic index",
+    "definition": "An index where the weight of each item is determined by total dollar spending, meaning the preferences of the wealthy count more.",
+    "example": "Weber uses this term to describe why CPI might be skewed toward luxury goods."
+   },
+   {
+    "term": "Economic insecurity shock",
+    "definition": "A sudden event that threatens a person's ability to maintain their standard of living or meet basic needs.",
+    "example": "Rising rent prices can cause an economic insecurity shock for low-income tenants."
+   }
+  ],
+  "level": "intermediate",
+  "topics": [
+   "inflation",
+   "economic policy",
+   "inequality"
+  ],
+  "quality_note": "The guest is an academic economist providing a critique of standard economic metrics and political trends; the claims are based on her interpretation of economic data and political events.",
+  "worth_reading": true
+ }
+}

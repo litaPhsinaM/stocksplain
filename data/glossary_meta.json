@@ -363,6 +363,10 @@
  "dtc": {
   "topic": "companies"
  },
+ "dual class shareholder structure": {
+  "topic": "stocks",
+  "same_as": "dual-class stock"
+ },
  "dual use": {
   "topic": "policy"
  },
@@ -380,6 +384,9 @@
  },
  "earnings estimate": {
   "topic": "companies"
+ },
+ "economic insecurity shock": {
+  "topic": "economy"
  },
  "economies of scale": {
   "topic": "companies"
@@ -466,6 +473,9 @@
  "fertility rate": {
   "topic": "other"
  },
+ "fiat currency": {
+  "topic": "economy"
+ },
  "fiduciary duty": {
   "topic": "personal"
  },
@@ -486,6 +496,9 @@
  },
  "fomo": {
   "topic": "personal"
+ },
+ "forage fish": {
+  "topic": "other"
  },
  "force majeure": {
   "topic": "policy"
@@ -533,6 +546,13 @@
  },
  "gamma": {
   "topic": "trading"
+ },
+ "gdp": {
+  "topic": "economy",
+  "same_as": "gdp (gross domestic product)"
+ },
+ "gdp (gross domestic product)": {
+  "topic": "economy"
  },
  "gini coefficient": {
   "topic": "economy"
@@ -591,6 +611,9 @@
  "high arousal negative content": {
   "topic": "other"
  },
+ "high beta": {
+  "topic": "trading"
+ },
  "holiday creep": {
   "topic": "other"
  },
@@ -615,6 +638,10 @@
  },
  "hyper-scaler": {
   "topic": "tech"
+ },
+ "hyperscale data center": {
+  "topic": "tech",
+  "same_as": "hyperscaler"
  },
  "hyperscaler": {
   "topic": "tech"
@@ -910,6 +937,9 @@
  "off-balance sheet loans": {
   "topic": "banking"
  },
+ "oil glut": {
+  "topic": "energy"
+ },
  "open source": {
   "topic": "tech"
  },
@@ -990,6 +1020,9 @@
  },
  "plead the fifth": {
   "topic": "policy"
+ },
+ "plutocratic index": {
+  "topic": "economy"
  },
  "politburo": {
   "topic": "other"
@@ -1365,6 +1398,9 @@
  },
  "tunneling": {
   "topic": "companies"
+ },
+ "upwelling": {
+  "topic": "other"
  },
  "usb stick": {
   "topic": "tech"

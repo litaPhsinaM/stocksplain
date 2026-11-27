@@ -1,0 +1,377 @@
+{
+ "date": "2026-11-27",
+ "edition": "am",
+ "updated": "5:40 am ET",
+ "topics": [
+  {
+   "title": "Chinese stock indexes surge after Beijing pledges market liquidity support",
+   "explanation": "Chinese stocks recorded their largest single-day gain in over two years after state media and financial authorities released a rare midday statement. Policymakers pledged capital market support and liquidity stabilization measures to revive market confidence. The rally pushed semiconductor shares higher and sparked gains across broader Asian markets.",
+   "why_it_matters": "Direct intervention by government policymakers in major economies can quickly shift investor sentiment and drive sharp rebounds in global financial markets.",
+   "tickers": [],
+   "beat": "markets",
+   "headline_ids": [
+    "h4b820245",
+    "h408cd74b",
+    "h91fb62a2",
+    "h9af7a960"
+   ]
+  },
+  {
+   "title": "SAP considers cutting at least 10,000 jobs in restructuring push toward AI",
+   "explanation": "German enterprise software provider SAP is drafting plans to eliminate at least 10,000 positions, affecting roughly 9% of its global workforce. The company is restructuring its operations to focus on artificial intelligence applications and software development. The potential cuts mirror recent workforce reductions at rival software companies like Microsoft and Oracle.",
+   "why_it_matters": "Major corporate restructurings show how technology firms are reallocating capital and workforce budgets toward artificial intelligence to maintain competitiveness.",
+   "tickers": [
+    "SAP"
+   ],
+   "beat": "tech",
+   "headline_ids": [
+    "h9fc08d67",
+    "h5e1a9f28",
+    "h9b5c59fa",
+    "h6567ed95"
+   ]
+  },
+  {
+   "title": "Trump administration proposes new tariffs on major US trading partners",
+   "explanation": "The Trump administration proposed new import tariffs targeting 14 major U.S. trading partners, including China and the European Union. U.S. officials are utilizing tariff threats to encourage international partners to sign reciprocal trade agreements. Foreign officials and lawmakers expressed strong pushback, with China asserting its right to enact retaliatory measures.",
+   "why_it_matters": "Changes in international tariff policies can alter global supply chains, increase import costs for businesses, and influence domestic inflation.",
+   "tickers": [],
+   "beat": "policy",
+   "headline_ids": [
+    "h27d0f525",
+    "h9dda273b",
+    "h02d65ac2",
+    "hff871630"
+   ]
+  },
+  {
+   "title": "Crude oil prices rise amid Middle East supply risks and tanker attacks",
+   "explanation": "Crude oil prices rose for several consecutive sessions as heightened conflict and attacks on energy infrastructure in the Middle East fueled supply disruption concerns. Reports of vessel attacks in the Strait of Hormuz offset previous market expectations of a global oil surplus. Despite the ongoing incidents, energy tanker traffic through the key shipping corridor continued.",
+   "why_it_matters": "Geopolitical instability near vital oil transit routes pushes energy prices higher, which can increase fuel expenses for consumers and businesses.",
+   "tickers": [],
+   "beat": "energy",
+   "headline_ids": [
+    "h2a53ef1e",
+    "h57fc0514",
+    "hb9eccb5d",
+    "hf194139e"
+   ]
+  },
+  {
+   "title": "Pablo Hernandez de Cos endorsed to succeed Lagarde as European Central Bank president",
+   "explanation": "Former Bank of Spain governor Pablo Hernandez de Cos has secured approval from European leaders to take over as president of the European Central Bank. He will succeed Christine Lagarde next year to direct monetary policy across the euro area. De Cos will lead the central bank through persistent economic growth hurdles and shifting inflation dynamics.",
+   "why_it_matters": "Central bank leadership decisions shape interest rates, which affect consumer loan rates, corporate borrowing costs, and currency values across international markets.",
+   "tickers": [],
+   "beat": "economy",
+   "headline_ids": [
+    "h981d7fc3",
+    "h58ce3c57"
+   ]
+  },
+  {
+   "title": "UK discount retailer Poundland enters administration putting 11,000 jobs at risk",
+   "explanation": "British discount retail chain Poundland has entered administration after its private equity owner failed to secure a buyer for the business. The insolvency places 11,000 jobs in jeopardy and threatens widespread store shutdowns across the UK. Company executives and lawmakers pointed to severe financial pressure and ownership disputes preceding the collapse.",
+   "why_it_matters": "Retail insolvencies illustrate the challenges brick-and-mortar stores face when consumer spending contracts and operational costs escalate.",
+   "tickers": [],
+   "beat": "world",
+   "headline_ids": [
+    "h1f475a1b",
+    "h20b847b4"
+   ]
+  }
+ ],
+ "headlines": {
+  "h27d0f525": {
+   "id": "h27d0f525",
+   "source": "The Guardian Business",
+   "beat": "world",
+   "title": "China reserves right to take \u2018necessary measures\u2019 after Trump\u2019s new tariff proposals",
+   "blurb": "Beijing says new levies amount to \u2018political manipulation\u2019, while Brazil \u2018will not yield to this type of threat\u2019 Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take \u201cnecessary measures\u201d after Donald Trump\u2019s\u2026",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "published": "2026-11-26T12:00"
+  },
+  "h4b820245": {
+   "id": "h4b820245",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+   "blurb": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+   "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+   "published": "2026-11-27T10:13"
+  },
+  "h981d7fc3": {
+   "id": "h981d7fc3",
+   "source": "CNBC Economy",
+   "beat": "economy",
+   "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+   "blurb": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+   "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "published": "2026-11-27T06:50"
+  },
+  "h408cd74b": {
+   "id": "h408cd74b",
+   "source": "Financial Times",
+   "beat": "world",
+   "title": "Chinese shares soar after Beijing signals more support",
+   "blurb": "Biggest one-day rise for CSI 300 index in two years following months of weakness",
+   "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+   "published": "2026-11-27T08:32"
+  },
+  "h2a53ef1e": {
+   "id": "h2a53ef1e",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
+   "blurb": "Crude oil prices were set to book a weekly gain after a string of losses, as increasingly frequent reports about tanker attacks in the Strait of Hormuz undermined expectations of a glut. Data showing lower than pre-war levels of energy commodity exports from the Middle East also\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
+   "published": "2026-11-27T05:18"
+  },
+  "h9dda273b": {
+   "id": "h9dda273b",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
+   "blurb": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
+   "published": "2026-11-26T11:43"
+  },
+  "h02d65ac2": {
+   "id": "h02d65ac2",
+   "source": "CNBC Economy",
+   "beat": "economy",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "blurb": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "published": "2026-11-26T12:46"
+  },
+  "h9fc08d67": {
+   "id": "h9fc08d67",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
+   "blurb": "SAP is weighing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter. Bloomberg\u2019s Ruhell Amin reports. (Source: Bloomberg)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/sap-prepares-plan-to-cut-at-least-10-000-positions-video",
+   "published": "2026-11-27T07:01"
+  },
+  "h57fc0514": {
+   "id": "h57fc0514",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+   "blurb": "Oil prices continued to recover from their recent slump, with renewed Middle East supply threats outweighing earlier global surplus concerns. Brent crude for January delivery climbed 1.3% to trade at $95.90 per barrel at 12.00 pm ET on Thursday, a sharp rise after closing at\u2026",
+   "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
+   "published": "2026-11-27T01:00"
+  },
+  "hff871630": {
+   "id": "hff871630",
+   "source": "NPR Politics",
+   "beat": "policy",
+   "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
+   "blurb": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs",
+   "published": "2026-11-26T11:43"
+  },
+  "h5e1a9f28": {
+   "id": "h5e1a9f28",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+   "blurb": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
+   "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+   "published": "2026-11-27T07:15"
+  },
+  "h9b5c59fa": {
+   "id": "h9b5c59fa",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Software Firm SAP Weighs Cutting at Least 10,000 Jobs",
+   "blurb": "SAP is preparing a plan to eliminate thousands of positions in a restructuring that would affect around 9% of its global workforce, according to people familiar with the matter. Bloomberg's Annabelle Droulers explains what's behind the prospective move at Europe's most valuable\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/software-firm-sap-weighs-cutting-at-least-10-000-jobs-video",
+   "published": "2026-11-27T05:45"
+  },
+  "h1f475a1b": {
+   "id": "h1f475a1b",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "When will Poundland shops close? Five key questions answered",
+   "blurb": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T17:21"
+  },
+  "h91fb62a2": {
+   "id": "h91fb62a2",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Chinese Shares Lifted as Beijing Signals More Market Support",
+   "blurb": "Authorities reiterated support for capital markets and vowed stabilization policies, amid increased volatility in global markets.",
+   "url": "https://www.wsj.com/finance/stocks/chinese-shares-lifted-as-beijing-signals-more-market-support-3a1d1468?mod=rss_markets_main",
+   "published": "2026-11-27T07:22"
+  },
+  "h9af7a960": {
+   "id": "h9af7a960",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "China Drives Biggest Stock Gain Since 2024 With Rare Midday Vow",
+   "blurb": "Chinese authorities gave markets a boost with a rare midday statement pledging support, sending stocks to their best day in more than two years.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+   "published": "2026-11-27T05:00"
+  },
+  "hb9eccb5d": {
+   "id": "hb9eccb5d",
+   "source": "Bloomberg Politics",
+   "beat": "policy",
+   "title": "Oil on Track for Weekly Gain as Hostilities Escalate",
+   "blurb": "Oil is on track for its first weekly gain this month as attacks on energy infrastructure and tankers in the Middle East raised concerns escalating hostilities could disrupt exports. Separately, a drone attack on Kuwait killed two Italian civilians and injured two others\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/oil-on-track-for-weekly-gain-as-hostilities-escalate-video",
+   "published": "2026-11-27T06:08"
+  },
+  "hf194139e": {
+   "id": "hf194139e",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "Latest Oil Market News and Analysis for Nov. 27",
+   "blurb": "Oil rose for a fourth day, heading for its first weekly gain this month, as escalating attacks on energy infrastructure and tankers in the Middle East raised concerns about supply.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
+   "published": "2026-11-26T23:05"
+  },
+  "h6567ed95": {
+   "id": "h6567ed95",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "SAP Weighs Cutting at Least 10,000 Roles in AI Restructure",
+   "blurb": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter, following reductions at Oracle Corp. and Microsoft Corp.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+   "published": "2026-11-26T16:15"
+  },
+  "h20b847b4": {
+   "id": "h20b847b4",
+   "source": "BBC Business",
+   "beat": "world",
+   "title": "Poundland collapses putting 11,000 jobs at risk",
+   "blurb": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T08:24"
+  },
+  "h58ce3c57": {
+   "id": "h58ce3c57",
+   "source": "Bloomberg Economics",
+   "beat": "economy",
+   "title": "De Cos Gets Leaders\u2019 Nod for ECB Presidency in Post-Lagarde Era",
+   "blurb": "Pablo Hernandez de Cos will become European Central Bank\u2019s next president, directing the region\u2019s fight against inflation and possible bond turmoil.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/de-cos-is-poised-to-take-ecb-presidency-in-era-after-lagarde",
+   "published": "2026-11-26T13:38"
+  }
+ },
+ "latest": [
+  {
+   "id": "h95adeb85",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "This investment strategist is 100% in cash \u2014 and warns that buying the Nasdaq dip is like catching a falling knife",
+   "blurb": "Strategist Darius Dale\u2019s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for\u2026",
+   "url": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+   "published": "2026-11-27T10:37"
+  },
+  {
+   "id": "h2c136095",
+   "source": "Bloomberg Technology",
+   "beat": "tech",
+   "title": "Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
+   "blurb": "Mohit Kumar, chief European economist and strategist at Jefferies, discusses the outlook for the Federal Reserve's December policy meeting and its potential impact on markets. \"My base case is that is the peak in hawkishness,\" Kumar tells Bloomberg Television. \"That is, in my\u2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/why-next-fed-meeting-may-mark-turning-point-for-markets-video",
+   "published": "2026-11-27T10:36"
+  },
+  {
+   "id": "hbb6c7903",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "The AI stock crash is mostly over, JPMorgan says \u2014 but a worse phase could be coming in 2027",
+   "blurb": "The crash in artificial-intelligence stocks has just about run its course, but a worse phase could be in store for next year, say JPMorgan\u2019s European quant team.",
+   "url": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+   "published": "2026-11-27T10:32"
+  },
+  {
+   "id": "h099ce47a",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Trump Can\u2019t Rescue The Stock Market. Here\u2019s What Can.",
+   "blurb": "The president tried to arrest the stock market\u2019s decline by engineering Jensen Huang\u2019s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+   "url": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
+   "published": "2026-11-27T10:30"
+  },
+  {
+   "id": "hacb75f21",
+   "source": "The Verge",
+   "beat": "tech",
+   "title": "Our favorite headphones and earbuds are cheaper than ever ahead of Black Friday",
+   "blurb": "If you haven\u2019t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony,\u2026",
+   "url": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+   "published": "2026-11-27T10:30"
+  },
+  {
+   "id": "hc2682bbd",
+   "source": "Bloomberg Markets",
+   "beat": "markets",
+   "title": "JSE Courts Dangote Refinery Secondary Listing in Expansion Push",
+   "blurb": "Africa\u2019s biggest stock exchange is working with Dangote Group to pave the way for a potential secondary listing of its giant oil refinery in Johannesburg, an outcome the bourse\u2019s chief said would be the ideal next step after its landmark Nigerian initial public offering.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/jse-courts-dangote-refinery-secondary-listing-in-expansion-push",
+   "published": "2026-11-27T10:21"
+  },
+  {
+   "id": "h18028c0b",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "blurb": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
+   "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+   "published": "2026-11-27T10:20"
+  },
+  {
+   "id": "h0d8f9b56",
+   "source": "OilPrice.com",
+   "beat": "energy",
+   "title": "China Has More Than Enough Energy to Weather the Winter",
+   "blurb": "China has enough thermal coal, natural gas, and enough reliable power backup to meet peaks in winter demand, Chinese state-owned news agency Xinhua reports. The State Grid Corporation of China anticipates a peak load of 1.24 billion kilowatts (kW) this winter, up by 72 million\u2026",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Has-More-Than-Enough-Energy-to-Weather-the-Winter.html",
+   "published": "2026-11-27T10:20"
+  },
+  {
+   "id": "h0cf6970f",
+   "source": "WSJ Markets",
+   "beat": "markets",
+   "title": "Dubai\u2019s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
+   "blurb": "The index surpassed its closing level on Feb. 27, the last trading session before the war began. It has has gained nearly 14% so far this month.",
+   "url": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52?mod=rss_markets_main",
+   "published": "2026-11-27T10:16"
+  },
+  {
+   "id": "hc6bccc72",
+   "source": "MarketWatch",
+   "beat": "markets",
+   "title": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
+   "blurb": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for clearing out your house.",
+   "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+   "published": "2026-11-27T10:15"
+  },
+  {
+   "id": "h4b820245",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+   "blurb": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+   "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+   "published": "2026-11-27T10:13"
+  },
+  {
+   "id": "h51c2516b",
+   "source": "CNBC",
+   "beat": "markets",
+   "title": "Defense giant Rheinmetall embraces \u2018new normal\u2019 of caution after military contract setback; stock rises",
+   "blurb": "The German arms maker vows a \"more prudent approch\" to forecast sales of tanks and ammunition.",
+   "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+   "published": "2026-11-27T10:11"
+  }
+ ],
+ "feeds": 27,
+ "scanned": 200
+}
